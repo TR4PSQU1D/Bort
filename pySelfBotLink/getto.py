@@ -20,4 +20,4 @@ async def on_message(message):
             return
     if message.content[:2] == "./":
         os.system("./discord.sh --text '" + str(message.content[1:]) + "'; echo '"  + str(message.channel.id) +"' > .tempchannelstoragegetto")
-client.run('NzYwOTk0NDE0NzA0ODUzMDEy.X6oopw.ae7BNNzmCN02gcYgjAXwe4tyRL0', bot=False)
+client.run('token', bot=False)
