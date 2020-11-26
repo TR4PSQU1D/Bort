@@ -1,0 +1,70 @@
+/ping 69.112.214.62
+/checkip 69.112.214.62
+/accounts
+/steamcode
+/plan
+/ping
+/kill <@727809097612918814>
+/ddos
+/ping 69.112.214.62
+/ping 185.11.145.5
+/ddos 185.11.145.5
+/ping 104.18.7.10
+/ping 69.112.214.62
+/checkip 69.112.214.62
+/ping 204.131.97.14
+/checkip 204.131.97.14
+/nmap
+/nmapresult
+/nmap 69.112.214.62
+/nmapresult 69.112.214.62
+/nuke
+/nuke <@!620611374317305866>
+/giphy
+/getplan
+/plan
+/claim TRZpuRlRC7z0JFWmqe4YwgYB8dKq9TyCtCGLXOGi21aB5mhSGv
+/generate platinum
+/generate platinum 1
+/claim PLbEh18pMTqyL47FKbpekA5pXk6hH2fxDCwr6LXANzIHmOOJRo
+/claim EnCt2f8e96c96971c50b3106420c8d5c135e33765f1baf8e96c96971c50b3106420c8QvShZHVVPwB
+/decrypt EnCt2f8e96c96971c50b3106420c8d5c135e33765f1baf8e96c96971c50b3106420c8QvShZHVVPwB
+QZUGlDV+bRhCxub/WyLHQnWXjXgzpHPMJzpGz0NF7xPSdJYmWs3U6dhO/gUVLyrlpE3FB7iXErg==IwE
+mS
+/claim �����^�h|�,Z���;��E1�
+u���?G%6D�;(kK��q�8�9ɠb���V=��u�^�)�
+C���ُߟ�V��ۡ�s1oJ
+��!���4�P��9��F�ڐRlR_P��N�GY��I
+/howgay <@305921615282307083>
+/ping 74.12.192.197
+/checkip 74.12.192.197
+/ddos
+/server
+/tr4p
+/tr4p 74.12.192.197
+/nmap 74.12.192.197 {80}
+/nmapresult
+/methods
+/servers
+/lag 74.12.192.197
+/nmap 74.12.192.197
+/nmapresult
+/sms
+/bugbounty
+/lag
+/lag tcp 74.12.192.197 100 200 10
+/checkservers
+/commands
+/ddos Kraken server tcp 74.12.192.197 200
+/ping 74.12.192.197
+/ddos godzilla XMAS 74.12.192.197 120 80
+/checkip 238.37.65.64
+/ping 238.37.65.64
+/ping 92.84.144.33
+/ping 45.32.245.83
+/ping 92.84.144.33
+/ping 92.84.144.33
+/ping 79.77.82.130
+/checkip 79.77.82.130
+/ping 73.61.12.166
+/ping 92.84.144.33

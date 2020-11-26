@@ -1,0 +1,12 @@
+/ping IP_ADDRESS https://thebigcb.com/
+/run cowsay yeet ls
+/run nano poop.txt
+/run git
+/run cd /usr/share/wordlists
+/run john test
+/run ls
+/run
+/run mkdir gay
+/nmap -v -A www.google.com
+/nmap --iflist
+/ping google.com

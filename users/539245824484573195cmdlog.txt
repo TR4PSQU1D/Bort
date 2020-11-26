@@ -1,0 +1,2 @@
+[Thu Aug 20 2020 01:12:17 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh-smash 149.202.251.83 1200 28137
+[Thu Aug 20 2020 01:14:46 GMT-1100 (Samoa Standard Time)] /plan

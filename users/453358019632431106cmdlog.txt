@@ -1,0 +1,11 @@
+[Mon Aug 24 2020 10:20:07 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 82.27.174.240 1200
+[Wed Aug 26 2020 07:50:50 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Wed Aug 26 2020 08:28:44 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 45.16.252.125
+[Wed Aug 26 2020 08:28:44 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 27 2020 06:25:59 GMT-1100 (Samoa Standard Time)] /vbuckscode
+[Thu Aug 27 2020 15:01:08 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 45.153.35.2
+[Thu Aug 27 2020 15:01:39 GMT-1100 (Samoa Standard Time)] /captcha
+[Thu Aug 27 2020 15:01:52 GMT-1100 (Samoa Standard Time)] /captcha reset
+[Thu Aug 27 2020 15:02:16 GMT-1100 (Samoa Standard Time)] /captcha answer 127
+[Thu Aug 27 2020 15:03:24 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 45.153.35.2
+[Thu Aug 27 2020 15:03:24 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED

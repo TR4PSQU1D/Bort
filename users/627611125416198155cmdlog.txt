@@ -1,0 +1,4 @@
+[Sat Aug 15 2020 09:51:56 GMT-1100 (Samoa Standard Time)] /ddos
+[Sat Aug 15 2020 21:20:39 GMT-1100 (Samoa Standard Time)] /methods
+[Wed Aug 26 2020 05:30:48 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 164.132.200.112
+[Wed Aug 26 2020 05:30:48 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED

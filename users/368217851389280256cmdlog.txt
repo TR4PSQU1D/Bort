@@ -1,0 +1,220 @@
+/ddos udp 52.152.190.178 120 Dport=30138
+/checkip 52.188.219.122
+/ddos udpplain 52.188.219.122 20 dport=30138
+/ddos udp 52.188.219.122 60 dport=30138
+/ddos udp 52.188.219.122 60 dport=30138
+/ddos udp 52.150.40.182 40 dport=30016
+/ddos udp 52.150.40.182 40 dport=30016
+/ddos udp 52.150.40.182 40 dport=30016
+/ddos udp 52.149.232.74 40 dport=30226
+/ddos udp 52.149.232.74 40 dport=30226
+/ddos udp 52.149.232.74 40 dport=30226
+/ddos udp 52.149.232.74 40 dport=30035
+/ddos udp 52.149.232.74 40 dport=30035
+/ddos udp 52.149.232.74 40 dport=30035
+/ddos udp 52.149.232.74 40 dport=30035
+/ddos udp 52.149.232.74 40 dport=30035
+/ddos udp 52.149.232.74 40 dport=30035
+/ddos udp 52.149.232.74 40 dport=30035
+/ddos udp 52.149.232.74 40 dport=30035
+/ddos udp 52.191.17.108 40 dport=30029
+/ddos udp 52.191.17.108 40 dport=30029
+/ddos udp 52.191.17.108 40 dport=30029
+/ddos std 69.143.28.12 120
+/ddos std 108.18.46.94 120
+/ddos std 108.18.46.94 120 dport=80
+/ddos std 100.15.147.181 120 dport=80
+/ddos std 100.15.147.181 120 dport=80
+/ddos std 100.15.147.181 120 dport=80
+/phishoptions
+/phish Playstation
+/check
+/check
+/check
+/check again
+/phishquit
+/phish PlayStation
+/check
+/check
+/check again
+/phishquit
+/phish Playstation
+/check
+/phishquit
+/phish options
+/phishquit
+/phishoptions
+/phish Netflix
+/check
+/check
+/check
+/phishquit
+/phish Playstation
+/check
+/check
+/check
+/phishquit
+/phish Playstation
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/phishquit
+/phishoptions
+/phish Playstation
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/phishquit
+/phishquit
+/phish quit
+/phish Playstation
+/phishquit
+/phish Playstation
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/phishquit
+/phish Playstation
+/check
+/phishquit
+/phish Playstation
+/check
+/check
+/phish quit
+/phishquit
+/phish Playstation
+/check
+/check
+/check
+/phishquit
+/phish Playstation
+/check
+/check
+/check
+/check
+/check
+/phishquit
+/phish Instagram
+/check
+/check
+/phishquit
+/phish Netflix
+/check
+/check
+/phishquit
+/phish Playstation
+/check
+/check
+/phishquit
+/phish Playstation
+/check
+/check
+/phishquit
+/phish Playstation
+/check
+/phishquit
+/phish Playstation
+/check
+/check
+/check
+/check
+/phishquit
+/steam code
+/steamcode
+/steamcode
+/xboxcode
+/checkip 108.18.46.94
+/checkip 108.18.46.94
+/checkip 108.18.46.94
+/phish Playstation
+/check
+/phishquit
+/phish Playstation
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/phishquit
+/phish Playstation
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/check
+/phishquit
+/phish Playstation
+/ddos udp 34.221.170.66 120 dport=3478
+/phish Playstation
+/check
+/phishquit
+/phish Playstation
+/check
+/check
+/check
+/check
+/phishquit
+/get plan @LiL BiG ZaZ#8473
+/getplan @LiL BiG ZaZ#8473
+/ddos
+/ddos std 100.15.147.181 120 dport=80

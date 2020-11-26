@@ -1,0 +1,49 @@
+/ping 195.240.152.150
+/ping 83.51.54.15
+/ping 77.109.72.209
+/ddos udp 3.120.147.186 10 dport=9006
+/ddos udp 3.123.43.150 5 dport=9004
+/ddos udp 35.159.28.16 700 dport=9008
+/ddos udp 18.184.18.188 10 dport=9051
+/ddos udp 192.168.2.17 60 dport=9016
+/ddos udpplain 35.180.152.132 5 dport=9016
+/ddos udp 52.59.250.116 20 dport=9019
+/ddos udp 52.59.250.116 20 dport=9019
+/ddos udp 3.10.117.16 10 dport=9012
+/ddos udp 3.10.117.16 5 dport=9012
+/ping 83.51.54.15
+/ddos udp 83.51.54.15 20 dport=80
+/ddos udp 195.240.152.150 20 dport=80
+/ping 195.240.152.150
+/ping 77.109.72.209
+/ping 94.104.167.60
+/ddos udp 3.120.173.154 10 dport=9010
+/ddos udp 3.120.173.154 5 dport=9010
+/ddos udp 3.120.173.154 50 dport=9010
+/ddos udp 3.120.173.154 150 dport=9010
+/ddos udp 3.125.42.78 10 dport=9014
+/ddos udp 3.125.42.78 50 dport=9014
+/ddos udp 3.125.42.78 200 dport=9014
+/ping 84.81.68.106
+/iplookup 84.81.68.106
+/checkip  84.81.68.106
+/methods
+/ddos udp  84.81.68.106 1200 dport=80
+/vpn
+/ddos udp  84.81.68.106 5 dport=5000
+/ddos udp  84.81.68.106 3 dport=80
+/ddos udp 3.11.68.215 1000 dport=9051
+/Phishoptions
+/ddos udpplain 52.28.231.231  500 dport=9009
+/ddos udp 35.157.98.133 10 dport=9005
+/ddos udpplain 35.157.98.133 10 dport=9005
+/ddos udpplain 18.156.79.123 500 dport=9004
+/ddos udp 18.156.79.123 500 dport=9004
+/ddos udp 54.93.178.74 20 dport=9008
+/ddos udpplain 54.93.178.74 20 dport=9008
+/ddos udpplain 35.158.108.223 100 dport=9011
+/ddos udpplain 3.127.218.242 5 dport=9013
+/ddos udpplain 3.127.218.242 800 dport=9013
+/ddos udpplain 3.123.43.150 1000 dport=9006
+/check
+/check

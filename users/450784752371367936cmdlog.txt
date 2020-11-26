@@ -1,0 +1,5 @@
+/ddos std 75.36.193.225
+/ddos std 75.36.193.225 300 dport=53
+/checkip 75.36.193.225
+/ps4code
+/psncode

@@ -1,0 +1,20 @@
+[Tue Aug 11 2020 07:36:14 GMT-1100 (Samoa Standard Time)] /DDoS kraken squid 68.97.146.97 120
+[Tue Aug 11 2020 07:36:25 GMT-1100 (Samoa Standard Time)] /DDoS kraken squid 68.97.146.97 120 80
+[Wed Aug 12 2020 03:25:59 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Wed Aug 12 2020 03:28:54 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 12 2020 17:46:13 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Thu Aug 13 2020 11:47:05 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Thu Aug 13 2020 11:49:21 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Thu Aug 13 2020 16:15:47 GMT-1100 (Samoa Standard Time)] /vpn
+[Thu Aug 13 2020 16:16:17 GMT-1100 (Samoa Standard Time)] /hulu
+[Thu Aug 13 2020 16:16:36 GMT-1100 (Samoa Standard Time)] /steamcode
+[Thu Aug 13 2020 16:18:32 GMT-1100 (Samoa Standard Time)] /steamcode
+[Thu Aug 13 2020 16:29:52 GMT-1100 (Samoa Standard Time)] /spotify
+[Fri Aug 21 2020 13:18:10 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 26 2020 11:01:15 GMT-1100 (Samoa Standard Time)] /plans lifetime
+[Wed Aug 26 2020 11:01:48 GMT-1100 (Samoa Standard Time)] /plans standard
+[Wed Aug 26 2020 11:02:05 GMT-1100 (Samoa Standard Time)] /plans extended
+[Wed Aug 26 2020 11:08:06 GMT-1100 (Samoa Standard Time)] /bugbounty
+[Wed Aug 26 2020 18:29:24 GMT-1100 (Samoa Standard Time)] /tr4p
+[Wed Aug 26 2020 18:32:55 GMT-1100 (Samoa Standard Time)] /ping 71.238.13.125
+[Wed Aug 26 2020 18:35:05 GMT-1100 (Samoa Standard Time)] /hitlist

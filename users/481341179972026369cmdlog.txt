@@ -1,0 +1,8 @@
+[Wed Aug 26 2020 05:32:03 GMT-1100 (Samoa Standard Time)] /netflix
+[Wed Aug 26 2020 05:34:49 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Wed Aug 26 2020 05:37:33 GMT-1100 (Samoa Standard Time)] /lag
+[Wed Aug 26 2020 05:37:41 GMT-1100 (Samoa Standard Time)] /methods
+[Wed Aug 26 2020 05:51:06 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 26 2020 05:55:38 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 26 2020 05:55:41 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 26 2020 10:58:23 GMT-1100 (Samoa Standard Time)] /checkservers

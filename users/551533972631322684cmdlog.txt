@@ -1,0 +1,129 @@
+/accounts
+/tr4p
+/plan
+/accounts
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/methods
+/ping 24.17.251.32
+/ping 67.10.164.217
+/vpn
+/accounts
+/vpn
+/accounts
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+//vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpnm
+/vpn
+/methodsa
+/tr4p
+/DdoS dns 208.95.112.1 120
+/ddos dns 208.95.112.1 80 120
+/methods
+/ddos udp 208.95.112.1 120 dport=80
+/checkip 208.95.112.1
+/ddos udp 20.188.73.40 120 dport=1001
+/ddos udp 23.102.152.32 120 dport=3544
+/ddos udp 108.239.197.26 120 dport=3074
+/ddos dns 108.239.197.26 120 dport=3074
+/ddos dns 108.239.197.26 120 dport=3074
+/accounts
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpnm
+/vpn
+/vpn
+/vpn
+/vpn
+/account
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/xboxcode
+/xboxcode
+/xboxcode
+/xboxcode
+/xbox code
+/xboxcode
+/xboxcode
+/xboxcode
+/xboxcode
+/xboxcode
+/xboxcode
+/xbox code
+/xboxcode
+/xboxcode
+/xboxcode
+/xboxcode
+/xboxcode
+/xboxcode
+/xboxcode
+/xboxcode
+/xboxcode
+/xboxcode
+/xbox code
+/xboxcode
+/vpn
+/accounts
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/accounts
+/plan
+/help
+/tr4p
+/ping 68.201.183.243
+/geoip 2.24.117.206
+/tr4p
+/checkip 2.24.117.206
+/ddos 189.252.169.19 3074 120 UDP
+/ddos udp 189.252.169.19 3074 120
+/ddos udp 189.252.169.19 120 3074
+/ddos udp 189.252.169.19 120 dport=3074

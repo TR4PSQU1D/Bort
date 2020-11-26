@@ -1,0 +1,11 @@
+/plan
+/method
+/plans
+/methods
+/ddos upd  212.531.42.1 20
+/ddos udp 212.531.42.1 20
+/checkip 212.531.42.1 20
+/checkip 188.147.105.14
+/checkip 188.147.105.14
+/checkip 188.147.105.14
+/checkip 188.147.105.14

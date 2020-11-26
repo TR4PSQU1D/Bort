@@ -1,0 +1,164 @@
+/accounts
+/accounts
+/spotify
+/accounts
+/vpn
+/checkip IP_ADRESS
+/accounts
+/steamcode
+/steamcode
+/mega
+/spotify
+/spotify
+/spotify
+/spotify
+/spotify
+/accounts
+/dbadd <@502319900019261487>
+/lagstop
+/lag
+/lagstop
+/spotify
+/spotify
+/spotify
+/spotify
+/spotify
+/spotify
+/ip
+/ping 5.132.119.3
+/ping 5.132.119.3
+/getplan
+/methods
+/dbsearch <@348765950767529989>
+/accounts
+/ping 5.132.119.3
+/tr4p
+/sms
+/info
+/tr4p
+/dbshow 1
+/db <@348765950767529989>
+/checkip 5.132.119.3
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/accounts
+/vpn
+/hulu
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/ddos std 76.16.81.60 200
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn /vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/accounts
+/commands
+/sms
+/bugbounty
+/ping 172.9.195.42
+/hitlist
+/accounts
+/vpn
+/iplogger
+/account
+/accounts
+/mega
+/account
+/accounts
+/vpn
+/vpn
+/vpn
+/vpn
+[Wed Aug 05 2020 13:29:10 GMT-1100 (Samoa Standard Time)] /accounts
+[Wed Aug 05 2020 13:29:14 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 05 2020 13:29:33 GMT-1100 (Samoa Standard Time)] /accounts
+[Wed Aug 05 2020 13:29:56 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 05 2020 13:33:04 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 05 2020 13:33:07 GMT-1100 (Samoa Standard Time)] /vpn
+[Mon Aug 10 2020 09:40:02 GMT-1100 (Samoa Standard Time)] /vpn
+[Mon Aug 10 2020 09:40:57 GMT-1100 (Samoa Standard Time)] /vpn
+[Mon Aug 10 2020 09:41:06 GMT-1100 (Samoa Standard Time)] /vpn
+[Mon Aug 10 2020 09:42:03 GMT-1100 (Samoa Standard Time)] /vpn

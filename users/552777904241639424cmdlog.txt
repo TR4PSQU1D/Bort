@@ -1,0 +1,53 @@
+/ping 96.228.36.116
+/portscan 96.228.36.116
+/plans
+/nmapresult 96.228.36.116
+/nmap 96.228.36.116
+/nmapresult 96.228.36.116
+/lag
+/lag udp 96.228.36.116 500 80
+/lag udp 96.228.36.116 500 80
+/help
+/hitlist 96.228.36.116
+/sms
+/sms
+/cunt
+/accounts
+/vpn
+/xboxcode
+/xfinty
+/hulu
+/psn codes
+/accounts
+/xboxcode
+/help
+/check servers
+/checkservers
+/checkip Heres your shitty code: JQER0-JJSMM-08SME-SQYVD-OOTDW
+/checkip 96.228.36.116
+/getplan
+/geoip 192.99.226.9
+/check 192.99.226.9
+/check ip 192.99.226.9
+/checkip 192.99.226.9
+/methods
+/godzilla
+/claim key
+/getplan
+/getplan <@552777904241639424>
+/plan
+/checkservers
+/tr4p
+/steamcodes
+/accounts
+/spotfiy
+/spotify
+/mega
+/xboxcodes
+/vpn
+/hulu
+/ping ip 37.120.133.78
+/ping 37.120.133.78
+/hit
+/ping 142.44.142.212
+/reset

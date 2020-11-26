@@ -1,0 +1,5 @@
+/claim key
+/claim KEY
+/plans
+/xboxcode
+/bugbounty

@@ -1,0 +1,13 @@
+[Wed Aug 19 2020 06:24:08 GMT-1100 (Samoa Standard Time)] /ddos
+[Wed Aug 19 2020 06:24:43 GMT-1100 (Samoa Standard Time)] /server
+[Wed Aug 19 2020 06:25:29 GMT-1100 (Samoa Standard Time)] /lag
+[Wed Aug 19 2020 06:25:57 GMT-1100 (Samoa Standard Time)] /method
+[Wed Aug 19 2020 06:26:23 GMT-1100 (Samoa Standard Time)] /lag
+[Wed Aug 19 2020 06:28:42 GMT-1100 (Samoa Standard Time)] /lag UDPMIX 172.89.94.4  120 80 3074
+[Wed Aug 19 2020 06:29:32 GMT-1100 (Samoa Standard Time)] /lag DNS 172.89.94.4  120 80 3074
+[Wed Aug 19 2020 06:31:55 GMT-1100 (Samoa Standard Time)] /DDoS Kraken udp  172.89.94.4 120 80
+[Wed Aug 19 2020 06:33:41 GMT-1100 (Samoa Standard Time)] /DDoS Kraken udp  172.89.94.4 120 80
+[Wed Aug 19 2020 06:34:06 GMT-1100 (Samoa Standard Time)] /DDoS Kraken udp  172.89.94.4 120 80
+[Wed Aug 19 2020 06:34:10 GMT-1100 (Samoa Standard Time)] /DDoS Kraken udp  172.89.94.4 120 80
+[Wed Aug 19 2020 06:38:53 GMT-1100 (Samoa Standard Time)] /DDoS Kraken udp  172.89.94.4
+[Wed Aug 19 2020 06:39:44 GMT-1100 (Samoa Standard Time)] /DDoS Kraken udp  172.89.94.4

@@ -1,0 +1,24 @@
+[Sat Aug 01 2020 22:15:46 GMT-1100 (Samoa Standard Time)] /vpn
+[Sat Aug 01 2020 22:16:44 GMT-1100 (Samoa Standard Time)] /methods
+[Sat Aug 01 2020 22:16:59 GMT-1100 (Samoa Standard Time)] /vpn
+[Sat Aug 01 2020 22:26:34 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Sat Aug 01 2020 22:41:43 GMT-1100 (Samoa Standard Time)] /nmapsv 38.147.36.209
+[Sat Aug 01 2020 22:42:56 GMT-1100 (Samoa Standard Time)] /nmapresult
+[Sat Aug 01 2020 22:43:23 GMT-1100 (Samoa Standard Time)] /nmapresult
+[Sat Aug 01 2020 22:44:34 GMT-1100 (Samoa Standard Time)] /nmapresult
+[Sat Aug 01 2020 22:45:39 GMT-1100 (Samoa Standard Time)] /nmapresult
+[Sat Aug 01 2020 22:49:22 GMT-1100 (Samoa Standard Time)] /nmapsv 38.147.36.209 54955
+[Sat Aug 01 2020 22:53:01 GMT-1100 (Samoa Standard Time)] /nmapresult
+[Sat Aug 01 2020 22:57:23 GMT-1100 (Samoa Standard Time)] /serverinfo
+[Sun Aug 02 2020 10:39:16 GMT-1100 (Samoa Standard Time)] /claim
+[Sun Aug 02 2020 10:39:37 GMT-1100 (Samoa Standard Time)] /claim
+[Sun Aug 02 2020 10:40:41 GMT-1100 (Samoa Standard Time)] /claim
+[Sun Aug 02 2020 10:41:07 GMT-1100 (Samoa Standard Time)] /claim
+[Wed Aug 12 2020 00:07:23 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 12 2020 15:41:54 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Wed Aug 12 2020 15:44:39 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 12 2020 22:47:39 GMT-1100 (Samoa Standard Time)] /ping 72.176.106.149
+[Wed Aug 12 2020 22:48:40 GMT-1100 (Samoa Standard Time)] /lag
+[Wed Aug 12 2020 22:50:23 GMT-1100 (Samoa Standard Time)] /checkip 72.176.106.117
+[Thu Aug 13 2020 09:44:43 GMT-1100 (Samoa Standard Time)] /vpn
+[Mon Aug 24 2020 07:02:26 GMT-1100 (Samoa Standard Time)] /vpn

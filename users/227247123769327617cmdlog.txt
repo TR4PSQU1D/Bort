@@ -1,0 +1,20 @@
+/tr4p
+/checkup 66.151.138.194
+/checkip 66.151.138.194
+/checkip 81.167.118.25
+/ping 81.167.118.25
+/ping 81.167.118.25
+/check ip 91.110.71.148
+/checkup 91.110.71.148
+/checkip 91.110.71.148
+/ping 91.110.71.148
+/spotify
+/Spotify
+/Spotify
+/Spotify
+/vpn
+/ping 91.110.71.148
+/ping 91.110.71.148
+/bugbounty
+/getplan
+/checkip 174.82.108.218

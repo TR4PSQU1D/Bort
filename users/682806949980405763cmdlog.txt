@@ -1,0 +1,33 @@
+[Tue Aug 18 2020 23:01:30 GMT-1100 (Samoa Standard Time)] /gen hulu
+[Tue Aug 18 2020 23:02:48 GMT-1100 (Samoa Standard Time)] /accounts
+[Tue Aug 18 2020 23:03:06 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Tue Aug 18 2020 23:05:28 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Tue Aug 18 2020 23:05:29 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Tue Aug 18 2020 23:05:29 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Tue Aug 18 2020 23:05:30 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Tue Aug 18 2020 23:05:30 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Tue Aug 18 2020 23:05:31 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Tue Aug 18 2020 23:05:32 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Tue Aug 18 2020 23:07:00 GMT-1100 (Samoa Standard Time)] /help
+[Tue Aug 18 2020 23:07:13 GMT-1100 (Samoa Standard Time)] /accounts
+[Tue Aug 18 2020 23:07:24 GMT-1100 (Samoa Standard Time)] /vpn
+[Tue Aug 18 2020 23:07:46 GMT-1100 (Samoa Standard Time)] /hulu
+[Tue Aug 18 2020 23:07:55 GMT-1100 (Samoa Standard Time)] /steamcode
+[Tue Aug 18 2020 23:09:54 GMT-1100 (Samoa Standard Time)] /ddos
+[Tue Aug 18 2020 23:10:42 GMT-1100 (Samoa Standard Time)] /DDoS Kraken udp 74.74.74.8 120 80
+[Tue Aug 18 2020 23:12:22 GMT-1100 (Samoa Standard Time)] /metods
+[Tue Aug 18 2020 23:12:44 GMT-1100 (Samoa Standard Time)] /bugbounty
+[Tue Aug 18 2020 23:13:13 GMT-1100 (Samoa Standard Time)] /checkservers
+[Tue Aug 18 2020 23:13:51 GMT-1100 (Samoa Standard Time)] /DDoS Godzilla udp 74.74.74.8 40
+[Tue Aug 18 2020 23:15:02 GMT-1100 (Samoa Standard Time)] /DDoS Kraken 74.74.74.8 40 80
+[Tue Aug 18 2020 23:15:25 GMT-1100 (Samoa Standard Time)] /DDoS Kraken UDP 74.74.74.8 40 80
+[Tue Aug 18 2020 23:16:37 GMT-1100 (Samoa Standard Time)] /DDoS Kraken udp 101.176.38.206 120 80
+[Tue Aug 18 2020 23:17:31 GMT-1100 (Samoa Standard Time)] /getplan
+[Tue Aug 18 2020 23:18:22 GMT-1100 (Samoa Standard Time)] /lag
+[Tue Aug 18 2020 23:18:22 GMT-1100 (Samoa Standard Time)] /lag
+[Tue Aug 18 2020 23:18:57 GMT-1100 (Samoa Standard Time)] /lag UDP 74.74.74.8 40 40 40 80
+[Tue Aug 18 2020 23:19:15 GMT-1100 (Samoa Standard Time)] /method
+[Tue Aug 18 2020 23:19:21 GMT-1100 (Samoa Standard Time)] /metod
+[Tue Aug 18 2020 23:19:56 GMT-1100 (Samoa Standard Time)] /ping IP_ADDRESS
+[Tue Aug 18 2020 23:20:08 GMT-1100 (Samoa Standard Time)] /ping IP_ADDRESS 74.74.74.8
+[Tue Aug 18 2020 23:21:05 GMT-1100 (Samoa Standard Time)] /pls pussy

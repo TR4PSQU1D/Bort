@@ -1,0 +1,11 @@
+/sms
+/xboxcode
+/vpn
+/hulu
+/Xboxcode
+/Xboxcode
+/Xboxcode
+/ddos ovh-smash 54.39.124.214 120 10668
+/vpn
+/vpn
+/vpn

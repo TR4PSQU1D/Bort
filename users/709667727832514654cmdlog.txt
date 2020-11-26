@@ -1,0 +1,14 @@
+/steamcode
+/help
+/methods
+/tr4p
+/info
+/plans
+/phish SITE
+/ping 76.76.76.6
+/tr4p
+/nmap 76.76.76.6
+/nmapresult
+/checkip 76.76.76.6
+/nmapresults
+/nmapresult

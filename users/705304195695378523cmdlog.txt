@@ -1,0 +1,30 @@
+/ping 49.176.255.112
+/accounts
+/vpn
+/DDoS
+/methods
+/DDoS {udp} {49.176.255.112} {120}
+/DDoS {udp} {49.176.255.112}
+/DDoS udp 49.176.255.112 120 3074
+/DDoS udp 49.176.255.112 120 3074
+/accounts
+/vpn
+/account
+/accounts
+/xboxcode
+/accounts
+/vpn
+/steamcode
+/VPN
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/xboxcode
+/xboxcode
+/sms
+/sms +61422026289
+/sms +61 422 026 289
+/xboxcode
+/admin

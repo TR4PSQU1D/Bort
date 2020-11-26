@@ -1,0 +1,2 @@
+[Tue Aug 25 2020 04:39:49 GMT-1100 (Samoa Standard Time)] /ping 168.9.35.74
+[Tue Aug 25 2020 04:40:51 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 90.219.182.158 1200

@@ -1,0 +1,13 @@
+/tr4p
+/xboxcode
+/ddos STD 99.207.10.50 120 dport=68
+/plan
+/methods
+/tr4p
+/DDos STD 172.72.239.230 120
+/methods
+/DDos std 172.72.239.230 120
+/getplan
+/getplan <@714192897045430293>
+/plan
+/plan

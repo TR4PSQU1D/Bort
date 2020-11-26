@@ -1,0 +1,8 @@
+[Thu Aug 27 2020 05:51:48 GMT-1100 (Samoa Standard Time)] /plan
+[Thu Aug 27 2020 07:47:13 GMT-1100 (Samoa Standard Time)] /iplogger
+[Thu Aug 27 2020 09:35:57 GMT-1100 (Samoa Standard Time)] /methods
+[Thu Aug 27 2020 10:58:24 GMT-1100 (Samoa Standard Time)] /plan
+[Thu Aug 27 2020 15:12:40 GMT-1100 (Samoa Standard Time)] /ips
+[Thu Aug 27 2020 15:12:46 GMT-1100 (Samoa Standard Time)] /plan
+[Thu Aug 27 2020 15:13:42 GMT-1100 (Samoa Standard Time)] /plan <@723216438466445383>
+[Thu Aug 27 2020 15:14:08 GMT-1100 (Samoa Standard Time)] /getplan <@723216438466445383>

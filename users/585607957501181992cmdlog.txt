@@ -1,0 +1,6 @@
+[Sat Aug 15 2020 14:56:26 GMT-1100 (Samoa Standard Time)] /ddos kraken udp 134.255.234.28:30100
+[Sat Aug 15 2020 14:57:56 GMT-1100 (Samoa Standard Time)] /lag
+[Sat Aug 15 2020 14:58:29 GMT-1100 (Samoa Standard Time)] /lag 134.255.234.28:30100
+[Sat Aug 15 2020 15:41:03 GMT-1100 (Samoa Standard Time)] /octosniffaccont
+[Sat Aug 15 2020 15:41:43 GMT-1100 (Samoa Standard Time)] /ping 134.255.234.28:30100
+[Sat Aug 15 2020 21:44:36 GMT-1100 (Samoa Standard Time)] /vpn

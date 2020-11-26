@@ -1,0 +1,4 @@
+/accounts
+/accounts
+/steamcode
+/ddos udp 54.88.2.39 dport=443

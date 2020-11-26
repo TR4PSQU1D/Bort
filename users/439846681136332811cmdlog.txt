@@ -1,0 +1,2 @@
+[Mon Aug 17 2020 19:24:40 GMT-1100 (Samoa Standard Time)] /vpn
+[Mon Aug 17 2020 19:25:51 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 47.149.55.13

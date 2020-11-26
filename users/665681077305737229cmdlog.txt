@@ -1,0 +1,2 @@
+/does std 666.666.666.666
+/ddos std blue.waffles

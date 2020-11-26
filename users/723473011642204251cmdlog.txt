@@ -1,0 +1,7 @@
+[Mon Aug 17 2020 10:47:35 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh-smash  70.175.42.167
+[Mon Aug 17 2020 10:48:06 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh-smash  70.175.42.167
+[Mon Aug 17 2020 10:48:09 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh-smash  70.175.42.167
+[Mon Aug 17 2020 10:48:09 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh-smash  70.175.42.167
+[Mon Aug 17 2020 10:48:16 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh-smash  70.175.42.167v
+[Mon Aug 17 2020 10:50:29 GMT-1100 (Samoa Standard Time)] /ddos kraken squid   70.175.42.167  80 37203
+[Mon Aug 24 2020 09:04:03 GMT-1100 (Samoa Standard Time)] /ddos krake 174.31.88.174 400

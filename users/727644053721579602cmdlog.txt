@@ -1,0 +1,54 @@
+[Sun Aug 16 2020 15:50:31 GMT-1100 (Samoa Standard Time)] /vpn
+[Sun Aug 16 2020 21:02:28 GMT-1100 (Samoa Standard Time)] /vpn
+[Sun Aug 16 2020 21:04:22 GMT-1100 (Samoa Standard Time)] /vpn
+[Sun Aug 16 2020 21:16:50 GMT-1100 (Samoa Standard Time)] /help
+[Sun Aug 16 2020 21:16:57 GMT-1100 (Samoa Standard Time)] /accounts
+[Sun Aug 16 2020 21:17:09 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Sun Aug 16 2020 21:19:34 GMT-1100 (Samoa Standard Time)] /spotify
+[Sun Aug 16 2020 21:19:47 GMT-1100 (Samoa Standard Time)] /spotify
+[Sun Aug 16 2020 21:20:35 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Sun Aug 16 2020 21:21:07 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Mon Aug 17 2020 08:38:49 GMT-1100 (Samoa Standard Time)] /givekids
+[Mon Aug 17 2020 10:32:31 GMT-1100 (Samoa Standard Time)] /lag
+[Mon Aug 17 2020 10:33:09 GMT-1100 (Samoa Standard Time)] /lag udp 1.1.1.1 2 100 1 80
+[Mon Aug 17 2020 10:33:17 GMT-1100 (Samoa Standard Time)] /help
+[Mon Aug 17 2020 10:33:26 GMT-1100 (Samoa Standard Time)] /plans
+[Mon Aug 17 2020 10:33:44 GMT-1100 (Samoa Standard Time)] /sms
+[Mon Aug 17 2020 10:33:51 GMT-1100 (Samoa Standard Time)] /sms
+[Mon Aug 17 2020 10:34:08 GMT-1100 (Samoa Standard Time)] /accounts
+[Mon Aug 17 2020 10:34:15 GMT-1100 (Samoa Standard Time)] /spotify
+[Mon Aug 17 2020 10:34:26 GMT-1100 (Samoa Standard Time)] /hulu
+[Mon Aug 17 2020 10:35:01 GMT-1100 (Samoa Standard Time)] /hulu
+[Mon Aug 17 2020 10:39:33 GMT-1100 (Samoa Standard Time)] /hulu
+[Mon Aug 17 2020 10:39:33 GMT-1100 (Samoa Standard Time)] /hulu
+[Mon Aug 17 2020 10:39:35 GMT-1100 (Samoa Standard Time)] /hulu
+[Mon Aug 17 2020 13:06:06 GMT-1100 (Samoa Standard Time)] /spotify
+[Mon Aug 17 2020 13:06:27 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Mon Aug 17 2020 13:09:02 GMT-1100 (Samoa Standard Time)] /hulu
+[Mon Aug 17 2020 20:05:54 GMT-1100 (Samoa Standard Time)] /accounts
+[Mon Aug 17 2020 20:06:08 GMT-1100 (Samoa Standard Time)] /spotify
+[Wed Aug 26 2020 15:41:23 GMT-1100 (Samoa Standard Time)] /accounts
+[Wed Aug 26 2020 15:41:35 GMT-1100 (Samoa Standard Time)] /hulu
+[Wed Aug 26 2020 21:52:35 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 145.239.202.120 30
+[Wed Aug 26 2020 21:53:25 GMT-1100 (Samoa Standard Time)] /phish SITE
+[Wed Aug 26 2020 21:54:19 GMT-1100 (Samoa Standard Time)] /captcha
+[Wed Aug 26 2020 21:54:35 GMT-1100 (Samoa Standard Time)] /captcha reset
+[Wed Aug 26 2020 21:55:06 GMT-1100 (Samoa Standard Time)] /captcha answer 150
+[Wed Aug 26 2020 21:55:40 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 145.239.202.120 60
+[Wed Aug 26 2020 21:56:42 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 145.239.202.120 15
+[Wed Aug 26 2020 21:56:42 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Wed Aug 26 2020 22:07:50 GMT-1100 (Samoa Standard Time)] /lag
+[Wed Aug 26 2020 22:08:21 GMT-1100 (Samoa Standard Time)] /accounts
+[Wed Aug 26 2020 22:11:49 GMT-1100 (Samoa Standard Time)] /plans
+[Wed Aug 26 2020 22:12:00 GMT-1100 (Samoa Standard Time)] /plans lifetime
+[Thu Aug 27 2020 11:03:52 GMT-1100 (Samoa Standard Time)] /help
+[Thu Aug 27 2020 11:04:09 GMT-1100 (Samoa Standard Time)] /tr4p
+[Thu Aug 27 2020 11:05:23 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 145.239.202.120 15
+[Thu Aug 27 2020 11:05:28 GMT-1100 (Samoa Standard Time)] /captcha
+[Thu Aug 27 2020 11:05:42 GMT-1100 (Samoa Standard Time)] /captcha reset
+[Thu Aug 27 2020 11:06:07 GMT-1100 (Samoa Standard Time)] /captcha answer 91
+[Thu Aug 27 2020 11:06:17 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 145.239.202.120 15
+[Thu Aug 27 2020 11:06:17 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 27 2020 13:41:03 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 145.239.202.120 15
+[Thu Aug 27 2020 13:41:03 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 27 2020 14:12:35 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 66.70.162.214 15

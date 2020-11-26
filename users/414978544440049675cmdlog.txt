@@ -1,0 +1,77 @@
+[Wed Aug 12 2020 20:54:10 GMT-1100 (Samoa Standard Time)] /Xboxcode
+[Thu Aug 13 2020 06:02:46 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Thu Aug 13 2020 06:02:51 GMT-1100 (Samoa Standard Time)] /vpn
+[Thu Aug 13 2020 06:27:15 GMT-1100 (Samoa Standard Time)] /tr4p
+[Thu Aug 13 2020 06:27:53 GMT-1100 (Samoa Standard Time)] /dms
+[Thu Aug 13 2020 06:27:58 GMT-1100 (Samoa Standard Time)] /sms
+[Thu Aug 13 2020 06:28:29 GMT-1100 (Samoa Standard Time)] /sms (516) 288-5192
+[Thu Aug 13 2020 06:32:36 GMT-1100 (Samoa Standard Time)] /ping     24.101.12.217
+[Fri Aug 14 2020 05:41:18 GMT-1100 (Samoa Standard Time)] /methods
+[Fri Aug 14 2020 07:48:32 GMT-1100 (Samoa Standard Time)] /UDP 142.180.176.26 1000 80
+[Fri Aug 14 2020 07:49:10 GMT-1100 (Samoa Standard Time)] /ddos Syn 142.180.176.26 1000 80
+[Fri Aug 14 2020 07:56:12 GMT-1100 (Samoa Standard Time)] /ddos kraken Syn 142.180.176.26 1000
+[Fri Aug 14 2020 07:56:32 GMT-1100 (Samoa Standard Time)] /ddos kraken Syn 142.180.176.26 120
+[Fri Aug 14 2020 07:56:32 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 14 2020 08:00:55 GMT-1100 (Samoa Standard Time)] /claim 123123123
+[Fri Aug 14 2020 10:59:46 GMT-1100 (Samoa Standard Time)] /ddos kraken UDP 74.139.56.165 120
+[Fri Aug 14 2020 10:59:46 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 14 2020 11:12:14 GMT-1100 (Samoa Standard Time)] /ddos kraken UDP 70.113.161.149 120
+[Fri Aug 14 2020 11:12:14 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 14 2020 11:34:01 GMT-1100 (Samoa Standard Time)] /ddos kraken udp 50.72.101.40 120
+[Fri Aug 14 2020 11:34:01 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 14 2020 11:48:23 GMT-1100 (Samoa Standard Time)] /ddos Kraken udp 173.23.159.169 120
+[Fri Aug 14 2020 11:48:23 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 14 2020 11:49:05 GMT-1100 (Samoa Standard Time)] /ddos Kraken udp 173.23.159.169 120
+[Fri Aug 14 2020 11:49:05 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 14 2020 12:09:15 GMT-1100 (Samoa Standard Time)] /ddos Kraken udp 24.60.162.244 120
+[Fri Aug 14 2020 12:09:15 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 14 2020 12:32:37 GMT-1100 (Samoa Standard Time)] /ddos kraken udp 24.63.117.202 120
+[Fri Aug 14 2020 12:32:37 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 14 2020 12:41:27 GMT-1100 (Samoa Standard Time)] /ddos kraken udp 24.63.117.202 120
+bort
+BOT
+Today at 7:33 PM
+[Fri Aug 14 2020 12:41:27 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 14 2020 12:41:40 GMT-1100 (Samoa Standard Time)] /ddos kraken udp 24.63.117.202 120
+[Fri Aug 14 2020 12:42:19 GMT-1100 (Samoa Standard Time)] /ddos kraken udp 24.63.117.202 120
+[Fri Aug 14 2020 12:42:19 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 14 2020 13:12:22 GMT-1100 (Samoa Standard Time)] /vpn
+[Fri Aug 14 2020 13:53:14 GMT-1100 (Samoa Standard Time)] /ddos godzilla udp 40.119.36.195 120 30149
+[Fri Aug 14 2020 13:53:14 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 14 2020 15:12:21 GMT-1100 (Samoa Standard Time)] /ddos kraken udp 76.
+[Fri Aug 14 2020 15:12:46 GMT-1100 (Samoa Standard Time)] /ddos kraken udp 76.173.210.115 120
+[Fri Aug 14 2020 15:12:46 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 14 2020 15:43:09 GMT-1100 (Samoa Standard Time)] /ddos kraken udp 142.183.178.48 120
+[Fri Aug 14 2020 15:43:09 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 14 2020 15:43:26 GMT-1100 (Samoa Standard Time)] /methods
+[Fri Aug 14 2020 15:43:53 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh-smash 142.183.178.48 120
+[Fri Aug 14 2020 15:43:53 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 14 2020 15:45:26 GMT-1100 (Samoa Standard Time)] /ddos kraken xmas 24.216.64.25 120
+[Fri Aug 14 2020 15:46:10 GMT-1100 (Samoa Standard Time)] /ddos kraken STD 24.216.64.25 120
+[Fri Aug 14 2020 15:46:10 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 14 2020 18:29:13 GMT-1100 (Samoa Standard Time)] /vpn
+[Fri Aug 14 2020 19:38:18 GMT-1100 (Samoa Standard Time)] /ddos kraken TCP 173.174.193.141 10
+[Fri Aug 14 2020 19:38:18 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 14 2020 19:38:56 GMT-1100 (Samoa Standard Time)] /ddos kraken TCP 173.174.193.141 30
+[Fri Aug 14 2020 19:38:56 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 14 2020 19:39:27 GMT-1100 (Samoa Standard Time)] /ddos kraken UDP 173.174.193.141 10
+[Fri Aug 14 2020 19:39:27 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 14 2020 19:40:16 GMT-1100 (Samoa Standard Time)] /ddos kraken udp 173.174.193.141 30
+[Fri Aug 14 2020 19:40:16 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 14 2020 19:42:28 GMT-1100 (Samoa Standard Time)] /ddos kraken Udp 173.174.193.141 120
+[Fri Aug 14 2020 19:42:28 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sat Aug 15 2020 08:31:37 GMT-1100 (Samoa Standard Time)] /ddos kraken std 82.20.194.199 120
+[Sat Aug 15 2020 08:31:37 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sat Aug 15 2020 08:32:08 GMT-1100 (Samoa Standard Time)] /ddos kraken std 82.20.194.199 120
+[Sat Aug 15 2020 08:32:27 GMT-1100 (Samoa Standard Time)] /ddos kraken std 82.20.194.199 120
+[Sat Aug 15 2020 08:32:46 GMT-1100 (Samoa Standard Time)] /ddos kraken STD 82.20.194.199 120
+[Sat Aug 15 2020 08:33:00 GMT-1100 (Samoa Standard Time)] /ddos kraken UDP 82.20.194.199 120
+[Sat Aug 15 2020 08:33:18 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 82.20.194.199 120
+[Sat Aug 15 2020 08:33:30 GMT-1100 (Samoa Standard Time)] /ddos kraken UDP 82.20.194.199 120
+[Sat Aug 15 2020 10:54:13 GMT-1100 (Samoa Standard Time)] /ddos kraken UDP 73.244.79.107 120
+[Sat Aug 15 2020 10:55:13 GMT-1100 (Samoa Standard Time)] /plan
+[Tue Aug 18 2020 11:10:50 GMT-1100 (Samoa Standard Time)] /vpn
+[Fri Aug 21 2020 19:34:55 GMT-1100 (Samoa Standard Time)] /vpn
+[Fri Aug 21 2020 19:35:24 GMT-1100 (Samoa Standard Time)] /vpn
+[Fri Aug 21 2020 19:35:35 GMT-1100 (Samoa Standard Time)] /vpn
+[Fri Aug 21 2020 19:35:41 GMT-1100 (Samoa Standard Time)] /vpn

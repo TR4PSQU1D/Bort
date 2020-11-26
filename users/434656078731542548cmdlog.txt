@@ -1,0 +1,3 @@
+/planusers
+/ddos dns 98.198.104.175 60 dport=80
+/ddos dns 98.198.104.175 60 dport=80

@@ -1,0 +1,16 @@
+[Wed Aug 19 2020 21:40:46 GMT-1100 (Samoa Standard Time)] /plan
+[Wed Aug 19 2020 21:42:18 GMT-1100 (Samoa Standard Time)] /changeplan 3
+[Wed Aug 19 2020 21:55:08 GMT-1100 (Samoa Standard Time)] /plan
+[Fri Aug 21 2020 09:35:48 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh-smash  167.114.178.140 60 22
+[Fri Aug 21 2020 09:35:48 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sat Aug 22 2020 11:14:06 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 98.195.164.250 120 80
+[Sat Aug 22 2020 11:14:06 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sat Aug 22 2020 11:14:22 GMT-1100 (Samoa Standard Time)] /ping 98.195.164.250
+[Sat Aug 22 2020 11:21:18 GMT-1100 (Samoa Standard Time)] /ping 98.195.164.250
+[Mon Aug 24 2020 16:31:13 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 71.225.206.230 100 80
+[Mon Aug 24 2020 16:31:13 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Tue Aug 25 2020 15:37:03 GMT-1100 (Samoa Standard Time)] /ddos godzilla vse 3.128.31.64 30 9024
+[Tue Aug 25 2020 15:37:03 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Tue Aug 25 2020 17:04:23 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 98.195.164.250 300 80
+[Tue Aug 25 2020 17:04:23 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 27 2020 20:09:05 GMT-1100 (Samoa Standard Time)] /plan

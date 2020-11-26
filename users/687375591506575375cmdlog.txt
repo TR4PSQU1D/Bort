@@ -1,0 +1,14 @@
+[Fri Aug 21 2020 20:19:54 GMT-1100 (Samoa Standard Time)] /lag my fat chode
+[Fri Aug 21 2020 20:31:23 GMT-1100 (Samoa Standard Time)] /DDoS FBIRealIp.gov 120
+[Sat Aug 22 2020 04:49:45 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 172.104.211.194 120 80
+[Sat Aug 22 2020 04:49:45 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sat Aug 22 2020 04:52:52 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 8.6.144.139 200 80
+[Sat Aug 22 2020 04:52:52 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sat Aug 22 2020 04:59:37 GMT-1100 (Samoa Standard Time)] /ddos godzilla std 250 53
+[Sat Aug 22 2020 05:00:21 GMT-1100 (Samoa Standard Time)] /ddos godzilla std 104.24.112.125 250 53
+[Sat Aug 22 2020 05:00:47 GMT-1100 (Samoa Standard Time)] /ddos godzilla std 104.24.112.125 120 53
+[Sat Aug 22 2020 05:01:32 GMT-1100 (Samoa Standard Time)] /ddos kraken vse 104.24.112.125 120 53
+[Sat Aug 22 2020 05:02:23 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 104.24.112.125 120 53
+[Sat Aug 22 2020 05:02:23 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sat Aug 22 2020 05:04:05 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 104.24.112.125 120 80
+[Sat Aug 22 2020 05:04:05 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED

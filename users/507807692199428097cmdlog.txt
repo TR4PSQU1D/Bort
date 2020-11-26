@@ -1,0 +1,2 @@
+[Fri Jul 31 2020 23:49:06 GMT-1100 (Samoa Standard Time)] /ping 203.158.49.61
+[Fri Jul 31 2020 23:49:10 GMT-1100 (Samoa Standard Time)] /plan

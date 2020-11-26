@@ -1,0 +1,4 @@
+[Wed Jul 29 2020 12:37:39 GMT-1100 (Samoa Standard Time)] /checkip 216.58.216.164
+[Wed Jul 29 2020 12:39:58 GMT-1100 (Samoa Standard Time)] /checkip 216.58.216.164
+[Fri Jul 31 2020 17:32:39 GMT-1100 (Samoa Standard Time)] /checkip 54.69.116.37
+[Fri Jul 31 2020 17:33:44 GMT-1100 (Samoa Standard Time)] /checkip 52.34.224.158

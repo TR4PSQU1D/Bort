@@ -1,0 +1,4 @@
+/plan
+/bugbounty
+/ping 68.32.53.213
+/ddos std 68.32.53.213 100 dport=80

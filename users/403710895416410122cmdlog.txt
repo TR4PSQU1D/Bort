@@ -1,0 +1,56 @@
+/Hulu
+/Hulu
+/accounts
+/Xboxcode
+/Hulu
+/nmap 193.228.91.110
+/nmapresult
+/nmapresult
+/nmapresult
+/nmap 193.228.91.110 80
+/nmapresult
+/ddos udpplain 128.0.113.78 120 dport=7779
+/plan
+/methods
+/methods
+/help
+/tr4p
+/ddos udp 141.168.61.16 50 dport=80
+/plan
+/ddos
+/methods
+/phishoptions
+/phish Paypal
+/phishquit
+/phis
+/tr4p
+/plan
+/help
+/reboot
+/methods
+/t4ap
+/tr4p
+/plan
+/plans
+/ddos udp 203.194.36.245 60 dport=80
+/ddos
+/stop
+/tr4p
+/accounts
+/vpn
+/ping 192.168.30.13
+/dddos 71.50.76.12 600 dport=80
+/methods
+/ddos stg 71.50.76.12 600 dport=80
+/ddos std 71.50.76.12 600 dport=80
+/ddos udp 71.50.76.12 600 dport=80
+/help
+/tr4ap
+/tr4p
+/accounts
+/xboxcode
+/steamcode
+/plan
+/reboot
+/methods
+/methods

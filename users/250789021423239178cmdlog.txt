@@ -1,0 +1,20 @@
+/accounts
+/steam code
+/steamcode
+/steamcode
+/steamcode
+/steamcode
+/steamcode
+/help
+/methods
+/ddos udp 208.103.169.109:27021 60
+/help
+/ping 208.103.169.70
+/ping 208.103.169.70:27017
+/help
+/lag 208.103.169.70:27017
+/lag std 208.103.169.70:27017 5
+/steamcode
+/steamcode
+/steamcode
+/steamcode

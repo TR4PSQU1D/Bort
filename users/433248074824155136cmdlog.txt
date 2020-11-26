@@ -1,0 +1,25 @@
+[Fri Aug 21 2020 07:47:17 GMT-1100 (Samoa Standard Time)] /help
+[Fri Aug 21 2020 07:48:25 GMT-1100 (Samoa Standard Time)] /ping 1.1.1.1
+[Fri Aug 21 2020 07:48:37 GMT-1100 (Samoa Standard Time)] /ping 25.255.48.11
+[Fri Aug 21 2020 07:49:16 GMT-1100 (Samoa Standard Time)] /methods
+[Fri Aug 21 2020 07:50:40 GMT-1100 (Samoa Standard Time)] /plans lifetime
+[Fri Aug 21 2020 08:01:21 GMT-1100 (Samoa Standard Time)] /plan
+[Fri Aug 21 2020 08:25:52 GMT-1100 (Samoa Standard Time)] /help
+[Fri Aug 21 2020 08:26:03 GMT-1100 (Samoa Standard Time)] /hit list
+[Fri Aug 21 2020 08:26:11 GMT-1100 (Samoa Standard Time)] /hitlist
+[Fri Aug 21 2020 08:30:06 GMT-1100 (Samoa Standard Time)] /plans
+[Fri Aug 21 2020 08:30:14 GMT-1100 (Samoa Standard Time)] /plans standard
+[Fri Aug 21 2020 09:12:42 GMT-1100 (Samoa Standard Time)] /plan
+[Fri Aug 21 2020 09:18:37 GMT-1100 (Samoa Standard Time)] /help
+[Fri Aug 21 2020 11:37:47 GMT-1100 (Samoa Standard Time)] /help
+[Fri Aug 21 2020 11:38:00 GMT-1100 (Samoa Standard Time)] /help
+[Fri Aug 21 2020 11:52:57 GMT-1100 (Samoa Standard Time)] /ping 74.74.74.73
+[Fri Aug 21 2020 11:53:34 GMT-1100 (Samoa Standard Time)] /serverinfo
+[Fri Aug 21 2020 11:53:52 GMT-1100 (Samoa Standard Time)] /methods
+[Fri Aug 21 2020 11:54:08 GMT-1100 (Samoa Standard Time)] /bug bounty
+[Fri Aug 21 2020 11:54:16 GMT-1100 (Samoa Standard Time)] /bugbounty
+[Fri Aug 21 2020 11:54:54 GMT-1100 (Samoa Standard Time)] /lag
+[Fri Aug 21 2020 11:57:17 GMT-1100 (Samoa Standard Time)] /ping 74.74.74.73
+[Sun Aug 23 2020 07:23:08 GMT-1100 (Samoa Standard Time)] /ddos kraken udp 67.243.86.202 120 80
+[Sun Aug 23 2020 08:21:59 GMT-1100 (Samoa Standard Time)] /help
+[Sun Aug 23 2020 08:22:19 GMT-1100 (Samoa Standard Time)] /methods

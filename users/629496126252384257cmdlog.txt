@@ -1,0 +1,9 @@
+[Tue Aug 18 2020 01:50:08 GMT-1100 (Samoa Standard Time)] /bin/sh: 1: yum: not found
+/bin/sh: 1: yum: not found
+Failed to start httpd.service: Unit httpd.service not found.
+[DONE] Packages/Dependencies Installed...
+[+] Compiling Axis Bot...
+         [Axis]
+Download Cross Compilers? y/n:
+
+never used this net before. why can it not find the files?

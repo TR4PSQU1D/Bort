@@ -1,0 +1,6 @@
+[Sat Aug 22 2020 14:19:33 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 76.84.36.236 20
+[Sat Aug 22 2020 14:20:49 GMT-1100 (Samoa Standard Time)] /ddos
+[Sat Aug 22 2020 14:21:20 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 76.84.36.236 20
+[Sat Aug 22 2020 14:22:59 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 76.84.36.236 100
+[Sat Aug 22 2020 14:23:20 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 71.92.157.44 120
+[Sat Aug 22 2020 14:24:10 GMT-1100 (Samoa Standard Time)] /Hulu

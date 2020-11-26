@@ -1,0 +1,6 @@
+/spotify
+/vpn
+/steamcode
+/bugbounty
+/mega
+/steamcode

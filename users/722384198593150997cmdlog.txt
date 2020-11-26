@@ -1,0 +1,1 @@
+/ddos kraken squid 67.165.92.195 1200 80

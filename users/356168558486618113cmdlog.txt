@@ -1,0 +1,13 @@
+/vpn
+/VPN
+/lag
+/accounts
+/steamcode
+/steamcode
+/vpn
+/help
+/sms
+/db
+/methods
+/ddos udp 68.49.92.32 60 80
+/bugbounty

@@ -1,0 +1,30 @@
+/accounts
+/xboxcode
+/steamcode
+/ddos
+/ddos DNS 67.149.144.125 1 hour 9307
+/ddos LDAP 67.149.144.125 1 hour 9307
+/ddos ACK 67.149.144.125 1 hour 9307
+/ddos syn 67.149.144.125 1 hour 9307
+/xbox code
+/accounts
+/xbox code
+/xboxcode
+/smd
+/sms
+/vpn
+/hulu
+/pornhub premuim
+/lagstop
+/plan price
+/buy plan
+/plans
+/ddos syn 67.149.144.125 1 hour 9307
+/ddos syn 67.149.144.125 1 hour 9307
+/ddos syn 67.149.144.125 1 hour 9307
+/ddos syn 67.149.144.125 1 hour 9307
+/ddos syn 67.149.144.125 1 hour 9307
+/ddos syn 67.149.144.125 1 hour 9307
+/ping 67.149.144.125
+/ddos syn 67.149.144.125 1 hour 9307
+/ddos syn 67.149.144.125 1 hour 9307

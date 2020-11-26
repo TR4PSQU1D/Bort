@@ -1,0 +1,30 @@
+/checkip 8.44.63.53
+/plan
+/vpn
+/ping 92.84.144.33
+/plan
+[Thu Aug 27 2020 14:15:37 GMT-1100 (Samoa Standard Time)] /checkip I like chicken, [28.08.20 02:14]
+45.153.35.2  < your website ip address
+[Thu Aug 27 2020 14:15:56 GMT-1100 (Samoa Standard Time)] /checkip 45.153.35.2
+[Thu Aug 27 2020 14:17:09 GMT-1100 (Samoa Standard Time)] /checkip 45.153.35.2
+[Thu Aug 27 2020 14:17:16 GMT-1100 (Samoa Standard Time)] /commands
+[Thu Aug 27 2020 14:18:03 GMT-1100 (Samoa Standard Time)] /ping 45.153.35.2
+[Thu Aug 27 2020 14:20:41 GMT-1100 (Samoa Standard Time)] /plans
+[Thu Aug 27 2020 14:20:49 GMT-1100 (Samoa Standard Time)] /getplan
+[Thu Aug 27 2020 14:21:17 GMT-1100 (Samoa Standard Time)] /plans
+[Thu Aug 27 2020 14:40:28 GMT-1100 (Samoa Standard Time)] /ping 190.115.22.176
+[Thu Aug 27 2020 14:40:56 GMT-1100 (Samoa Standard Time)] /ping 45.153.35.2
+[Thu Aug 27 2020 15:01:00 GMT-1100 (Samoa Standard Time)] /ping 45.153.35.2
+[Thu Aug 27 2020 15:03:16 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 45.153.35.2
+[Thu Aug 27 2020 15:07:58 GMT-1100 (Samoa Standard Time)] /captcha reset
+[Thu Aug 27 2020 15:08:16 GMT-1100 (Samoa Standard Time)] /captcha answer 147
+[Thu Aug 27 2020 15:09:06 GMT-1100 (Samoa Standard Time)] /getplan <@453358019632431106>
+[Thu Aug 27 2020 15:09:46 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 45.153.35.2
+[Thu Aug 27 2020 15:09:46 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 27 2020 15:10:47 GMT-1100 (Samoa Standard Time)] /ping 45.153.35.2
+[Thu Aug 27 2020 15:13:43 GMT-1100 (Samoa Standard Time)] /getplan <@442717014075899904>
+[Thu Aug 27 2020 15:14:21 GMT-1100 (Samoa Standard Time)] /methods
+[Thu Aug 27 2020 15:16:28 GMT-1100 (Samoa Standard Time)] /ddos godzilla tcp 45.153.35.2
+[Thu Aug 27 2020 15:23:57 GMT-1100 (Samoa Standard Time)] /ping 45.153.35.2
+[Thu Aug 27 2020 15:37:47 GMT-1100 (Samoa Standard Time)] /checkip 117.27.239.28
+[Thu Aug 27 2020 15:38:00 GMT-1100 (Samoa Standard Time)] /ping 117.27.239.28

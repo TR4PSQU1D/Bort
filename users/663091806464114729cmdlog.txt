@@ -1,0 +1,5 @@
+/dbsearch ╰★Vortex#0605
+/dbfind ╰★Vortex#0605
+/dbsearch ╰★Vortex#0605
+/ddos udp 104.200.142.208 80
+/plans

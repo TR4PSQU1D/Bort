@@ -1,0 +1,12 @@
+/changeplan <@437836470795894796>  4
+/changeplan <@437836470795894796>  4
+/plan
+/clear 10
+/phish
+/phish
+/phishquit
+/accounts
+/xboxcode
+/plans
+/checkip 38.128.66.45
+/ping 38.128.66.45

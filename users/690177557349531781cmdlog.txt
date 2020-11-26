@@ -1,0 +1,27 @@
+/help
+/commands
+/nmapsv 51.210.151.41
+/nmapresult
+/nmapresult
+/nmapresult
+/lag
+/lag Helsinki
+/lag help
+/methods
+/lag udp 51.210.151.41 40 40 40 22
+/nmap 51.210.151.41
+/nmapresult 51.210.151.41
+/help
+/commands
+/nmap 34.67.164.159
+/nmapresult
+/nmapresult
+/nmapresult
+/nmapresult
+/help
+/commands
+/phishoptions
+/phish ok.ok
+/claim TRAxJzraOXeQjHUAVHNE1GFVebEEqihBubSDvAMx7KOnYnOuyJ
+/claim TRHr1BcRdr1E5JYf8onL6VefUc5Q6O18dAVHbGogiP0FkS2Us2
+[Thu Jul 30 2020 05:20:40 GMT-1100 (Samoa Standard Time)] /hitlist

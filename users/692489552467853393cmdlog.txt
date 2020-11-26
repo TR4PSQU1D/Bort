@@ -1,0 +1,20 @@
+/help
+/ddos
+/help
+/tr4p
+/methods
+/ddos
+/ddos http http://91.232.174.70 200
+/ddos http
+/ddos http 91.232.174.70 200 http://91.232.174.70 conns=5000
+/getplan
+/getplan <@692489552467853393>
+/db
+/db search
+/dbsearch Comrade
+/plan
+/plans
+/brute
+/embed
+/ddos
+/xboxcode

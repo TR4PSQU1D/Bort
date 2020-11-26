@@ -1,0 +1,22 @@
+/getplan <@179328359761838090>
+/plan
+/gimmefree plan
+/extens
+/extend
+/add
+/nitro
+/hulu
+/tr4
+/tr4p
+/ddos std 162.244.55.72 20
+/ddos std 162.244.55.72 70
+/plan
+/ddos std 213.179.197.133 40
+/ddos std 213.179.197.133 90
+/ddos std 71.56.225.45 80
+/ddos std 71.56.225.45 200
+/ddos std 71.56.225.45 120
+/ddos std 71.56.225.45 120
+/ddos std 71.56.225.45 80
+/ddos std 71.56.225.45 80
+/plan

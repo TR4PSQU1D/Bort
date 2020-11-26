@@ -1,0 +1,7 @@
+/ddos tcp 104.95.221.2 120 80
+/VPN
+/VPN
+/VPN
+/xboxcode
+/Xbox code
+/Ddos ack 54.39.123.214 120 10668

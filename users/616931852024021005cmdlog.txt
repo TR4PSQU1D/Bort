@@ -1,0 +1,10 @@
+/VPN
+/vpn
+/steamcode
+/xboxcode
+/bugbounty
+/steamcard
+/steamcard
+/steamcode
+/vpn
+/DDoS udp 101.10.140.1 10

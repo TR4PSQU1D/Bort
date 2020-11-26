@@ -1,0 +1,9 @@
+[Wed Jul 29 2020 10:51:55 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 69.118.202.90 120 80
+[Wed Jul 29 2020 12:37:18 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 69.118.202.90 120 80
+[Fri Jul 31 2020 10:48:15 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 69.118.202.90 120 80
+[Sat Aug 01 2020 19:13:13 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 24.46.14.36 120 80
+[Sun Aug 02 2020 12:57:12 GMT-1100 (Samoa Standard Time)] /checkip 74.90.36.208
+[Sun Aug 02 2020 13:02:50 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 74.90.36.208 200 80
+[Sun Aug 02 2020 16:54:15 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 68.193.165.240 200 80
+[Sun Aug 02 2020 16:58:38 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 141.150.131.37 200 80
+[Mon Aug 10 2020 11:33:16 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 70.112.208.42 200 80

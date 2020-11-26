@@ -1,0 +1,62 @@
+/ddos std 1.1.1.1 60 dport=80
+/ddos std 7.174.145.137 dport=80
+/vpn
+/ippinger
+/checkip 1.1.1.1
+/methods
+/xboxcode
+/xboxcode
+/xboxcode
+/xboxcode
+/xboxcode
+/xboxcode
+/xboxcode
+/spotify
+/spotify
+/spotify
+/spotify
+/spotify
+/spotify
+/spotify
+/ovh
+/ovh
+/xboxcodes
+/xboxcodes
+/mega
+/hulu
+/hulu
+/hulu
+/hulu
+/hulu
+/hulu
+/hulu
+/hulu
+/hulu
+/hulu
+/hulu
+/HULU
+/hulu
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/ping 1.1.1.1
+/ping 2.11.11.2
+/spotify
+/spotify
+/tts hi
+/spotify
+/spotify
+/spotify
+/ping 6.9.6.9
+/ping 69.69.69.69
+/spotify
+/spotify
+/spotify
+/spotify
+/spotify
+/spotify
+/spotify
+/spotify

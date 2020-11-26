@@ -1,0 +1,10 @@
+/accounts
+/steamcode
+/spotify
+/dbsearch <@327788266986274817>
+/methods
+/bugbounty
+/fun
+/checkip 49.145.233.90
+/vpn
+/vpn

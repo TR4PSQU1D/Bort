@@ -1,0 +1,38 @@
+/tr4p
+/tr4p
+/plan
+/admin
+/admin
+/plan
+/methods
+/steamcode
+/steamcode
+/steamcode
+/steamcode
+/plan
+/nuke
+/tr4p
+/info
+/plan
+/info
+/checkip 18.156.79.123
+/plan <@710753668655349800>
+/methods
+/tr4p
+/accounts
+/hulu
+/plan
+/ddos udp 115.231.235.32 60 dport=80
+/ping 52.171.225.232
+/ping 82.1.137.53
+/ddos udp 103.95.221.2 90 dport=80
+/pingip 103.95.221.2
+/tr4p
+/ping 103.95.221.2
+/ping 103.95.221.2
+/plan
+/ddos std 80.127.138.236 2400 port=80
+/ddos std 80.127.138.236 2400 dport=80
+/ddos std 212.196.192.168 60 dport=80
+/ddos std 81.97.159.114 30 dport=80
+/ping 24.12.159.2

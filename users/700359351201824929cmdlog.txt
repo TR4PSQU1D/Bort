@@ -1,0 +1,5 @@
+/plan
+/ddos
+/methods
+/ddos Kraken udp 1.1.1.1 10 80
+/ddos Kraken udp 178.124.13.13 10 80

@@ -1,0 +1,7 @@
+[Fri Jul 31 2020 12:04:15 GMT-1100 (Samoa Standard Time)] /spotify
+[Fri Jul 31 2020 12:04:48 GMT-1100 (Samoa Standard Time)] /accounts
+[Fri Jul 31 2020 12:05:01 GMT-1100 (Samoa Standard Time)] /spotify
+[Fri Jul 31 2020 12:07:51 GMT-1100 (Samoa Standard Time)] /tr4p
+[Fri Jul 31 2020 12:08:59 GMT-1100 (Samoa Standard Time)] /DDoS FIVEM UDP 54.36.127.96 40
+[Fri Jul 31 2020 12:09:19 GMT-1100 (Samoa Standard Time)] /serverinfo
+[Fri Jul 31 2020 12:09:57 GMT-1100 (Samoa Standard Time)] /DDoS Kraken UDP 54.36.127.96 40

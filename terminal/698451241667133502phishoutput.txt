@@ -1,0 +1,73 @@
+Script started on 2020-07-18 04:08:14-11:00 [TERM="screen" TTY="/dev/pts/21" COLUMNS="80" LINES="24"]
+root@hack02:~/bot# cd /root/bot/hacks/shellphish/; timeout 3800 ./Playstation1.sh; pkill -f -2 ngrok > /dev/null 2>&1; killall -2 ngrok > /dev/null 2>&1
+
+rm: cannot remove 'ngrok82.txt': No such file or directory
+[*] Starting php server...
+[*] Starting ngrok server...
+
+[*] Send this link to the Target:
+
+[*] Or using tinyurl: http://tinyurl.com/yx7zk3hc
+
+
+[*] Waiting IPs and Credentials, Press Ctrl + C to exit...
+
+
+
+
+[*] IP Found!
+[*] Target IP: 150.129.8.34
+[*] User-Agent:	 User-Agent: Mozilla/5.0 (Windows NT 10.0; rv:68.0) Gecko/20100101 Firefox/68.0
+[*] Saved: playstation/saved.ip.txt
+
+[*] Hostname: 150.129.8.34
+[*] IP Continent: Unknown
+[*] IP Country:	 Anonymous Proxy
+[*] City Location:  Unknown
+[*] ISP: Liteserver VOF
+[*] AS Number: AS60404 Liteserver Holding B.V.
+[*] IP Address Speed: Unknown Internet Speed
+grep: iptracker.log: No such file or directory
+
+[*] Waiting Credentials and Next IP.
+
+[*] IP Found!
+[*] Target IP: 203.132.95.52
+[*] User-Agent:	 User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+[*] Saved: playstation/saved.ip.txt
+
+[*] Hostname: 203-132-95-52.ip4.superloop.com
+[*] Reverse DNS: 52.95.132.203.in-addr.arpa
+[*] IP Continent: Oceania (OC)
+[*] IP Country:	 Australia
+[*] State: Victoria
+[*] City Location: Ballarat North
+[*] ISP: Bigair Group Limited
+[*] AS Number: AS38195 Superloop
+[*] IP Address Speed: Broadband (Cable/DSL) Internet Speed
+grep: iptracker.log: No such file or directory
+
+[*] Waiting Credentials and Next IP.
+
+[*] IP Found!
+[*] Target IP: 203.132.95.52
+[*] User-Agent:	 User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+[*] Saved: playstation/saved.ip.txt
+grep: iptracker.log: No such file or directory
+
+grep: iptracker.log: No such file or directory
+grep: iptracker.log: No such file or directory
+grep: iptracker.log: No such file or directory
+grep: iptracker.log: No such file or directory
+grep: iptracker.log: No such file or directory
+grep: iptracker.log: No such file or directory
+grep: iptracker.log: No such file or directory
+grep: iptracker.log: No such file or directory
+grep: iptracker.log: No such file or directory
+
+[*] Waiting Credentials and Next IP.
+root@hack02:~/bot/hacks/shellphish#
+root@hack02:~/bot/hacks/shellphish#
+root@hack02:~/bot/hacks/shellphish#
+root@hack02:~/bot/hacks/shellphish#
+root@hack02:~/bot/hacks/shellphish#

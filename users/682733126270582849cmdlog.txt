@@ -1,0 +1,63 @@
+/ping 174.17.68.59
+/plans
+/plans
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/bug bounty
+/bugbounty
+/dbshow
+/dbsearch 174.17.68.59
+/info
+/check 174.17.68.59
+/lag 174.17.68.59
+/lag udpmix 174.17.68.59
+/lag bypass 174.17.68.59
+/lag DNS 174.17.68.59
+/ddos bypass 174.17.68.59 100
+/plan
+/dbsearch Nixx_00
+/dbsearch @Nixx_00#0534
+/accounts
+/Hulu
+/area code
+/steamcode
+/steamcode
+/steamcode
+/steamcode
+/steamcode
+/steamcode
+/methood
+/methods
+/ddos udp 104.175.224.84 5
+/DDoS udp 104.175.224.84 10
+/ddos
+/hitlist
+/hitlist 3€
+/lag udp 104.175.224.84
+/ping 101.71.138.9
+/ping udp 101.71.138.9
+/ping chargen 101.71.138.9
+/ping 101.71.138.9
+/bugbounty
+/claim TRz2Ohuf7e2bS63jCIo42wV2S0YTferBekBQIWW7tTUpblDZiw
+[Sat Aug 15 2020 09:58:18 GMT-1100 (Samoa Standard Time)] /vpn
+[Sat Aug 15 2020 09:58:38 GMT-1100 (Samoa Standard Time)] /vpn
+[Sat Aug 15 2020 10:01:07 GMT-1100 (Samoa Standard Time)] /help
+[Sat Aug 15 2020 10:01:19 GMT-1100 (Samoa Standard Time)] /accounts
+[Sat Aug 15 2020 10:01:36 GMT-1100 (Samoa Standard Time)] /Hulu
+[Sat Aug 15 2020 10:01:54 GMT-1100 (Samoa Standard Time)] /hulu
+[Sat Aug 15 2020 10:02:40 GMT-1100 (Samoa Standard Time)] /Hulu
+[Sat Aug 15 2020 10:03:55 GMT-1100 (Samoa Standard Time)] /Spotify
+[Sat Aug 15 2020 10:04:15 GMT-1100 (Samoa Standard Time)] /spotify
+[Sat Aug 15 2020 11:05:40 GMT-1100 (Samoa Standard Time)] /steamcode
+[Sat Aug 15 2020 11:07:07 GMT-1100 (Samoa Standard Time)] /steamcode
+[Sat Aug 15 2020 11:07:59 GMT-1100 (Samoa Standard Time)] /steamcode
+[Sat Aug 15 2020 11:15:29 GMT-1100 (Samoa Standard Time)] /vpn
+[Sat Aug 15 2020 11:17:45 GMT-1100 (Samoa Standard Time)] /vpn
+[Sat Aug 15 2020 11:18:37 GMT-1100 (Samoa Standard Time)] /vpn

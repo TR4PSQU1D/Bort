@@ -1,0 +1,8 @@
+/getplan <@512445443842506754>
+/vpn
+/plans
+/trial
+/getplan <@512445443842506754>
+/bugbounty
+/xboxcode
+/xboxcode

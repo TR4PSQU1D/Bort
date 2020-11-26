@@ -1,0 +1,6 @@
+[Wed Aug 26 2020 10:00:07 GMT-1100 (Samoa Standard Time)] /help
+[Wed Aug 26 2020 10:00:20 GMT-1100 (Samoa Standard Time)] /commands
+[Wed Aug 26 2020 10:01:25 GMT-1100 (Samoa Standard Time)] /accounts
+[Wed Aug 26 2020 10:01:37 GMT-1100 (Samoa Standard Time)] /mega
+[Wed Aug 26 2020 10:01:56 GMT-1100 (Samoa Standard Time)] /steamcode
+[Wed Aug 26 2020 10:02:38 GMT-1100 (Samoa Standard Time)] / blank

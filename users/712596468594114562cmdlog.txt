@@ -1,0 +1,1 @@
+[Fri Aug 21 2020 02:04:25 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 40.90.10.180 120 443

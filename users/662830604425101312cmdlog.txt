@@ -1,0 +1,27 @@
+[Wed Jul 29 2020 19:24:55 GMT-1100 (Samoa Standard Time)] /steamcode
+[Wed Aug 12 2020 21:21:55 GMT-1100 (Samoa Standard Time)] /accounts
+[Wed Aug 12 2020 21:22:05 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Wed Aug 12 2020 21:24:48 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 12 2020 21:25:31 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 12 2020 21:26:51 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 12 2020 21:27:07 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 12 2020 21:32:50 GMT-1100 (Samoa Standard Time)] /mega
+[Wed Aug 12 2020 21:36:48 GMT-1100 (Samoa Standard Time)] /steamcode
+[Wed Aug 12 2020 21:43:58 GMT-1100 (Samoa Standard Time)] /steamcode
+[Wed Aug 12 2020 21:44:00 GMT-1100 (Samoa Standard Time)] /steamcode
+[Wed Aug 12 2020 21:44:03 GMT-1100 (Samoa Standard Time)] /steamcode
+[Wed Aug 12 2020 21:49:12 GMT-1100 (Samoa Standard Time)] /sms
+[Wed Aug 12 2020 21:57:24 GMT-1100 (Samoa Standard Time)] /tr4p
+[Wed Aug 12 2020 21:58:06 GMT-1100 (Samoa Standard Time)] /getplan <@693853122728296538>
+[Wed Aug 12 2020 21:58:35 GMT-1100 (Samoa Standard Time)] /checkservers
+[Wed Aug 12 2020 21:58:53 GMT-1100 (Samoa Standard Time)] /info
+[Wed Aug 19 2020 01:31:14 GMT-1100 (Samoa Standard Time)] /ping IP_ADDRESS 24.228.116.16
+[Wed Aug 19 2020 01:31:49 GMT-1100 (Samoa Standard Time)] /accounts
+[Wed Aug 19 2020 01:33:32 GMT-1100 (Samoa Standard Time)] /sms
+[Wed Aug 19 2020 01:34:28 GMT-1100 (Samoa Standard Time)] /methods
+[Wed Aug 19 2020 01:36:36 GMT-1100 (Samoa Standard Time)] /DDOS Kraken 24.224.116.16 500 1024
+[Wed Aug 19 2020 01:38:01 GMT-1100 (Samoa Standard Time)] /DDOS Kraken 24.228.116.16 1000 1024
+[Wed Aug 19 2020 01:40:15 GMT-1100 (Samoa Standard Time)] /DDoS Kraken udp 24.228.116.16 500 80
+[Wed Aug 19 2020 17:24:08 GMT-1100 (Samoa Standard Time)] /plan
+[Wed Aug 19 2020 17:24:22 GMT-1100 (Samoa Standard Time)] /accounts
+[Wed Aug 19 2020 17:24:30 GMT-1100 (Samoa Standard Time)] /xboxcode

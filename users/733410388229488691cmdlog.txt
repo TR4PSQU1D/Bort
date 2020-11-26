@@ -1,0 +1,121 @@
+/account
+/accounts
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/hulu
+/vpn
+/ping 41.113.112.232
+/plan
+/ping 24.244.173.36
+/ddos kraken squid 24.244.173.36
+/ddos kraken squid 24.244.173.36 600
+/ddos kraken squid 24.244.162.92 120
+/ddos kraken squid 24.231.43.93 120
+/ddos kraken squid 24.231.43.93 1200
+/ddos Godzilla vs 24.206.7.163 120
+/ddos kraken squid24.231.43.93 1200
+/ddos kraken squid 24.231.43.93 1200
+/ddos kraken squid 108.60.242.134 400
+/ddos kraken squid 24.206.7.163 400
+/ping 13.56.195.169
+/ddos godzilla vse 100.24.33.56 120 9014
+/ddos godzilla vse 184.73.56.158 120 9050
+/ddos godzilla vse 3.235.129.14 120 9011
+/stop
+/plan
+/ddos godzilla vse 3.235.129.14 30 9011
+/ddos godzilla vse 3.235.129.14 120 9011
+/ddos godzilla 3.235.232.20 120 9003
+/ddos godzilla vse 3.235.232.20 100 9003
+/ddos godzilla vse 3.235.197.17 120 9014
+/ping 24.206.7.210
+/ddos kraken udp 24.206.7.210 800
+/plan
+/ddos kraken squid 24.231.51.251 350
+/ddos kraken squid 73.207.105.68
+/ddos kraken squid 73.207.105.68 500
+/checkhost 98.21.98.194
+/checkip 98.21.98.194
+/ddos kraken squid 98.21.98.194 200
+/ddos kraken squid 24.51.74.196 40
+/method
+/ddos Godzilla vse 192.99.110.158 30 56336
+/ddos Godzilla std 192.99.110.158 30 56336
+/checkip 192.99.110.158
+/ddos Godzilla OVH-SMASH 192.99.110.158 30 56336
+/ddos Godzilla UDP 192.99.110.158 30 56336
+/plan
+/iplogger
+/nmap 192.99.110.158
+/nmapresult
+/nmapresult
+/nmap 192.99.110.158
+/nmapresult
+/nmapresult
+/nmapresult
+/checkip 54.39.131.219
+/checkip 54.39.131.219
+/checkip 54.39.131.219
+/checkip 54.39.131.219
+/checkip 192.99.110.158
+/ddos kraken squid 24.206.7.210
+/ddos kraken squid 24.206.7.210 1200
+/ping 24.206.7.210
+/ping 24.206.7.210
+/checkip 23.220.242.86
+/ddos kraken std 64.150.197.181 30
+/ddos kraken std 24.51.101.112 30
+/ddos kraken std 24.51.108.85 50
+/ddos Godzilla vse 54.234.166.61 30 9057
+/ddos kraken tcp 64.150.197.181
+/ddos kraken tcp 64.150.197.181 30
+/ddos kraken std 24.51.108.85 330
+/stop cunt
+/checkip 18.144.11.227
+/ddos kraken squid 73.163.97.52
+/ddos kraken squid 73.163.97.52 500
+/checkip 73.163.97.52
+/ping 73.163.97.52
+/ddos kraken std 73.163.97.52 500
+/ping 69.251.20.65
+/ddos kraken udp 69.251.20.65 300
+/ping 69.251.20.65
+/plan
+/ddos godzilla vse 3.236.191.179 30 9009
+/ddos godzilla vse 3.235.171.220 20 9003
+/ddos godzilla vse 3.235.171.220 10 9009
+/ddos kraken udp 24.206.7.210 1200
+/ddos godzilla vse 24.206.7.210 120 80
+/ddos kraken udp 162.159.134.234 300
+/ddos kraken udp 65.75.86.128 300
+/ddos kraken  squid 108.60.249.114 500
+/ddos kraken  squid 204.236.75.115 500
+/ddos kraken  squid 65.75.89.92 450
+/ddos kraken  squid 64.150.216.129 350
+/ddos kraken  squid 64.150.230.132 600
+/vpn
+/vpn
+/vpn
+/ddos kraken std 64.150.216.129 1100
+/ddos godzilla vse 3.129.45.164 120 9045
+/plan
+/methods
+/spotify
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/tr4p
+/plan
+/vpn
+/plan

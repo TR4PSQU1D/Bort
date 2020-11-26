@@ -1,0 +1,16 @@
+/ddos kraken  squid 172.118.189.24 600
+/ddos kraken  squid 172.118.189.24 600
+/plan
+/plans
+/checkip     24.243.182.149
+/bugbounty
+/sms
+/sms
+/hitlist
+/free accounts
+/accounts
+/xboxcode
+/prices
+[Tue Aug 04 2020 11:51:14 GMT-1100 (Samoa Standard Time)] /mega
+[Tue Aug 04 2020 11:52:13 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Thu Aug 13 2020 17:47:48 GMT-1100 (Samoa Standard Time)] /DDoS Kraken tcp 23.101.127.14 100 25565

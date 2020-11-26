@@ -1,0 +1,5 @@
+/vpn
+/spotify
+/steamcode
+/steam
+/steamcode

@@ -1,0 +1,8 @@
+/tr4p
+/help
+/accounts
+/bugbounty
+/claim KEY
+/plans
+/info
+/methods

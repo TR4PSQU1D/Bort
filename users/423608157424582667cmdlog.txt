@@ -1,0 +1,7 @@
+/vpn
+/accounts
+/xboxcode
+/xboxcode
+/spotify
+/bugbounty
+/help

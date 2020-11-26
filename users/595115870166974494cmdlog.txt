@@ -1,0 +1,59 @@
+/ping 104.230.202.111
+/ping 104.230.202.111
+/ddos stdhex 104.230.202.111 80
+/accounts
+/bugbounty
+/vpn
+/xboxcode
+/xboxcode
+/xboxcode
+/xboxcode
+/ping 94.196.162.188
+/ping 80.193.56.82
+/ping 80.193.56.82
+/ping 80.193.56.82
+/ping 94.196.162.188
+/ping 80.193.56.82
+/ping 94.196.162.188
+/ping /ping 94.196.162.188
+/ping /ping 80.193.56.82
+/plans
+/ping 174.56.218.84
+/ping 173.140.82.36
+/vpn
+/VPN
+/xboxcode
+/hulu
+/free
+/dbsearch largelamp9132
+/dbsearch largelamp#9132
+/account
+/accounts
+/steamcode
+/vpn
+/vpn
+/vpn
+/vpn
+/hulu
+/hulu
+/hulu
+/hulu
+/vpn
+/hulu
+/accounts
+/spotify
+/vpn
+/ping 174.56.218.84
+/ping 73.91.227.110
+/ping 68.129.36.200
+/ping 68.98.147.242
+/ping 68.98.147.242
+/ping 68.98.147.242
+/ping 68.98.147.242
+/ping 68.534.87.412
+/ping 173.169.233.172
+/ping 68.195.156.49
+/ping 72.204.52.22
+/plan
+/plans
+/plans

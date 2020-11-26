@@ -1,0 +1,30 @@
+/DDoS {server} {method} {ip} {length}
+/xbox code
+/DDoS
+/lagstop
+/claim
+/Accounts
+/xboxcode
+/plan
+/xboxcode
+/xboxcode
+/vpn
+/xboxcode
+/xboxcode
+/xboxcode
+/xboxcode
+/xboxcode
+/xboxcode
+/xboxcode
+/xboxcode
+/xboxcode
+/plans
+/ping 75.89.253.66
+/ping 75.89.253.66
+/ping 75.89.253.66
+[Wed Jul 29 2020 09:53:04 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Wed Jul 29 2020 11:37:08 GMT-1100 (Samoa Standard Time)] /ping 98.199.179.66
+[Wed Jul 29 2020 11:39:46 GMT-1100 (Samoa Standard Time)] /ping 47.133.218.254
+[Sun Aug 02 2020 19:11:01 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Sun Aug 02 2020 19:12:03 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Tue Aug 04 2020 01:22:47 GMT-1100 (Samoa Standard Time)] /plan

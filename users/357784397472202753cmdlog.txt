@@ -1,0 +1,352 @@
+/ddos udp 155.133.243.77 30
+/ddos udpplain 62.141.40.245 30 dport=27020
+/udp 62.141.40.245 30 dport=27020
+/methods
+/tr4p
+/Bots
+/getbots
+/getbots
+/ddos upd 20.50.42.88 60 dport=30115
+/ddos
+/ddos udp 20.50.42.88 60 dport=30115
+/ddos udp 20.50.225.62 45 dport=30237
+/bots
+/tr4p
+/info
+/ddos udpplain 20.50.225.62 60 dport=30237
+/ddos udp 20.50.225.62 60 dport=30237
+/getbots
+/getbots
+/ddos udp 51.105.237.253 45 dport=30144
+/getbots
+/ddos udp 51.105.237.253 180 dport=30144
+/ddos udp 51.105.237.253 45 dport=30144
+/getbots
+/getbots
+/ddos udp 20.50.184.222 180 dport=30144
+/ddos udp 20.50.184.222 180 dport=30144
+/getbots
+/getbots
+/ddos udp 52.143.8.6 40 dport=30017
+/ddos udpplain 52.143.8.6 180 dport=30017
+/ddos udp 52.143.8.6 180 dport=30017
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/ddos udp 52.143.13.81 180 dport=30108
+/ddos udp 52.143.13.81 180 dport=30108
+/ddos udp 40.127.236.84 45 dport=30016
+/ddos udp 40.127.236.84 45 dport=30016
+/ddos udp 40.127.236.84 45 dport=30016
+/ddos udp 40.127.236.84 100 dport=30016
+/ddos udp 51.124.62.38 45 dport=30143
+/ddos udp 51.124.81.211 30 dport=30031
+/ddos udp 51.124.81.211 30 dport=30031
+/ddos udp 51.124.81.211 30 dport=30031
+/ddos udp 51.124.81.211 30 dport=30031
+/ddos udp 51.124.81.211 30 dport=30031
+/ddos udp 51.124.81.211 150 dport=30031
+/ddos udp 20.50.170.241 30 dport=30212
+/ddos udp 20.50.170.241 30 dport=30212
+/getbots
+/ddos udp 20.50.170.241 150 dport=30212
+/ddos udpplain 20.50.170.241 150 dport=30212
+/getbots
+/getbots
+/getbots
+/getbots
+/udpplain 20.50.188.203 120 dport=30026
+/ddos udpplain 20.50.188.203 30026
+/ddos udpplain 20.50.188.203 220 dport=30026
+/ddos udpplain 20.50.188.203 220 dport=30026
+/ddos udp 20.50.188.203 30 dport=30026
+/ddos udp 20.50.188.203 30 dport=30026
+/ddos udp 20.50.188.203 30 dport=30026
+/getbots
+/getbots
+/getbots
+/ddos udpplain 51.105.99.84 180 dport=30218
+/getbots
+/ddos udp 51.105.99.84 180 dport=30218
+/getbots
+/ddos udpplain 20.50.151.82 180 dport=30137
+/ddos udp 20.50.151.82 180 dport=30137
+/ddos udp 20.50.151.82 180 dport=30137
+/ddos udpplain 20.50.151.82 180 dport=30137
+/ddos udp 20.50.151.82 180 dport=30137
+/ddos udp 20.50.151.82 180 dport=30137
+/ddos udpplain 51.138.118.65 180 dport=30231
+/ddos udpplain 51.138.118.65 180 dport=30231
+/ddos udpplain 51.138.118.65 180 dport=30231
+/ddos udpplain 51.138.118.65 180 dport=30231
+/ddos udp 51.138.118.65 180 dport=30231
+/ddos udpplain 51.138.118.65 180 dport=30231
+/ddos udpplain 51.138.48.146 180 dport=30215
+/ddos udpplain 51.138.48.146 180 dport=30215
+/ddos udp  51.138.48.146 180 dport=30215
+/ddos udpplain 51.138.48.146 180 dport=30215
+/ddos udpplain 51.138.48.146 180 dport=30215
+/ddos udp 51.138.48.146 180 dport=30215
+/ddos udp 51.138.48.146 180 dport=30215
+/ddos udpplain 51.124.79.150 180 dport=30002
+/ddos udpplain 51.124.79.150 180 dport=30002
+/ddos udpplain 51.124.79.150 180 dport=30002
+/ddos udp 51.124.79.150 200 dport=30002
+/ddos udp 51.124.79.150 200 dport=30002
+/ddos udpplain 51.124.79.150 200 dport=30002
+/getbots
+/getbots
+/ddos udp 52.143.27.89 30 dport=30038
+/ddos udpplain 52.143.27.89 120 dport=30038
+/ddos udpplain 74.201.102.169 180 dport=33242
+/ddos udp 51.124.81.191 30 dport=30020
+/getbots
+/tr4p
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/ddos udpplain 20.53.136.238 60 dport=30115
+/ddos udpplain 20.54.136.238 60 dport=30115
+/ddos udp 20.54.136.238 30 dport=30115
+/ddos udp 20.54.136.238 30 dport=30115
+/ddos udp 20.54.136.238 30 dport=30115
+/ddos udp 20.54.136.238 30 dport=30115
+/ddos udp 20.54.136.238 30 dport=30115
+/ddos udpplain 51.124.2.69 60 dport=30233
+/ddos udpplain 51.124.2.69 200 dport=30233
+/ddos udp 51.124.2.69 30 dport=30233
+/ddos udpplain 51.124.2.69 200 dport=30233
+/ddos udp 51.124.2.69 30 dport=30233
+/ddos udp 51.124.2.69 30 dport=30233
+/ddos udp 51.124.2.69 30 dport=30233
+/getbots
+/ddos udp 51.124.2.69 30 dport=30233
+/ddos udpplain 51.124.83.248 100 dport=30043
+/ddos udp 20.50.249.140 30 dport=30216
+/getbots
+/ddos udpplain 20.50.249.140 180 dport=30216
+/ddos udpplain 52.157.249.232 30 dport=30237
+/ddos udpplain 52.157.249.232 30 dport=30237
+/ddos udpplain 52.157.249.232 50 dport=30237
+/ddos udpplain 52.157.249.232 30 dport=30237
+/ddos udpplain 52.157.249.232 30 dport=30237
+/ddos udp 52.157.249.232 30 dport=30237
+/ddos udp 20.50.152.235 30 dport=30025
+/getbots
+/ddos udpplain 20.50.152.235 30 dport=30025
+/ddos udpplain 20.50.152.235 30 dport=30025
+/ddos udpplain 51.124.82.109 90 dport=30033
+/ddos udp 51.124.82.109 30 dport=30033
+/ddos udpplain 51.124.82.109 90 dport=30033
+/ddos udp 51.124.82.109 30 dport=30033
+/ddos udpplain 51.124.82.109 30 dport=30033
+/getbots
+/ddos udpplain 20.54.138.184 30 dport=30125
+/ddos udp 20.54.138.184 30 dport=30125
+/ddos udpplain 52.157.249.180 200 dport=30228
+/ddos udpplain 52.157.249.180 200 dport=30228
+/ddos udp 52.157.249.180 30 dport=30228
+/ddos udp 52.157.249.180 300 dport=30228
+/getbots
+/ddos udp 52.157.249.180 300 dport=30228
+/ddos udpplain 52.157.249.180 300 dport=30228
+/ddos udpplain 52.157.249.180 300 dport=30228
+/ddos udpplain 51.124.130.225 30 dport=30205
+/getbots
+/tr4p
+/methods
+/ddos udpplain 20.54.136.238 30 dport=30001
+/ddos udpplain 20.54.136.238 30 dport=30001
+/ddos udp 20.54.136.100 300 dport=30136
+/ddos udpplain 20.54.136.100 300 dport=30136
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/checkbot
+/getbots
+/ddos udpplain 51.137.27.11 180 dport=30230
+/ddos udpplain 51.137.27.11 180 dport=30230
+/ddos udp 51.137.27.11 200 dport=30230
+/ddos udpplain 51.137.27.11 200 dport=30230
+/ddos udpplain 104.45.69.51 180 dport=30240
+/ddos udp 104.45.69.51 180 dport=30240
+/ddos udpplain 104.45.69.51 180 dport=30240
+/ddos udpplain 104.45.69.51 30 dport=30240
+/ddos udp 51.105.125.217 30 dport=30022
+/ddos udpplain 51.105.125.217 30 dport=30022
+/ddos udpplain 51.105.125.217 180 dport=30022
+/ddos udp 51.105.125.217 180 dport=30022
+/getbots
+/ddos udpplain 51.105.125.217 180 dport=30022
+/ddos udp 51.105.125.217 180 dport=30022
+/ddos udpplain 20.54.139.149 180dport=30026
+/ddos udpplain 20.54.139.149 180 dport=30026
+/ddos udpplain 20.54.139.149 180 dport=30026
+/getbots
+/ddos udpplain 20.54.139.149 180 dport=30026
+/ddos udp 20.54.139.149 30 dport=30026
+/ddos udp 20.54.139.149 300 dport=30026
+/ddos udpplain 52.143.14.201 180 dport=30048
+/ddos udp 52.143.14.201 30 dport=30048
+/ddos udpplain 52.143.14.201 180 dport=30048
+/ddos udpplain 52.143.14.201 180 dport=30048
+/ddos udpplain 52.143.14.201 180 dport=30048
+/ddos udp 52.143.14.201 30 dport=30048
+/ddos udp 52.143.14.201 30 dport=30048
+/ddos udp 52.143.14.201 30 dport=30048
+/getbots
+/ddos udp 52.143.14.201 30 dport=30048
+/ddos udpplain 20.54.131.87 180 dport=30012
+/ddos udpplain 20.54.131.87 180 dport=30012
+/ddos udpplain 20.54.131.87 180 dport=30012
+/ddos udp 20.54.131.87 30 dport=30012
+/ddos udp 20.54.131.87 300 dport=30012
+/ddos udpplain 52.143.2.88 120 dport=30022
+/ddos udpplain 20.54.140.230 120 dport=30011
+/ddos udpplain 20.54.140.230 120 dport=30011
+/ddos udp 20.54.140.230 300 dport=30011
+/ddos udp 20.54.140.230 300 dport=30011
+/ddos udp 20.54.140.230 200 dport=30011
+/getbots
+/ddos udp 20.54.140.230 300 dport=30011
+/ddos udp 20.54.140.230 30 dport=30011
+/ddos udp 20.54.140.230 300 dport=30011
+/ddos udpplain 20.54.140.230 300 dport=30011
+/ddos udpplain 20.54.140.230 300 dport=30011
+/ddos udpplain 20.54.140.20 60 dport=30024
+/ddos udpplain 20.54.140.20 60 dport=30024
+/ddos udpplain 20.54.140.20 60 dport=30024
+/ddos udpplain 20.54.140.20 180 dport=30024
+/ddos udp 20.54.140.20 180 dport=30024
+/ddos udp 20.54.140.20 180 dport=30024
+/ddos udp 20.54.140.20 180 dport=30024
+/ddos udp 20.54.140.20 180 dport=30024
+/ddos udp 20.54.140.20 180 dport=30024
+/ddos udp 20.54.140.20 180 dport=30024
+/ddos udp 20.54.140.20 180 dport=30024
+/getbots
+/getbots
+/getbots
+/ddos udp 20.54.140.20 180 dport=30024
+/ddos udpplain 20.54.140.20 180 dport=30024
+/ddos udpplain 20.54.140.20 180 dport=30024
+/ddos udp 20.54.140.20 180 dport=30024
+/ddos udp 20.50.54.12 30 dport=30048
+/ddos udp 20.50.54.12 30 dport=30048
+/ddos udpplain 20.50.54.12 30 dport=30048
+/ddos udpplain 20.50.54.12 300 dport=30048
+/ddos udpplain 20.50.54.12 300 dport=30048
+/getbots
+/ddos udp 20.54.132.124 300 dport=30005
+/ddos udp 20.54.132.124 300 dport=30005
+/ddos udpplain 20.54.132.124 300 dport=30005
+/ddos udp 20.50.240.149 30 dport=30040
+/ddos udpplain 20.54.132.124 300 dport=30005
+/ddos udp 20.54.133.12 30 dport=30030
+/ddos udpplain 20.54.133.12 30 dport=30030
+/getbots
+/getbots
+/methods
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/methods
+/ddos udpplain 51.105.109.76 30 dport=30009
+/ddos mudpplain 51.105.109.76 30 dport=30009
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/ddos udp 20.54.138.246 180 30003
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/ddos udpplain 20.50.227.42 180 30026
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/ddos udp 20.50.170.13 180 dport=30019
+/ddos udp 40.114.171.39 300 30000
+/ddos udp 40.114.171.39 300 30000
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/status
+/info
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots

@@ -1,0 +1,5 @@
+[Fri Aug 14 2020 07:47:42 GMT-1100 (Samoa Standard Time)] /tr4p
+[Sat Aug 15 2020 08:43:32 GMT-1100 (Samoa Standard Time)] //ping
+[Sat Aug 15 2020 08:43:56 GMT-1100 (Samoa Standard Time)] /phishoptions
+[Sat Aug 15 2020 08:44:50 GMT-1100 (Samoa Standard Time)] /phish snapchat
+[Sat Aug 15 2020 09:40:49 GMT-1100 (Samoa Standard Time)] /DDoS kraken Udp 173.254.5.238 120

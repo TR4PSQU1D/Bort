@@ -1,0 +1,18 @@
+/tr4p
+/tr4p
+/getplan
+/ping
+/ping 1.1.1.1
+/tr4p
+/s
+/admin
+/tr4p
+/sms
+/accounts
+/steamcode
+/ping
+/ping 78.9.223.76
+/tr4p
+/methods
+[Sat Aug 15 2020 10:40:14 GMT-1100 (Samoa Standard Time)] /ddos
+[Sat Aug 15 2020 10:41:00 GMT-1100 (Samoa Standard Time)] /ddos kraken squid synhcf.net 1200 19132

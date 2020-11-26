@@ -1,0 +1,5 @@
+[Sat Aug 15 2020 23:23:56 GMT-1100 (Samoa Standard Time)] /methods
+[Sat Aug 15 2020 23:24:13 GMT-1100 (Samoa Standard Time)] /vpn
+[Sat Aug 15 2020 23:25:21 GMT-1100 (Samoa Standard Time)] /methods
+[Sat Aug 15 2020 23:53:05 GMT-1100 (Samoa Standard Time)] /help
+[Sun Aug 16 2020 10:15:40 GMT-1100 (Samoa Standard Time)] /ddos kraken udp 98.239.186.124 120

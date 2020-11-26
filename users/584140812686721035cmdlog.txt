@@ -1,0 +1,3 @@
+[Thu Aug 27 2020 20:46:45 GMT-1100 (Samoa Standard Time)] /help
+[Thu Aug 27 2020 20:47:19 GMT-1100 (Samoa Standard Time)] /did
+[Thu Aug 27 2020 20:47:26 GMT-1100 (Samoa Standard Time)] /ddos

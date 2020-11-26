@@ -1,0 +1,4 @@
+/accounts
+/steamcode
+/xboxcode
+/xboxcode

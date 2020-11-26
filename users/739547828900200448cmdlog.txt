@@ -1,0 +1,7 @@
+[Sat Aug 15 2020 09:07:38 GMT-1100 (Samoa Standard Time)] /plans
+[Thu Aug 27 2020 00:19:04 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Thu Aug 27 2020 00:20:50 GMT-1100 (Samoa Standard Time)] /vpn
+[Thu Aug 27 2020 00:33:49 GMT-1100 (Samoa Standard Time)] /mega
+[Thu Aug 27 2020 00:42:00 GMT-1100 (Samoa Standard Time)] /lag UDP 94.192.90.51 15 15 10 80
+[Thu Aug 27 2020 00:42:23 GMT-1100 (Samoa Standard Time)] /lag udp 94.192.90.51 15 15 10 80
+[Thu Aug 27 2020 00:43:12 GMT-1100 (Samoa Standard Time)] /steamcode

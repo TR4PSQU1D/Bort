@@ -1,0 +1,14 @@
+/plan
+/plans
+/bugbounty
+/servers
+/methods
+/plans
+/plan
+/check servers
+/checkservers
+/ddos kraken squid 73.152.20.195 3600
+/plan
+/claim TRZTRUI3aRlShzRYU22G50tqlOgwnXwNr2VldEzPu0PzXYfRLl
+/claim TRz2Ohuf7e2bS63jCIo42wV2S0YTferBekBQIWW7tTUpblDZiw
+/Xboxcode

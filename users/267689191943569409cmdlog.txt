@@ -1,0 +1,12 @@
+/ping 67.232.203.77
+[Sat Aug 22 2020 06:35:11 GMT-1100 (Samoa Standard Time)] /dbget Misa#2215
+[Sat Aug 22 2020 06:35:59 GMT-1100 (Samoa Standard Time)] /help
+[Sat Aug 22 2020 06:36:13 GMT-1100 (Samoa Standard Time)] /dbget Misa#2215
+[Sat Aug 22 2020 06:36:20 GMT-1100 (Samoa Standard Time)] /dbget <@267689191943569409>
+[Sat Aug 22 2020 06:36:48 GMT-1100 (Samoa Standard Time)] /vpn
+[Sat Aug 22 2020 06:37:11 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Sat Aug 22 2020 06:38:47 GMT-1100 (Samoa Standard Time)] /hitlist
+[Sat Aug 22 2020 06:38:56 GMT-1100 (Samoa Standard Time)] /methods
+[Sat Aug 22 2020 06:40:01 GMT-1100 (Samoa Standard Time)] /DDoS 67.232.203.77 udp 10 80
+[Sat Aug 22 2020 06:41:01 GMT-1100 (Samoa Standard Time)] /ddos udp 67.232.203.77 10 80
+[Sat Aug 22 2020 06:42:22 GMT-1100 (Samoa Standard Time)] /ping 67.232.203.77

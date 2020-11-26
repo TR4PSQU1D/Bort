@@ -1,0 +1,14 @@
+/tr4p
+/plan
+/tr4p
+/sms
+/plan
+/xboxcode 6000
+[Wed Aug 12 2020 22:40:16 GMT-1100 (Samoa Standard Time)] /plan
+[Mon Aug 17 2020 23:06:05 GMT-1100 (Samoa Standard Time)] /ddos udp 1.1.1.1
+[Mon Aug 17 2020 23:06:21 GMT-1100 (Samoa Standard Time)] /ddos upd 121.21.291.12
+[Mon Aug 17 2020 23:06:33 GMT-1100 (Samoa Standard Time)] /ddos upd 121.21.241.12
+[Mon Aug 17 2020 23:06:48 GMT-1100 (Samoa Standard Time)] /tr4p
+[Mon Aug 17 2020 23:06:59 GMT-1100 (Samoa Standard Time)] /plan
+[Mon Aug 17 2020 23:07:13 GMT-1100 (Samoa Standard Time)] /ddos upd 121.21.241.12
+[Mon Aug 17 2020 23:07:50 GMT-1100 (Samoa Standard Time)] /ddos upd 121.21.241.12 5

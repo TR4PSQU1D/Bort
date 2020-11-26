@@ -1,0 +1,42 @@
+/ddos std 1.1.1.1
+/
+/tr4p
+/plans
+/claim KEY
+/plans
+/getplan <@681659917752467497>
+/info
+/plan
+/plans
+[Tue Aug 04 2020 02:41:40 GMT-1100 (Samoa Standard Time)] /ping 5.152.126.89
+[Tue Aug 04 2020 02:43:16 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 5.152.126.89 300 51
+[Tue Aug 04 2020 02:43:38 GMT-1100 (Samoa Standard Time)] /ping 5.152.126.89
+[Wed Aug 05 2020 13:24:29 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 86.184.106.123 1000 51
+[Wed Aug 05 2020 17:26:14 GMT-1100 (Samoa Standard Time)] /ping 144.217.195.62
+[Wed Aug 05 2020 17:29:22 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh-smash 144.217.195.62 600 443
+[Wed Aug 05 2020 17:29:42 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh-smash 144.217.195.62 120 443
+[Wed Aug 05 2020 17:38:31 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh-smash 45.61.142.22 120 443
+[Wed Aug 05 2020 18:18:44 GMT-1100 (Samoa Standard Time)] /ping 144.217.195.62
+[Wed Aug 05 2020 18:19:37 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh-smash 144.217.195.62 120 443
+[Wed Aug 05 2020 18:20:59 GMT-1100 (Samoa Standard Time)] /ping 45.61.142.22
+[Fri Aug 07 2020 10:23:02 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh-smash 143.159.238.21 120 51
+[Sat Aug 08 2020 08:41:30 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh-smash 51.81.79.97 120 22
+[Sat Aug 08 2020 14:04:35 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 65.24.119.193 3600 51
+[Sat Aug 08 2020 17:35:46 GMT-1100 (Samoa Standard Time)] /ping 73.141.216.220
+[Sun Aug 09 2020 15:34:54 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh-smash 192.223.27.9 120 1194
+[Tue Aug 11 2020 02:11:56 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 134.209.116.186 120 80
+[Tue Aug 11 2020 15:22:38 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh-smash 167.114.178.140 120 63214
+[Sat Aug 15 2020 12:02:28 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh-smash 199.195.117.19 300 443
+[Sat Aug 15 2020 12:02:47 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh-smash 199.195.117.19 120 443
+[Sat Aug 15 2020 12:02:47 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sat Aug 15 2020 12:03:40 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh-smash 213.248.83.253 120 443
+[Sat Aug 15 2020 12:03:40 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sat Aug 15 2020 12:05:41 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh-smash 62.115.113.35 120 51
+[Sat Aug 15 2020 12:05:41 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sat Aug 15 2020 12:19:53 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 68.163.79.10 120 51
+[Sat Aug 15 2020 12:19:53 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 27 2020 16:48:53 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 24.167.198.9 120 51
+[Thu Aug 27 2020 16:49:00 GMT-1100 (Samoa Standard Time)] /captcha
+[Thu Aug 27 2020 16:49:15 GMT-1100 (Samoa Standard Time)] /captcha answer
+[Thu Aug 27 2020 16:49:37 GMT-1100 (Samoa Standard Time)] /captcha
+[Thu Aug 27 2020 16:49:56 GMT-1100 (Samoa Standard Time)] /captcha answer 84

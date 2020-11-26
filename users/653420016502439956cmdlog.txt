@@ -1,0 +1,3 @@
+/ddos udp 73.128.6.72 30 dport=80
+/plan
+/vpn

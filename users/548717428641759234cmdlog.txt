@@ -1,0 +1,2 @@
+[Thu Aug 20 2020 17:35:03 GMT-1100 (Samoa Standard Time)] /ddos kraken squid  98.197.137.202 120
+[Fri Aug 21 2020 10:12:34 GMT-1100 (Samoa Standard Time)] /mega

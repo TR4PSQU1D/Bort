@@ -1,0 +1,6 @@
+[Mon Aug 17 2020 14:16:19 GMT-1100 (Samoa Standard Time)] /plans
+[Mon Aug 17 2020 14:16:28 GMT-1100 (Samoa Standard Time)] /methods
+[Mon Aug 17 2020 14:17:23 GMT-1100 (Samoa Standard Time)] /sms
+[Mon Aug 17 2020 14:20:33 GMT-1100 (Samoa Standard Time)] /ping 40.90.10.180
+[Mon Aug 17 2020 14:23:32 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 82.47.113.78 80
+[Mon Aug 17 2020 14:27:45 GMT-1100 (Samoa Standard Time)] /vpn

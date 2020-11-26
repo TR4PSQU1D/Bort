@@ -1,0 +1,48 @@
+[Fri Aug 21 2020 00:04:26 GMT-1100 (Samoa Standard Time)] /ps4code
+[Fri Aug 21 2020 00:05:00 GMT-1100 (Samoa Standard Time)] /methods
+[Fri Aug 21 2020 00:05:56 GMT-1100 (Samoa Standard Time)] /ping IP_ADDRESS 192.168.0.1
+[Fri Aug 21 2020 00:06:28 GMT-1100 (Samoa Standard Time)] /ping IP_ADDRESS 10.59.20.1
+[Fri Aug 21 2020 00:07:24 GMT-1100 (Samoa Standard Time)] /ping IP_ADDRESS 10.59.21.46
+[Fri Aug 21 2020 00:09:58 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 10.59.20.1
+[Fri Aug 21 2020 00:11:57 GMT-1100 (Samoa Standard Time)] /ddos udp 10.59.20.1 50
+[Fri Aug 21 2020 00:13:23 GMT-1100 (Samoa Standard Time)] /DDoS {kraken} {udp} {1.1.1.1} {40}
+[Fri Aug 21 2020 00:14:49 GMT-1100 (Samoa Standard Time)] /ddos kraken udp 1.1.1.1 30
+[Fri Aug 21 2020 00:14:57 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 68.131.72.192 120
+[Fri Aug 21 2020 00:15:07 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 68.131.72.192 120
+[Fri Aug 21 2020 00:15:25 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 68.131.72.192 120
+[Fri Aug 21 2020 00:16:03 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 68.131.72.192 120
+[Fri Aug 21 2020 00:17:10 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 1.1.1.1 120
+[Fri Aug 21 2020 00:17:56 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 10.59.20.1 120
+[Fri Aug 21 2020 03:06:15 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 85.190.156.94 120 10005
+[Fri Aug 21 2020 03:06:42 GMT-1100 (Samoa Standard Time)] /accounts
+[Fri Aug 21 2020 03:07:02 GMT-1100 (Samoa Standard Time)] /steamcode
+[Fri Aug 21 2020 03:08:02 GMT-1100 (Samoa Standard Time)] /vpn
+[Fri Aug 21 2020 03:09:45 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Fri Aug 21 2020 04:29:57 GMT-1100 (Samoa Standard Time)] /Ddos udp 10.59.20.1 30 80
+[Fri Aug 21 2020 04:30:34 GMT-1100 (Samoa Standard Time)] /Ddos udp 1.1.1.1 30 80
+[Fri Aug 21 2020 04:31:12 GMT-1100 (Samoa Standard Time)] /Ddos udp 192.168.0.1 30 80
+[Fri Aug 21 2020 06:11:18 GMT-1100 (Samoa Standard Time)] /help
+[Fri Aug 21 2020 06:12:00 GMT-1100 (Samoa Standard Time)] /plans
+[Fri Aug 21 2020 06:12:15 GMT-1100 (Samoa Standard Time)] /plans lifetime
+[Fri Aug 21 2020 06:12:52 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 104.54.167.116 120
+[Fri Aug 21 2020 06:13:48 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 192.168.124 30
+[Fri Aug 21 2020 06:14:45 GMT-1100 (Samoa Standard Time)] /plans extended
+[Fri Aug 21 2020 06:15:08 GMT-1100 (Samoa Standard Time)] /plans standard
+[Fri Aug 21 2020 06:15:46 GMT-1100 (Samoa Standard Time)] /bugbounty
+[Fri Aug 21 2020 06:16:38 GMT-1100 (Samoa Standard Time)] /accounts
+[Fri Aug 21 2020 06:18:27 GMT-1100 (Samoa Standard Time)] /steamcode
+[Fri Aug 21 2020 06:18:32 GMT-1100 (Samoa Standard Time)] /steamcode
+[Fri Aug 21 2020 06:18:33 GMT-1100 (Samoa Standard Time)] /steamcode
+[Fri Aug 21 2020 06:18:34 GMT-1100 (Samoa Standard Time)] /steamcode/steamcode
+[Fri Aug 21 2020 06:18:34 GMT-1100 (Samoa Standard Time)] /steamcode/steamcode
+[Fri Aug 21 2020 19:18:49 GMT-1100 (Samoa Standard Time)] /vpn
+[Fri Aug 21 2020 19:18:55 GMT-1100 (Samoa Standard Time)] /vpn
+[Fri Aug 21 2020 19:18:59 GMT-1100 (Samoa Standard Time)] /vpn
+[Fri Aug 21 2020 19:19:02 GMT-1100 (Samoa Standard Time)] /vpn
+[Fri Aug 21 2020 19:19:05 GMT-1100 (Samoa Standard Time)] /vpn
+[Fri Aug 21 2020 19:25:11 GMT-1100 (Samoa Standard Time)] /vpn
+[Fri Aug 21 2020 19:25:16 GMT-1100 (Samoa Standard Time)] /vpn
+[Fri Aug 21 2020 19:25:19 GMT-1100 (Samoa Standard Time)] /vpn
+[Fri Aug 21 2020 19:25:24 GMT-1100 (Samoa Standard Time)] /vpn
+[Fri Aug 21 2020 19:25:30 GMT-1100 (Samoa Standard Time)] /vpn
+[Fri Aug 21 2020 19:25:34 GMT-1100 (Samoa Standard Time)] /vpn

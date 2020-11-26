@@ -1,0 +1,23 @@
+/lag
+/DDOS  LDAP 73.22.13.50 10
+/accounts
+/vpn
+/steamcode
+/vpn
+/methods
+/DDOS UDP 73.22.12.50 10
+/DDOS udp 73.22.12.50 10
+/DDOS udp 73.22.12.50 30
+/DDOS ack 73.22.12.50 80 30
+/ping 73.22.12.50
+/DDoS stdhex 73.22.12.50
+/vpn
+/steam
+/steam
+/Xbox
+/steamed
+/steam
+/steam
+/steam
+/plans
+/steamcode

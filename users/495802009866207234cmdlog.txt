@@ -1,0 +1,30 @@
+/spotify
+/t4rp
+/accounts
+/spotify
+/vpn
+/t4rp
+/spotify
+/vpn
+/ping 35.237.4.214
+/nmap 35.237.4.214 21
+/nmapresult
+/nmapresult
+/DDoS
+/spotify
+/DDoS
+/DDoS UDPMIX 35.237.4.214 21 300 21
+/DDoS UDPMIX 35.237.4.214 300 21
+/DDoS INTERNET UDPMIX 35.237.4.214 21 300 21
+/DDoS 35.237.4.214 80
+/methods
+/ddos 35.237.4.214 21
+/ddos 35.237.4.214 500 80
+/spotify
+[Thu Aug 06 2020 04:31:56 GMT-1100 (Samoa Standard Time)] /nordvpn
+[Thu Aug 06 2020 04:32:03 GMT-1100 (Samoa Standard Time)] /accounts
+[Thu Aug 06 2020 04:32:13 GMT-1100 (Samoa Standard Time)] /vpn
+[Thu Aug 06 2020 04:32:17 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Thu Aug 06 2020 04:32:28 GMT-1100 (Samoa Standard Time)] /steamcode
+[Thu Aug 06 2020 04:34:30 GMT-1100 (Samoa Standard Time)] /steamcode
+[Thu Aug 06 2020 04:34:54 GMT-1100 (Samoa Standard Time)] /claim ENQ0N-UNTGK-WX1I5-5BFBM

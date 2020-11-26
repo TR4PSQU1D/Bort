@@ -1,0 +1,1 @@
+[Mon Aug 17 2020 13:31:47 GMT-1100 (Samoa Standard Time)] /ddos kraken udp 84.117.143.113 60

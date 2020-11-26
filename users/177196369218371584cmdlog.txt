@@ -1,0 +1,12 @@
+/tr4p
+/dbadd MYGRANE4800
+/info
+/lag
+/bugbounty
+/hitlist
+/checkip
+/checkip 108.65.170.7
+/dbsearch MYGRANE4800
+/plan
+/plans
+/accounts

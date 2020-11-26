@@ -1,0 +1,49 @@
+[Wed Aug 26 2020 17:31:53 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Wed Aug 26 2020 17:32:32 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 26 2020 17:36:37 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 26 2020 17:39:14 GMT-1100 (Samoa Standard Time)] /obj
+[Wed Aug 26 2020 17:45:02 GMT-1100 (Samoa Standard Time)] /Xbox
+[Wed Aug 26 2020 17:46:13 GMT-1100 (Samoa Standard Time)] /VPN
+[Wed Aug 26 2020 17:51:33 GMT-1100 (Samoa Standard Time)] /hit
+[Wed Aug 26 2020 17:51:45 GMT-1100 (Samoa Standard Time)] /hitlist
+[Wed Aug 26 2020 17:53:08 GMT-1100 (Samoa Standard Time)] /hulu
+[Wed Aug 26 2020 17:53:26 GMT-1100 (Samoa Standard Time)] /Hulu
+[Wed Aug 26 2020 17:54:02 GMT-1100 (Samoa Standard Time)] /netflix
+[Wed Aug 26 2020 17:54:25 GMT-1100 (Samoa Standard Time)] /check IP address
+[Wed Aug 26 2020 17:58:44 GMT-1100 (Samoa Standard Time)] /Hulu
+[Wed Aug 26 2020 18:01:59 GMT-1100 (Samoa Standard Time)] /botnet
+[Wed Aug 26 2020 18:02:25 GMT-1100 (Samoa Standard Time)] /ip Faked Raid
+[Wed Aug 26 2020 18:03:05 GMT-1100 (Samoa Standard Time)] /lag
+[Wed Aug 26 2020 18:07:20 GMT-1100 (Samoa Standard Time)] /lag UPD 76.110.155.69 5 120 3 80
+[Wed Aug 26 2020 18:08:39 GMT-1100 (Samoa Standard Time)] /lag DNS 76.110.155.69 5 120 3 80
+[Wed Aug 26 2020 18:09:11 GMT-1100 (Samoa Standard Time)] /lag ACK 76.110.155.69 5 120 3 80
+[Wed Aug 26 2020 18:09:35 GMT-1100 (Samoa Standard Time)] /lag LDAP 76.110.155.69 5 120 3 80
+[Wed Aug 26 2020 18:10:39 GMT-1100 (Samoa Standard Time)] /ddos 76.110.155.69 120
+[Wed Aug 26 2020 18:10:56 GMT-1100 (Samoa Standard Time)] /captcha
+[Wed Aug 26 2020 18:11:23 GMT-1100 (Samoa Standard Time)] /captcha answer
+[Wed Aug 26 2020 18:11:35 GMT-1100 (Samoa Standard Time)] /captcha reset
+[Wed Aug 26 2020 18:12:02 GMT-1100 (Samoa Standard Time)] /captcha answer 84
+[Wed Aug 26 2020 18:12:13 GMT-1100 (Samoa Standard Time)] /ddos 76.110.155.69 120
+[Wed Aug 26 2020 18:12:37 GMT-1100 (Samoa Standard Time)] /ddos 76.110.155.69 120
+[Wed Aug 26 2020 18:13:33 GMT-1100 (Samoa Standard Time)] /ddos squid 76.110.155.69 120
+[Wed Aug 26 2020 18:14:20 GMT-1100 (Samoa Standard Time)] /ddos 68.226.231.199 120
+[Wed Aug 26 2020 18:14:33 GMT-1100 (Samoa Standard Time)] /ddos squid 68.226.231.199 120
+[Wed Aug 26 2020 18:15:13 GMT-1100 (Samoa Standard Time)] /ddos squid 68.226.231.199 80 120
+[Wed Aug 26 2020 18:16:02 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 68.226.231.199 80 120
+[Wed Aug 26 2020 18:16:15 GMT-1100 (Samoa Standard Time)] /ddos squid 68.226.231.199 80 15
+[Wed Aug 26 2020 18:16:22 GMT-1100 (Samoa Standard Time)] /ddos squid 68.226.231.199 80 120
+[Wed Aug 26 2020 18:35:47 GMT-1100 (Samoa Standard Time)] /stress them.to
+[Wed Aug 26 2020 18:35:54 GMT-1100 (Samoa Standard Time)] /account
+[Wed Aug 26 2020 18:36:04 GMT-1100 (Samoa Standard Time)] /info
+[Wed Aug 26 2020 18:36:25 GMT-1100 (Samoa Standard Time)] /checknet
+[Wed Aug 26 2020 18:42:57 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 73.167.39.0 80 120
+[Wed Aug 26 2020 18:43:23 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 73.167.39.0 80 15
+[Wed Aug 26 2020 18:43:41 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 73.167.39.0 15
+[Wed Aug 26 2020 20:01:30 GMT-1100 (Samoa Standard Time)] /mega
+[Wed Aug 26 2020 20:08:25 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Wed Aug 26 2020 20:08:56 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Thu Aug 27 2020 10:14:01 GMT-1100 (Samoa Standard Time)] /vpn
+[Thu Aug 27 2020 10:14:20 GMT-1100 (Samoa Standard Time)] /hulu
+[Thu Aug 27 2020 12:07:42 GMT-1100 (Samoa Standard Time)] /VPN
+[Thu Aug 27 2020 17:48:02 GMT-1100 (Samoa Standard Time)] /hul
+[Thu Aug 27 2020 17:48:06 GMT-1100 (Samoa Standard Time)] /Hulu

@@ -1,0 +1,12 @@
+/accounts
+/steamcode
+/ddos no one cuz i dont ddos
+/ddos 1.1.1.1 10 80
+/ddos 9.9.9.9 10 80
+/ddos 23.220.242.86 10 80
+/checkip 172.58.38.230
+[Wed Jul 29 2020 14:58:59 GMT-1100 (Samoa Standard Time)] /checkip 69.181.99.15
+[Wed Jul 29 2020 15:43:25 GMT-1100 (Samoa Standard Time)] /checkip 66.70.162.214
+[Mon Aug 17 2020 03:39:36 GMT-1100 (Samoa Standard Time)] /ping 73.191.181.31
+[Fri Aug 21 2020 23:37:37 GMT-1100 (Samoa Standard Time)] /hulu
+[Fri Aug 21 2020 23:39:07 GMT-1100 (Samoa Standard Time)] /methods

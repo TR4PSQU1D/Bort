@@ -1,0 +1,8 @@
+[Sun Aug 16 2020 21:53:37 GMT-1100 (Samoa Standard Time)] /checkip IP
+68.191.110.34
+[Sun Aug 16 2020 21:53:52 GMT-1100 (Samoa Standard Time)] /checkip IP
+68.191.110.34
+[Sun Aug 16 2020 21:58:09 GMT-1100 (Samoa Standard Time)] /check ip 68.191.110.34
+[Sun Aug 16 2020 21:58:46 GMT-1100 (Samoa Standard Time)] /check ip 68.191.110.34
+[Sun Aug 16 2020 21:59:52 GMT-1100 (Samoa Standard Time)] /check Ip 198.178.888.34
+[Sun Aug 16 2020 22:00:53 GMT-1100 (Samoa Standard Time)] /check ip 68.78.86.142

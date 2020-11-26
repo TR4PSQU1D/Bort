@@ -1,0 +1,3 @@
+/checkip 66.70.162.214
+/reboot
+/skid

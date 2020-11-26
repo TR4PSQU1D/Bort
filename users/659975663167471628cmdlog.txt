@@ -1,0 +1,217 @@
+/plans
+/tr4p
+/xboxcode
+/xboxcode
+/accounts
+/hulu
+/xboxcode
+/xboxcode
+/bob
+/vpn
+/vpn
+/xboxcode
+/vpn
+/vpn
+/methods
+/ping
+/check up
+/plans
+/trial
+/plans
+/check ip 67.149.144.125
+/checkip 67.149.144.125
+/methods
+/plans
+/info
+/ddos
+/plans
+/hulu
+/ping 192.0.2.1
+/sms
+/plan
+/plan <@634361766347800576>
+/plans
+/methods
+/plans
+/methods
+/plans
+/methods
+/checkip 1.1.1.1
+/methods
+/plan
+//ddos syn
+/plans
+/pingip
+/ping 51.161.23.190
+/plan
+/ddos 1.1.1.1
+/checkip 1.1.1.1
+/tr4p
+/vpn
+/accounts
+/mega
+/xboxcode
+/Xboxcode
+/xboxcode
+/methods
+/checkip 31.13.115.18
+/ddos kraken/Godzilla squid 1.1.1.1 1
+/methods
+/hitlist
+/plan
+/accounts
+/steam code
+/steamcode
+/methods
+/prices
+/plans
+/vpn
+/serverinfo
+/pingip 96.228.36.116
+/ping 96.228.36.116
+/serverinfo
+/methods
+/plans
+/plans
+/plans
+/plans
+/plans
+/iplogger
+/ddos
+/pingip 8.8.8.8
+/ping 8.8.8.8
+/ddos
+/iplogger
+/methods
+/plans
+/claimkey TRU63AIglyQuSHOHqNrGUNA1D7xVMSQ4gDrxINgVyrMeQOocV6
+/claimkey TRU63AIglyQuSHOHqNrGUNA1D7xVMSQ4gDrxINgVyrMeQOocV6
+/claimkey TRQ8Rvw7VpV0oteT4YQJBWVBUKhsnlmvUBwgrHH3w7S6vhygwM
+/claimkey TRQ8Rvw7VpV0oteT4YQJBWVBUKhsnlmvUBwgrHH3w7S6vhygwM
+/plan
+/tr4p
+/getplan <@655495567018950731>
+/check 1.1.1.1
+/getplan <@734357160066154543>
+/plans
+/claim TRHr1BcRdr1E5JYf8onL6VefUc5Q6O18dAVHbGogiP0FkS2Us2
+/claimkey TRHr1BcRdr1E5JYf8onL6VefUc5Q6O18dAVHbGogiP0FkS2Us2
+/claim TRHr1BcRdr1E5JYf8onL6VefUc5Q6O18dAVHbGogiP0FkS2Us2
+/accounts
+/hulu
+/vpn
+/accounts
+/hulu
+/hulu
+/claim TR2bkcWnQiU5J4uC36Dd9yfl6Fwnq8u02n7vUh8yQ99oB6UqHC
+/plan
+/plan
+/iplogger
+/plan
+/ddos
+/info
+/creators
+/plans
+/servers
+/checkservers
+/plan
+/getplan <@305921615282307083>
+/vpn
+/hulu
+/hulu
+/vpn
+/vpn
+/vpn
+/plan
+/ddos
+/ddos kraken std 73.23.154.22 60 73.23.154.22 52461
+/plan
+/claim TRz2Ohuf7e2bS63jCIo42wV2S0YTferBekBQIWW7tTUpblDZiw
+/plans
+/checkservers
+/ping 128.116.42.100
+/methods
+/ddos
+/ddos kraken udp 128.116.42.100 80 52418
+/pingip 8.8.8.8
+/ddos
+/plan
+/claim TRZTRUI3aRlShzRYU22G50tqlOgwnXwNr2VldEzPu0PzXYfRLl
+/plan
+/claim
+/tr4p
+/claim PLPAamTB3EP9CoqqA6MUV73UsGSrtaW3jR5Lco3VsgAfINf87R
+/claim PLPAamTB3EP9CoqqA6MUV73UsGSrtaW3jR5Lco3VsgAfINf87R
+/claim PLPAamTB3EP9CoqqA6MUV73UsGSrtaW3jR5Lco3VsgAfINf87R
+/plan
+[Wed Jul 29 2020 09:07:21 GMT-1100 (Samoa Standard Time)] /help
+[Thu Jul 30 2020 15:54:27 GMT-1100 (Samoa Standard Time)] /nmap 73.101.154.135
+[Thu Jul 30 2020 15:55:19 GMT-1100 (Samoa Standard Time)] /nmapresult
+[Thu Jul 30 2020 15:55:45 GMT-1100 (Samoa Standard Time)] /nmapresult
+[Thu Jul 30 2020 15:56:12 GMT-1100 (Samoa Standard Time)] /nmapresult
+[Thu Jul 30 2020 15:56:58 GMT-1100 (Samoa Standard Time)] / nmapresult
+[Thu Jul 30 2020 15:59:35 GMT-1100 (Samoa Standard Time)] /nmapresult
+[Thu Jul 30 2020 15:59:54 GMT-1100 (Samoa Standard Time)] /nmapresult /nmapresult
+[Thu Jul 30 2020 16:01:08 GMT-1100 (Samoa Standard Time)] /nmapresult 73.101.154.135
+[Thu Jul 30 2020 16:05:04 GMT-1100 (Samoa Standard Time)] /info
+[Thu Jul 30 2020 19:01:46 GMT-1100 (Samoa Standard Time)] /checkip 192.168.1.77
+[Fri Jul 31 2020 11:43:51 GMT-1100 (Samoa Standard Time)] /ping
+[Fri Jul 31 2020 11:51:09 GMT-1100 (Samoa Standard Time)] /ddos
+[Sun Aug 02 2020 09:19:15 GMT-1100 (Samoa Standard Time)] /checkip 8.8.8.8
+[Sun Aug 02 2020 09:22:43 GMT-1100 (Samoa Standard Time)] /bruh
+[Mon Aug 03 2020 08:29:47 GMT-1100 (Samoa Standard Time)] /plan
+[Mon Aug 03 2020 15:59:24 GMT-1100 (Samoa Standard Time)] /ddos
+[Mon Aug 03 2020 16:01:50 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 73.35.172.252 120 21
+[Mon Aug 03 2020 16:02:36 GMT-1100 (Samoa Standard Time)] /ping 73.35.172.252
+[Mon Aug 03 2020 16:15:57 GMT-1100 (Samoa Standard Time)] /ping 73.35.172.252
+[Thu Aug 06 2020 21:56:35 GMT-1100 (Samoa Standard Time)] /vpn
+[Thu Aug 06 2020 21:57:00 GMT-1100 (Samoa Standard Time)] /Xboxcode
+[Sun Aug 09 2020 19:10:44 GMT-1100 (Samoa Standard Time)] /claim TRJgif3s5HorueumW2EL4jMmWf9yg3pMYmdReUuWU0JqjKeJJI
+[Sun Aug 09 2020 19:12:19 GMT-1100 (Samoa Standard Time)] /ddos
+[Sun Aug 09 2020 19:13:10 GMT-1100 (Samoa Standard Time)] /checkip 76.185.225.251
+[Sun Aug 09 2020 19:14:53 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 76.185.225.251 120 80
+[Sun Aug 09 2020 19:15:43 GMT-1100 (Samoa Standard Time)] /ping 76.185.225.251
+[Mon Aug 10 2020 12:29:21 GMT-1100 (Samoa Standard Time)] /hulu
+[Mon Aug 10 2020 12:29:32 GMT-1100 (Samoa Standard Time)] /hulu
+[Mon Aug 10 2020 12:29:52 GMT-1100 (Samoa Standard Time)] /hulu
+[Mon Aug 10 2020 12:33:08 GMT-1100 (Samoa Standard Time)] /hulu
+[Mon Aug 10 2020 12:43:46 GMT-1100 (Samoa Standard Time)] /checkip 167.114.135.26
+[Mon Aug 10 2020 12:54:36 GMT-1100 (Samoa Standard Time)] /hulu
+[Wed Aug 12 2020 08:00:50 GMT-1100 (Samoa Standard Time)] /tr4p
+[Wed Aug 12 2020 09:34:40 GMT-1100 (Samoa Standard Time)] /hulu
+[Wed Aug 12 2020 09:34:56 GMT-1100 (Samoa Standard Time)] /plan <@618291885768704000>
+[Wed Aug 12 2020 09:35:05 GMT-1100 (Samoa Standard Time)] /getplan <@618291885768704000>
+[Wed Aug 12 2020 09:35:33 GMT-1100 (Samoa Standard Time)] /hulu
+[Wed Aug 12 2020 09:35:50 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 12 2020 09:36:33 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 12 2020 09:36:59 GMT-1100 (Samoa Standard Time)] /hulu
+[Thu Aug 13 2020 21:50:33 GMT-1100 (Samoa Standard Time)] /plans
+[Thu Aug 13 2020 21:54:11 GMT-1100 (Samoa Standard Time)] /plans
+[Fri Aug 14 2020 13:51:34 GMT-1100 (Samoa Standard Time)] /ddos
+[Sat Aug 15 2020 13:28:00 GMT-1100 (Samoa Standard Time)] /checkip
+[Sat Aug 15 2020 20:43:02 GMT-1100 (Samoa Standard Time)] /ddos
+[Sat Aug 15 2020 20:43:49 GMT-1100 (Samoa Standard Time)] /getplan <@674631959938465811>
+[Sun Aug 16 2020 08:38:54 GMT-1100 (Samoa Standard Time)] /vpn
+[Sun Aug 16 2020 08:39:51 GMT-1100 (Samoa Standard Time)] /hulu
+[Sun Aug 16 2020 08:40:05 GMT-1100 (Samoa Standard Time)] /hulu
+[Mon Aug 17 2020 06:20:54 GMT-1100 (Samoa Standard Time)] /checkip 153.32.105.67
+[Mon Aug 17 2020 06:32:15 GMT-1100 (Samoa Standard Time)] /ddos
+[Mon Aug 17 2020 06:33:16 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 153.32.105.67 120 80
+[Mon Aug 17 2020 21:51:08 GMT-1100 (Samoa Standard Time)] /plans
+[Mon Aug 17 2020 21:51:22 GMT-1100 (Samoa Standard Time)] /plans standard
+[Mon Aug 17 2020 22:41:45 GMT-1100 (Samoa Standard Time)] /plans extended
+[Mon Aug 17 2020 23:58:57 GMT-1100 (Samoa Standard Time)] /methods
+[Mon Aug 17 2020 23:59:41 GMT-1100 (Samoa Standard Time)] /ping 86.189.176.246
+[Tue Aug 18 2020 00:01:12 GMT-1100 (Samoa Standard Time)] /checkip 86.189.176.246
+[Tue Aug 18 2020 11:44:53 GMT-1100 (Samoa Standard Time)] /nmap
+[Fri Aug 21 2020 06:57:35 GMT-1100 (Samoa Standard Time)] /vpn
+[Fri Aug 21 2020 07:51:20 GMT-1100 (Samoa Standard Time)] /ddos
+[Fri Aug 21 2020 20:18:46 GMT-1100 (Samoa Standard Time)] /ddos
+[Fri Aug 21 2020 20:19:22 GMT-1100 (Samoa Standard Time)] /lag is a separate thing
+[Fri Aug 21 2020 20:19:40 GMT-1100 (Samoa Standard Time)] /lag
+[Fri Aug 21 2020 21:12:17 GMT-1100 (Samoa Standard Time)] /getplan
+[Fri Aug 21 2020 21:14:05 GMT-1100 (Samoa Standard Time)] /checkservers
+[Sat Aug 22 2020 07:03:45 GMT-1100 (Samoa Standard Time)] /db count
+[Sat Aug 22 2020 07:03:59 GMT-1100 (Samoa Standard Time)] /dbcount
+[Wed Aug 26 2020 05:34:12 GMT-1100 (Samoa Standard Time)] /accounts
+[Thu Aug 27 2020 19:20:31 GMT-1100 (Samoa Standard Time)] /iplogger

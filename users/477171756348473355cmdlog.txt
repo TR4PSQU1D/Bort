@@ -1,0 +1,20 @@
+/Xboxcode
+/ping 1.1.1.1
+/lag
+/help
+/tr4p
+/methods
+/plans
+/change plan <@477171756348473355> 20
+/steam code
+/check ip 38.128.66.45
+/tr4p
+/accounts
+/mega
+/xboxcode
+/DDoS xmas 91.110.71.148 20
+/Spotify
+/boot owner
+/dbfind FreizaYT
+/dbsearch FreizaYT
+/Xboxcode

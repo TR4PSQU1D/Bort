@@ -1,0 +1,7 @@
+/ddos std 71.194.202.114 120 dport=6672
+/checkip 71.194.202.114
+/ddos std 68.203.149.135 1200
+/ping 68.203.149.135
+/phish instagram
+/checkip 41.113.12.33
+/checkip 64.94.100.224

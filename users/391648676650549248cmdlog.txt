@@ -1,0 +1,7 @@
+/gen hulu
+/methods
+/vpm
+/vpn
+/hulu
+/accounts
+/sms

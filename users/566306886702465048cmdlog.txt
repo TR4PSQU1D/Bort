@@ -1,0 +1,7 @@
+/xboxcode
+/DDoS tcp 45.141.247.232 50 21
+/nuke
+/DDoS dns 191929292929 100 3074
+/plans
+/ping 76.116.95.1
+/ping 77.99.108.244

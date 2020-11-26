@@ -1,0 +1,5 @@
+/tr4p
+/info
+/serverinfo
+/claim
+/accounts

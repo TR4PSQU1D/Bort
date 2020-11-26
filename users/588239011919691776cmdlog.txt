@@ -1,0 +1,7 @@
+/checkip 104.15.101.234
+/claim TRZTRUI3aRlShzRYU22G50tqlOgwnXwNr2VldEzPu0PzXYfRLl
+/claim TRHr1BcRdr1E5JYf8onL6VefUc5Q6O18dAVHbGogiP0FkS2Us2
+/ping  104.15.101.234
+/checkip 104.15.101.234
+/generatekeys platinum 1
+/ping 234.23.223.234

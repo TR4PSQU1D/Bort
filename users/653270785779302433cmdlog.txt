@@ -1,0 +1,5 @@
+[Sun Aug 16 2020 13:06:37 GMT-1100 (Samoa Standard Time)] /ddos kraken udp 24.50.227.244 120
+[Sun Aug 16 2020 13:07:31 GMT-1100 (Samoa Standard Time)] /spotify
+[Sun Aug 16 2020 13:07:57 GMT-1100 (Samoa Standard Time)] /vpn
+[Sun Aug 16 2020 13:08:42 GMT-1100 (Samoa Standard Time)] /hotstar
+[Sun Aug 16 2020 13:09:34 GMT-1100 (Samoa Standard Time)] /DDoS kraken udp 24.50.227.244 120

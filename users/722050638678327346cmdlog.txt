@@ -1,0 +1,27 @@
+/xboxcode
+/xboxcode
+/help
+/ddos std 81.196.115.116 60 dport=80
+/ddos std 81.196.115.116 60
+/accounts
+/steamcode
+/xboxcode
+/codes
+/vpn
+/accounts
+/hulu
+/hulu
+/accountsd
+/ddos
+/DDoS std 188.212.100.111 80
+/lag
+/methods
+/ddos udp 81.196.115.116 20
+/lag udp 81.196.115.116 20
+/hrlp
+/tr4p
+/getplan @fredi#3874
+/plan
+/bigbounty
+/plan
+/ddos std 188.212.100.111

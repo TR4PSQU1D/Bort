@@ -1,0 +1,11 @@
+/dbadd TR4P
+/ping 1.1.1.1
+/ping 69.69.69.69
+/checkip 38.128.66.45
+/bruh
+/tr4p
+/lag 1.1.1.1
+/ping 1.1.1.1
+/iplookup tinyevil
+/dbsearch @tinyevil
+/dbsearch tinyevil

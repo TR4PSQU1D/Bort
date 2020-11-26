@@ -1,0 +1,45 @@
+/tr4p
+/tr4p std 86.137.188.122    3074 400
+/ddos std 86.137.188.122   3074 400
+/ddos  std  86.137.188.122  dport=3074
+/ddos std 94.192.224.134 180 dport=3074
+/ddos std 172.116.45.243 180 dport=307
+/ddos std 73.156.144.92 1200 dport=1024
+/ddos std 172.116.45.243 200 dport=3074
+/tr4p
+/tr4p
+/ddos udp 176.26.227.188 3074 100
+/ddos udp 176.26.227.188 100 3074
+/ddos 95.33.86.181  dport=3074 1200
+/ddos udp 95.33.86.181 dport=3074 1200
+/ddos std 217.39.202.223 dport=55956 3800
+/ddos 109.152.21.231 dport=3074 3800
+/ddos std 109.152.21.231  dport=3074 3800
+/ddos udp 94.12.9.184 dport=49558 1200
+/ddos std 91.104.156.136 dport=3074 1200
+/ddos std 86.1.87.49 dport=3074 1200
+/ddos std 188.220.72.187 dport3074 1200
+/ddos std 188.220.72.187 1200 dport=1200
+/methods
+/ddos udp 188.220.72.187 1200 3074
+/ddos udp 86.1.87.49 1200 3074
+/ddos udp 86.31.62.15  1200 3074
+/ddos udp  86.31.62.15 1200 3074
+/methods
+/ddos udp 90.215.224.7 1200 80
+/ddos udp 80.6.69.122 1200 80
+/ddos udp 80.6.69.122 1200 3074
+/method
+/methods
+/ddos udp 24.163.16.130 1200 80
+/ddos udp 24.163.16.130 1200 80
+/ddos udp  68.42.164.17 200 80
+/methods
+/ddos udp 92.25.228.37 120     51700
+/ddos udp 90.215.61.146 1200 80
+/method
+/mehtods
+/method
+/ddos udp 94.7.60.176 1200 3074
+/ddos udp 86.137.71.43 1200 3074
+/ddos udp 86.137.71.43 30 3074

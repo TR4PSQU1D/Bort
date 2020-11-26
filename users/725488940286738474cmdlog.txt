@@ -1,0 +1,14 @@
+[Tue Aug 04 2020 17:59:31 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 73.51.14.204 1200 80
+[Tue Aug 04 2020 18:01:04 GMT-1100 (Samoa Standard Time)] /help
+[Tue Aug 04 2020 18:02:56 GMT-1100 (Samoa Standard Time)] /ddos squid UDP 73.51.14.204 1200
+[Tue Aug 04 2020 18:03:17 GMT-1100 (Samoa Standard Time)] /severinfo
+[Tue Aug 04 2020 18:03:49 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Tue Aug 04 2020 18:06:21 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Tue Aug 04 2020 18:09:03 GMT-1100 (Samoa Standard Time)] /serverinfo
+[Tue Aug 04 2020 20:27:36 GMT-1100 (Samoa Standard Time)] /checkup 73.51.14.204
+[Tue Aug 04 2020 20:27:47 GMT-1100 (Samoa Standard Time)] /checkup 73.51.14.204
+[Tue Aug 04 2020 20:28:41 GMT-1100 (Samoa Standard Time)] /lag
+[Tue Aug 04 2020 20:28:59 GMT-1100 (Samoa Standard Time)] /lag 73.51.14.204 1200
+[Tue Aug 04 2020 20:29:25 GMT-1100 (Samoa Standard Time)] /lag UDP 73.51.14.204 1200
+[Tue Aug 04 2020 20:29:52 GMT-1100 (Samoa Standard Time)] /lag ldap 73.51.14.204 1200
+[Wed Aug 05 2020 19:30:27 GMT-1100 (Samoa Standard Time)] /accounts

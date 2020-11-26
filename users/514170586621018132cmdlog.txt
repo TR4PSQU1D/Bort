@@ -1,0 +1,19 @@
+/ ddos udp 97.81.147.155 8p
+/ ddos udp 97.81.147.155 80
+/vpn
+/steamcode
+/spotify
+/spotify
+/vpn
+/xboxcode
+/xboxcode
+[Fri Aug 14 2020 08:35:03 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Thu Aug 27 2020 13:52:04 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh 149.56.223.192 120
+[Thu Aug 27 2020 13:53:26 GMT-1100 (Samoa Standard Time)] /captcha
+[Thu Aug 27 2020 13:54:22 GMT-1100 (Samoa Standard Time)] /captcha reset
+[Thu Aug 27 2020 13:54:50 GMT-1100 (Samoa Standard Time)] /captcha answer 111
+[Thu Aug 27 2020 13:55:08 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh 149.56.223.192 120
+[Thu Aug 27 2020 13:57:41 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh 76.23.76.118 15
+[Thu Aug 27 2020 13:57:41 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 27 2020 13:58:13 GMT-1100 (Samoa Standard Time)] /ddos kraken LDAP 76.23.76.118 15
+[Thu Aug 27 2020 14:41:43 GMT-1100 (Samoa Standard Time)] /ping 76.23.76.118

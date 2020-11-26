@@ -1,0 +1,20 @@
+[Sat Aug 01 2020 17:19:27 GMT-1100 (Samoa Standard Time)] /steamcode
+[Sat Aug 01 2020 17:20:18 GMT-1100 (Samoa Standard Time)] /tr4p
+[Sat Aug 01 2020 17:20:45 GMT-1100 (Samoa Standard Time)] /methods
+[Sat Aug 01 2020 17:21:43 GMT-1100 (Samoa Standard Time)] /DDoS 98.200.241.208 UDP 10
+[Sat Aug 01 2020 17:22:00 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Sat Aug 01 2020 17:23:13 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Sat Aug 01 2020 17:23:39 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Sat Aug 01 2020 17:23:43 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Sat Aug 01 2020 17:25:06 GMT-1100 (Samoa Standard Time)] /checkip IP_ADDRESS
+[Sat Aug 01 2020 17:25:31 GMT-1100 (Samoa Standard Time)] /checkip IP_ADDRESS 98.200.241.208
+[Sat Aug 01 2020 17:25:49 GMT-1100 (Samoa Standard Time)] /checkip 98.200.241.208
+[Sat Aug 01 2020 17:26:42 GMT-1100 (Samoa Standard Time)] /serverinfo
+[Sat Aug 01 2020 17:27:48 GMT-1100 (Samoa Standard Time)] /DDoS Kraken UDP 98.200.241.208 20
+[Sat Aug 01 2020 17:28:17 GMT-1100 (Samoa Standard Time)] /DDoS Kraken UDP 98.200.241.208 20
+[Sat Aug 01 2020 17:29:19 GMT-1100 (Samoa Standard Time)] /DDoS Kraken UDP 98.200.241.208 80 80
+[Sat Aug 01 2020 17:30:21 GMT-1100 (Samoa Standard Time)] /DDoS Godzilla UDP 98.200.241.208 80 80
+[Sat Aug 01 2020 17:31:38 GMT-1100 (Samoa Standard Time)] /lag
+[Sat Aug 01 2020 17:32:03 GMT-1100 (Samoa Standard Time)] /lag UDP 98.200.241.208 80 80 80 80
+[Sat Aug 01 2020 17:32:47 GMT-1100 (Samoa Standard Time)] /lag tcp 98.200.241.208 80 80 80 80
+[Sat Aug 01 2020 17:33:10 GMT-1100 (Samoa Standard Time)] /claim

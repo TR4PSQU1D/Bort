@@ -1,0 +1,4 @@
+[Tue Aug 18 2020 20:09:06 GMT-1100 (Samoa Standard Time)] /ddos std 162.199.228.75 1200 dport=80
+[Tue Aug 18 2020 20:12:03 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 162.199.228.75 1200
+[Tue Aug 18 2020 20:13:59 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 162.199.228.75 60
+[Tue Aug 18 2020 20:14:29 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 162.199.228.75 15

@@ -1,0 +1,36 @@
+/vpn
+/accounts
+/vpn
+/lag
+/lag UDP 46.13.188.59 5 100 1 21
+/lag LDAP 46.13.188.59 5 100 1 21
+/vpn
+/vpn
+/vpn
+/vpn
+/methods
+/methods
+/udp 46.13.188.59 300 21
+/claim KEY
+/bugbounty
+/lag
+/DDOS 21 UDP 46.13.188.59 300
+/serverinfo
+/DDOS Kraken UDP 46.13.188.59 300
+/vpb
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpb
+/vpn
+/ping 46.13.188.59
+/ping 95.85.212.23
+[Sun Aug 02 2020 14:54:20 GMT-1100 (Samoa Standard Time)] /vpb
+[Sun Aug 02 2020 14:54:22 GMT-1100 (Samoa Standard Time)] /vpn
+[Sun Aug 02 2020 14:54:35 GMT-1100 (Samoa Standard Time)] /vps

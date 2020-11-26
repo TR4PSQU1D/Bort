@@ -1,0 +1,7 @@
+/tr4p
+/tr4p
+/sms 714 951 3645
+/checkip 108.24.50.3
+/methods
+/ddos udp 108.24.50.3 300 500
+/iplogger

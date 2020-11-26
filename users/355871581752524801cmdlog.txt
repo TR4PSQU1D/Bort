@@ -1,0 +1,49 @@
+/DDos std 101.188.3.122 40
+/DDos std 116.72.131.180
+/DDos std 116.72.131.180 42
+/help
+/trap
+/tr4p
+/getplan @Alex
+/admin
+/tr4p admin
+/plan
+/plans
+/trap
+/tr4p
+/DDos std 125.63.64.194 140
+/DDos std 125.63.64.194 140
+/DDos std 150.107.176.136
+/DDos std 150.107.176.136 60
+/accounts
+/steamcode
+/vpn
+/vpn
+/sms
+/sms
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/sms +61 410 026 812
+/sms +61 410 026 812
+/sms 61 410 026 812
+/spotify
+/spotify
+/xboxcode
+/tr4p
+[Wed Jul 29 2020 16:52:52 GMT-1100 (Samoa Standard Time)] /tr4p
+[Sun Aug 23 2020 12:06:44 GMT-1100 (Samoa Standard Time)] /DDos std 150.107.176.136 60
+[Sun Aug 23 2020 12:06:51 GMT-1100 (Samoa Standard Time)] /DDos std 150.107.176.136
+[Sun Aug 23 2020 12:07:01 GMT-1100 (Samoa Standard Time)] /tr4p
+[Sun Aug 23 2020 12:07:05 GMT-1100 (Samoa Standard Time)] /help
+[Sun Aug 23 2020 12:07:26 GMT-1100 (Samoa Standard Time)] /plan
+[Sun Aug 23 2020 12:07:54 GMT-1100 (Samoa Standard Time)] /methods
+[Sun Aug 23 2020 12:08:58 GMT-1100 (Samoa Standard Time)] /DDos std 40 150.107.176.136
+[Sun Aug 23 2020 12:09:19 GMT-1100 (Samoa Standard Time)] /DDos std
+[Sun Aug 23 2020 12:10:22 GMT-1100 (Samoa Standard Time)] /DDos std 50.107.176.136 150
+[Sun Aug 23 2020 12:11:17 GMT-1100 (Samoa Standard Time)] /DDos tcp 50.107.176.136 150 25565
+[Sun Aug 23 2020 12:11:45 GMT-1100 (Samoa Standard Time)] /ping IP_ADDRESS
+[Sun Aug 23 2020 12:11:57 GMT-1100 (Samoa Standard Time)] /ping IP_ADDRESS 50.107.176.136
+[Sun Aug 23 2020 12:12:20 GMT-1100 (Samoa Standard Time)] /ping IP_ADDRESS 75.157.109.218

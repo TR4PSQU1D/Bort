@@ -1,0 +1,109 @@
+/Ping 45.61.142.79
+/ddos squid 148.103.28.141 120
+/ddos squid 148.103.28.141 120
+/ddos squid 67.243.167.81 30
+/ddos kraken squid 73.0.3.142 120 80
+/ddos squid 73.137.130.75 120 80
+/ddos kraken squid 73.137.130.75 120 80
+/ddos kraken squid 185.179.202.147 120 1696
+/ddos kraken udp 188.26.223.250 120 80
+/ddos kraken udp 74.137.68.118 120 80
+/ddos kraken udp 67.186.71.58 120 80
+/ddos kraken udp 80.30.43.52 30 80
+/ddos Kraken squid 152.0.227.80 120 80
+/ddos kraken udpplain 188.26.223.250 120
+/ddos kraken squid 179.53.141.191 1200 80
+/ddos kraken squid 179.53.141.191 120 80
+/ddos kraken squid 179.53.141.191 1200 80
+/ddos kraken squid 179.53.141.191 1200 80
+/ddos kraken squid 148.103.28.141 1200 80
+/ddos kraken udp 74.137.68.118 500 80
+/ddos kraken squid 68.173.247.247 60 80
+/ddos kraken squid 68.173.247.247 120 80
+/ddos kraken squid 69.121.177.133 120 80
+/ddos kraken udpplain 172.58.228.134 200 62206
+/ddos kraken squid 148.103.28.141 1200 80
+/ddos kraken squid 148.103.28.141 1200 80
+/ddos kraken squid 73.61.22.80 100 80
+/ddos godzilla udp 67.224.128.101 120 443
+/ddos godzilla udp 80.30.43.52 200 80
+/ddos kraken squid 80.30.43.52 200 80
+/ddos kraken squid 80.30.43.52 1200 80
+/ddos kraken squid 83.46.85.164 1200 80
+/ddos kraken squid 80.30.43.5 120 443
+/ddos kraken squid 72.188.27.232 300 443
+/ddos kraken squid 206.248.97.93 300 80
+/ddos kraken squid 72.50.16.103 200 443
+/ddos kraken squid 201.215.163.198 300 9306
+/ddos kraken udpplain 24.50.204.76 300 53532
+/ddos kraken udpplain 199.187.211.101 120 9306
+/ddos kraken udpplain 66.50.50.182 1200 41063
+/ddos kraken squid 81.41.179.151 60 80
+/ddos kraken squid 148.101.157.26 300 58972
+/ddos godzilla vse 188.26.223.250 600 56877
+/ddos kraken udpplain 24.50.232.129 300 50892
+/ddos kraken squid 71.15.106.188 300 61868
+/ddos kraken squid 80.30.43.5 300 54880
+/ddos kraken squid 179.12.200.143 300 63736
+/ddos kraken squid 73.106.37.34 1200 9306
+/ddos kraken squid 71.15.106.188 300 63797
+/ddos kraken squid 173.49.137.48 1200 9306
+/ddos kraken ovh-smash 51.222.33.62 500 63125
+/ddos kraken squid 24.50.232.62 200 19988
+/methods
+/ddos kraken squid 148.103.28.141 1200 9306
+/ddos godzilla udp 148.103.28.141 600 9306
+/ddos godzilla udp 109.49.200.76 1200 9306
+/ddos godzilla udp 148.103.28.141 600 9306
+/ddos kraken squid 148.103.28.141 1200 9306
+/ddos kraken udp 138.68.5.216 1200 63433
+/ddos kraken udp 35.138.230.173 1200 54899
+/ddos kraken udp 191.96.145.242 300 38534
+/ddos kraken squid 191.96.145.242 300 38534
+/ddos kraken squid 104.136.245.150 500 9306
+/ddos kraken squid 104.136.245.150 120 9306
+/ddos kraken squid 92.105.33.160 300 50946
+/ddos kraken squid 67.224.128.4 700 48756
+/checkservers
+/ddos kraken squid 24.50.232.129 500 19148
+/ddos kraken squid 103.107.196.203 200 61260
+/ddos kraken squid 213.177.193.157 600 6325
+/ddos kraken squid 24.55.164.60 300 9306
+/ddos kraken squid 24.50.233.61 300 48896
+/ddos kraken squid 24.46.71.245 300 9306
+/ddos kraken squid 32.209.107.28 300 9306
+/ddos kraken udp 138.68.5.216 1200 63433
+/ddos kraken udp 212.102.60.222 30 34057
+/methods
+/ddos godzilla vse 212.102.60.222 60 34057
+/ddos kraken udpplain 212.102.60.222 60 34057
+/ddos kraken squid 186.149.122.27 300 9306
+/ddos kraken squid 89.39.107.205 51719 300
+/ddos kraken squid 89.39.107.205 300 51719
+/ddos kraken squid 65.34.245.14  1200 50557
+/ddos kraken squid 186.150.172.67 300 62233
+/ddos kraken udpplain 186.150.172.67 300 62233
+/ddos kraken udpplain 71.246.1.172 9306 300
+/ddos kraken udpplain 71.246.1.172 300 9306
+/ddos kraken udpplain 213.179.102.197 1200 9306
+/ddos kraken udpplain 90.175.188.7 300 9306
+/ddos kraken squid 90.175.188.7 300 9306
+/ddos kraken udpplain 213.179.102.197 200 9306
+/ddos kraken udpplain 24.160.176.191 1200 56040
+/ddos kraken udpplain 24.160.176.191 1200 56040
+/ddos kraken udpplain 24.160.176.191 1200 56040
+/ddos kraken udpplain 190.83.105.3 300 31880
+/ddos kraken squid 190.83.105.3 300 31880
+/ddos kraken squid 209.58.142.159 300 63425
+/ddos kraken squid 65.34.245.14 600 9306
+/ddos kraken squid 37.135.156.236 20 80
+/dos kraken squid 37.135.156.236 30 80
+/ddos kraken squid 37.135.156.236 30 80
+/ddos kraken squid 24.160.176.191 1200 80
+/ddos kraken squid 186.79.183.162 1200 9306
+/ddos kraken squid 24.160.176.191 1200 80
+/ddos kraken squid 24.160.176.191 1200 9306
+/claim MOybr8FvG2QeDjbEjGpCqrse1JPx37DnOXflq4qyQ0xcyYnZVN
+/claim MOybr8FvG2QeDjbEjGpCqrse1JPx37DnOXflq4qyQ0xcyYnZVN
+/ddos kraken squid 73.130.82.202 120 64601
+/ddos kraken squid 69.251.176.221 300 55581

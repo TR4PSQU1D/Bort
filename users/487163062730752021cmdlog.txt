@@ -1,0 +1,21 @@
+/sms
+/phish SITE
+/accounts
+/Xboxcode
+/check servers
+/checkservers
+/plans
+/plans
+/getplan <@487163062730752021>
+/lag
+/methods
+/tr4p
+/info
+/plan
+/bugbounty
+/ping IP_ADDRESS
+/increaseplan <@487163062730752021> 99999y
+/smd
+/sms
+/sms
+/sms 0433558375

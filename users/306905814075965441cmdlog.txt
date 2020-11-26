@@ -1,0 +1,8 @@
+/vpn
+/playstationcode
+/xboxcode
+/xboxcode
+[Sun Aug 16 2020 14:41:09 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 192.168.1.216 100 51
+[Sun Aug 16 2020 14:42:07 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 192.168.1.216 120 51
+[Sun Aug 16 2020 14:43:55 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh-smash 10.0.0.0 120 51
+[Wed Aug 19 2020 03:10:22 GMT-1100 (Samoa Standard Time)] /mega

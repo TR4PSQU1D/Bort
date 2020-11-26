@@ -1,0 +1,47 @@
+/vpn
+/xboxcode
+/mega
+/plan
+/xboxcode
+/plan
+/attack
+/accounts
+/bugbounty
+/ping IP_ADDRESS 76.101.71.56
+/vpn
+/vpn
+/plans
+/plans
+/getplan <@680166223983804502>
+/lag
+/lag LDAP 73.65.210.255 100 1 3074
+/method
+/tr4p
+/lag 73.65.210.255 udp 100 1 3074
+/lag udp 73.65.210.255 100 1 3074
+/bugbounty
+/ping IP_ADDRESS 73.183.185.46
+/ping 73.183.185.46
+/vpn
+/vpn
+/vpn
+/xboxcode
+/vpn
+/ping 31.125.0.204
+/ping 54.38.4.126
+/ping 192.223.25.157
+/ping 86.4.178.164
+/vpn
+/changeplan <@680166223983804502>
+/claim TRmFAgFAMFTAqVEFaN9ouoKGgb0WfBzOWx0yK9V0bqnzlZBZx5
+/plan
+/xboxcode
+/xboxcode
+/xboxcode
+/xboxcode
+/bugbounty
+/bugbounty
+/xboxcode
+/xboxcode
+/accounts
+[Fri Aug 07 2020 08:58:14 GMT-1100 (Samoa Standard Time)] /accounts

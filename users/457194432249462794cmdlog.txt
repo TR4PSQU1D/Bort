@@ -1,0 +1,6 @@
+/help
+/tr4p
+/checkip 61.68.115.184
+/ping 61.68.115.184
+/help
+/checkip61.68.115.184

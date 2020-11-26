@@ -1,0 +1,12 @@
+[Thu Aug 27 2020 19:27:52 GMT-1100 (Samoa Standard Time)] /help
+[Thu Aug 27 2020 19:28:16 GMT-1100 (Samoa Standard Time)] /methods
+[Thu Aug 27 2020 20:07:25 GMT-1100 (Samoa Standard Time)] /help
+[Thu Aug 27 2020 20:14:06 GMT-1100 (Samoa Standard Time)] /ddos
+[Thu Aug 27 2020 20:14:11 GMT-1100 (Samoa Standard Time)] /methods
+[Thu Aug 27 2020 20:43:02 GMT-1100 (Samoa Standard Time)] /pkan
+[Thu Aug 27 2020 20:43:05 GMT-1100 (Samoa Standard Time)] /plan
+[Thu Aug 27 2020 20:43:11 GMT-1100 (Samoa Standard Time)] /help
+[Thu Aug 27 2020 20:43:22 GMT-1100 (Samoa Standard Time)] /hitlist
+[Thu Aug 27 2020 20:49:17 GMT-1100 (Samoa Standard Time)] /accounts
+[Thu Aug 27 2020 20:49:38 GMT-1100 (Samoa Standard Time)] /steamcode
+[Thu Aug 27 2020 22:38:01 GMT-1100 (Samoa Standard Time)] /help

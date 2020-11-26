@@ -1,0 +1,18 @@
+[Mon Aug 03 2020 11:00:38 GMT-1100 (Samoa Standard Time)] /plans
+[Mon Aug 03 2020 11:00:57 GMT-1100 (Samoa Standard Time)] /xbox code
+[Mon Aug 03 2020 11:01:16 GMT-1100 (Samoa Standard Time)] /plan
+[Mon Aug 03 2020 11:01:44 GMT-1100 (Samoa Standard Time)] /getplan <@718561559604887651>
+[Mon Aug 03 2020 11:01:56 GMT-1100 (Samoa Standard Time)] /accounts
+[Mon Aug 03 2020 11:02:09 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Mon Aug 03 2020 11:03:37 GMT-1100 (Samoa Standard Time)] /vpn
+[Mon Aug 03 2020 11:03:50 GMT-1100 (Samoa Standard Time)] /hulu
+[Mon Aug 03 2020 11:04:25 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Mon Aug 03 2020 11:04:39 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Mon Aug 03 2020 11:06:08 GMT-1100 (Samoa Standard Time)] /sms
+[Mon Aug 03 2020 11:06:55 GMT-1100 (Samoa Standard Time)] /methods
+[Mon Aug 03 2020 11:08:16 GMT-1100 (Samoa Standard Time)] /checkserver
+[Mon Aug 03 2020 11:08:46 GMT-1100 (Samoa Standard Time)] /plans
+[Mon Aug 03 2020 15:50:14 GMT-1100 (Samoa Standard Time)] /Xbox code
+[Mon Aug 03 2020 15:50:22 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Mon Aug 03 2020 15:50:28 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Mon Aug 03 2020 15:53:53 GMT-1100 (Samoa Standard Time)] /Hulu

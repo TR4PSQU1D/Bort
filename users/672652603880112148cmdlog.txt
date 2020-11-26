@@ -1,0 +1,311 @@
+/checkip 76.20.90.11
+/checkplan <@672652603880112148>
+/plan <@672652603880112148>
+/plan <@698451241667133502>
+/accounts
+/Spotify
+/account
+/accounts
+/Spotify
+/accounts
+/xboxcode
+/ping 47.34.129.52
+/DDos
+/DDoS Udp 47.34.129.52 120
+/methods
+/ping 47.34.129.52
+/checkip 47.34.129.52
+/ping 47.34.129.52
+/checip 86.153.165.11
+/checkip86.153.165.11
+/checkip 86.153.165.11
+/checkip 86.153.165.11
+/checkip 8.44.63.50
+/checkip 176.27.3.184
+/Ddos udp 172.107.224.66 120
+/plan
+/help
+/accounts
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/accounts
+/phish
+/mega
+/spot
+/checkip 153.31.113.27
+/prices
+/plan
+/baltop
+/plan
+/DDoS udp 109.237.109.174 120 deport=27016
+/plan
+/slam evil for being fat
+/plan
+/checkip 94.9.43.30
+/ping 94.9.43.30
+/help
+/DDoS udp 94.9.43.30 120
+/ping 94.9.43.30
+/getplan
+/help
+/DDoS Udp 158.69.156.168 120
+/methods
+/ping 158.69.156.168
+/udp 158.69.156.168 120 80
+/DDoS ovh-smash 158.69.156.168 120
+/ping 158.69.156.168
+/ping 158.69.156.168
+/DDoS udp 158.69.156.168 120
+/ping 158.69.156.168
+/ping 158.69.156.168
+/checkip 45.141.247.232
+/ping 45.141.247.232
+/DDoS udp 45.141.247.232 120
+/ping 45.141.247.232
+/ping 45.141.247.232
+/checkip 45.141.247.232
+/methods
+/DDoS udp 45.141.247.232 120 30120
+/ping 45.141.247.232
+/ping 45.141.247.232
+/ping 45.141.247.232
+/plan
+/ hack <@566306886702465048>
+/plans
+/checkip 85.201.224.55
+/ping 85.201.224.55
+/DDoS udp 85.201.224.55 120
+/ping 85.201.224.55
+/ping 85.201.224.55
+/ping 85.201.224.55
+/plan
+/checkip 173.39.49.100
+/ping 173.39.49.100
+/methods
+/plan
+/plan
+/plan
+/bugbounty
+/prices
+/plan
+/plans
+/help
+/plan
+/tr4p
+/plan
+/sms 911 20000000000
+/plan
+/plan
+/plan
+/plan
+/plan
+/plan
+/plan
+/plan
+/plan
+/plan
+/sms
+/tr4p
+/lag
+/lag
+/lag
+/lagstop
+/lag
+/sms <@474184015516270593> 2
+/nmapsv 174.84.73.49 3074
+/nmapsv 174.84.73.49 3074
+/nmapsv 174.84.73.49 80
+/getplan <@389973434605633542>
+/getplan <@474184015516270593>
+/plan
+/sms
+/lag
+/plan
+/lag
+/lag
+/lag udp 174.84.73.49 10 120 5
+/ping 174.84.73.49
+/ping 174.84.73.49
+/plans
+/ping 174.84.73.49
+/DDoS udp 174.84.73.49  420
+/DDoS stop
+/ping 174.84.73.49
+/DDoS <@389973434605633542>  99999999999999999999999
+/methods
+/DDoS stdhex 185.13.156.64 500 80
+/DDoS squid 185.13.156.64 500 80
+/ping 185.13.156.64
+/plan
+/DDoS squid 66.151.138.194 300
+/ping 66.151.138.194
+/lag squid 66.151.138.194 10 120 5
+/lag udp 66.151.138.194 10 120 5
+/ping /lag squid 66.151.138.194 10 120 5
+/ping 66.151.138.194
+/plan
+/sms <@634361766347800576> 10
+/plan
+/getplan <@576017969055006720>
+/plan
+/plan
+/lag
+/lag squid 104.153.108.102 2 80 3
+/lag udp 104.153.108.102 2 80 3
+/ping 104.153.108.102
+/DDoS squid 20.50.170.74 120 30017
+/ping 20.50.170.74
+/tr4p
+/Checkip 89.0.248.167
+/sms
+/sms 911 10
+/DDoS <@305921615282307083>
+/sms
+/plan
+/hitlist
+/checkip 174.288.6.182
+/hitman
+/hitlist
+/checkip 8.44.63.50
+/plan
+/plan
+/plans
+/ban
+/prices
+/plans
+/methods
+/DDoS udp 24.186.199.155 1200 80
+/DDoS udp 71.208.131.174 1200
+/DDoS squid 71.208.131.174 1200
+/DDoS kraken std 71.208.131.174
+/DDoS kraken std 71.208.131.174 1200
+/checkip 71.208.131.174
+/methods
+/tr40
+/DDoS UDP 71.208.131.174 1200
+/DDos Godzilla udp71.208.131.174 1200
+/DDos Godzilla udp 71.208.131.174 1200
+/DDos Kraken udp 71.208.131.174 1200
+/DDos godzilla udp71.208.131.174 1200
+/DDos godzilla udp 71.208.131.174 1200
+/DDos kraken udp 71.208.131.174 1200
+/plan
+/methods
+/DDoS Kraken UDP 107.5.239.139 1200
+/DDoS Kraken squid 107.5.239.139 1200
+/plan
+/ban
+/plan
+/sms
+/plan
+/claim TRoVtS68UzMEzuXtYFU9sVdGFTHA837G3L1VqA2z9I11nbaioK
+/plan
+/plan
+/plan
+/sms
+/DDoS kraken UDP 100.35.32.223 10
+/plan
+/lag
+/lag kraken UDP 10.1.129.162 2 20 5
+/lag UDP 100.1.129.162 2 20 5
+/lag squid 100.1.129.162 2 20 5
+/plan
+/plan
+/checkip 8.8.8.8
+/plan
+/plan
+/methods
+/
+/key
+/claim key
+/check ip (ip)
+/check ip 95.217.149.161
+/check ip 1.1.1.1
+/check ip 8.1.8.1
+/checkip 95.217.149.161
+/checkip 51.79.54.179
+/generatekeys trial 1
+/generatekeys trial 1
+/generatekeys trial 1
+/generatekeys trial 1
+/generatekeys trial 1
+/plan
+/plan
+/checkip 172.58.59.132
+/checkip 108.226.206.243
+/DDoS kraken UDP 108.226.206.243 500
+/DDoS kraken squid  71.79.227.176 500
+/lagstop
+/admon
+/admin
+/DDoS kraken UDP 99.92.83.232 120
+/plan
+/getplan <@552777904241639424>
+/plan
+/DDoS kraken UDP 174.219.146.86 1200
+/plan
+/getplan <@437709879155621889>
+/getplan <@418537208396644352>
+/getplan <@418537208396644352>
+/getplan <@389973434605633542>
+/checkip 174.219.142.86
+/DDoS kraken UDP 73.194.198.135 500
+/plan
+/admin
+/admin
+/checkip 209.171.88.208
+/admin
+/DDoS kraken UDP  99.116.149.236 1200
+/DDoS kraken UDP 180.131.240.245 1200
+/admin
+/checkservers
+/lag
+/prices
+/prices
+/plans
+/plan
+/methods
+/plan
+/admin
+/admin
+/admin
+/admin
+/ping 8.44.63.53
+/ping 8.44.63.53
+/ping 8.44.63.53
+/pan
+/plan
+/admin
+/checkservers
+/
+/decease <@688760216124391449> 1
+/checkip51.222.33.62
+/sms <@608335093970370563> 2
+/checkip 38.91.107.54
+/DDoS godzilla std 38.91.107.54
+/DDoS godzilla std 38.91.107.54 120
+/ping 38.91.107.54
+/DDoS kraken UDP 137.103.14.156 1200
+/lagstop
+[Thu Jul 30 2020 13:23:37 GMT-1100 (Samoa Standard Time)] /DDoS kraken squid 199.192.154.122 80
+[Thu Jul 30 2020 13:23:57 GMT-1100 (Samoa Standard Time)] /ping 199.192.154.122
+[Mon Aug 03 2020 15:41:10 GMT-1100 (Samoa Standard Time)] /plan
+[Wed Aug 12 2020 08:57:03 GMT-1100 (Samoa Standard Time)] /plan

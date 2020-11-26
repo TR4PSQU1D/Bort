@@ -1,0 +1,71 @@
+/psn code
+/vpn
+/ping 73.245.47.182
+/ping 73.245.47.182
+/ping 73.245.47.182
+/ddos 73.245.47.182
+/ping 73.245.47.182
+/DDos std 54.211.155.215 35 dport=9006
+/DDos std 24.125.246.186 100 80
+/ping 24.125.246.186
+/DDos std 24.125.246.186 100 80
+/ping 24.125.246.186
+/ping 24.125.246.186
+/ping 24.125.246.186
+/commands
+/sms quartlin10@gmail.com
+/204.236.124.80
+/ping 204.236.124.50
+/ping 24.51.109.159
+/ping 65.75.94.186
+/ping 24.51.109.159
+/ping 65.75.121.133
+/ping
+/ping 65.75.121.133
+/ping 65.75.121.133
+/account
+/code
+/steamcode
+/bugbounty
+/ping 93.172.245.181
+/hulu
+/spotify
+/spotify
+/getplan
+/ping 24.51.65.238
+/ping 24.244.155.24
+/ping 24.244.155.24
+/ping 24.244.155.24
+/ping 24.244.155.24
+/ping c65.75.94.186
+/ping 65.75.94.186
+/ping 65.75.94.1863
+/ping 65.75.94.186
+/ free skid to boot
+/hulu
+/hulu
+/sms 2424368459
+/accounts
+/spotify
+/checkip IP_ADDRESS 65.75.80.84
+/ping 24.51.108.85
+/plan
+/checkip IP_ADDRESS 24.125.10.219
+/ping 24.125.10.219
+/account
+/nmap IP_ADDRESS 65.75.119.249
+/nmapresult 65.75.119.249
+/ping 71.76.173.86
+/ping 71.76.173.86
+/ping 73.7.80.241
+/ping 71.76.173.86
+/ping 73.32.26.46
+/check ip 73.32.26.46
+/claim KEY
+/claim KEY
+/claim key PLBe1O9KN5BOvrlAfdr2fApIiAPFqstoQr2hlbEzJLDz1i5zE6
+/decrypt EnCt2f8e96c96971c50b3106420c8d5c135e33765f1baf8e96c96971c50b3106420c8QvShZHVVPwB
+/accounts
+/lag 24.244.138.55 60 80
+/lag tcp 24.244.138.55 100 200 20
+/lag tcp 24.206.7.210 120 60 10

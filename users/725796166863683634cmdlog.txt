@@ -1,0 +1,16 @@
+/help
+/t4p
+/ping ccma.cat
+/sms
+/sm +34660555941 20
+/sms +34660555941 20
+/sms
+/sms 34660555941 10
+/lag
+/plan
+/checkip https://149.202.89.162:30120/
+/checkip 149.202.89.162
+/help
+/dbsearch 49.202.89.162 FlatHill70
+/dbsearch FlatHill70
+/checkip 213.239.196.222

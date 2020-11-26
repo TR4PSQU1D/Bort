@@ -1,0 +1,12 @@
+/plan
+/ddos
+/help
+/bugbounty
+/hitlist
+/methods
+/ddos http http://185.180.13.131 80
+/lag
+/ddos http http://185.180.13.131/ 80
+/ddos http http://185.180.13.131/ 80
+/ddos http http://185.180.13.131/ 10
+/ddos http http://185.180.13.131/ 80

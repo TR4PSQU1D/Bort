@@ -1,0 +1,7 @@
+[Sun Aug 02 2020 20:38:43 GMT-1100 (Samoa Standard Time)] /ping 24.244.138.55
+[Sun Aug 02 2020 20:39:30 GMT-1100 (Samoa Standard Time)] /ping 24.206.27.141
+[Sun Aug 02 2020 20:39:53 GMT-1100 (Samoa Standard Time)] /ping 76.92.151.138
+[Sun Aug 02 2020 22:47:40 GMT-1100 (Samoa Standard Time)] / claim TRuSmMDdn6q7SOqNZJ1VtvnRZQRxOXB7rp8geCZTwoOJIlD0o2
+[Mon Aug 03 2020 00:08:42 GMT-1100 (Samoa Standard Time)] /vpn
+[Mon Aug 03 2020 00:17:15 GMT-1100 (Samoa Standard Time)] /account
+[Mon Aug 03 2020 00:17:25 GMT-1100 (Samoa Standard Time)] /accounts

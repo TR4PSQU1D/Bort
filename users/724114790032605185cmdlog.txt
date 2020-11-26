@@ -1,0 +1,65 @@
+/ping 172.9.195.42
+/checkip 172.9.195.42
+/checkip 173.169.188.209
+/accounts
+/lag
+/methods
+/lag udp 173.169.188.209 10 100 1 80
+/bugbounty
+/DDoS
+/sms
+/xboxcode
+/vpn
+/vpn
+/xboxcode
+/Spotify
+/xboxcode
+/xboxcode
+/xboxcode
+/ping 1.1.1.1
+/ping 208.103.169.80
+/dbsearch USERNAME
+/plans
+/methods
+/help
+/bugbounty
+/hitlist
+/info
+/plan
+/sms
+/sms 18433377583
+/sms1843337583
+/ping 173.89.163.73
+/ping 173.89.163.73
+/ping 173.89.163.73
+/givemeplanorgay
+/givemeplan
+/give <@433016427491098624> plan
+/ping 84.17.35.242
+/ping 84.17.35.242
+/ping 84.17.35.242
+/Julie
+/hulu
+/hulu
+/hulu
+/hulu
+/plans
+/ping 172.9.195.42
+/ping 172.9.195.42
+/ping 172.9.195.42
+/plans
+/checkip 107.196.77.163
+/checkip 107.196.77.163
+/ping 172.9.195.42
+/ping 172.9.195.42
+/ping 172.9.195.42
+/ping 172.9.195.42
+/ping 73.21.65.56
+/ping 73.21.65.56
+/ping 73.85.207.41
+/ping 173.89.163.73
+/ping 173.89.163.73
+/ping 66.56.145.98
+/ping 66.56.145.98
+/ping 66.56.145.98
+/ping 66.56.145.98

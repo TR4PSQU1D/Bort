@@ -1,0 +1,8 @@
+**Version**:  5.5
+
+**Changes in latest patch**:
+  - Remote Bort Execution (Operates like a self bot, given highest level staff).
+  - Added Proper Phishing to the logger services.
+  - Selective logger listening!
+
+[Disclaimer](https://pastebin.com/zVZ8uCXc)

@@ -1,0 +1,332 @@
+[Thu Aug 13 2020 21:25:11 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Thu Aug 13 2020 21:25:47 GMT-1100 (Samoa Standard Time)] /lag
+[Thu Aug 13 2020 21:42:28 GMT-1100 (Samoa Standard Time)] /vpn
+[Thu Aug 13 2020 21:42:50 GMT-1100 (Samoa Standard Time)] /hulu
+[Thu Aug 13 2020 21:44:21 GMT-1100 (Samoa Standard Time)] /severinfo
+[Thu Aug 13 2020 21:47:57 GMT-1100 (Samoa Standard Time)] /skid
+[Thu Aug 13 2020 21:48:04 GMT-1100 (Samoa Standard Time)] /skid
+[Thu Aug 13 2020 21:48:13 GMT-1100 (Samoa Standard Time)] /skid
+[Thu Aug 13 2020 21:48:58 GMT-1100 (Samoa Standard Time)] /steamcode
+[Thu Aug 13 2020 21:49:19 GMT-1100 (Samoa Standard Time)] /ping
+[Thu Aug 13 2020 21:49:36 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Thu Aug 13 2020 21:49:46 GMT-1100 (Samoa Standard Time)] /boot
+[Thu Aug 13 2020 21:50:05 GMT-1100 (Samoa Standard Time)] /sms
+[Thu Aug 13 2020 21:50:14 GMT-1100 (Samoa Standard Time)] /ddos
+[Thu Aug 13 2020 21:51:05 GMT-1100 (Samoa Standard Time)] /ddos
+[Thu Aug 13 2020 22:46:25 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Thu Aug 13 2020 22:46:38 GMT-1100 (Samoa Standard Time)] /mega
+[Thu Aug 13 2020 22:46:56 GMT-1100 (Samoa Standard Time)] /spotify
+[Fri Aug 14 2020 10:35:15 GMT-1100 (Samoa Standard Time)] /plan
+[Fri Aug 14 2020 10:36:02 GMT-1100 (Samoa Standard Time)] /method
+[Fri Aug 14 2020 10:36:13 GMT-1100 (Samoa Standard Time)] / methods
+[Fri Aug 14 2020 10:36:25 GMT-1100 (Samoa Standard Time)] /methods
+[Fri Aug 14 2020 11:04:27 GMT-1100 (Samoa Standard Time)] /DDoS
+[Fri Aug 14 2020 11:06:16 GMT-1100 (Samoa Standard Time)] /DDoS std 73.33.12.188 1200 80
+[Fri Aug 14 2020 11:07:51 GMT-1100 (Samoa Standard Time)] /ddos kraken std 73.33.12.188 1200 80
+[Fri Aug 14 2020 11:07:51 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 14 2020 11:09:37 GMT-1100 (Samoa Standard Time)] /ddos kraken std 174.44.51.239 100 80
+[Fri Aug 14 2020 11:09:37 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 14 2020 11:12:31 GMT-1100 (Samoa Standard Time)] /ping 174.44.51.239
+[Fri Aug 14 2020 11:13:55 GMT-1100 (Samoa Standard Time)] /ping 174.44.51.239
+[Fri Aug 14 2020 11:16:54 GMT-1100 (Samoa Standard Time)] /ping 173.63.172.223
+[Fri Aug 14 2020 11:17:36 GMT-1100 (Samoa Standard Time)] /ping 174.44.51.239
+[Fri Aug 14 2020 11:18:56 GMT-1100 (Samoa Standard Time)] /ping 174.44.51.239
+[Fri Aug 14 2020 11:25:00 GMT-1100 (Samoa Standard Time)] /lag
+[Fri Aug 14 2020 11:26:04 GMT-1100 (Samoa Standard Time)] /sms
+[Fri Aug 14 2020 11:34:57 GMT-1100 (Samoa Standard Time)] /ping 174.44.51.239
+[Fri Aug 14 2020 14:25:32 GMT-1100 (Samoa Standard Time)] /plan
+[Fri Aug 14 2020 15:08:06 GMT-1100 (Samoa Standard Time)] /ddos kraken std  24.74.182.52 1200 80
+[Fri Aug 14 2020 15:08:06 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 14 2020 16:14:04 GMT-1100 (Samoa Standard Time)] /ddos kraken std 173.3.36.177 1200 80
+[Fri Aug 14 2020 16:14:04 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 14 2020 16:55:34 GMT-1100 (Samoa Standard Time)] /ddos kraken std 174.57.215.254 1200 80
+[Fri Aug 14 2020 16:55:34 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 14 2020 17:41:44 GMT-1100 (Samoa Standard Time)] /plan
+[Fri Aug 14 2020 17:44:35 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 162.238.158.25 1200 80
+[Fri Aug 14 2020 17:44:35 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 14 2020 18:06:03 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 73.10.149.212 1200 80
+[Fri Aug 14 2020 18:06:03 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 14 2020 18:06:21 GMT-1100 (Samoa Standard Time)] /ping 73.10.149.212
+[Fri Aug 14 2020 19:01:01 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 14.137.206.124 1200 80
+[Fri Aug 14 2020 19:01:01 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 14 2020 19:16:20 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 76.250.170.149 1200 80
+[Fri Aug 14 2020 19:16:20 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 14 2020 19:18:58 GMT-1100 (Samoa Standard Time)] /ddos kraken squid (ip) 1200 80
+[Fri Aug 14 2020 19:28:22 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 104.251.245.29 1200 80
+[Fri Aug 14 2020 19:28:22 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 14 2020 19:32:40 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 70.135.143.239 1200 80
+[Fri Aug 14 2020 19:32:40 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 14 2020 20:10:34 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 76.107.30.231 1200 80
+[Fri Aug 14 2020 20:10:34 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 14 2020 20:11:34 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 69.140.240.74 1200 80
+[Fri Aug 14 2020 20:11:34 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 14 2020 20:12:03 GMT-1100 (Samoa Standard Time)] /methods
+[Sat Aug 15 2020 13:19:28 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 71.200.169.206 1200 80
+[Sat Aug 15 2020 13:19:28 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sat Aug 15 2020 13:24:58 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 71.200.169.2061200 80
+[Sat Aug 15 2020 13:25:37 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 71.200.169.206 1200 80
+[Sat Aug 15 2020 13:25:37 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sat Aug 15 2020 13:26:01 GMT-1100 (Samoa Standard Time)] /ping 71.200.169.206
+[Sat Aug 15 2020 13:27:38 GMT-1100 (Samoa Standard Time)] /check 85.14.245.233
+[Sat Aug 15 2020 13:49:17 GMT-1100 (Samoa Standard Time)] /checkip 85.14.245.233
+[Sat Aug 15 2020 13:50:17 GMT-1100 (Samoa Standard Time)] /checkip 71.200.169.206
+[Sat Aug 15 2020 14:06:56 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 69.203.25.177 1200 80
+[Sat Aug 15 2020 14:06:56 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sat Aug 15 2020 14:07:38 GMT-1100 (Samoa Standard Time)] /ping 69.203.25.177
+[Sat Aug 15 2020 14:08:40 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 68.174.136.246 1200 80
+[Sat Aug 15 2020 14:08:40 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sat Aug 15 2020 14:09:03 GMT-1100 (Samoa Standard Time)] /ping 68.174.136.246
+[Sat Aug 15 2020 17:28:30 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 104.229.72.49 1200 80
+[Sat Aug 15 2020 17:28:30 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sat Aug 15 2020 17:29:39 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 174.49.155.246 1200 80
+[Sat Aug 15 2020 17:29:39 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sat Aug 15 2020 17:30:48 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 174.49.155.246 1200 80
+[Sat Aug 15 2020 17:30:48 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sat Aug 15 2020 17:31:59 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 104.229.72.49 1200 80
+[Sat Aug 15 2020 17:31:59 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sat Aug 15 2020 17:32:32 GMT-1100 (Samoa Standard Time)] /ping 104.229.72.49
+[Sat Aug 15 2020 17:48:40 GMT-1100 (Samoa Standard Time)] /checkservers
+[Sat Aug 15 2020 18:10:36 GMT-1100 (Samoa Standard Time)] /checkservers
+[Sat Aug 15 2020 19:15:19 GMT-1100 (Samoa Standard Time)] /checkservers
+[Sat Aug 15 2020 19:25:16 GMT-1100 (Samoa Standard Time)] /ping 98.109.216.209
+[Sat Aug 15 2020 19:31:50 GMT-1100 (Samoa Standard Time)] /ping 98.109.216.209
+[Sat Aug 15 2020 19:46:43 GMT-1100 (Samoa Standard Time)] /ping 98.109.216.209
+[Sat Aug 15 2020 20:02:28 GMT-1100 (Samoa Standard Time)] /ping 98.109.216.209
+[Sat Aug 15 2020 21:50:35 GMT-1100 (Samoa Standard Time)] /checkservers
+[Sat Aug 15 2020 21:51:36 GMT-1100 (Samoa Standard Time)] /plan
+[Sun Aug 16 2020 08:05:10 GMT-1100 (Samoa Standard Time)] /lag
+[Sun Aug 16 2020 13:07:23 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 192.168.1.253 3074 1200
+[Sun Aug 16 2020 13:08:21 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 192.168.1.253 3074 120
+[Sun Aug 16 2020 13:08:41 GMT-1100 (Samoa Standard Time)] /methods
+[Sun Aug 16 2020 13:09:53 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 192.168.1.253 120 3074
+[Sun Aug 16 2020 13:27:46 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 13.92.90.48 120 3074
+[Sun Aug 16 2020 13:27:46 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sun Aug 16 2020 13:29:15 GMT-1100 (Samoa Standard Time)] /ddos Godzilla Xmas 13.92.90.48 120 3074
+[Sun Aug 16 2020 13:30:59 GMT-1100 (Samoa Standard Time)] /ddos Godzilla Xmas 13.92.90.48 120 3074
+[Sun Aug 16 2020 13:30:59 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sun Aug 16 2020 13:32:32 GMT-1100 (Samoa Standard Time)] /checkservers
+[Sun Aug 16 2020 13:34:21 GMT-1100 (Samoa Standard Time)] /ddos Godzilla Xmas 192.168.1.253 120 3074
+[Sun Aug 16 2020 15:12:01 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 173.73.33.82 1200 80
+[Sun Aug 16 2020 15:12:01 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sun Aug 16 2020 15:13:39 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 173.73.30.71 1200 80
+[Sun Aug 16 2020 15:13:39 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sun Aug 16 2020 15:59:34 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 173.73.30.71 1200 80
+[Sun Aug 16 2020 15:59:34 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sun Aug 16 2020 16:00:43 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 173.73.33.82 1200 80
+[Sun Aug 16 2020 16:00:43 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sun Aug 16 2020 21:13:17 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 73.155.174.34 1200 80
+[Sun Aug 16 2020 21:13:17 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sun Aug 16 2020 21:14:01 GMT-1100 (Samoa Standard Time)] /iplogger
+[Mon Aug 17 2020 08:38:54 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 3.227.133.33 120 31008
+[Mon Aug 17 2020 08:38:54 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 08:44:24 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 107.211.121.126 1200 80
+[Mon Aug 17 2020 08:44:24 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 08:45:21 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 3.227.133.33 120 31008
+[Mon Aug 17 2020 08:45:21 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 09:13:57 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 3.237.163.139 120 9070
+[Mon Aug 17 2020 09:13:57 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 13:21:02 GMT-1100 (Samoa Standard Time)] /ddos godzilla vse 3.237.124.175 120 9006
+[Mon Aug 17 2020 13:21:02 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 13:49:53 GMT-1100 (Samoa Standard Time)] /ddos godzilla vse 3.223.144.101 120 31009
+[Mon Aug 17 2020 13:50:41 GMT-1100 (Samoa Standard Time)] /ddos godzilla vse 3.223.144.101 120 31009
+[Mon Aug 17 2020 13:50:41 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 13:53:49 GMT-1100 (Samoa Standard Time)] /stop
+[Mon Aug 17 2020 13:54:05 GMT-1100 (Samoa Standard Time)] /lagstop
+[Mon Aug 17 2020 14:01:25 GMT-1100 (Samoa Standard Time)] /ddos godzilla vse 3.223.144.101 120 31009
+[Mon Aug 17 2020 14:01:25 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 14:03:10 GMT-1100 (Samoa Standard Time)] /ddos godzilla vse 3.223.144.101 120 31009
+[Mon Aug 17 2020 14:04:30 GMT-1100 (Samoa Standard Time)] /ddos godzilla vse 3.223.144.101 120 31009
+[Mon Aug 17 2020 14:04:30 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 14:06:11 GMT-1100 (Samoa Standard Time)] /methods
+[Mon Aug 17 2020 14:07:54 GMT-1100 (Samoa Standard Time)] /ddos godzilla xmas 3.223.144.101 120 31009
+[Mon Aug 17 2020 14:07:54 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 14:23:42 GMT-1100 (Samoa Standard Time)] /ddos godzilla xmas 3.223.144.101 120 31009
+[Mon Aug 17 2020 14:23:42 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 14:26:27 GMT-1100 (Samoa Standard Time)] /ddos godzilla vse 3.223.144.101 120 31009
+[Mon Aug 17 2020 14:26:27 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 14:28:22 GMT-1100 (Samoa Standard Time)] /ping 3.223.144.101
+[Mon Aug 17 2020 14:29:00 GMT-1100 (Samoa Standard Time)] /ddos godzilla vse 3.223.144.101 120 31009
+[Mon Aug 17 2020 14:29:00 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 17:08:17 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 50.65.57.243 1200 80
+[Mon Aug 17 2020 17:08:17 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 17:10:54 GMT-1100 (Samoa Standard Time)] /ddos godzilla vse 3.227.133.33 120 31008
+[Mon Aug 17 2020 17:10:54 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 17:12:09 GMT-1100 (Samoa Standard Time)] /ping 3.227.133.33
+[Mon Aug 17 2020 17:13:52 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 3.227.133.33 120 31008
+[Mon Aug 17 2020 17:13:52 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 17:14:20 GMT-1100 (Samoa Standard Time)] /checkservers
+[Mon Aug 17 2020 17:17:32 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 65.35.199.92 1200 80
+[Mon Aug 17 2020 17:17:32 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 17:18:33 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 64.35.199.92 1200 80
+[Mon Aug 17 2020 17:18:33 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 17:20:34 GMT-1100 (Samoa Standard Time)] /ddos kraken std 65.35.199.92 1200 80
+[Mon Aug 17 2020 17:20:34 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 17:22:37 GMT-1100 (Samoa Standard Time)] /ddos kraken std 64.35.199.92 1200 80
+[Mon Aug 17 2020 17:22:37 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 17:23:52 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 64.35.199.92 1200 80
+[Mon Aug 17 2020 17:23:52 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 17:42:32 GMT-1100 (Samoa Standard Time)] /plans
+[Mon Aug 17 2020 18:06:13 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 142.255.125.149 1200 80
+[Mon Aug 17 2020 18:06:13 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 18:20:36 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 34.227.165.65 120 31006
+[Mon Aug 17 2020 18:20:36 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 18:41:04 GMT-1100 (Samoa Standard Time)] /ddos kraken udp 99.2.71.163 1200 80
+[Mon Aug 17 2020 18:41:04 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 18:42:37 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 99.2.71.163 1200 80
+[Mon Aug 17 2020 18:42:37 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 18:51:27 GMT-1100 (Samoa Standard Time)] /ping 99.2.71.163
+[Mon Aug 17 2020 19:56:36 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 3.237.136.62 120 9084
+[Mon Aug 17 2020 19:56:36 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 20:01:30 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 3.237.136.62 120 9084
+[Mon Aug 17 2020 20:01:30 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 20:13:44 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 3.237.122.114 120 9019
+[Mon Aug 17 2020 20:13:44 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 21:07:56 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 99.168.103.203 1200 80
+[Mon Aug 17 2020 21:07:56 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 21:13:38 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 99.168.103.203 1200 80
+[Mon Aug 17 2020 21:13:38 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 17 2020 21:16:18 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 99.168.103.203 1200 3074
+[Mon Aug 17 2020 21:16:18 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Tue Aug 18 2020 07:21:11 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 52.53.157.180 120 9003
+[Tue Aug 18 2020 07:21:11 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Tue Aug 18 2020 07:23:50 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 52.53.157.180 120 9003
+[Tue Aug 18 2020 07:23:50 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Tue Aug 18 2020 07:54:00 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 13.59.100.219 120 9021
+[Tue Aug 18 2020 07:54:00 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Tue Aug 18 2020 07:54:20 GMT-1100 (Samoa Standard Time)] /checkservers
+[Tue Aug 18 2020 11:37:52 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 24.44.87.240 1200 80
+[Tue Aug 18 2020 11:37:52 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Tue Aug 18 2020 11:39:14 GMT-1100 (Samoa Standard Time)] /plan
+[Tue Aug 18 2020 11:40:34 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 24.44.87.240 1200 3074
+[Tue Aug 18 2020 11:40:34 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Tue Aug 18 2020 11:41:32 GMT-1100 (Samoa Standard Time)] /portscan
+[Tue Aug 18 2020 11:48:09 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 99.168.103.203 1200 80
+[Tue Aug 18 2020 11:48:09 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Tue Aug 18 2020 14:43:57 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 99.168.103.203 20 80
+[Tue Aug 18 2020 14:43:57 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Tue Aug 18 2020 14:47:02 GMT-1100 (Samoa Standard Time)] /changeplan
+[Tue Aug 18 2020 14:48:41 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 99.168.103.203 20 80
+[Tue Aug 18 2020 14:48:41 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Tue Aug 18 2020 15:12:16 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 3.227.236.142 30003 120
+[Tue Aug 18 2020 15:13:10 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 3.227.236.142 120 30003
+[Tue Aug 18 2020 15:13:10 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Tue Aug 18 2020 15:21:24 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 99.76.241.98 1200 80
+[Tue Aug 18 2020 15:21:24 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Tue Aug 18 2020 15:26:35 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 99.76.241.98 1200 80
+[Tue Aug 18 2020 15:26:35 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Tue Aug 18 2020 18:07:41 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 73.112.78.12 1200 80
+[Tue Aug 18 2020 18:07:41 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Tue Aug 18 2020 18:14:51 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 3.237.115.45 120 9016
+[Tue Aug 18 2020 18:14:51 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Tue Aug 18 2020 18:22:48 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 3.237.115.45 120 9016
+[Tue Aug 18 2020 18:22:48 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Tue Aug 18 2020 19:39:30 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 3.225.15.196 120 31005
+[Tue Aug 18 2020 19:39:30 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Tue Aug 18 2020 19:41:20 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 3.225.15.196 120 31005
+[Tue Aug 18 2020 19:42:28 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 3.225.15.196 120 31005
+[Tue Aug 18 2020 19:42:28 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Wed Aug 19 2020 12:01:37 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 47.42.12.25 1200 80
+[Wed Aug 19 2020 12:01:37 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 20 2020 10:50:02 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 3.237.165.58 120 9013
+[Thu Aug 20 2020 10:50:02 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 20 2020 10:52:26 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 3.237.165.58 120 9013
+[Thu Aug 20 2020 10:52:26 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 20 2020 10:54:03 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 3.87.61.124 120 51619
+[Thu Aug 20 2020 10:54:47 GMT-1100 (Samoa Standard Time)] /ddos godzilla vse 3.87.61.124 120 51619
+[Thu Aug 20 2020 10:54:47 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 20 2020 10:57:32 GMT-1100 (Samoa Standard Time)] /checkservers
+[Thu Aug 20 2020 11:53:32 GMT-1100 (Samoa Standard Time)] /checkservers
+[Thu Aug 20 2020 12:14:17 GMT-1100 (Samoa Standard Time)] /checkservers
+[Thu Aug 20 2020 13:18:16 GMT-1100 (Samoa Standard Time)] /checkservers
+[Thu Aug 20 2020 14:19:22 GMT-1100 (Samoa Standard Time)] /cheapest
+[Thu Aug 20 2020 14:19:38 GMT-1100 (Samoa Standard Time)] /checkservers
+[Thu Aug 20 2020 14:44:08 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 173.240.136.127 1200 80
+[Thu Aug 20 2020 14:44:08 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 20 2020 14:45:32 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 73.46.52.151 1200 80
+[Thu Aug 20 2020 14:45:32 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 20 2020 15:08:17 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 184.187.139.791200 80
+[Thu Aug 20 2020 15:08:59 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 184.187.139.79 1200 80
+[Thu Aug 20 2020 15:08:59 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 20 2020 15:09:39 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 73.58.152.42 1200 80
+[Thu Aug 20 2020 15:09:39 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 20 2020 15:10:15 GMT-1100 (Samoa Standard Time)] /checkservers
+[Thu Aug 20 2020 15:10:49 GMT-1100 (Samoa Standard Time)] /checkservers
+[Thu Aug 20 2020 17:37:47 GMT-1100 (Samoa Standard Time)] /checkservers
+[Thu Aug 20 2020 17:39:18 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 131.93.79.171 1200 80
+[Thu Aug 20 2020 17:39:18 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 20 2020 17:39:45 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 184.189.92.7 1200 80
+[Thu Aug 20 2020 17:39:45 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 20 2020 19:46:20 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 73.215.146.2 1200 80
+[Thu Aug 20 2020 19:46:20 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 20 2020 19:46:37 GMT-1100 (Samoa Standard Time)] /checkservers
+[Fri Aug 21 2020 07:55:46 GMT-1100 (Samoa Standard Time)] /checkservers
+[Fri Aug 21 2020 10:54:00 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 3.213.211.122 120 31003
+[Fri Aug 21 2020 10:54:00 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 21 2020 10:57:41 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 98.16.40.37 1200 80
+[Fri Aug 21 2020 10:57:41 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 21 2020 10:59:54 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 173.92.160.6 1200 80
+[Fri Aug 21 2020 10:59:54 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 21 2020 11:04:25 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 173.92.160.6 1200 80
+[Fri Aug 21 2020 11:04:25 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 21 2020 11:10:35 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 173.92.160.6 1200 80
+[Fri Aug 21 2020 11:10:35 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 21 2020 11:18:35 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 3.213.211.122 120 31003
+[Fri Aug 21 2020 11:18:35 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 21 2020 11:20:13 GMT-1100 (Samoa Standard Time)] /ddos  Godzilla vse 3.213.211.122 120 31003
+[Fri Aug 21 2020 11:21:09 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 3.213.211.122 120 31003
+[Fri Aug 21 2020 11:21:09 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Fri Aug 21 2020 11:29:07 GMT-1100 (Samoa Standard Time)] /plan
+[Sat Aug 22 2020 13:46:10 GMT-1100 (Samoa Standard Time)] /checkservers
+[Sat Aug 22 2020 13:50:36 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 3.237.206.157 120 9034
+[Sat Aug 22 2020 13:50:36 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sat Aug 22 2020 15:19:14 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 3.237.212.182 120 9006
+[Sat Aug 22 2020 15:19:14 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sat Aug 22 2020 15:29:34 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 3.237.222.63 120 9022
+[Sat Aug 22 2020 15:29:34 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sat Aug 22 2020 15:32:21 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 3.237.222.63 120 9022
+[Sat Aug 22 2020 15:32:21 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sat Aug 22 2020 15:39:52 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 3.237.226.251 120 9002
+[Sat Aug 22 2020 15:39:52 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sat Aug 22 2020 15:43:22 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 3.237.226.251 120 9002
+[Sat Aug 22 2020 15:43:22 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sun Aug 23 2020 13:05:21 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 98.24.118.238 1200 80
+[Sun Aug 23 2020 13:05:21 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sun Aug 23 2020 13:32:59 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 3.220.191.15 120 31004
+[Sun Aug 23 2020 13:32:59 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sun Aug 23 2020 16:16:47 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 72.94.57.75 1200 80
+[Sun Aug 23 2020 16:16:47 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sun Aug 23 2020 19:19:37 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 73.169.30.42 20 80
+[Sun Aug 23 2020 19:19:37 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sun Aug 23 2020 19:21:27 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 73.169.30.42 1200 80
+[Sun Aug 23 2020 19:21:27 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sun Aug 23 2020 19:31:13 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 73.169.30.42 1200 80
+[Sun Aug 23 2020 19:31:13 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 24 2020 07:11:52 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 98.34.56.70 1200 80
+[Mon Aug 24 2020 07:11:52 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 24 2020 07:13:55 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 73.163.42.225 1200 80
+[Mon Aug 24 2020 07:13:55 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 24 2020 07:16:19 GMT-1100 (Samoa Standard Time)] /methods
+[Mon Aug 24 2020 15:06:11 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 108.51.35.180 1200 80
+[Mon Aug 24 2020 15:06:11 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 24 2020 18:18:47 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 3.228.114.93 120 31009
+[Mon Aug 24 2020 18:18:47 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Mon Aug 24 2020 18:20:00 GMT-1100 (Samoa Standard Time)] /checkservers
+[Mon Aug 24 2020 18:48:03 GMT-1100 (Samoa Standard Time)] /checkservers
+[Mon Aug 24 2020 18:48:34 GMT-1100 (Samoa Standard Time)] /boot
+[Tue Aug 25 2020 13:53:09 GMT-1100 (Samoa Standard Time)] /checkservers
+[Tue Aug 25 2020 15:05:18 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 73.198.106.124 40 80
+[Tue Aug 25 2020 15:05:18 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Tue Aug 25 2020 15:42:23 GMT-1100 (Samoa Standard Time)] /checkservers
+[Tue Aug 25 2020 20:54:20 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 121.179.149.62 1200 80
+[Tue Aug 25 2020 20:54:20 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Wed Aug 26 2020 10:10:51 GMT-1100 (Samoa Standard Time)] /checkservers
+[Wed Aug 26 2020 14:47:32 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 3.237.145.89 120 9016
+[Wed Aug 26 2020 14:48:01 GMT-1100 (Samoa Standard Time)] /captcha
+[Wed Aug 26 2020 14:52:24 GMT-1100 (Samoa Standard Time)] /checkservers
+[Wed Aug 26 2020 14:52:44 GMT-1100 (Samoa Standard Time)] /captcha reset
+[Wed Aug 26 2020 14:58:19 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 104.196.30.26 120 9048
+[Wed Aug 26 2020 14:59:06 GMT-1100 (Samoa Standard Time)] /captcha
+[Wed Aug 26 2020 14:59:24 GMT-1100 (Samoa Standard Time)] /captcha reset
+[Wed Aug 26 2020 14:59:50 GMT-1100 (Samoa Standard Time)] /captcha answer 86
+[Wed Aug 26 2020 15:03:02 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 104.196.30.26 9048
+[Wed Aug 26 2020 15:04:16 GMT-1100 (Samoa Standard Time)] /ddos Godzilla vse 104.196.30.26 120 9048

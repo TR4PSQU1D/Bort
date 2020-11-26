@@ -1,0 +1,213 @@
+/ddos ovh-smash 54.39.123.214 120 10668
+/ddos ack 54.39.123.214 120 10668
+/ddos (method)(ip)(time)(port)
+/ddos ack 54.39.123.214 120 10668
+/ddos tcp 104.95.221.2 120 80
+/checkip 54.39.123.214
+/ddos ack 98.248.191.41 120 80
+/checkip 98.248.191.41
+/ddos udp 98.248.191.41 120 80
+/Ddos udp 109.152.21.203 120 80
+/checkip 109.152.21.203
+/ddos ovh-slam 54.39.123.214 120 10668
+/ddos ovh-smash 54.39.123.214 120 10668
+/ping 54.39.123.214
+/scan 54.39.123.214
+/scan 54.39.123.214
+/phish SITE
+/lag
+/lag 54.39.123.214
+/lag 54.39.123.214
+/lag udp 54.39.123.214 60
+/plans
+/vpn
+/steamcode
+/VPN
+/Hulu
+/Netflix
+/accounts
+/xboxcode
+/Spotify
+/accounts
+/help
+/plans
+/sms
+/sms 19739809404
+/sms19739809404
+/info
+/bugbounty
+/dbsearch Py
+/dbsearch @Py#6364
+/hitlist
+/Spotify
+/Spotify
+/Hulu
+/VPN
+/VPN
+/Hulu
+/accounts
+/VPN
+/VPN
+/VPN
+/ddos ovh-smash 54.39.124.214 120 10668
+/VPN
+/VPN
+/vpn
+/VPN
+/VPN
+/VPN
+/VPN
+/VPN
+/accounts
+/xboxcode
+/Hulu
+/VPN
+/VPN
+/VPN
+/VPN
+/xboxcode
+/xboxcode
+/xboxcode
+/Hulu
+/Spotify
+/Spotify
+/Spotify
+/accounts
+/Ddos stdhex 54.39.123.214 120 10668
+/Hulu
+/Ddos stdhex 54.39.123.214 120 10668
+/Ddos stdhex 54.39.123.214 120 10668
+/ddos stdhex 139.39.190.87 120 10688
+/Hulu
+/Hulu
+/ddos stdhex 139.99.190.87 120 10668
+/methods
+/Ddos method Ip time port
+/ddos stdhex 54.39.123.214 1200 10668
+/ddos stdhex 54.39.123.214 1200 10668
+/VPN
+/VPN
+/VPN
+/VPN
+/VPN
+/VPN
+/VPN
+/VPN
+/VPN
+/VPN
+/VPN
+/VPN
+/VPN
+/VPN
+/VPN
+/VPN
+/ddos stdhex 54.39.123.214 1200 10668
+/ddos stdhex 54.39.123.214 1200 10668
+/ddos stdhex 99.225.37.5 1200 80
+/ddos stdhex 72.176.88.67 1200 80
+/ddos udp 72.176.88.67 1200 80
+/ping 72.176.88.67
+/ping 72.176.88.67
+/ddos stdhex 139.99.190.87 1200 10668
+/VPN
+/xboxcode
+/VPN
+/VPN
+/VPN
+/xboxcode
+/VPN
+/VPN
+/vpns
+/vpns
+/VPN
+/VPN
+/VPN
+/VPN
+/ddos stdhex 72.176.88.67 1200 10668
+/ddos stdhex 72.176.88.67 1200 80
+/ddos udp 72.176.88.67 1200 80
+/ddos stdhex 99.244.22.29 1200 80
+/ddos udp 72.176.88.67 1200 80
+/ddos stdhex 72.176.88.67 1200 10668
+/ddos stdhex 72.176.88.67 1200 10668
+/VPN
+/ddos stdhex 99.90.189.153 1200 80
+/getplan
+/plan
+/ddos stdhex 46.105.42.71 1200 80
+/ddos stdhex 24.228.2.205 1200 80
+/ddos stdhex 24.189.164.128 1200 80
+/ddos stdhex 54.39.123.214 1200 10668
+/ddos stdhex 24.228.8.170
+/ddos stdhex 24.228.8.170 1200 80
+/ddos stdhex 69.115.125.28 1200 80
+/ddos stdhex 70.172.230.96 1200 80
+/ddos stdhex 81.99.16.72 1200 80
+/ddos squid 54.39.123.214 1200 80
+/ddos ovhsmash 54.39.123.214 1200 10668
+/ddos ovh-smash 54.39.123.214 1200 10668
+/claimTRAxJzraOXeQjHUAVHNE1GFVebEEqihBubSDvAMx7KOnYnOuyJ
+/claim TRAxJzraOXeQjHUAVHNE1GFVebEEqihBubSDvAMx7KOnYnOuyJ
+/ddos udp 142.182.230.231 1200 80
+/ddos kraken udp 142.182.230.231 1200 80
+/ddos Karken udp 73.132.231.244 1200 80
+/ddos Kraken udp 73.132.231.244 1200 80
+/VPN
+/VPN
+/Claim key TRU63AIglyQuSHOHqNrGUNA1D7xVMSQ4gDrxINgVyrMeQOocV6
+/Claim key TRU63AIglyQuSHOHqNrGUNA1D7xVMSQ4gDrxINgVyrMeQOocV6
+/claimkey TRw1f82fFQvEzrnTTZgvd0scDSoO92sFQm34Hw35brXumpSuVt
+/claimkey TRw1f82fFQvEzrnTTZgvd0scDSoO92sFQm34Hw35brXumpSuVt
+/Claim key TRU63AIglyQuSHOHqNrGUNA1D7xVMSQ4gDrxINgVyrMeQOocV6
+/Claim key TRU63AIglyQuSHOHqNrGUNA1D7xVMSQ4gDrxINgVyrMeQOocV6
+/claim TRU63AIglyQuSHOHqNrGUNA1D7xVMSQ4gDrxINgVyrMeQOocV6
+/plan
+/plan
+/ddos kraken ack 104.238.46.242 300 80
+/ddos kraken ack 104.238.46.242 300 80
+/ddos kraken 73.37.50.144 400 80
+/ddos kraken UDP 73.37.50.144 400 80
+/ddos kraken udp 75.163.194.140 400 80
+/ddos kraken udp 96.230.214.103 1200 80
+/ddos kraken ack 96.230.214.103 1200 80
+/ddos kraken squid 76.20.95.0 1200 80
+/ddos Godzilla vse 67.7.92.28 200 80
+/ddos Godzilla vse 67.7.92.28 120 80
+/ddos Godzilla vse 73.156.32.116 120 80
+/ddos Godzilla vse 99.115.10.225 120 80
+/ddos Godzilla vse 50.91.34.108 120 80
+/VPN
+/VPN
+/ddos kraken stdhex 162.245.50.118 300
+/ddos Godzilla vse 162.245.50.118 120 80
+[Thu Aug 13 2020 11:33:32 GMT-1100 (Samoa Standard Time)] /plan
+[Thu Aug 13 2020 11:34:07 GMT-1100 (Samoa Standard Time)] /accounts
+[Thu Aug 13 2020 11:34:26 GMT-1100 (Samoa Standard Time)] /phish SITE
+[Thu Aug 20 2020 17:15:26 GMT-1100 (Samoa Standard Time)] /VPN
+[Thu Aug 20 2020 17:15:39 GMT-1100 (Samoa Standard Time)] /VPN
+[Thu Aug 20 2020 17:16:33 GMT-1100 (Samoa Standard Time)] /help
+[Thu Aug 20 2020 17:16:50 GMT-1100 (Samoa Standard Time)] /accounts
+[Thu Aug 20 2020 17:16:56 GMT-1100 (Samoa Standard Time)] /Hulu
+[Thu Aug 20 2020 17:17:02 GMT-1100 (Samoa Standard Time)] /Xboxcode
+[Thu Aug 20 2020 17:17:08 GMT-1100 (Samoa Standard Time)] /Spotify
+[Sat Aug 22 2020 14:57:16 GMT-1100 (Samoa Standard Time)] /VPN
+[Sat Aug 22 2020 14:57:19 GMT-1100 (Samoa Standard Time)] /VPN
+[Sat Aug 22 2020 14:57:23 GMT-1100 (Samoa Standard Time)] /VPN
+[Sat Aug 22 2020 14:57:26 GMT-1100 (Samoa Standard Time)] /VPN
+[Sat Aug 22 2020 14:57:28 GMT-1100 (Samoa Standard Time)] /VPN
+[Sat Aug 22 2020 14:57:34 GMT-1100 (Samoa Standard Time)] /VPN
+[Sat Aug 22 2020 14:57:36 GMT-1100 (Samoa Standard Time)] /VPN
+[Sat Aug 22 2020 14:57:37 GMT-1100 (Samoa Standard Time)] /VPN
+[Sat Aug 22 2020 14:57:39 GMT-1100 (Samoa Standard Time)] /VPN
+[Sat Aug 22 2020 14:57:42 GMT-1100 (Samoa Standard Time)] /VPN
+[Sat Aug 22 2020 14:57:44 GMT-1100 (Samoa Standard Time)] /VPN
+[Sat Aug 22 2020 14:57:46 GMT-1100 (Samoa Standard Time)] /VPN
+[Sat Aug 22 2020 14:57:48 GMT-1100 (Samoa Standard Time)] /VPN
+[Sat Aug 22 2020 14:57:50 GMT-1100 (Samoa Standard Time)] /VPN
+[Sat Aug 22 2020 14:57:56 GMT-1100 (Samoa Standard Time)] /VPN
+[Sat Aug 22 2020 14:57:59 GMT-1100 (Samoa Standard Time)] /VPN
+[Sat Aug 22 2020 14:58:34 GMT-1100 (Samoa Standard Time)] /VPN
+[Sat Aug 22 2020 14:58:52 GMT-1100 (Samoa Standard Time)] /VPN
+[Sun Aug 23 2020 07:41:50 GMT-1100 (Samoa Standard Time)] /VPN
+[Sun Aug 23 2020 07:41:56 GMT-1100 (Samoa Standard Time)] /VPN
+[Sun Aug 23 2020 07:41:59 GMT-1100 (Samoa Standard Time)] /VPN

@@ -1,0 +1,7 @@
+/accounts
+/tr4p
+/xboxcode
+/vpn
+/methods
+/DDoS udp 192.168.101.4 120
+/ping 192.168.101.4

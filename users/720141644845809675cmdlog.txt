@@ -1,0 +1,45 @@
+/vpn
+/bal
+/accounts
+/vpn
+/Spotify
+/vpn
+/Hulu
+/xboxcode
+/Spotify
+/Spotify
+/Spotify
+/Spotify
+/sms
+/vpn
+/sms 6614934943
+/phish www.instagram.com
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/mega
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/nmao
+/sms
+/methods
+/DDOS {Kraken} {ovh-smash}{158.69.142.43}{60}
+/gen
+/accs
+/lag
+/accounts
+/vpn
+/vpn
+[Mon Aug 03 2020 13:40:48 GMT-1100 (Samoa Standard Time)] /sms
+[Mon Aug 03 2020 13:40:53 GMT-1100 (Samoa Standard Time)] /sms
+[Mon Aug 03 2020 13:41:04 GMT-1100 (Samoa Standard Time)] /bugbounty
+[Mon Aug 17 2020 10:52:45 GMT-1100 (Samoa Standard Time)] /ping 108.220.106.242
+[Mon Aug 17 2020 10:53:22 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 108.220.106.242 600

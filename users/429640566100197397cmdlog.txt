@@ -1,0 +1,9 @@
+/Xboxcode
+/steamcode
+/xboxcode
+/Xboxcode
+/vpn
+/ping 174.86.240.118
+/methods
+/DDoS syn 174.86.240.118 10
+/ping 174.86.240.118

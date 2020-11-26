@@ -1,0 +1,8 @@
+[Mon Aug 03 2020 14:27:27 GMT-1100 (Samoa Standard Time)] /lag
+[Mon Aug 03 2020 14:29:11 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Mon Aug 03 2020 14:31:41 GMT-1100 (Samoa Standard Time)] /DDoS
+[Mon Aug 03 2020 14:33:32 GMT-1100 (Samoa Standard Time)] /DDoS
+[Mon Aug 03 2020 14:34:54 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Mon Aug 03 2020 14:35:30 GMT-1100 (Samoa Standard Time)] /checkservers
+[Mon Aug 03 2020 14:36:32 GMT-1100 (Samoa Standard Time)] /mehtod
+[Mon Aug 03 2020 14:38:34 GMT-1100 (Samoa Standard Time)] /DDoS {kraken}{DDoS{24.167.34.128}{220}{3074}

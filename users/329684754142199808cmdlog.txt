@@ -1,0 +1,40 @@
+/ping 94.7.76.154
+/ping 45.76.36.18
+/ping 94.7.76.154
+/ping 94.7.76.154
+/ping 94.7.76.154
+/ping 45.76.36.18
+/ping 45.76.36.18
+/sms 07840 313855
+/methods
+/DDoS udp 45.76.36.18 80 60
+/plan
+/ping 94.7.76.154
+/ping 90.251.17.86
+/ping 90.251.17.86
+/ping 90.251.17.86
+/ping 45.178.3.231
+/info
+/ping 86.135.224.154
+/vpn
+/xboxcode
+/checkip 5.68.95.99
+/xboxcode
+/xboxcode
+/accounts
+/accounts
+/xboxcode
+/vpn
+/vpn
+/vpn
+/accounts
+/spotify
+/Spotify
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/Hulu
+/vpn
+/xboxcode

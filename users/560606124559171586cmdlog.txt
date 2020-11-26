@@ -1,0 +1,9 @@
+[Sat Aug 08 2020 22:33:47 GMT-1100 (Samoa Standard Time)] /methods
+[Sun Aug 09 2020 13:27:07 GMT-1100 (Samoa Standard Time)] /methods
+[Sun Aug 09 2020 13:28:25 GMT-1100 (Samoa Standard Time)] /ddos godzilla VSE 75.115.137.3 80 80
+[Sun Aug 09 2020 13:28:52 GMT-1100 (Samoa Standard Time)] /ddos kraken vse 75.115.137.3 80 80
+[Sun Aug 09 2020 13:41:49 GMT-1100 (Samoa Standard Time)] /ddos kraken syn 75.115.137.3 80 80
+[Sun Aug 09 2020 14:48:37 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 75.172.134.120 120 80
+[Sun Aug 09 2020 15:27:32 GMT-1100 (Samoa Standard Time)] /ddos godzilla udp 103.95.221.2 80 80
+[Sun Aug 09 2020 16:08:33 GMT-1100 (Samoa Standard Time)] /ddos kraken udp 107.184.46.87 120
+[Sun Aug 09 2020 18:26:26 GMT-1100 (Samoa Standard Time)] /ddos kraken udp 117.27.239.28 60

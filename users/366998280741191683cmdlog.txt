@@ -1,0 +1,2 @@
+[Fri Aug 07 2020 17:40:46 GMT-1100 (Samoa Standard Time)] /vpn
+[Mon Aug 10 2020 18:36:10 GMT-1100 (Samoa Standard Time)] /checkip 71.115.143.247

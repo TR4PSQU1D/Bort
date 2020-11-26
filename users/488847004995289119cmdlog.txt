@@ -1,0 +1,12 @@
+/stock
+/help
+/accounts
+/steamcode
+/steamcode
+/mega
+/ddos UDP 5.78.109.72 80 1000
+/ddod 65.78.109.72 80 600
+/Ddos UDP 65.78.109.72 600
+/methods
+/ddos nfo 65.78.109.72 600
+/DDoS udp 65.78.109.72 600

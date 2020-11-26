@@ -1,0 +1,23 @@
+/ping 76.20.90.11
+/vpn
+/xboxcode
+/xboxcode
+/account
+/lag
+/Hulu
+/vpn
+/vpn
+/accounts
+/Spotify
+/Spotify
+/Spotify
+/accounts
+/ping 24.50.225.6
+/ping 63.142.187.121
+/checkip 65.28.147.79
+/lag 69.143.5.76
+/help
+/sms
+/ping 69.143.5.76
+/vpn
+/vpn

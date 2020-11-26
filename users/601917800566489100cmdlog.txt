@@ -1,0 +1,10 @@
+[Mon Aug 03 2020 17:20:58 GMT-1100 (Samoa Standard Time)] /tr4p
+[Mon Aug 03 2020 17:24:47 GMT-1100 (Samoa Standard Time)] /tr4p
+[Mon Aug 03 2020 17:24:54 GMT-1100 (Samoa Standard Time)] /info
+[Mon Aug 03 2020 17:25:37 GMT-1100 (Samoa Standard Time)] /phishoptions
+[Mon Aug 03 2020 17:25:53 GMT-1100 (Samoa Standard Time)] /phish SITE
+[Mon Aug 03 2020 17:26:26 GMT-1100 (Samoa Standard Time)] /plans
+[Mon Aug 03 2020 17:28:22 GMT-1100 (Samoa Standard Time)] /checkip 74.250.131.226
+[Mon Aug 03 2020 17:29:12 GMT-1100 (Samoa Standard Time)] /serverinfo
+[Mon Aug 03 2020 17:29:33 GMT-1100 (Samoa Standard Time)] /methods
+[Mon Aug 03 2020 17:30:06 GMT-1100 (Samoa Standard Time)] /sms

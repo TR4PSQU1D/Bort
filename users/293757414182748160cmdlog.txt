@@ -1,0 +1,5 @@
+/tr4p
+/ddos UDP 13.75.64.166 120 dport=6414
+/ddos udp 13.75.64.166 120 dport=6414
+/ddos vse 13.75.64.166 120 dport=6414
+/ddos ack 13.75.64.166 120 dport=6414

@@ -1,0 +1,2 @@
+/ddos
+/ddos kraken udp 47.12.215.144 120 80

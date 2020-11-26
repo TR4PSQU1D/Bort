@@ -1,0 +1,5 @@
+/netflix
+/hulu
+/help
+/DDoS 68.186.29.udp 68.186.29.27 300
+/hitlist

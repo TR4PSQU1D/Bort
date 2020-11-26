@@ -1,0 +1,121 @@
+/vpn
+/vpn
+/plan
+/methods
+/iplogger
+/vpn
+/vpn
+/vpn
+/vpn
+/plan
+/ippuller
+/iplogger
+/ddos godzilla vse 44.233.233.15 120 31003
+/ddos godzilla STD 44.233.233.15 10 31003
+/ddos godzilla XMAS 44.233.233.15 120 31003
+/ddos godzilla udp 104.175.138.191 60 80
+/plan
+/plan
+/ddos kraken squid 67.188.106.225 80 1200
+/ddos kraken squid 67.188.106.225 1200 80
+/checkip 67.188.106.225
+/ping 67.188.106.225
+/ping 67.188.106.225
+/iplogger
+/iplogger
+/phishquit
+/phish Microsoft
+/plan
+/phish playstation
+/methods
+/ddos kraken squid 47.13.17.144 1200 80
+/ddos kraken squid 98.235.186.215 1200 80
+/ping 47.13.17.144
+/ping 98.235.186.215
+/plan
+/plan
+[Sat Aug 01 2020 06:09:31 GMT-1100 (Samoa Standard Time)] /plan
+[Fri Aug 07 2020 19:06:24 GMT-1100 (Samoa Standard Time)] /plan
+[Fri Aug 07 2020 21:39:49 GMT-1100 (Samoa Standard Time)] /methods
+[Mon Aug 10 2020 12:51:18 GMT-1100 (Samoa Standard Time)] /plan
+[Mon Aug 10 2020 12:52:24 GMT-1100 (Samoa Standard Time)] /methods
+[Mon Aug 10 2020 12:52:58 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 23.243.122.162 1200 80
+[Mon Aug 10 2020 12:53:30 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 96.59.11.224 1200 80
+[Mon Aug 10 2020 12:54:08 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 104.6.167.4 1200 80
+[Mon Aug 10 2020 12:55:43 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 52.3.99.107 1200 80
+[Mon Aug 10 2020 12:56:28 GMT-1100 (Samoa Standard Time)] /ping 23.243.122.162
+[Mon Aug 10 2020 12:56:51 GMT-1100 (Samoa Standard Time)] /ping 96.59.11.224
+[Mon Aug 10 2020 12:57:22 GMT-1100 (Samoa Standard Time)] /ping 104.6.167.4
+[Mon Aug 10 2020 12:57:43 GMT-1100 (Samoa Standard Time)] /ping 52.3.99.107
+[Mon Aug 10 2020 12:58:20 GMT-1100 (Samoa Standard Time)] /ping 23.243.122.163
+[Mon Aug 10 2020 12:58:36 GMT-1100 (Samoa Standard Time)] /ping 23.243.122.162
+[Mon Aug 10 2020 12:59:12 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 23.243.122.162 1200 80
+[Mon Aug 10 2020 12:59:47 GMT-1100 (Samoa Standard Time)] /ping 96.59.11.224
+[Mon Aug 10 2020 13:00:05 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 96.59.11.224 1200
+80
+[Mon Aug 10 2020 13:00:33 GMT-1100 (Samoa Standard Time)] /ping 23.243.122.162
+[Mon Aug 10 2020 13:00:55 GMT-1100 (Samoa Standard Time)] /ping 96.59.11.224
+[Mon Aug 10 2020 13:02:11 GMT-1100 (Samoa Standard Time)] /ping 96.59.11.224
+[Mon Aug 10 2020 13:02:29 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 96.59.11.224 1200 80
+[Mon Aug 10 2020 13:04:19 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 137.25.150.4 1200 64324
+[Mon Aug 10 2020 13:05:03 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 137.25.150.4 1200 80
+[Mon Aug 10 2020 13:06:06 GMT-1100 (Samoa Standard Time)] /ping 127.25.150.4
+[Mon Aug 10 2020 13:06:22 GMT-1100 (Samoa Standard Time)] /methods
+[Mon Aug 10 2020 13:06:44 GMT-1100 (Samoa Standard Time)] /ddos kraken udp 137.25.150.4 1200 80
+[Mon Aug 10 2020 13:10:25 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 52.3.99.107 1200 80
+[Mon Aug 10 2020 13:10:58 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 137.25.150.4 1200 80
+[Mon Aug 10 2020 13:11:37 GMT-1100 (Samoa Standard Time)] /tutorials
+[Mon Aug 10 2020 13:12:37 GMT-1100 (Samoa Standard Time)] /nmapsv 137.25.150.4 64324
+[Mon Aug 10 2020 13:13:18 GMT-1100 (Samoa Standard Time)] /nmapresult 137.25.150.4 64324
+[Mon Aug 10 2020 13:14:13 GMT-1100 (Samoa Standard Time)] /ping 137.25.150.4
+[Mon Aug 10 2020 13:24:13 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 108.216.234.70 1200 80
+[Mon Aug 10 2020 13:24:30 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 72.213.220.133 1200 80
+[Mon Aug 10 2020 13:24:49 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 72.213.220.133 1200 80
+[Mon Aug 10 2020 13:25:40 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 174.73.25.186 1200 80
+[Mon Aug 10 2020 13:26:06 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 68.11.81.52 1200 80
+[Mon Aug 10 2020 13:26:45 GMT-1100 (Samoa Standard Time)] /ping 108.216234.70
+[Mon Aug 10 2020 13:27:02 GMT-1100 (Samoa Standard Time)] /ping 108.216.234.70
+[Tue Aug 11 2020 12:45:45 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 172.112.104.186 1200 80
+[Tue Aug 11 2020 12:47:03 GMT-1100 (Samoa Standard Time)] /ping 172.112.104.186
+[Tue Aug 11 2020 17:00:04 GMT-1100 (Samoa Standard Time)] /plan
+[Wed Aug 12 2020 08:09:03 GMT-1100 (Samoa Standard Time)] /tutorial
+[Wed Aug 12 2020 08:11:41 GMT-1100 (Samoa Standard Time)] /ippuller
+[Wed Aug 12 2020 08:12:49 GMT-1100 (Samoa Standard Time)] /ipsniffer
+[Wed Aug 12 2020 08:13:40 GMT-1100 (Samoa Standard Time)] /commands
+[Wed Aug 12 2020 08:15:36 GMT-1100 (Samoa Standard Time)] /tr4p
+[Wed Aug 12 2020 08:17:16 GMT-1100 (Samoa Standard Time)] /gravity
+[Wed Aug 12 2020 08:17:20 GMT-1100 (Samoa Standard Time)] /grabify
+[Wed Aug 12 2020 08:24:53 GMT-1100 (Samoa Standard Time)] /iplogger
+[Wed Aug 12 2020 08:52:30 GMT-1100 (Samoa Standard Time)] /accounts
+[Wed Aug 12 2020 08:52:41 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 12 2020 17:54:04 GMT-1100 (Samoa Standard Time)] /vpn
+[Thu Aug 13 2020 16:51:35 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 54.245.72.5 1200 80
+[Thu Aug 13 2020 16:51:35 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 13 2020 16:52:22 GMT-1100 (Samoa Standard Time)] /plan
+[Thu Aug 13 2020 16:52:41 GMT-1100 (Samoa Standard Time)] /ping 54.245.72.5
+[Thu Aug 13 2020 16:53:29 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 192.168.1.45 1200 80
+[Thu Aug 13 2020 16:53:29 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 13 2020 17:05:49 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 104.255.107.132 1200 80
+[Thu Aug 13 2020 17:05:49 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 13 2020 17:07:07 GMT-1100 (Samoa Standard Time)] /ping 104.255.107.132
+[Sat Aug 15 2020 20:33:06 GMT-1100 (Samoa Standard Time)] /plan
+[Sat Aug 15 2020 20:36:03 GMT-1100 (Samoa Standard Time)] /checkservers
+[Sat Aug 15 2020 20:40:24 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 98.145.9.120 1200 80
+[Sat Aug 15 2020 20:40:24 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sat Aug 15 2020 20:40:51 GMT-1100 (Samoa Standard Time)] /ping 98.145.9.120
+[Sat Aug 15 2020 20:41:11 GMT-1100 (Samoa Standard Time)] /ping 98.145.9.120
+[Sat Aug 15 2020 20:41:27 GMT-1100 (Samoa Standard Time)] /methods
+[Sat Aug 15 2020 20:42:09 GMT-1100 (Samoa Standard Time)] /ddos godzilla udp 98.145.9.120 1200
+80
+[Sat Aug 15 2020 20:42:46 GMT-1100 (Samoa Standard Time)] /ping 98.145.9.120
+[Sat Aug 15 2020 20:47:42 GMT-1100 (Samoa Standard Time)] /checkservers
+[Sat Aug 15 2020 20:48:21 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 98.145.9.120 1200 80
+[Sat Aug 15 2020 20:48:21 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Sat Aug 15 2020 20:48:54 GMT-1100 (Samoa Standard Time)] /ping 98.145.9.120
+[Tue Aug 18 2020 17:50:44 GMT-1100 (Samoa Standard Time)] /plan
+[Wed Aug 19 2020 06:39:08 GMT-1100 (Samoa Standard Time)] /ip puller
+[Wed Aug 19 2020 06:39:20 GMT-1100 (Samoa Standard Time)] /ip sniffer
+[Wed Aug 19 2020 06:41:12 GMT-1100 (Samoa Standard Time)] /sniffer
+[Wed Aug 19 2020 06:41:53 GMT-1100 (Samoa Standard Time)] /phish playstation
+[Wed Aug 19 2020 06:45:15 GMT-1100 (Samoa Standard Time)] /sniffer
+[Wed Aug 26 2020 12:22:36 GMT-1100 (Samoa Standard Time)] /ps4code

@@ -1,0 +1,91 @@
+unauto.sh	       txt.txt
+ check2.txt	lib		   start.sh	       users
+ checkip.sh    'message (5).txt'   storm.py
+root@hack02:~/bot#
+pwd
+/root/bot
+root@hack02:~/bot#
+ls -la
+total 157980
+drwxrwxrwx  14 root root      4096 Aug 27 20:52	 .
+drwx------  52 root root     28672 Aug 27 23:21	 ..
+drwxrwxrwx   2 root root      4096 Aug 27 21:33	 accounts
+-rwxrwxrwx   1 root root	94 Aug 22 06:17	 adduser.txt
+-rwxrwxrwx   1 root root     13406 Jul	1 08:21	 allow.txt
+-rwxrwxrwx   1 root root       256 Jun 10 03:27	 apis.txt
+-rwxrwxrwx   1 root root	30 Aug 27 13:01	 arg.txt
+-rwxrwxrwx   1 root root      5940 Jul	9 23:06	 autoplans.py
+-rw-r--r--   1 root root     24191 Aug	2 04:48	 backup1.sql
+-rwxrwxrwx   1 root root    185500 Jul 24 05:31	 bak
+-rwxrwxrwx   1 root root	93 Jun	1 19:23	 bak2
+-rwxrwxrwx   1 root root	94 Jul 17 16:46	 besside.log
+-rwx------   1 root root    111512 Aug 17 12:41	 beta.js
+-rwxrwxrwx   1 root root       437 Aug 22 06:05	 block.txt
+-rwxrwxrwx   1 root root      6348 Jul	9 23:07	 body.txt
+-rwx------   1 root root    168672 Aug 17 12:10	 bot.bak
+-rwx------   1 root root    129901 Aug 27 23:23	 bot.js
+-rwxrwxrwx   1 root root      5940 Jul	9 22:17	 bot.sql
+-rw-r--r--   1 root root      1408 Aug 26 19:45	 bots.txt
+-rwxrwxrwx   1 root root	60 Jun 17 16:04	 check1.txt
+-rwxrwxrwx   1 root root	63 Jun 17 16:04	 check2.txt
+-rwxrwxrwx   1 root root       251 Jul 11 04:51	 checkip.sh
+-rwxrwxrwx   1 root root	95 Jun 10 03:11	 check.sh
+-rwxrwxrwx   1 root root       831 Aug 15 05:04	 clean.sh
+drwxrwxrwx   2 root root      4096 Jun	4 19:21	 commands
+-rwxrwxrwx   1 root root	96 Aug 23 03:59	 config.json
+-rwxrwxrwx   1 root root      3726 May 25 02:58	 crackbot
+drwxrwxrwx   2 root root      4096 Jul	5 04:13	 events
+-rwxrwxrwx   1 root root	55 May	2 05:19	 fix.sh
+-rwxrwxrwx   1 root root     31245 Jun 30 13:03	 geckodriver.log
+-rwxrwxrwx   1 root root       195 Jul 29 03:47	 getbots.sh
+-rwxrwxrwx   1 root root      2006 Aug 27 06:49	 godzilla.txt
+drwxrwxrwx   7 root root      4096 Jul 11 01:52	 hacks
+-rwxrwxrwx   1 root root	80 Jun 30 00:23	 hitlist.txt
+-rwxrwxrwx   1 root root 154287891 Jul 17 22:33	 hydra.restore
+-rwxrwxrwx   1 root root       614 Aug 19 14:33	 info.txt
+-rwxrwxrwx   1 root root      1070 Aug 21 14:46	 keys.txt
+-rwxrwxrwx   1 root root	58 Aug 27 06:49	 kraken.txt
+-rwxrwxrwx   1 root root       198 Aug	8 20:20	 lag1.sh
+-rwxrwxrwx   1 root root       118 Jul 13 22:26	 lag.sh
+drwxrwxrwx   5 root root      4096 Jul	5 04:12	 lib
+-rwxrwxrwx   1 root root      2580 Jun 12 07:01 'message (5).txt'
+-rwxrwxrwx   1 root root      6092 Jun 12 08:33 'message (7).txt'
+drwxr-xr-x   7 root root      4096 Jul 31 15:09	 moneybot
+-rw-r--r--   1 root root   6095494 Jul 24 22:13	 moneybot.rar
+drwxrwxrwx  10 root root      4096 Jul 31 15:07	 muted
+drwxrwxrwx 277 root root     12288 Jul	9 22:40	 node_modules
+-rwxrwxrwx   1 root root	62 Jul	7 14:26	 Owner1.sh
+-rwxrwxrwx   1 root root       105 Jul 26 16:07	 Owner.sh
+-rwxrwxrwx   1 root root    118277 Jul	7 12:24	 package-lock.json
+-rwxrwxrwx   1 root root       459 Jun	8 21:20	 passwd.py
+-rwxrwxrwx   1 root root	76 Aug	2 06:41	 phishusers.txt
+-rwxrwxrwx   1 root root       275 Jun 22 07:52	 ping.txt
+-rwxrwxrwx   1 root root       166 May	3 16:10	 poop.txt
+-rwxrwxrwx   1 root root	35 Jul	8 21:30	 proccessed.txt
+-rw-r--r--   1 root root      2719 Aug 21 02:48	 pwnInfect.sh
+-rwxrwxrwx   1 root root       127 Aug 26 10:03	 qbot.sh
+-rwxrwxrwx   1 root root       522 Aug 26 10:03	 runattack.sh
+-rwxrwxrwx   1 root root       538 Jul 27 21:48	 runattack.sh.save
+-rwxrwxrwx   1 root root	52 Jul	8 21:15	 runauto.sh
+-rwxrwxrwx   1 root root       103 Apr 13 05:14	 start.sh
+-rwxrwxrwx   1 root root       891 Apr 24 14:04	 storm.py
+-rw-r--r--   1 root root	38 Aug 27 02:54	 suggestedips.txt
+drwxrwxrwx   2 root root      4096 Jun 10 20:42	 temp
+-rwxrwxrwx   1 root root	35 Jul	9 23:07	 temp777.txt
+-rwxrwxrwx   1 root root	15 Jul	8 21:30	 temp7.txt
+-rwxrwxrwx   1 root root	 0 Jul	8 21:30	 temp8.txt
+-rwxrwxrwx   1 root root       157 Jun 17 15:29	 temp.js
+-rwxr-xr-x   1 root root       185 Aug 13 02:55	 temp.sh
+-rwxrwxrwx   1 root root	 0 Jun 22 08:58	 temp.txt
+drwxrwxrwx   2 root root      4096 Aug 27 23:23	 terminal
+-rwxrwxrwx   1 root root       217 Jun 17 13:53	 test1.sh
+-rwxrwxrwx   1 root root     56528 Jul 11 22:16	 testdisk.log
+-rwx------   1 root root     14657 Jul 28 08:42	 test.js
+-rwxrwxrwx   1 root root	74 Jun 11 03:09	 test.json
+-rw-r--r--   1 root root	24 Aug 12 23:40	 test.py
+-rwxrwxrwx   1 root root	30 Jul 11 13:43	 test.txt
+drwxrwxrwx  16 root root      4096 Jul	5 04:13	 thirdparty
+-rwxrwxrwx   1 root root      8317 Jun	8 18:36	 TR4PQU1D.ovpn
+-rwxrwxrwx   1 root root       103 Jun 22 09:15	 txt.txt
+drwxrwxrwx   2 root root    180224 Aug 27 22:12	 users
+root@hack02:~/bot#

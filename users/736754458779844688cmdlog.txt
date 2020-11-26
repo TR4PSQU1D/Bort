@@ -1,0 +1,35 @@
+[Wed Aug 26 2020 02:43:47 GMT-1100 (Samoa Standard Time)] /toggle talk
+[Wed Aug 26 2020 02:44:49 GMT-1100 (Samoa Standard Time)] /toggletalk
+[Wed Aug 26 2020 02:45:46 GMT-1100 (Samoa Standard Time)] /toggletalk
+[Wed Aug 26 2020 02:52:44 GMT-1100 (Samoa Standard Time)] /ping 1.1.1.1
+[Wed Aug 26 2020 02:52:57 GMT-1100 (Samoa Standard Time)] /ping 8.8.8.8
+[Wed Aug 26 2020 02:55:45 GMT-1100 (Samoa Standard Time)] /ping 8.8.8.8
+[Wed Aug 26 2020 03:10:49 GMT-1100 (Samoa Standard Time)] /ddos kraken udp 1.1.1.1 1800
+[Wed Aug 26 2020 03:16:30 GMT-1100 (Samoa Standard Time)] /methods
+[Wed Aug 26 2020 03:22:14 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 26 2020 03:32:52 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 76.120.187.193 10800 51
+[Wed Aug 26 2020 04:38:09 GMT-1100 (Samoa Standard Time)] /info
+[Wed Aug 26 2020 05:32:34 GMT-1100 (Samoa Standard Time)] /methods
+[Wed Aug 26 2020 05:37:01 GMT-1100 (Samoa Standard Time)] /meth
+[Wed Aug 26 2020 05:37:10 GMT-1100 (Samoa Standard Time)] /ping 164.132.200.112
+[Wed Aug 26 2020 05:40:10 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh 164.132.200.112 3389 15
+[Wed Aug 26 2020 05:40:38 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh 164.132.200.112 15 3389
+[Wed Aug 26 2020 05:41:49 GMT-1100 (Samoa Standard Time)] /ddos kraken ovh 164.132.200.112 15 3389
+[Wed Aug 26 2020 05:41:49 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Wed Aug 26 2020 05:42:00 GMT-1100 (Samoa Standard Time)] /ping 164.132.200.112
+[Wed Aug 26 2020 05:42:11 GMT-1100 (Samoa Standard Time)] /ping 164.132.200.112
+[Wed Aug 26 2020 06:17:11 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 26 2020 07:33:51 GMT-1100 (Samoa Standard Time)] /methods
+[Wed Aug 26 2020 09:24:58 GMT-1100 (Samoa Standard Time)] /plan
+[Thu Aug 27 2020 01:00:37 GMT-1100 (Samoa Standard Time)] /plan <@!267652543608258571>
+[Thu Aug 27 2020 02:15:02 GMT-1100 (Samoa Standard Time)] /plan
+[Thu Aug 27 2020 03:34:01 GMT-1100 (Samoa Standard Time)] /status
+[Thu Aug 27 2020 03:34:13 GMT-1100 (Samoa Standard Time)] /status
+[Thu Aug 27 2020 03:34:31 GMT-1100 (Samoa Standard Time)] /info
+[Thu Aug 27 2020 03:35:36 GMT-1100 (Samoa Standard Time)] /check er
+[Thu Aug 27 2020 03:35:41 GMT-1100 (Samoa Standard Time)] /checknet
+[Thu Aug 27 2020 03:36:01 GMT-1100 (Samoa Standard Time)] /serverinfo
+[Thu Aug 27 2020 03:36:54 GMT-1100 (Samoa Standard Time)] /dbcount
+[Thu Aug 27 2020 03:37:43 GMT-1100 (Samoa Standard Time)] /plan
+[Thu Aug 27 2020 03:42:01 GMT-1100 (Samoa Standard Time)] /iplogger
+[Thu Aug 27 2020 20:09:59 GMT-1100 (Samoa Standard Time)] /plan

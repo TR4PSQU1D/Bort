@@ -1,0 +1,366 @@
+/prices
+/plans
+/help
+/dbadd SANTA
+/ping 80.213.194.139
+/bugbounty
+/plans
+/ping 198.251.83.99
+/ping 198.251.83.99
+/ping 70000 bytes 1.1.1.1
+/ping 70000 bytes 96.249.145.44
+/ping 96.249.145.44
+/checkip 96.249.145.44
+/check
+/checkip 80.213.194.139
+/ping 86.172.7.180
+/plans
+/help
+/dbshow
+/dbshow
+/help
+/help
+/sms +1 414 481 8030
+/methods
+/tr4p
+/phish site
+/ping 72.5.195.126
+/ping 72.5.195.126
+/ping 72.5.195.126
+/ping 72.5.195.126
+/ping 76.22.32.254
+/help
+/server info
+/lag 76.22.32.254
+/lag udp 76.22.32.254 10 600 2 53
+/lag udp 76.22.32.254 10 600 2 53
+/lag udp 76.22.32.254 10 600 2 53
+/help
+/DDos 1 UDP 76.22.32.254 3600
+/serverinfo
+/methods
+/DDos Kraken UDP 76.22.32.254 3600
+/ping 76.22.32.254
+/phisoptions
+/ddos kraken 73.51.103.9 2000
+/ping 73.51.103.9
+/ddos kraken UDP 73.51.103.9 2000
+/ping 73.51.103.9
+/ping 73.51.103.9
+/ping 73.51.103.9
+/sms 929-289-8961
+/tr4p
+/lag kraken udp 68.161.210.10
+/lag udp 68.161.210.10 10
+/lag Udp 75.38.20.31 10 60
+/lag UDP 75.38.20.31 10 60
+/lag udp 75.38.20.31 10 60
+/DDos kraken UDP 117.27.239.28 120
+/DDos Godzilla UDP 117.27.239.28 60
+/DDos Godzilla UDP 75.38.20.31 30
+/ddos godzilla UDP 75.188.150.51 500
+/Ddos godzilla UDP 75.188.150.51 120
+/lag udp 75.38.20.31 1 60
+/DDos Kraken Squid UDP 98.208.12.116 900
+/DDos Kraken UDP 98.208.12.116 900
+/DDos Godzilla UDP 68.99.100.117 120
+/DDos Kraken STD UDP 68.99.100.117 60
+/DDos Kraken STD 68.99.100.117 60
+/DDos Kraken UDP 98.208.12.116 800
+/DDos Kraken Squid UDP 75.38.20.31 500 53
+/DDos Kraken Squid 75.38.20.31 500 53
+/DDos Godzilla UDP 76.114.235.228 120
+/tr4p
+/ping 76.114.235.228
+/ping 75.38.20.31
+/DDos Godzilla Squid 96.242.117.45 60 53
+/DDos Godzillz UDP 96.242.117.45 60 53
+/DDos Godzilla UDP 96.242.117.45 60 53
+/methods
+/ddos kraken squid 96.242.117.45 600 53
+/ddos godzilla ack 54.193.68.36 120
+/ddos godzilla VSE 54.193.68.36 120
+/ddos kraken squid 96.242.117.45 3600
+/ping 96.242.117.45
+/tr4p
+/claim TRHr1BcRdr1E5JYf8onL6VefUc5Q6O18dAVHbGogiP0FkS2Us2
+/ddos kraken squid 96.242.117.45 3600
+/ddos godzilla udp 96.242.117.45 120 53
+/methods
+/ddos kraken squid 71.239.123.240 600 53
+/ddos godzilla udp 96.242.117.45 120 53
+/ddos godzilla udp 103.95.221.188 120
+/ddos godzilla udp 96.242.117.45 120 53
+/ddos godzilla udp 96.242.117.45 120 53
+/ddos godzilla std 54.153.82.151 120 9009
+/ddos godzilla vse 54.153.82.151 120 9009
+/ddos godzilla vse 54.153.82.151 120 9009
+/ddos kraken UDP 24.171.87.22 3600 53
+/tr4p
+/hitlist
+/ddos godzilla udp 71.222.180.209 120
+/ddos Godzilla udp 96.242.117.45 120 53
+/plan
+/DDos godzilla vse 117.27.239.28 120 53
+/DDos godzilla udp 117.27.239.28 120 53
+/tr4p
+/hitlist
+/methods
+/ddos kraken ovh-smash 198.50.182.130 500 443
+/tr4p
+/checkip 104.27.5.113
+/accounts
+/steamcode
+/vpn
+/vpn
+/checkservers
+/ddos godzilla udp 103.95.221.188 60 53
+/checkservers
+/ddos godzilla vse 13.52.99.253 120
+/ddos godzilla vse 13.52.99.253 12 9012
+/plans
+/iplogger
+/methods
+/ddos kraken ovh 198.50.182.130 300 443
+/ddos kraken ovh smash 198.50.182.130 300 443
+/ddos kraken ovh-smash 198.50.182.130 300 443
+/iplogger
+/ddos godzilla udp 101.71.138.9 120 53
+/ping 101.71.138.9
+/ddos godzilla vse 54.177.89.179 120 9015
+/ddos godzilla vse 54.176.129.9 120 9010
+/ddos kraken squid 103.95.221.188 120 53
+/ddos godzilla udp 103.95.221.188 60 80
+/ping 103.95.221.188
+/iplogger
+/ddos kraken squid 47.209.60.14 3600
+/ippuller
+/plans
+/ping 74.91.119.228
+
+Message @sadboy🖤🥀
+/ddos godzilla vse 74.91.119.228 120 80
+/iplogger
+/iplogger
+/ddos kraken squid 96.249.145.44 30 53
+/tr4p
+/ddos kraken squid 96.249.145.44 3600 53
+/ping 96.249.145.44
+/ddos godzilla vse 18.144.173.21 120 9020
+/ddos godzilla vse 18.144.173.21 120 9020
+/ddos godzilla 54.219.186.24 120 9006
+/ddos godzilla vse 54.219.186.24 120 9006
+/checkip 192.168.1.127
+/tr4p
+/ddos godzilla vse 47.209.60.14 120 62563
+/ddos godzilla vse 54.193.85.45 120 9005
+/ddos godzilla vse 13.56.236.207 9015
+/ddos godzilla vse 13.56.236.207 120 9015
+/ddos godzilla vse 128.116.25.88 120 61832
+/methods
+/ddos kraken vse 128.116.25.88 2000 61832
+/ddos godzilla vse 128.116.25.88 120 61832
+/ddos godzilla vse 3.101.91.189 120 9004
+/ddos godzilla vse 128.116.56.92 120 52034
+/ddos godzilla std 101.71.138.9 120 53
+/ddos kraken std 98.118.115.235 3600 80
+/spotify
+/ddos kraken ovh-smash 198.50.182.130 120 443
+/ddos kraken udp 103.95.221.188 120 80
+/ddos kraken squid 96.249.145.44 3600 80
+/ddos godzilla vse 103.95.221.188 120 53
+/ddos godzilla vse 103.95.221.188 120 53
+/ddos kraken squid 96.242.117.45 768
+/ddos kraken squid 96.249.145.44 3600
+/ddos godzilla vse 54.241.73.185 120 9016
+/ddos godzilla vse 54.153.101.249 120 9022
+/ddos godzilla vse 54.176.3.219 120 9010
+/ddos godzilla vse 205.196.6.66 120 27040
+/ddos kraken squid 96.249.145.44 3600
+/checkserver
+/checkservers
+/iplogger
+/checkip 65.175.235.155
+/iplogger
+/ddos kraken squid 65.175.235.155 3600
+/ddos godzilla vse 52.53.126.10 120 9001
+/ddos godzilla vse 52.53.126.10 120 9001
+NEW
+/ddos godzilla vse 52.53.126.10 120 9001
+/ddos godzilla std 52.53.126.10 120 9001
+/getlog 305921615282307083
+/ddos godzilla vse 54.183.145.158 120 9010
+/iplogger
+/ddos godzilla vse 13.56.195.169 120 9058
+/ddos godzilla vse 54.193.39.222 120 9076
+/ddos godzilla vse 101.71.138.9 120
+/ddos godzilla vse 13.57.194.46 120 9055
+/iplogger
+/checkip !* lookup 24.231.51.251
+
+Message <#732549996645449858>
+/checkip 24.231.51.251
+/ddos godzilla vse 128.116.46.18 120 65490
+/ping 128.116.46.18
+/ping 76.110.175.47
+/ping 76.110.175.47
+/ddos kraken udp 76.110.175.47 3600 53
+/ddos godzilla udp 96.249.145.44 120
+/ddos kraken squid 96.249.145.44 30
+/ddos kraken squid 96.242.117.45 120
+/ddos godzilla std 117.27.239.28 60
+/ddos godzilla udp 117.27.239.28 60 53
+/ping 1.1.1.1
+/ping 8.8.8.8
+/plan
+/ddos godzilla udp 117.27.239.28 120
+/ddos godzilla udp 13.57.229.99 120 9031
+/ddos godzilla vse 18.144.37.65 120 9020
+/ddos godzilla vse 18.144.37.65 120 9020
+/ddos godzilla vse 3.101.38.81 120 9018
+/ddos godzilla udp 117.27.239.28 60
+/ddos kraken udp 103.95.221.87 120
+/ddos godzilla vse 18.144.11.227 120 9037
+/ddos godzilla udp 103.95.221.87 120
+/ddos godzilla vse 54.215.49.111 120 9005
+/ddos godzilla vse 54.241.136.164 120 9008
+/ddos godzilla udp 108.250.182.235 120
+/getplan <@698451241667133502>
+/getplan <@418537208396644352>
+/ddos godzilla udp 103.95.221.87 120
+/claimkey TR2bkcWnQiU5J4uC36Dd9yfl6Fwnq8u02n7vUh8yQ99oB6UqHC
+/ddos godzilla vse 54.183.193.29 120 9009
+/claimkey TR2bkcWnQiU5J4uC36Dd9yfl6Fwnq8u02n7vUh8yQ99oB6UqHC
+/bugbounty
+/getplan <@718689080065654785>
+/ddos godzilla udp 103.95.221.87 120
+/iplogger
+/ddos godzilla udp 2.216.221.47 120
+/ddos godzilla udp 103.95.221.87 120
+/ddos godzilla udp 117.27.239.28 80
+/ddos godzilla udp 117.27.239.28 120
+/ddos kraken udp 117.27.239.28 600
+/ddos kraken udp 117.27.239.28 600
+/ddos godzilla udp 117.27.239.28 120
+/ddos godzilla udp 2.216.221.47 120
+/ddos godzilla udp <@!693853122728296538>  forever
+/tr4p
+/nmapsv 2.216.221.47
+/nmap 2.216.221.47
+/nmapresult
+/nmapresult
+/phishoptions
+/phish paypal
+/sms
+/serverinfo
+/ddos godzilla udp 103.95.221.87 90
+/ddos godzilla udp 101.71.138.9 120
+/getplan <@718689080065654785>
+/getlogs 718689080065654785
+/ddos godzilla udp 103.95.221.188 120
+/getplan <@569215642062815256>
+/getbots kraken
+/ddos godzilla udp 103.95.221.188 100 53
+/ddos godzilla udp 103.95.221.188 100
+/ddos godzilla udp 103.95.221.188 100
+/ddos kraken squid 104.181.19.129 3600
+/ddos godzilla udp 104.181.19.129 120
+/checkserver
+/servers
+/servers
+/checkservers
+/plan <@569215642062815256>
+/getplan <@569215642062815256>
+/getlog 569215642062815256
+/ddos godzilla xmas 198.50.182.130 120 443
+/generatekeys trial 1 
+If Only 😦
+/111
+/hitlist
+/getplan <@&730305820188737627>
+/getplan <@735243966659952841>
+/getplan <@692228920451399750>
+/lag squid 104.181.19.129 100 90 90
+/lag squid 104.181.19.129 100 90 80
+/serverinfo
+/ddos kraken udp 103.95.221.188 100
+/ddos godzilla udp 103.95.221.188 100
+/getplan <@509066161778851872>
+/checkip 104.45.182.50
+/plan
+/ddos godzilla 103.95.221.188 100
+/ddos godzilla udp 103.95.221.188 100
+/plans
+/ddos godzilla udp 101.71.138.9 120
+[Wed Jul 29 2020 19:14:55 GMT-1100 (Samoa Standard Time)] /plans
+[Thu Jul 30 2020 08:52:15 GMT-1100 (Samoa Standard Time)] /addplan <@692228920451399750>
+[Thu Jul 30 2020 08:52:34 GMT-1100 (Samoa Standard Time)] /checkservers
+[Thu Jul 30 2020 10:22:28 GMT-1100 (Samoa Standard Time)] /checkservers
+[Thu Jul 30 2020 10:22:31 GMT-1100 (Samoa Standard Time)] /checkservers
+[Thu Jul 30 2020 10:22:32 GMT-1100 (Samoa Standard Time)] /checkservers
+[Thu Jul 30 2020 10:22:34 GMT-1100 (Samoa Standard Time)] /checkservers
+[Thu Jul 30 2020 10:22:35 GMT-1100 (Samoa Standard Time)] /checkservers
+[Thu Jul 30 2020 10:22:35 GMT-1100 (Samoa Standard Time)] /checkservers
+[Thu Jul 30 2020 10:22:36 GMT-1100 (Samoa Standard Time)] /checkservers
+/checkservers
+[Thu Jul 30 2020 10:22:36 GMT-1100 (Samoa Standard Time)] /checkservers
+[Thu Jul 30 2020 10:22:38 GMT-1100 (Samoa Standard Time)] /checkservers
+/checkservers
+[Thu Jul 30 2020 10:22:40 GMT-1100 (Samoa Standard Time)] /checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+[Thu Jul 30 2020 10:22:42 GMT-1100 (Samoa Standard Time)] /checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers
+/checkservers

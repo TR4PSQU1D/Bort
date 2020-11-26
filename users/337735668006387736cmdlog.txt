@@ -1,0 +1,47 @@
+/get plan
+/getplan
+/changeplan <@337735668006387736>  3
+/tr4p
+/hitlist
+/plan
+/tr4p
+/plan
+/plan
+/plan
+[Tue Aug 04 2020 18:17:40 GMT-1100 (Samoa Standard Time)] /steamcode
+[Tue Aug 04 2020 18:18:29 GMT-1100 (Samoa Standard Time)] /steam code
+[Tue Aug 04 2020 18:18:35 GMT-1100 (Samoa Standard Time)] /claim 001
+[Tue Aug 04 2020 18:19:03 GMT-1100 (Samoa Standard Time)] /hitlist
+[Tue Aug 04 2020 18:19:46 GMT-1100 (Samoa Standard Time)] /steamcode
+[Tue Aug 04 2020 18:20:14 GMT-1100 (Samoa Standard Time)] /plan
+[Tue Aug 04 2020 18:25:09 GMT-1100 (Samoa Standard Time)] /tr4p
+[Tue Aug 04 2020 18:25:44 GMT-1100 (Samoa Standard Time)] /claim 0848
+[Tue Aug 04 2020 18:26:27 GMT-1100 (Samoa Standard Time)] /setkey premium 0848 99999
+[Tue Aug 04 2020 18:26:48 GMT-1100 (Samoa Standard Time)] /lag
+[Tue Aug 04 2020 18:26:56 GMT-1100 (Samoa Standard Time)] /sms
+[Tue Aug 04 2020 18:27:17 GMT-1100 (Samoa Standard Time)] /accounts
+[Tue Aug 04 2020 18:27:29 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Tue Aug 04 2020 18:29:24 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Tue Aug 04 2020 18:29:27 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Tue Aug 04 2020 18:29:28 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Tue Aug 04 2020 18:29:29 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Tue Aug 04 2020 18:29:29 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Tue Aug 04 2020 18:29:30 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Tue Aug 04 2020 18:29:30 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Tue Aug 04 2020 18:29:31 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Tue Aug 04 2020 18:29:36 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Tue Aug 04 2020 18:29:39 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Tue Aug 04 2020 18:29:40 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Tue Aug 04 2020 18:29:41 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Tue Aug 04 2020 18:29:41 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Tue Aug 04 2020 18:29:42 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Tue Aug 04 2020 18:29:43 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Tue Aug 04 2020 18:29:43 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Tue Aug 04 2020 18:29:44 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Tue Aug 04 2020 18:29:45 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Tue Aug 04 2020 18:29:46 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Tue Aug 04 2020 18:32:42 GMT-1100 (Samoa Standard Time)] /methods
+[Tue Aug 04 2020 18:32:58 GMT-1100 (Samoa Standard Time)] /tr4p
+[Tue Aug 04 2020 18:33:04 GMT-1100 (Samoa Standard Time)] /lag
+[Tue Aug 04 2020 18:33:59 GMT-1100 (Samoa Standard Time)] /lag UDP 127.00.1 100 3 443
+[Tue Aug 04 2020 18:34:37 GMT-1100 (Samoa Standard Time)] /lag ack 127.00.1 100 3 443

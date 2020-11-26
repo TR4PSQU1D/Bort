@@ -1,0 +1,21 @@
+/lag udp 159.69.58.9 30 9987
+/ddos udp 159.69.58.9 30 9987
+/DDoS udp 159.69.58.9 30 9987
+/DDoS udp 136.243.89.200 30 9987
+/ddos godzilla udp 85.10.203.175 45 9987
+/ddos kraken udp 85.10.203.175 45 9987
+/ddos godzilla ack 116.203.208.166 45 25565
+/ddos godzilla ack 45.153.56.100 45 25565
+/ddos godzilla tcp 116.203.208.166 45 25565
+/ddos godzilla xmas 116.203.208.166 45 25565
+/ddos godzilla vse 116.203.208.166 45 25565
+/ddos kraken ack 116.203.208.166 45 25565
+/ddos kraken udp 213.109.161.182 30 9987
+/checkip 136.243.89.200
+/ddos squid 116.203.208.166 45 3356
+/ddos kraken squid 116.203.208.166 45 3356
+/ddos godzilla udp 136.243.89.200 60 4467
+/ddos kraken ovh-smash 51.68.37.232 45 4344
+/ddos kraken udp 213.133.109.29 60 3356
+/ddos godzilla udp 213.133.109.29 60 5233
+/ddos godzilla udp 45.153.56.100 45 1134

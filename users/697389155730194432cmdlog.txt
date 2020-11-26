@@ -1,0 +1,5 @@
+[Tue Aug 04 2020 17:55:47 GMT-1100 (Samoa Standard Time)] /ping 203.191.44.87
+[Tue Aug 04 2020 17:56:25 GMT-1100 (Samoa Standard Time)] /sms
+[Tue Aug 04 2020 17:57:18 GMT-1100 (Samoa Standard Time)] /sms (540) 769-7274
+[Tue Aug 04 2020 17:58:07 GMT-1100 (Samoa Standard Time)] /lag
+[Tue Aug 04 2020 17:58:20 GMT-1100 (Samoa Standard Time)] /lag

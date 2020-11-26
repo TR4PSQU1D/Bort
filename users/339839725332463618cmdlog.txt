@@ -1,0 +1,23 @@
+[Sat Aug 08 2020 16:29:39 GMT-1100 (Samoa Standard Time)] /spotify
+[Sat Aug 08 2020 16:29:56 GMT-1100 (Samoa Standard Time)] /accounts
+[Sat Aug 08 2020 16:30:03 GMT-1100 (Samoa Standard Time)] /vpn
+[Sat Aug 08 2020 16:30:20 GMT-1100 (Samoa Standard Time)] /spotify
+[Sat Aug 08 2020 16:31:25 GMT-1100 (Samoa Standard Time)] /xboxcode
+[Sat Aug 08 2020 16:33:46 GMT-1100 (Samoa Standard Time)] /hulu
+[Sat Aug 08 2020 16:37:37 GMT-1100 (Samoa Standard Time)] /methods
+[Sat Aug 08 2020 16:40:16 GMT-1100 (Samoa Standard Time)] /ddos
+[Sat Aug 08 2020 16:41:39 GMT-1100 (Samoa Standard Time)] /serverstatus
+[Sat Aug 08 2020 16:41:46 GMT-1100 (Samoa Standard Time)] /plan
+[Sat Aug 08 2020 16:42:29 GMT-1100 (Samoa Standard Time)] /serverinfo
+[Sat Aug 08 2020 16:43:43 GMT-1100 (Samoa Standard Time)] /Kraken udp 74.74.74.7 200 80
+[Sat Aug 08 2020 16:44:36 GMT-1100 (Samoa Standard Time)] /giphy checkservers
+[Sat Aug 08 2020 16:44:47 GMT-1100 (Samoa Standard Time)] /sms
+[Sat Aug 08 2020 16:45:03 GMT-1100 (Samoa Standard Time)] /sms
+[Sat Aug 08 2020 16:45:21 GMT-1100 (Samoa Standard Time)] /claiam
+[Sat Aug 08 2020 16:45:26 GMT-1100 (Samoa Standard Time)] /claim
+[Sat Aug 08 2020 16:45:44 GMT-1100 (Samoa Standard Time)] /lag
+[Sat Aug 08 2020 16:45:57 GMT-1100 (Samoa Standard Time)] /lag
+[Sat Aug 08 2020 16:46:43 GMT-1100 (Samoa Standard Time)] /lag udp 74.74.74.7 400 400 5 80
+[Sat Aug 08 2020 16:47:17 GMT-1100 (Samoa Standard Time)] /?
+[Sat Aug 22 2020 02:57:43 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 71.139.35.105 1200
+[Sat Aug 22 2020 02:59:03 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 71.139.35.105 1200

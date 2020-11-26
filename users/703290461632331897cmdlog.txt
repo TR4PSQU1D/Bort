@@ -1,0 +1,25 @@
+[Sun Aug 16 2020 03:29:07 GMT-1100 (Samoa Standard Time)] /help
+[Sun Aug 16 2020 03:29:33 GMT-1100 (Samoa Standard Time)] /accounts
+[Sun Aug 16 2020 14:34:30 GMT-1100 (Samoa Standard Time)] /tr4p
+[Sun Aug 16 2020 14:34:50 GMT-1100 (Samoa Standard Time)] /accounts
+[Sun Aug 16 2020 14:35:01 GMT-1100 (Samoa Standard Time)] /spotify
+[Sun Aug 16 2020 14:54:41 GMT-1100 (Samoa Standard Time)] /vpn
+[Sun Aug 16 2020 14:54:47 GMT-1100 (Samoa Standard Time)] /mega
+[Sun Aug 16 2020 14:55:23 GMT-1100 (Samoa Standard Time)] /bugbounty
+[Sun Aug 16 2020 14:56:19 GMT-1100 (Samoa Standard Time)] /checkip 1.1.1.1
+[Sun Aug 16 2020 14:56:26 GMT-1100 (Samoa Standard Time)] /methods
+[Sun Aug 16 2020 15:00:18 GMT-1100 (Samoa Standard Time)] /ping 92.238.252.94
+[Sun Aug 16 2020 15:02:25 GMT-1100 (Samoa Standard Time)] /ping 23.105.171.179
+[Sun Aug 16 2020 15:02:29 GMT-1100 (Samoa Standard Time)] /DDoS Kraken udp 23.105.171.179 30
+[Sun Aug 16 2020 15:02:56 GMT-1100 (Samoa Standard Time)] /ddos
+[Sun Aug 16 2020 15:03:00 GMT-1100 (Samoa Standard Time)] /DDoS
+[Sun Aug 16 2020 15:03:32 GMT-1100 (Samoa Standard Time)] /ping 23.105.171.179
+[Sun Aug 16 2020 15:03:55 GMT-1100 (Samoa Standard Time)] /DDoS kraken udp 23.105.171.179 30
+[Sun Aug 16 2020 15:04:27 GMT-1100 (Samoa Standard Time)] /ping 23.105.171.179
+[Sun Aug 16 2020 15:05:48 GMT-1100 (Samoa Standard Time)] /serverinfo
+[Sun Aug 16 2020 15:06:25 GMT-1100 (Samoa Standard Time)] /checkip  23.105.171.179
+[Sun Aug 16 2020 15:07:46 GMT-1100 (Samoa Standard Time)] /methods
+[Sun Aug 16 2020 15:08:45 GMT-1100 (Samoa Standard Time)] /DDoS Godzilla ASCEND 23.105.171.179 40
+[Sun Aug 16 2020 15:08:52 GMT-1100 (Samoa Standard Time)] /DDoS Godzilla ASCEND 23.105.171.179 40 80
+[Sun Aug 16 2020 15:09:04 GMT-1100 (Samoa Standard Time)] /ping 23.105.171.179
+[Sun Aug 23 2020 00:52:51 GMT-1100 (Samoa Standard Time)] /methods

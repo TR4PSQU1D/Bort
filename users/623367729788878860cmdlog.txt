@@ -1,0 +1,48 @@
+/ping 5.65.86.33
+/ping 5.65.86.33
+/ping 5.65.86.33
+/ping 5.65.86.33
+/plan
+/spotify
+/spotify
+/accounts
+/Spotify
+/xboxcode
+/vpn
+/tr4p
+/plans
+/plans
+/nordvpn
+/plans
+/checkip 47.215.223.1
+/plans
+/blacklisted
+/phish Playstation
+/methods
+/claim TRU63AIglyQuSHOHqNrGUNA1D7xVMSQ4gDrxINgVyrMeQOocV6
+/claim TRU63AIglyQuSHOHqNrGUNA1D7xVMSQ4gDrxINgVyrMeQOocV6
+/claim TRmFAgFAMFTAqVEFaN9ouoKGgb0WfBzOWx0yK9V0bqnzlZBZx5
+/changeplan <@623367729788878860> 9999y
+/vpn
+/vpn
+/vpn
+/plans
+/claim TRz2Ohuf7e2bS63jCIo42wV2S0YTferBekBQIWW7tTUpblDZiw
+/plans
+/vpn
+/vpn
+/vpn
+/ping 51.89.208.90
+/concurrents
+[Thu Jul 30 2020 16:01:55 GMT-1100 (Samoa Standard Time)] /nmap 73.101.154.135
+[Thu Jul 30 2020 16:02:15 GMT-1100 (Samoa Standard Time)] /nmapresult
+[Thu Jul 30 2020 18:35:54 GMT-1100 (Samoa Standard Time)] /plan
+[Thu Jul 30 2020 18:53:22 GMT-1100 (Samoa Standard Time)] /methods
+[Thu Jul 30 2020 19:52:29 GMT-1100 (Samoa Standard Time)] /server
+[Thu Jul 30 2020 19:52:59 GMT-1100 (Samoa Standard Time)] /checkservers
+[Thu Jul 30 2020 19:59:31 GMT-1100 (Samoa Standard Time)] /ddos Godzilla udp 47.134.15.220
+[Thu Jul 30 2020 20:01:12 GMT-1100 (Samoa Standard Time)] /ddos Kraken udp 47.134.15.220
+[Thu Jul 30 2020 20:04:03 GMT-1100 (Samoa Standard Time)] /ping 47.134.15.220
+[Fri Jul 31 2020 17:07:25 GMT-1100 (Samoa Standard Time)] /plan
+[Fri Jul 31 2020 19:29:42 GMT-1100 (Samoa Standard Time)] /getplan <@436299332703092740>
+[Sat Aug 01 2020 17:12:52 GMT-1100 (Samoa Standard Time)] /plan

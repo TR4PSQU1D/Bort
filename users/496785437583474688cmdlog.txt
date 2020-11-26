@@ -1,0 +1,13 @@
+[Sat Aug 08 2020 05:25:14 GMT-1100 (Samoa Standard Time)] /ping 199.115.163.193
+[Sat Aug 08 2020 05:25:48 GMT-1100 (Samoa Standard Time)] /checkip 199.115.163.193
+[Sat Aug 08 2020 05:27:18 GMT-1100 (Samoa Standard Time)] /checkip     98.10.171.249
+[Sat Aug 08 2020 16:44:28 GMT-1100 (Samoa Standard Time)] /checkip 104.153.105.173
+[Sat Aug 08 2020 16:46:56 GMT-1100 (Samoa Standard Time)] /ping IP_ADDRESS 104.153.105.173
+[Sat Aug 08 2020 16:47:55 GMT-1100 (Samoa Standard Time)] /ping IP_ADDRESS 199.115.163.193
+[Sat Aug 08 2020 16:48:26 GMT-1100 (Samoa Standard Time)] /info
+[Sat Aug 08 2020 16:48:38 GMT-1100 (Samoa Standard Time)] /accounts
+[Sat Aug 08 2020 16:51:18 GMT-1100 (Samoa Standard Time)] /sms 6085479449
+[Sat Aug 08 2020 16:51:26 GMT-1100 (Samoa Standard Time)] /sms 6085479449
+[Sat Aug 08 2020 17:21:08 GMT-1100 (Samoa Standard Time)] /bugbounty
+[Sat Aug 08 2020 17:24:37 GMT-1100 (Samoa Standard Time)] /DDoS {Godzilla} {udp} {    76.181.4.16} {600seconds} {350}
+[Thu Aug 13 2020 04:39:43 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 73.206.208.3

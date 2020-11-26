@@ -1,0 +1,31 @@
+/phish pornhub
+/tr4p
+/methods
+/ddos ack 74.74.74.3 30 dport=80
+/methods
+/methods
+/ovh 158.69.11.134 30 dport=80
+/ddos ovh 158.69.11.134 30 dport=61303
+/nuke
+/tr4p
+/tr4p
+/tr4p
+/tr4p
+/tr4p
+/tr4p
+/tr4p
+/tr4p
+/tr4p
+/tr4p
+/tr4p
+/tr4p
+/tr4p
+/tr4p
+/tr4p
+/tr4p
+/tr4p
+/tr4p
+/tr4p
+/tr4p
+/tr4p
+/tr4p

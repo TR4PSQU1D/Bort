@@ -1,0 +1,6 @@
+/accounts
+/spotify
+/vpn
+/DDoS Ovh-smash 8.8.8.8 30 dport=53
+/DDoS ack 8.8.8.8 30 53
+/DDoS tcp 45.141.247.232 50 21

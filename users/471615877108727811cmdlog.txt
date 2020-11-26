@@ -1,0 +1,9 @@
+[Mon Aug 24 2020 23:07:12 GMT-1100 (Samoa Standard Time)] /steamcode
+[Mon Aug 24 2020 23:09:13 GMT-1100 (Samoa Standard Time)] /accounts
+[Mon Aug 24 2020 23:09:32 GMT-1100 (Samoa Standard Time)] /steamcode
+[Wed Aug 26 2020 11:39:10 GMT-1100 (Samoa Standard Time)] /methods
+[Thu Aug 27 2020 03:18:09 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 45.248.77.188 10
+[Thu Aug 27 2020 03:18:09 GMT-1100 (Samoa Standard Time)] ATTACK ACCEPTED
+[Thu Aug 27 2020 03:19:06 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 45.248.77.188 30
+[Thu Aug 27 2020 03:19:31 GMT-1100 (Samoa Standard Time)] /ddos kraken squid 45.248.77.188 10
+[Thu Aug 27 2020 03:22:30 GMT-1100 (Samoa Standard Time)] /plans

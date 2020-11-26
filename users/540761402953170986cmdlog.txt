@@ -1,0 +1,9 @@
+/xboxcode
+/bugbounty
+/sms
+/phish SITE
+/methods
+/DDoS STD 103.95.221.2 60
+/DDoS STD 103.95.221.2 60
+/DDoS Godzilla STD 103.95.221.2 60 80
+/bugbounty

@@ -1,0 +1,4 @@
+/nuke
+/getbots
+/ping
+/http

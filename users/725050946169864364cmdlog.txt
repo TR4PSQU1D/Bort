@@ -1,0 +1,5 @@
+/ddos stdhex 73.221.147.115 100
+/getplan
+/help
+/lag
+/ban <@620611374317305866>

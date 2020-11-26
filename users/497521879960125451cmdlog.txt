@@ -1,0 +1,12 @@
+/lagstop
+/ddos
+/accounts
+/xboxcode
+/xboxcode
+/vpn
+/methods
+/hitlist
+/info
+/ping
+/ping 142.116.227.91
+/ping 184.160.2.205

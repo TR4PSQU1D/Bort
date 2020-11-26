@@ -1,0 +1,51 @@
+/vpn
+/vpn
+/tr4p
+/DDoS
+/methods
+/DDoS std 104.200.142.208  60 dport=80
+/run uname -a
+/lag
+/ping 108.237.124.13
+/ping 27.187.228.225
+/ping 37.187.228.225
+/tr4p
+/db @Smxcked
+#4534
+/ping 45.95.168.85
+/ping 108.237.124.13
+/ping 73.249.76.74
+/ping 73.249.76.74
+/ping 73.249.76.74
+/ping 73.249.76.74
+/PLAN
+/plans <@236510522206322690>
+/ping 178.142.242.179
+/ping 185.244.151.58
+/ping 74.12.128.146
+/ping 24.190.34.8
+/ping 73.206.54.56
+/ping 173.25.65.109
+/ping 173.32.52.251
+/ping 74.12.128.146
+/ping 34.217.12.179
+/ping 73.130.248.136
+/ping 74.74.74.3
+/ping 74.74.74.3
+/tr4p
+/hulu
+/bugbounty
+/accounts
+/spotify
+/hulu
+/vpn
+/steamcode
+/help
+/xboxcode
+/steamcode
+/steamcode
+/steamcode
+/steamcode
+/steamcode
+/getplan <@236510522206322690>
+/hitlist

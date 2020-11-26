@@ -1,0 +1,13 @@
+/methods
+/ddos kraken squid 162.214.117.123 120 80
+/ddos godzilla squid 162.214.117.123 120 80
+/ddos kraken std 162.214.117.123 120 80
+/ddos kraken std 162.214.117.123 120 80
+/ddos kraken std 74.74.74.78 120 80
+/ddos kraken std 45.49.97.228 1000 80
+/ddos kraken std 45.49.97.228 120 80
+/ddos kraken std 45.49.97.228 120 80
+/iplogger
+/ddos kraken vse 73.58.218.126 120 80
+/ddos kraken squid 74.74.74.78
+/ddos kraken squid 74.74.74.78 120 80

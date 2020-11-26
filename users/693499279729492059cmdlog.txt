@@ -1,0 +1,13 @@
+/ping 24.243.50.159
+/checkip 90.216.19.150
+/ddos 90.216.19.150
+/ddos {skids} {LDAP} {90.216.19.150} {500} {80}
+/ddos {skids} {UDP} {90.216.19.150} {500} {80}
+/skid
+/nuts
+/squid net bot
+/smd
+/squid
+/<#726141027123068968>
+/sms
+[Thu Jul 30 2020 14:46:19 GMT-1100 (Samoa Standard Time)] /ping 76.211.202.63

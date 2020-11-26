@@ -1,0 +1,16 @@
+[Thu Jul 30 2020 21:59:59 GMT-1100 (Samoa Standard Time)] /Spotify
+[Thu Jul 30 2020 22:00:05 GMT-1100 (Samoa Standard Time)] /mega
+[Thu Jul 30 2020 22:00:19 GMT-1100 (Samoa Standard Time)] /help
+[Thu Jul 30 2020 22:00:59 GMT-1100 (Samoa Standard Time)] /gen Spotify
+[Thu Jul 30 2020 22:01:52 GMT-1100 (Samoa Standard Time)] /spotify
+[Thu Jul 30 2020 22:02:00 GMT-1100 (Samoa Standard Time)] /Hulu
+[Thu Jul 30 2020 22:02:11 GMT-1100 (Samoa Standard Time)] /nord
+[Thu Jul 30 2020 22:02:16 GMT-1100 (Samoa Standard Time)] /nordvpn
+[Thu Jul 30 2020 22:02:21 GMT-1100 (Samoa Standard Time)] /Netflix
+[Thu Jul 30 2020 22:09:23 GMT-1100 (Samoa Standard Time)] /vpn
+[Thu Jul 30 2020 22:09:58 GMT-1100 (Samoa Standard Time)] /vpn
+[Thu Jul 30 2020 22:54:47 GMT-1100 (Samoa Standard Time)] /roblox
+[Thu Jul 30 2020 22:55:03 GMT-1100 (Samoa Standard Time)] /plans
+[Thu Jul 30 2020 22:55:17 GMT-1100 (Samoa Standard Time)] /plan
+[Thu Jul 30 2020 22:55:23 GMT-1100 (Samoa Standard Time)] /plans
+[Thu Jul 30 2020 22:55:31 GMT-1100 (Samoa Standard Time)] /getplan

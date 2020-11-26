@@ -1,0 +1,6 @@
+/ping 23.122.51.92
+/ping IP_ADDRESS
+/ping IP_ADDRESS 23.122.51.92
+/sms +9183614002
+/ddos 23.122.51.92
+/tr4p

@@ -1,0 +1,35 @@
+/ddos
+/help
+/tr4p
+/methods
+/ddos 86.5.110.98 80 10
+/ddos
+/ddos xmas 86.5.110.98
+/methods
+/tr4p
+/accounts
+/vpn
+/mega
+/help
+/tr4p
+/plans
+/tr4p
+/ddos udp 86.5.110.98 10
+/tr4p
+/methods
+/ddos ovh 86.5.110.98 20 dport=80
+/tr4p
+/plan
+/checkip 86.5.110.98
+/phish site
+/ddos udpplain 4.4.4.4 4 dport=80
+/tr4p
+/info
+/ddos 86.5.110.98 10
+/methods
+/ddos udpplain 86.5.110.98 10
+/ddos udp 6.6.6.6 10
+/tr4p
+/accounts
+/steamcode
+/hulu

