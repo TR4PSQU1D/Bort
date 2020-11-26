@@ -441,7 +441,7 @@ function test(commanda1, runningBot, other, ida, idb, guildID) {
         var args2 = args.shift();
       }
       var response = args.join(' ');
-      var regex = /(rm)|>|<|&|\||(add)|(remove)|(203.132.95.52)|(193.228.91.12)|-|\$|\(|\)|\`|\*|;|\%|;/gi;
+      var regex = /(rm)|>|<|&|\||(add)|(remove)|(193.228.91.12)|-|\$|\(|\)|\`|\*|;|\%|;/gi;
       for (let i = 0; i < args.length; i++) {
         if (args[i].match(regex)) {
           console.log('found blacklisted item: ' + args[i]);
@@ -463,8 +463,6 @@ function test(commanda1, runningBot, other, ida, idb, guildID) {
           var args1 = args2.replace("|", "")
           var args2 = args1.replace("add", "")
           var args1 = args2.replace("remove", "")
-          var args2 = args1.replace("203.132.95.52", "")
-          var args1 = args2.replace("193.228.91.12", "")
           var args2 = args1.replace("-", "")
           var args1 = args2.replace("$", "")
           var args2 = args1.replace("-", "")
