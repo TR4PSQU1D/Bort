@@ -139,38 +139,3 @@ Shit required:
   +--------------------+--------+-----------+----------+-------+---------------+----------------+
 ```
 
-### Pinger IP logger
-
-Setup on centos 6
-Follow the installation for discord.sh
-
-It will send the logged ips to a webhook in a designated channel that bort will listen in.
-You can set the channel id down near the bottom of bot.js.
-
-
-Defence IP Tables [Access the servers from VNC]
-```
-iptables -A INPUT -p icmp --icmp-type echo-request -j LOG --log-prefix "PING_1: "
-iptables -A INPUT -p icmp --icmp-type echo-request -j ACCEPT
-iptables -A OUTPUT -p icmp  --icmp-type echo-request -j ACCEPT
-iptables -A INPUT -p tcp -s IP_TO_CONTROL_FROM --dport 5900 -j ACCEPT
-iptables -I OUTPUT -o eth0 -d 0.0.0.0/0 -j ACCEPT
-iptables -I INPUT -i eth0 -m state --state ESTABLISHED,RELATED -j ACCEPT
-iptables -A INPUT -p tcp -j DROP
-iptables -A INPUT -p udp -j DROP
-```
-Run this script to keep it running
-```
-#!/bin/bash
-while true; do
-cat /var/log/messages | grep 'PING_1: ' | sed 's/.*SRC=//' | sed 's/ DST.*//' | tail -1 > .temp
-ip=$(cat .temp)
-if [[ $ip == *"."* ]]; then
-  echo $ip
-  sed -i "/$ip/d" /var/log/messages
-  service rsyslog restart
-  /root/discord.sh --text "VPS1 $ip"
-fi
-sleep 1
-done
-```
