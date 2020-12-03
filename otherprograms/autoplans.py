@@ -13,8 +13,8 @@ def run(cmd):
 
 
 # account credentials
-username = "benny.camos@gmail.com"
-password = "uguwnzdecettzniu"
+username = "@gmail.com"
+password = "ps"
 # create an IMAP4 class with SSL
 imap = imaplib.IMAP4_SSL("imap.gmail.com")
 # authenticate
